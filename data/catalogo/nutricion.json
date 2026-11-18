@@ -1564,5 +1564,50 @@
   "grasas": 8.36,
   "carbohidratos": 74.97,
   "fibra": 26.3
+ },
+ "portobello": {
+  "fdc_id": 169255,
+  "usda": "Mushrooms, portabella, raw",
+  "kcal": 22.0,
+  "proteinas": 2.11,
+  "grasas": 0.35,
+  "carbohidratos": 3.87,
+  "fibra": 1.3
+ },
+ "remolacha": {
+  "fdc_id": 169145,
+  "usda": "Beets, raw",
+  "kcal": 43.0,
+  "proteinas": 1.61,
+  "grasas": 0.17,
+  "carbohidratos": 9.56,
+  "fibra": 2.8
+ },
+ "queso feta": {
+  "fdc_id": 173420,
+  "usda": "Cheese, feta",
+  "kcal": 265.0,
+  "proteinas": 14.21,
+  "grasas": 21.49,
+  "carbohidratos": 3.88,
+  "fibra": 0.0
+ },
+ "queso azul": {
+  "fdc_id": 172175,
+  "usda": "Cheese, blue",
+  "kcal": 353.0,
+  "proteinas": 21.4,
+  "grasas": 28.74,
+  "carbohidratos": 2.34,
+  "fibra": 0.0
+ },
+ "ají molido": {
+  "fdc_id": 170932,
+  "usda": "Spices, pepper, red or cayenne",
+  "kcal": 318.0,
+  "proteinas": 12.01,
+  "grasas": 17.27,
+  "carbohidratos": 56.63,
+  "fibra": 27.2
  }
 }

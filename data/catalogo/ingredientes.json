@@ -1843,5 +1843,57 @@
   "spices|bay leaf",
   null,
   null
+ ],
+ "portobello": [
+  "verduras",
+  0,
+  [
+   "portobellos",
+   "hongos portobello"
+  ],
+  "mushrooms|portabella|raw",
+  85,
+  null
+ ],
+ "remolacha": [
+  "verduras",
+  0,
+  [
+   "remolachas"
+  ],
+  "beets|raw",
+  80,
+  136
+ ],
+ "queso feta": [
+  "huevos y lácteos",
+  0,
+  [
+   "feta"
+  ],
+  "cheese|feta",
+  null,
+  150
+ ],
+ "queso azul": [
+  "huevos y lácteos",
+  0,
+  [
+   "roquefort"
+  ],
+  "cheese|blue",
+  null,
+  135
+ ],
+ "ají molido": [
+  "condimentos y especias",
+  1,
+  [
+   "aji molido",
+   "pimiento rojo molido"
+  ],
+  "spices|pepper|red or cayenne",
+  null,
+  null
  ]
 }

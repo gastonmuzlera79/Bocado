@@ -117,6 +117,8 @@ caliente tibio tibia frio fria crudo cocido cocida cocidos cocidas
 mas menos poco poca un dos tres cuatro 1 2 3 4 5 6 7 8 9 10 12 15 20 30
 pure papas batatas ensalada verde arroz blanco fideos salsa criolla tomate barbacoa noisette asadas doradas
 horno grilladas vegetales verduras pan plato servir acompaña acompañá calabaza manzana papa
+finas finos gruesas gruesos medianas medianos chicas chicos grandes laminas medio pincelalas pincelalos pinceladas
+lavalas lavalos pelalas pelalos verduras cebollas batatas zapallitos
 """.split())
 
 

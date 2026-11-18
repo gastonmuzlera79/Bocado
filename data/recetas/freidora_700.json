@@ -16514,5 +16514,3011 @@
   "origen": "recetario",
   "origen_ref": "af-04-017",
   "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "zapallitos-rellenos-de-ricota",
+  "titulo": "Zapallitos rellenos de ricota",
+  "descripcion": "Zapallitos redondos con un relleno cremoso de ricota y su propia pulpa.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "zapallito redondo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "ricota",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí los zapallitos por la mitad, vacialos y picá la pulpa.",
+   "Mezclá la pulpa con la ricota, el queso, el ajo, sal y pimienta.",
+   "Rellená las mitades y cociná 12 minutos a 185 °C."
+  ],
+  "consejo": "Espinaca o champiñones picados en el relleno lo hacen más completo.",
+  "etiquetas": [
+   "verduras",
+   "rellenos",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-018",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "portobellos-rellenos-de-queso-crema",
+  "titulo": "Portobellos rellenos de queso crema",
+  "descripcion": "Hongos portobello rellenos con queso crema, ajo y perejil; sirven de entrada.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "portobello",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso untable",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "perejil",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Sacales el tallo a los hongos.",
+   "Mezclá el queso con el ajo, el perejil, sal y pimienta y rellenalos.",
+   "Rociálos con un poco de aceite y cociná 8 a 9 minutos a 180 °C."
+  ],
+  "consejo": "Nueces picadas o queso rallado por encima antes de cocinar.",
+  "etiquetas": [
+   "verduras",
+   "entradas",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-019",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "zanahorias-asadas-al-romero",
+  "titulo": "Zanahorias asadas al romero",
+  "descripcion": "Bastones de zanahoria con romero, dulces y perfumados.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "romero seco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las zanahorias en bastones y condimentalas con el aceite, el romero, sal y pimienta.",
+   "Cocinalas 10 a 11 minutos a 185 °C en una sola capa."
+  ],
+  "consejo": "Queso rallado o sésamo por encima al servir.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-020",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "coliflor-gratinada-con-crema",
+  "titulo": "Coliflor gratinada con crema",
+  "descripcion": "Coliflor al vapor cubierta de queso y crema, reconfortante y simple.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "coliflor",
+    "nota": "cocida al vapor",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "crema de leche",
+    "nota": "liviana",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la coliflor con la crema, sal y pimienta y pasala a un molde.",
+   "Cubrila con el queso.",
+   "Cociná 10 a 11 minutos a 185 °C, hasta dorar."
+  ],
+  "consejo": "Nuez moscada o pimentón le suman aroma.",
+  "etiquetas": [
+   "verduras",
+   "gratinados",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-021",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tomates-rellenos-de-queso-y-oregano",
+  "titulo": "Tomates rellenos de queso y orégano",
+  "descripcion": "Mitades de tomate gratinadas con queso y orégano, como entrada o guarnición.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "mozzarella",
+    "nota": "rallada, o queso rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí los tomates al medio y sacales las semillas.",
+   "Rellenalos con el queso, el orégano y un hilo de aceite; salpimentá.",
+   "Cociná 9 a 10 minutos a 180 °C, hasta gratinar."
+  ],
+  "consejo": "Albahaca fresca o aceitunas picadas al servir.",
+  "etiquetas": [
+   "verduras",
+   "entradas",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-022",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "acelga-salteada-con-ajo-y-limon",
+  "titulo": "Acelga salteada con ajo y limón",
+  "descripcion": "Hojas de acelga salteadas con ajo y limón, listas en minutos.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "acelga",
+    "nota": "hojas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Condimentá la acelga con el ajo, el aceite, sal y pimienta.",
+   "Cocinala 7 a 8 minutos a 180 °C, revolviendo una vez.",
+   "Terminá con el jugo de limón."
+  ],
+  "consejo": "Semillas de sésamo o girasol le dan textura.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-023",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "zucchini-relleno-de-avena-y-queso",
+  "titulo": "Zucchini relleno de avena y queso",
+  "descripcion": "Zucchini ahuecado con un relleno de avena, huevo y queso, sin harina.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": "grande",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí el zucchini a lo largo y sacale el centro.",
+   "Picá la pulpa y mezclala con la avena, el queso, el huevo y los condimentos.",
+   "Rellená y cociná 12 minutos a 185 °C."
+  ],
+  "consejo": "Espinaca picada en el relleno suma color.",
+  "etiquetas": [
+   "verduras",
+   "rellenos",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-024",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "morrones-asados-con-oregano",
+  "titulo": "Morrones asados con orégano",
+  "descripcion": "Tiras de morrón asadas con aceite de oliva, para guarnición o ensaladas.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "morrón rojo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá el morrón en tiras anchas.",
+   "Condimentalo con el aceite, el orégano, sal y pimienta.",
+   "Cocinalo 9 a 10 minutos a 190 °C, hasta que esté tierno."
+  ],
+  "consejo": "En un frasco cubierto de aceite se conservan para bruschettas.",
+  "etiquetas": [
+   "verduras",
+   "conservas",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-025",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "rodajas-de-berenjena-con-costra-de-avena",
+  "titulo": "Rodajas de berenjena con costra de avena",
+  "descripcion": "Berenjena empanada con avena y queso, crocante y sin fritura.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite en aerosol",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la berenjena en rodajas.",
+   "Pasalas por huevo batido y después por la avena mezclada con el queso y los condimentos.",
+   "Rociálas con aceite y cociná 10 a 11 minutos a 185 °C."
+  ],
+  "consejo": "Con salsa criolla o puré de calabaza.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "milanesas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-026",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "rosti-de-papa-y-queso",
+  "titulo": "Rösti de papa y queso",
+  "descripcion": "Discos de papa rallada con huevo y queso, base ideal para huevos o carnes.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "ralladas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite en aerosol",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Exprimí bien la papa rallada y mezclala con el huevo, el queso, sal y pimienta.",
+   "Formá discos chatos y rociálos con aceite.",
+   "Cocinalos 10 a 12 minutos a 185 °C."
+  ],
+  "consejo": "Con cebolla rallada en la mezcla quedan más sabrosos.",
+  "etiquetas": [
+   "papa",
+   "brunch",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-027",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cebollas-tiernas-al-vino-blanco",
+  "titulo": "Cebollas tiernas al vino blanco",
+  "descripcion": "Mitades de cebolla cocidas en vino blanco, dulces y suaves.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "chicas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "vaso",
+    "nombre": "vino blanco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las cebollas al medio y ponelas en un molde chico.",
+   "Sumá el vino, el aceite, sal y pimienta y tapá con aluminio agujereado.",
+   "Cociná 12 a 13 minutos a 180 °C."
+  ],
+  "consejo": "Acompañan carnes rojas o pescados.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-028",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "chips-de-batata-y-remolacha",
+  "titulo": "Chips de batata y remolacha",
+  "descripcion": "Láminas finas de batata y remolacha crocantes, como snack o guarnición.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "batata",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "remolacha",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal fina",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las verduras en láminas muy finas, con mandolina si tenés.",
+   "Condimentalas con el aceite y la sal.",
+   "Cocinalas 8 a 9 minutos a 180 °C en una sola capa, por tandas."
+  ],
+  "consejo": "Pimentón o curry les dan un toque especiado.",
+  "etiquetas": [
+   "snacks",
+   "verduras",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-029",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "verduras-mediterraneas-asadas",
+  "titulo": "Verduras mediterráneas asadas",
+  "descripcion": "Berenjena, zucchini, morrón y cebolla con orégano, para carnes blancas o arroces.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano y sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá todas las verduras en cubos medianos y condimentalas.",
+   "Cocinalas 12 a 13 minutos a 185 °C, revolviendo a la mitad."
+  ],
+  "consejo": "Unas gotas de limón o aceto al servir.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-030",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-a-la-crema-con-cebolla",
+  "titulo": "Papas a la crema con cebolla",
+  "descripcion": "Rodajas de papa con cebolla y crema, en una versión más liviana.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "crema de leche",
+    "nota": "liviana, o yogur natural",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en rodajas finas y la cebolla en pluma.",
+   "Mezclalas con la crema y los condimentos y pasalas a un molde.",
+   "Tapá con aluminio agujereado y cociná 12 minutos a 185 °C.",
+   "Destapá, espolvoreá el queso y dorá 3 minutos más."
+  ],
+  "consejo": "Quedan bien con carnes al horno.",
+  "etiquetas": [
+   "papa",
+   "guarnición",
+   "cremoso"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-031",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "calabaza-asada-con-miel-y-romero",
+  "titulo": "Calabaza asada con miel y romero",
+  "descripcion": "Cubos de calabaza agridulces, dorados y perfumados.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 300,
+    "unidad": "g",
+    "nombre": "calabaza",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "romero seco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Juntá todo en un bol.",
+   "Pasalo a la canasta o a un molde.",
+   "Cociná 12 a 13 minutos a 185 °C."
+  ],
+  "consejo": "Semillas de girasol o zapallo por encima.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-032",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "berenjenas-a-la-criolla",
+  "titulo": "Berenjenas a la criolla",
+  "descripcion": "Cubos de berenjena con cebolla, morrón, pimentón y orégano.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimentón, orégano, sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la berenjena en cubos y mezclala con la cebolla, el morrón y los condimentos.",
+   "Pasala a un molde tapado con aluminio.",
+   "Cociná 12 a 13 minutos a 185 °C."
+  ],
+  "consejo": "Un chorrito de vinagre o limón al final.",
+  "etiquetas": [
+   "verduras",
+   "clásico argentino",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-033",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "coliflor-con-salsa-de-queso",
+  "titulo": "Coliflor con salsa de queso",
+  "descripcion": "Coliflor cubierta de salsa blanca y queso gratinado.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "coliflor",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "fécula de maíz",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná la coliflor 5 minutos a 185 °C.",
+   "Calentá la leche con la fécula y los condimentos hasta que espese.",
+   "Cubrí la coliflor con la salsa y el queso y gratiná 5 minutos."
+  ],
+  "consejo": "Para una versión vegana, levadura nutricional en lugar de queso y bebida vegetal en lugar de leche.",
+  "etiquetas": [
+   "verduras",
+   "gratinados",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-034",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "rodajas-de-zucchini-al-ajo-y-limon",
+  "titulo": "Rodajas de zucchini al ajo y limón",
+  "descripcion": "Zucchini en rodajas con ajo y limón, fresco y rápido.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá el zucchini en rodajas y condimentalo con el ajo, el aceite, sal y pimienta.",
+   "Cocinalo 9 a 10 minutos a 185 °C, moviéndolo una vez.",
+   "Rociálo con el limón."
+  ],
+  "consejo": "Terminalo con hierbas frescas o cáscara de limón rallada.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-035",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "espinaca-gratinada-con-ricota",
+  "titulo": "Espinaca gratinada con ricota",
+  "descripcion": "Espinaca con ricota y queso gratinado, cremosa y nutritiva.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "ricota",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo y pasalo a un molde chico.",
+   "Cociná 10 minutos a 185 °C."
+  ],
+  "consejo": "Nueces o almendras picadas le dan crocancia.",
+  "etiquetas": [
+   "verduras",
+   "gratinados",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-036",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tomates-cherry-confitados",
+  "titulo": "Tomates cherry confitados",
+  "descripcion": "Tomates cherry asados lentamente, dulces y suaves.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "cherry",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí los tomates al medio y condimentalos.",
+   "Cocinalos 15 minutos a 170 °C, hasta que estén tiernos y arrugados."
+  ],
+  "consejo": "Guardados en aceite con un diente de ajo aguantan varios días; sirven para pastas y tostadas.",
+  "etiquetas": [
+   "verduras",
+   "conservas",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-037",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cebollas-rellenas-de-queso",
+  "titulo": "Cebollas rellenas de queso",
+  "descripcion": "Cebollas ahuecadas con relleno de queso y pan rallado, gratinadas.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 13,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "pan rallado",
+    "nota": "integral",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí las cebollas al medio y sacales el centro, dejando dos o tres capas.",
+   "Picá lo que sacaste y mezclalo con el queso, el pan rallado, el aceite y los condimentos.",
+   "Rellená y cociná 13 minutos a 185 °C."
+  ],
+  "consejo": "Perejil o tomillo en el relleno lo perfuman.",
+  "etiquetas": [
+   "verduras",
+   "rellenos",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-038",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "brocoli-con-limon-y-queso-rallado",
+  "titulo": "Brócoli con limón y queso rallado",
+  "descripcion": "Brócoli dorado terminado con limón y queso, para carnes blancas o pescados.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": "en ramitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Condimentá el brócoli con el aceite y la sal.",
+   "Cocinalo 8 minutos a 180 °C.",
+   "Agregá el limón y el queso antes de servir."
+  ],
+  "consejo": "Si lo gratinás 2 minutos con el queso arriba, queda dorado.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-039",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pure-de-batata-sin-olla",
+  "titulo": "Puré de batata sin olla",
+  "descripcion": "Batatas asadas enteras y pisadas, con dulzor natural.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "batata",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "o aceite",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná las batatas enteras 18 minutos a 185 °C, hasta que estén tiernas.",
+   "Pelalas y pisalas con la manteca, la miel y los condimentos."
+  ],
+  "consejo": "Una pizca de canela o jengibre le da otro perfil.",
+  "etiquetas": [
+   "batata",
+   "guarnición",
+   "purés"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-040",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "zucchinis-rellenos-de-pollo",
+  "titulo": "Zucchinis rellenos de pollo",
+  "descripcion": "Zucchinis con un relleno de pollo desmenuzado, huevo y queso.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": "medianos",
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "pollo",
+    "nota": "cocido y desmenuzado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí los zucchinis al medio y sacales el centro.",
+   "Picá la pulpa y mezclala con el pollo, el huevo, el queso y los condimentos.",
+   "Rellená y cociná 12 a 13 minutos a 185 °C."
+  ],
+  "consejo": "Le podés sumar perejil o un poco de curry al relleno.",
+  "etiquetas": [
+   "pollo",
+   "verduras",
+   "rellenos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-041",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "medias-berenjenas-a-la-napolitana",
+  "titulo": "Medias berenjenas a la napolitana",
+  "descripcion": "Berenjenas cortadas a lo largo, con salsa y queso gratinado.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí la berenjena a lo largo, hacé unos cortes en la pulpa y cocinala 6 minutos a 185 °C.",
+   "Cubrí cada mitad con salsa, queso y orégano.",
+   "Gratiná 4 a 5 minutos."
+  ],
+  "consejo": "Rodajas de tomate o jamón encima la completan.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "gratinados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-042",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "croquetas-de-espinaca-y-avena",
+  "titulo": "Croquetas de espinaca y avena",
+  "descripcion": "Croquetas verdes sin harina, para acompañar o comer con ensalada.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "cocida y escurrida",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite en aerosol",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Picá la espinaca y uníla con la avena, el huevo, el queso y los condimentos hasta tener una masa firme.",
+   "Formá unas 8 croquetas y rociálas con aceite.",
+   "Cociná 10 a 11 minutos a 185 °C."
+  ],
+  "consejo": "Cebolla o zanahoria rallada en la mezcla les suma sabor.",
+  "etiquetas": [
+   "verduras",
+   "croquetas",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-043",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-en-rodajas-con-aji-molido",
+  "titulo": "Papas en rodajas con ají molido",
+  "descripcion": "Rodajas gruesas de papa con ají molido y pimentón, con gusto a parrilla.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ají molido",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal gruesa",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en rodajas de 1 cm.",
+   "Condimentalas con el aceite, el ají, el pimentón y la sal.",
+   "Cocinalas 13 a 14 minutos a 190 °C, hasta que estén crocantes."
+  ],
+  "consejo": "Con chimichurri o una mayonesa casera.",
+  "etiquetas": [
+   "papa",
+   "guarnición",
+   "asado"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-044",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cebollas-caramelizadas-con-miel",
+  "titulo": "Cebollas caramelizadas con miel",
+  "descripcion": "Tiras de cebolla tiernas y doradas, para hamburguesas o carnes.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las cebollas en tiras finas.",
+   "Mezclalas con la miel, el aceite, sal y pimienta y pasalas a un molde.",
+   "Cociná 13 a 14 minutos a 180 °C, revolviendo un par de veces."
+  ],
+  "consejo": "Sobre hamburguesas o en sándwiches.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-045",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bastones-de-batata-al-pimenton",
+  "titulo": "Bastones de batata al pimentón",
+  "descripcion": "Bastones finos de batata crocantes, en lugar de papas fritas.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "batata",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las batatas en bastones finos.",
+   "Condimentalos con el aceite, el pimentón, sal y pimienta.",
+   "Cocinalos 12 a 13 minutos a 185 °C en una sola capa."
+  ],
+  "consejo": "Romero o ajo en polvo al servir.",
+  "etiquetas": [
+   "batata",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-046",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "zapallitos-con-costra-de-queso",
+  "titulo": "Zapallitos con costra de queso",
+  "descripcion": "Mitades de zapallito cubiertas con queso y pan rallado, bajas en carbohidratos.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "zapallito",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "pan rallado",
+    "nota": "integral",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí los zapallitos al medio y salpimentalos.",
+   "Mezclá el queso con el pan rallado y el aceite y cubrilos.",
+   "Cociná 11 a 12 minutos a 185 °C, hasta dorar."
+  ],
+  "consejo": "Hierbas frescas o limón al final.",
+  "etiquetas": [
+   "verduras",
+   "gratinados",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-047",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "verduras-asadas-criollas",
+  "titulo": "Verduras asadas criollas",
+  "descripcion": "Morrón, berenjena, cebolla y zucchini con orégano, para acompañar un asado.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón rojo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las verduras en cubos medianos y condimentalas.",
+   "Cocinalas 13 a 14 minutos a 185 °C, revolviendo una vez."
+  ],
+  "consejo": "Chimichurri o limón exprimido al servir.",
+  "etiquetas": [
+   "verduras",
+   "asado",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-048",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tomates-asados-con-oregano",
+  "titulo": "Tomates asados con orégano",
+  "descripcion": "Mitades de tomate asadas con aceite de oliva, dulces y con aroma a hierbas.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí los tomates al medio y sacales parte del jugo.",
+   "Condimentalos con el aceite, el orégano, sal y pimienta.",
+   "Cocinalos 9 a 10 minutos a 185 °C."
+  ],
+  "consejo": "Queso rallado o albahaca al servir.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-049",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "milhojas-de-papa-y-calabaza",
+  "titulo": "Milhojas de papa y calabaza",
+  "descripcion": "Capas finas de papa y calabaza con queso, cremosas y coloridas.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "calabaza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la papa y la calabaza en láminas finas.",
+   "Armá capas alternadas en un molde chico, salpimentando cada una.",
+   "Terminá con el queso y el aceite y cociná 14 a 15 minutos a 185 °C."
+  ],
+  "consejo": "Romero o tomillo entre capas le dan aroma.",
+  "etiquetas": [
+   "papa",
+   "verduras",
+   "gratinados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-050",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-rellenas-de-queso-y-cebolla",
+  "titulo": "Papas rellenas de queso y cebolla",
+  "descripcion": "Papas asadas, vaciadas y rellenas con su pulpa, cebolla y queso.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná las papas enteras 10 a 12 minutos a 185 °C, hasta que estén blandas.",
+   "Partilas al medio, sacales la pulpa y mezclala con la cebolla, el queso, el aceite y los condimentos.",
+   "Rellenalas y gratiná 4 minutos más."
+  ],
+  "consejo": "Panceta o espinaca en el relleno lo cambian por completo.",
+  "etiquetas": [
+   "papa",
+   "rellenos",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-051",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "batatas-rellenas-de-ricota-y-miel",
+  "titulo": "Batatas rellenas de ricota y miel",
+  "descripcion": "Batatas asadas con un relleno dulce de ricota, miel y canela.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "batata",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "ricota",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "apenas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná las batatas enteras unos 10 minutos a 185 °C, hasta que estén tiernas.",
+   "Partilas, sacales parte de la pulpa y mezclala con la ricota, la miel y la canela.",
+   "Rellenalas y cociná 5 minutos más."
+  ],
+  "consejo": "En lugar de ricota funciona un yogur espeso o un queso untable.",
+  "etiquetas": [
+   "batata",
+   "rellenos",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-052",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "ensalada-tibia-de-calabaza-y-queso-feta",
+  "titulo": "Ensalada tibia de calabaza y queso feta",
+  "descripcion": "Calabaza asada con queso feta y miel, una ensalada rápida y especial.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "calabaza",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 50,
+    "unidad": "g",
+    "nombre": "queso feta",
+    "nota": "o uno similar",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Condimentá la calabaza con el aceite, sal y pimienta y asala 12 a 13 minutos a 185 °C.",
+   "Mezclala tibia con el queso desmenuzado y la miel."
+  ],
+  "consejo": "Hojas verdes o semillas tostadas la completan.",
+  "etiquetas": [
+   "ensaladas",
+   "verduras",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-053",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cebollas-rellenas-de-atun",
+  "titulo": "Cebollas rellenas de atún",
+  "descripcion": "Cebollas ahuecadas con un relleno de atún, huevo y queso.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "lata",
+    "nombre": "atún al natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí las cebollas al medio y cocinalas 8 minutos a 185 °C.",
+   "Sacales el centro, picalo y mezclalo con el atún escurrido, el huevo, el queso y los condimentos.",
+   "Rellenalas y gratiná 4 minutos."
+  ],
+  "consejo": "Aceitunas o perejil en el relleno.",
+  "etiquetas": [
+   "pescado",
+   "rellenos",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-054",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "brocoli-con-crema-de-limon",
+  "titulo": "Brócoli con crema de limón",
+  "descripcion": "Brócoli con una salsa de crema y limón, para pescados o carnes blancas.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": "en ramitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "crema de leche",
+    "nota": "liviana",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná el brócoli 7 minutos a 180 °C.",
+   "Mezclalo con la crema, el limón y los condimentos.",
+   "Seguí 2 minutos más."
+  ],
+  "consejo": "Queso rallado o almendras fileteadas por encima.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "cremoso"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-055",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "berenjenas-rellenas-de-quinoa",
+  "titulo": "Berenjenas rellenas de quinoa",
+  "descripcion": "Mitades de berenjena con relleno de quinoa, cebolla y queso.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "quinoa",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí la berenjena a lo largo y cocinala 6 minutos a 185 °C.",
+   "Sacale parte de la pulpa, picala y mezclala con la quinoa, la cebolla y los condimentos.",
+   "Rellená, cubrí con el queso y gratiná 4 a 5 minutos."
+  ],
+  "consejo": "Limón o perejil al final.",
+  "etiquetas": [
+   "verduras",
+   "quinoa",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-056",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "champinones-enteros-al-ajillo",
+  "titulo": "Champiñones enteros al ajillo",
+  "descripcion": "Champiñones enteros con ajo y perejil, un acompañamiento aromático.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "champiñones",
+    "nota": "enteros",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní los champiñones con el ajo, el aceite, el perejil, sal y pimienta.",
+   "Cocinalos 8 a 9 minutos a 185 °C, moviéndolos una vez."
+  ],
+  "consejo": "Rociálos con limón justo al servir.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-057",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "ensalada-tibia-de-verduras-asadas",
+  "titulo": "Ensalada tibia de verduras asadas",
+  "descripcion": "Verduras asadas servidas tibias, como guarnición o plato principal.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las verduras y condimentalas.",
+   "Cocinalas 12 minutos a 185 °C y servilas tibias."
+  ],
+  "consejo": "Con queso fresco o garbanzos es un plato completo.",
+  "etiquetas": [
+   "ensaladas",
+   "verduras",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-058",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tomates-rellenos-de-arroz-integral",
+  "titulo": "Tomates rellenos de arroz integral",
+  "descripcion": "Tomates con un relleno de arroz integral y orégano, livianos y rendidores.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "arroz",
+    "nota": "integral, cocido",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortales una tapa a los tomates, vacialos y picá la pulpa.",
+   "Mezclala con el arroz, el aceite y los condimentos y rellenalos.",
+   "Cociná 10 a 11 minutos a 180 °C."
+  ],
+  "consejo": "Queso o semillas tostadas por encima.",
+  "etiquetas": [
+   "verduras",
+   "rellenos",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-059",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-al-limon-con-ajo-y-perejil",
+  "titulo": "Papas al limón con ajo y perejil",
+  "descripcion": "Cubos de papa con ajo, perejil y limón, una provenzal con giro cítrico.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 13,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "perejil, sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en cubos y condimentalas con el aceite, el ajo, el limón y los condimentos.",
+   "Cocinalas 13 minutos a 190 °C, revolviendo una vez."
+  ],
+  "consejo": "Queso rallado o un alioli casero al servir.",
+  "etiquetas": [
+   "papa",
+   "guarnición",
+   "cítricos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-060",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "ensalada-criolla-tibia",
+  "titulo": "Ensalada criolla tibia",
+  "descripcion": "La ensalada criolla con cebolla y morrón apenas asados y tomate fresco.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "grande",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las verduras en cubos.",
+   "Asá la cebolla y el morrón 6 minutos a 185 °C.",
+   "Mezclalos con el tomate crudo y condimentá."
+  ],
+  "consejo": "Un chorrito de vinagre o limón la hace más fresca.",
+  "etiquetas": [
+   "ensaladas",
+   "clásico argentino",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-061",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "berenjenas-al-pimenton-dulce",
+  "titulo": "Berenjenas al pimentón dulce",
+  "descripcion": "Rodajas de berenjena con pimentón, suaves y con color intenso.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón dulce",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la berenjena en rodajas y condimentala con el aceite y el pimentón.",
+   "Cocinala 10 a 11 minutos a 185 °C, dándola vuelta a la mitad."
+  ],
+  "consejo": "Con limón o salsa criolla.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-062",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "brocoli-gratinado-con-yogur-y-mostaza",
+  "titulo": "Brócoli gratinado con yogur y mostaza",
+  "descripcion": "Brócoli cubierto con una salsa de yogur y mostaza, liviano y cremoso.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": "en ramitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "mostaza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná el brócoli 6 minutos a 185 °C.",
+   "Mezclá el yogur con la mostaza y los condimentos y cubrí el brócoli.",
+   "Espolvoreá el queso y gratiná 4 minutos."
+  ],
+  "consejo": "Limón o ciboulette fresca al servir.",
+  "etiquetas": [
+   "verduras",
+   "gratinados",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-063",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cebollas-asadas-con-tomillo",
+  "titulo": "Cebollas asadas con tomillo",
+  "descripcion": "Mitades de cebolla con tomillo, tiernas y doradas.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 13,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "tomillo seco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí las cebollas al medio y pincelalas con aceite.",
+   "Condimentalas con el tomillo, sal y pimienta.",
+   "Cocinalas 13 minutos a 185 °C."
+  ],
+  "consejo": "Con carnes grilladas o pan de campo.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-064",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "zapallitos-salteados-con-manteca-y-ajo",
+  "titulo": "Zapallitos salteados con manteca y ajo",
+  "descripcion": "Rodajas de zapallito con manteca y ajo, simples y sabrosas.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "zapallito",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá los zapallitos en rodajas gruesas.",
+   "Condimentalos con la manteca, el ajo, sal y pimienta.",
+   "Cocinalos 10 a 11 minutos a 180 °C, revolviendo a la mitad."
+  ],
+  "consejo": "Perejil o queso rallado al servir.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-065",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "champinones-rellenos-de-queso-azul",
+  "titulo": "Champiñones rellenos de queso azul",
+  "descripcion": "Champiñones con un relleno cremoso de queso azul, de sabor intenso.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "champiñones",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso azul",
+    "nota": "desmenuzado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "crema de leche",
+    "nota": "liviana",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Sacales el tallo a los champiñones.",
+   "Mezclá el queso con la crema y rellenalos.",
+   "Cociná 8 a 9 minutos a 185 °C."
+  ],
+  "consejo": "Acompañan bien una carne asada o un buen pan.",
+  "etiquetas": [
+   "verduras",
+   "entradas",
+   "gourmet"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-066",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "espinaca-a-la-crema",
+  "titulo": "Espinaca a la crema",
+  "descripcion": "Espinaca cremosa con manteca y nuez moscada, para milanesas o carnes.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "crema de leche",
+    "nota": "liviana",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Escurrí muy bien la espinaca y picala.",
+   "Mezclala con la manteca, la crema y los condimentos en un molde.",
+   "Calentá 8 minutos a 180 °C, revolviendo a la mitad."
+  ],
+  "consejo": "Queso rallado al final para más sabor.",
+  "etiquetas": [
+   "verduras",
+   "clásico argentino",
+   "cremoso"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-067",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
  }
 ]
