@@ -12,6 +12,7 @@ La documentación del proyecto (README general, plan de lanzamiento y flujograma
 | `db/seed` | Datos iniciales: catálogo de ingredientes y recetario base |
 | `db/test` | Pruebas de permisos y reglas de negocio |
 | `data/recetas` | Recetario base en JSON, reescrito a partir de los recetarios fuente |
+| `data/catalogo` | Catálogo de ingredientes (categoría, básico, sinónimos, medidas) y nutrición por 100 g del USDA FoodData Central (SR Legacy, dominio público) |
 | `tools` | Scripts: lectura de recetarios, validación, generación de datos, pruebas |
 | `web` | Sitio, versión instalable y panel de administración (Next.js) — próxima etapa |
 | `worker` | Procesamiento de cargas de usuarios (Python, GitHub Actions) — próxima etapa |

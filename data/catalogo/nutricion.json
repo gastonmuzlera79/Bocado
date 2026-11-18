@@ -1,0 +1,1370 @@
+{
+ "huevo": {
+  "fdc_id": 171287,
+  "usda": "Egg, whole, raw, fresh",
+  "kcal": 143.0,
+  "proteinas": 12.56,
+  "grasas": 9.51,
+  "carbohidratos": 0.72,
+  "fibra": 0.0
+ },
+ "yema": {
+  "fdc_id": 172184,
+  "usda": "Egg, yolk, raw, fresh",
+  "kcal": 322.0,
+  "proteinas": 15.86,
+  "grasas": 26.54,
+  "carbohidratos": 3.59,
+  "fibra": 0.0
+ },
+ "clara de huevo": {
+  "fdc_id": 172183,
+  "usda": "Egg, white, raw, fresh",
+  "kcal": 52.0,
+  "proteinas": 10.9,
+  "grasas": 0.17,
+  "carbohidratos": 0.73,
+  "fibra": 0.0
+ },
+ "huevo duro": {
+  "fdc_id": 173424,
+  "usda": "Egg, whole, cooked, hard-boiled",
+  "kcal": 155.0,
+  "proteinas": 12.58,
+  "grasas": 10.61,
+  "carbohidratos": 1.12,
+  "fibra": 0.0
+ },
+ "leche": {
+  "fdc_id": 171267,
+  "usda": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+  "kcal": 50.0,
+  "proteinas": 3.3,
+  "grasas": 1.98,
+  "carbohidratos": 4.8,
+  "fibra": 0.0
+ },
+ "yogur": {
+  "fdc_id": 171284,
+  "usda": "Yogurt, plain, whole milk",
+  "kcal": 61.0,
+  "proteinas": 3.47,
+  "grasas": 3.25,
+  "carbohidratos": 4.66,
+  "fibra": 0.0
+ },
+ "ricota": {
+  "fdc_id": 171248,
+  "usda": "Cheese, ricotta, part skim milk",
+  "kcal": 138.0,
+  "proteinas": 11.39,
+  "grasas": 7.91,
+  "carbohidratos": 5.14,
+  "fibra": 0.0
+ },
+ "queso rallado": {
+  "fdc_id": 171247,
+  "usda": "Cheese, parmesan, grated",
+  "kcal": 420.0,
+  "proteinas": 28.42,
+  "grasas": 27.84,
+  "carbohidratos": 13.91,
+  "fibra": 0.0
+ },
+ "queso magro": {
+  "fdc_id": 171244,
+  "usda": "Cheese, mozzarella, low moisture, part-skim",
+  "kcal": 295.0,
+  "proteinas": 23.75,
+  "grasas": 19.78,
+  "carbohidratos": 5.58,
+  "fibra": 0.0
+ },
+ "queso port salut": {
+  "fdc_id": 170849,
+  "usda": "Cheese, port de salut",
+  "kcal": 352.0,
+  "proteinas": 23.78,
+  "grasas": 28.2,
+  "carbohidratos": 0.57,
+  "fibra": 0.0
+ },
+ "mozzarella": {
+  "fdc_id": 170845,
+  "usda": "Cheese, mozzarella, whole milk",
+  "kcal": 299.0,
+  "proteinas": 22.17,
+  "grasas": 22.14,
+  "carbohidratos": 2.4,
+  "fibra": 0.0
+ },
+ "queso untable": {
+  "fdc_id": 173418,
+  "usda": "Cheese, cream",
+  "kcal": 350.0,
+  "proteinas": 6.15,
+  "grasas": 34.44,
+  "carbohidratos": 5.52,
+  "fibra": 0.0
+ },
+ "manteca": {
+  "fdc_id": 173410,
+  "usda": "Butter, salted",
+  "kcal": 717.0,
+  "proteinas": 0.85,
+  "grasas": 81.11,
+  "carbohidratos": 0.06,
+  "fibra": 0.0
+ },
+ "crema de leche": {
+  "fdc_id": 170859,
+  "usda": "Cream, fluid, heavy whipping",
+  "kcal": 340.0,
+  "proteinas": 2.84,
+  "grasas": 36.08,
+  "carbohidratos": 2.84,
+  "fibra": 0.0
+ },
+ "dulce de leche": {
+  "fdc_id": 173461,
+  "usda": "Dulce de Leche",
+  "kcal": 315.0,
+  "proteinas": 6.84,
+  "grasas": 7.35,
+  "carbohidratos": 55.35,
+  "fibra": 0.0
+ },
+ "harina": {
+  "fdc_id": 168894,
+  "usda": "Wheat flour, white, all-purpose, enriched, bleached",
+  "kcal": 364.0,
+  "proteinas": 10.33,
+  "grasas": 0.98,
+  "carbohidratos": 76.31,
+  "fibra": 2.7
+ },
+ "harina integral": {
+  "fdc_id": 168944,
+  "usda": "Wheat flour, whole-grain, soft wheat",
+  "kcal": 332.0,
+  "proteinas": 9.61,
+  "grasas": 1.95,
+  "carbohidratos": 74.48,
+  "fibra": 13.1
+ },
+ "harina de garbanzo": {
+  "fdc_id": 174288,
+  "usda": "Chickpea flour (besan)",
+  "kcal": 387.0,
+  "proteinas": 22.39,
+  "grasas": 6.69,
+  "carbohidratos": 57.82,
+  "fibra": 10.8
+ },
+ "harina de almendras": {
+  "fdc_id": 170567,
+  "usda": "Nuts, almonds",
+  "kcal": 579.0,
+  "proteinas": 21.15,
+  "grasas": 49.93,
+  "carbohidratos": 21.55,
+  "fibra": 12.5
+ },
+ "harina de algarroba": {
+  "fdc_id": 173755,
+  "usda": "Carob flour",
+  "kcal": 222.0,
+  "proteinas": 4.62,
+  "grasas": 0.65,
+  "carbohidratos": 88.88,
+  "fibra": 39.8
+ },
+ "fécula de maíz": {
+  "fdc_id": 169698,
+  "usda": "Cornstarch",
+  "kcal": 381.0,
+  "proteinas": 0.26,
+  "grasas": 0.05,
+  "carbohidratos": 91.27,
+  "fibra": 0.9
+ },
+ "fécula de mandioca": {
+  "fdc_id": 169717,
+  "usda": "Tapioca, pearl, dry",
+  "kcal": 358.0,
+  "proteinas": 0.19,
+  "grasas": 0.02,
+  "carbohidratos": 88.69,
+  "fibra": 0.9
+ },
+ "avena": {
+  "fdc_id": 173904,
+  "usda": "Cereals, oats, regular and quick, not fortified, dry",
+  "kcal": 379.0,
+  "proteinas": 13.15,
+  "grasas": 6.52,
+  "carbohidratos": 67.7,
+  "fibra": 10.1
+ },
+ "arroz": {
+  "fdc_id": 168878,
+  "usda": "Rice, white, long-grain, regular, enriched, cooked",
+  "kcal": 130.0,
+  "proteinas": 2.69,
+  "grasas": 0.28,
+  "carbohidratos": 28.17,
+  "fibra": 0.4
+ },
+ "polenta": {
+  "fdc_id": 168867,
+  "usda": "Cornmeal, degermed, enriched, yellow",
+  "kcal": 370.0,
+  "proteinas": 7.11,
+  "grasas": 1.75,
+  "carbohidratos": 79.45,
+  "fibra": 3.9
+ },
+ "pan rallado": {
+  "fdc_id": 174928,
+  "usda": "Bread, crumbs, dry, grated, plain",
+  "kcal": 395.0,
+  "proteinas": 13.35,
+  "grasas": 5.3,
+  "carbohidratos": 71.98,
+  "fibra": 4.5
+ },
+ "pan integral": {
+  "fdc_id": 172688,
+  "usda": "Bread, whole-wheat, commercially prepared",
+  "kcal": 252.0,
+  "proteinas": 12.45,
+  "grasas": 3.5,
+  "carbohidratos": 42.71,
+  "fibra": 6.0
+ },
+ "pan": {
+  "fdc_id": 174925,
+  "usda": "Bread, white, commercially prepared, toasted",
+  "kcal": 290.0,
+  "proteinas": 9.0,
+  "grasas": 4.0,
+  "carbohidratos": 54.5,
+  "fibra": 2.9
+ },
+ "pan árabe": {
+  "fdc_id": 174915,
+  "usda": "Bread, pita, white, enriched",
+  "kcal": 275.0,
+  "proteinas": 9.1,
+  "grasas": 1.2,
+  "carbohidratos": 55.7,
+  "fibra": 2.2
+ },
+ "tortillas de trigo": {
+  "fdc_id": 167535,
+  "usda": "Tortillas, ready-to-bake or -fry, flour, shelf stable",
+  "kcal": 297.0,
+  "proteinas": 8.01,
+  "grasas": 7.58,
+  "carbohidratos": 49.27,
+  "fibra": 2.4
+ },
+ "tapas de empanada": {
+  "fdc_id": 168894,
+  "usda": "Wheat flour, white, all-purpose, enriched, bleached",
+  "kcal": 364.0,
+  "proteinas": 10.33,
+  "grasas": 0.98,
+  "carbohidratos": 76.31,
+  "fibra": 2.7
+ },
+ "tapa de tarta": {
+  "fdc_id": 167930,
+  "usda": "Pie crust, refrigerated, regular, baked",
+  "kcal": 506.0,
+  "proteinas": 3.41,
+  "grasas": 28.69,
+  "carbohidratos": 58.52,
+  "fibra": 1.4
+ },
+ "masa de pizza": {
+  "fdc_id": 170317,
+  "usda": "Pizza, cheese topping, regular crust, frozen, cooked",
+  "kcal": 268.0,
+  "proteinas": 10.36,
+  "grasas": 12.28,
+  "carbohidratos": 29.02,
+  "fibra": 2.2
+ },
+ "lasaña": {
+  "fdc_id": 169737,
+  "usda": "Pasta, cooked, enriched, without added salt",
+  "kcal": 158.0,
+  "proteinas": 5.8,
+  "grasas": 0.93,
+  "carbohidratos": 30.86,
+  "fibra": 1.8
+ },
+ "ñoquis": {
+  "fdc_id": 170520,
+  "usda": "Potatoes, boiled, cooked without skin, flesh, with salt",
+  "kcal": 86.0,
+  "proteinas": 1.71,
+  "grasas": 0.1,
+  "carbohidratos": 20.01,
+  "fibra": 2.0
+ },
+ "ravioles": {
+  "fdc_id": 169737,
+  "usda": "Pasta, cooked, enriched, without added salt",
+  "kcal": 158.0,
+  "proteinas": 5.8,
+  "grasas": 0.93,
+  "carbohidratos": 30.86,
+  "fibra": 1.8
+ },
+ "sorrentinos": {
+  "fdc_id": 169737,
+  "usda": "Pasta, cooked, enriched, without added salt",
+  "kcal": 158.0,
+  "proteinas": 5.8,
+  "grasas": 0.93,
+  "carbohidratos": 30.86,
+  "fibra": 1.8
+ },
+ "fideos": {
+  "fdc_id": 169737,
+  "usda": "Pasta, cooked, enriched, without added salt",
+  "kcal": 158.0,
+  "proteinas": 5.8,
+  "grasas": 0.93,
+  "carbohidratos": 30.86,
+  "fibra": 1.8
+ },
+ "panqueque": {
+  "fdc_id": 175009,
+  "usda": "Pancakes, plain, prepared from recipe",
+  "kcal": 227.0,
+  "proteinas": 6.4,
+  "grasas": 9.7,
+  "carbohidratos": 28.3,
+  "fibra": 0.0
+ },
+ "polvo de hornear": {
+  "fdc_id": 172803,
+  "usda": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate",
+  "kcal": 53.0,
+  "proteinas": 0.0,
+  "grasas": 0.0,
+  "carbohidratos": 27.7,
+  "fibra": 0.2
+ },
+ "levadura seca": {
+  "fdc_id": 175043,
+  "usda": "Leavening agents, yeast, baker's, active dry",
+  "kcal": 325.0,
+  "proteinas": 40.44,
+  "grasas": 7.61,
+  "carbohidratos": 41.22,
+  "fibra": 26.9
+ },
+ "proteína en polvo": {
+  "fdc_id": 173177,
+  "usda": "Beverages, Whey protein powder isolate",
+  "kcal": 359.0,
+  "proteinas": 58.14,
+  "grasas": 1.16,
+  "carbohidratos": 29.07,
+  "fibra": 0.0
+ },
+ "azúcar": {
+  "fdc_id": 169655,
+  "usda": "Sugars, granulated",
+  "kcal": 387.0,
+  "proteinas": 0.0,
+  "grasas": 0.0,
+  "carbohidratos": 99.98,
+  "fibra": 0.0
+ },
+ "azúcar mascabo": {
+  "fdc_id": 168833,
+  "usda": "Sugars, brown",
+  "kcal": 380.0,
+  "proteinas": 0.12,
+  "grasas": 0.0,
+  "carbohidratos": 98.09,
+  "fibra": 0.0
+ },
+ "miel": {
+  "fdc_id": 169640,
+  "usda": "Honey",
+  "kcal": 304.0,
+  "proteinas": 0.3,
+  "grasas": 0.0,
+  "carbohidratos": 82.4,
+  "fibra": 0.2
+ },
+ "cacao amargo": {
+  "fdc_id": 169593,
+  "usda": "Cocoa, dry powder, unsweetened",
+  "kcal": 228.0,
+  "proteinas": 19.6,
+  "grasas": 13.7,
+  "carbohidratos": 57.9,
+  "fibra": 37.0
+ },
+ "chips de chocolate amargo": {
+  "fdc_id": 170273,
+  "usda": "Chocolate, dark, 70-85% cacao solids",
+  "kcal": 598.0,
+  "proteinas": 7.79,
+  "grasas": 42.63,
+  "carbohidratos": 45.9,
+  "fibra": 10.9
+ },
+ "coco rallado": {
+  "fdc_id": 170170,
+  "usda": "Nuts, coconut meat, dried (desiccated), not sweetened",
+  "kcal": 660.0,
+  "proteinas": 6.88,
+  "grasas": 64.53,
+  "carbohidratos": 23.65,
+  "fibra": 16.3
+ },
+ "esencia de vainilla": {
+  "fdc_id": 173471,
+  "usda": "Vanilla extract",
+  "kcal": 288.0,
+  "proteinas": 0.06,
+  "grasas": 0.06,
+  "carbohidratos": 12.65,
+  "fibra": 0.0
+ },
+ "aceite": {
+  "fdc_id": 172357,
+  "usda": "Oil, industrial, mid-oleic, sunflower",
+  "kcal": 884.0,
+  "proteinas": 0.0,
+  "grasas": 100.0,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "aceite de oliva": {
+  "fdc_id": 171413,
+  "usda": "Oil, olive, salad or cooking",
+  "kcal": 884.0,
+  "proteinas": 0.0,
+  "grasas": 100.0,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "aceite de coco": {
+  "fdc_id": 171412,
+  "usda": "Oil, coconut",
+  "kcal": 892.0,
+  "proteinas": 0.0,
+  "grasas": 99.06,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "aceite en aerosol": {
+  "fdc_id": 172357,
+  "usda": "Oil, industrial, mid-oleic, sunflower",
+  "kcal": 884.0,
+  "proteinas": 0.0,
+  "grasas": 100.0,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "sal": {
+  "fdc_id": 173468,
+  "usda": "Salt, table",
+  "kcal": 0.0,
+  "proteinas": 0.0,
+  "grasas": 0.0,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "pimienta": {
+  "fdc_id": 170931,
+  "usda": "Spices, pepper, black",
+  "kcal": 251.0,
+  "proteinas": 10.39,
+  "grasas": 3.26,
+  "carbohidratos": 63.95,
+  "fibra": 25.3
+ },
+ "orégano": {
+  "fdc_id": 171328,
+  "usda": "Spices, oregano, dried",
+  "kcal": 265.0,
+  "proteinas": 9.0,
+  "grasas": 4.28,
+  "carbohidratos": 68.92,
+  "fibra": 42.5
+ },
+ "pimentón": {
+  "fdc_id": 171329,
+  "usda": "Spices, paprika",
+  "kcal": 282.0,
+  "proteinas": 14.14,
+  "grasas": 12.89,
+  "carbohidratos": 53.99,
+  "fibra": 34.9
+ },
+ "comino": {
+  "fdc_id": 170923,
+  "usda": "Spices, cumin seed",
+  "kcal": 375.0,
+  "proteinas": 17.81,
+  "grasas": 22.27,
+  "carbohidratos": 44.24,
+  "fibra": 10.5
+ },
+ "nuez moscada": {
+  "fdc_id": 171326,
+  "usda": "Spices, nutmeg, ground",
+  "kcal": 525.0,
+  "proteinas": 5.84,
+  "grasas": 36.31,
+  "carbohidratos": 49.29,
+  "fibra": 20.8
+ },
+ "ajo en polvo": {
+  "fdc_id": 171325,
+  "usda": "Spices, garlic powder",
+  "kcal": 331.0,
+  "proteinas": 16.55,
+  "grasas": 0.73,
+  "carbohidratos": 72.73,
+  "fibra": 9.0
+ },
+ "canela": {
+  "fdc_id": 171320,
+  "usda": "Spices, cinnamon, ground",
+  "kcal": 247.0,
+  "proteinas": 3.99,
+  "grasas": 1.24,
+  "carbohidratos": 80.59,
+  "fibra": 53.1
+ },
+ "curry": {
+  "fdc_id": 170924,
+  "usda": "Spices, curry powder",
+  "kcal": 325.0,
+  "proteinas": 14.29,
+  "grasas": 14.01,
+  "carbohidratos": 55.83,
+  "fibra": 53.2
+ },
+ "cúrcuma": {
+  "fdc_id": 172231,
+  "usda": "Spices, turmeric, ground",
+  "kcal": 312.0,
+  "proteinas": 9.68,
+  "grasas": 3.25,
+  "carbohidratos": 67.14,
+  "fibra": 22.7
+ },
+ "jengibre": {
+  "fdc_id": 169231,
+  "usda": "Ginger root, raw",
+  "kcal": 80.0,
+  "proteinas": 1.82,
+  "grasas": 0.75,
+  "carbohidratos": 17.77,
+  "fibra": 2.0
+ },
+ "romero": {
+  "fdc_id": 171333,
+  "usda": "Spices, rosemary, dried",
+  "kcal": 331.0,
+  "proteinas": 4.88,
+  "grasas": 15.22,
+  "carbohidratos": 64.06,
+  "fibra": 42.6
+ },
+ "tomillo": {
+  "fdc_id": 170938,
+  "usda": "Spices, thyme, dried",
+  "kcal": 276.0,
+  "proteinas": 9.11,
+  "grasas": 7.43,
+  "carbohidratos": 63.94,
+  "fibra": 37.0
+ },
+ "hierbas secas": {
+  "fdc_id": 171317,
+  "usda": "Spices, basil, dried",
+  "kcal": 233.0,
+  "proteinas": 22.98,
+  "grasas": 4.07,
+  "carbohidratos": 47.75,
+  "fibra": 37.7
+ },
+ "perejil seco": {
+  "fdc_id": 170930,
+  "usda": "Spices, parsley, dried",
+  "kcal": 292.0,
+  "proteinas": 26.63,
+  "grasas": 5.48,
+  "carbohidratos": 50.64,
+  "fibra": 26.7
+ },
+ "chimichurri seco": {
+  "fdc_id": 171328,
+  "usda": "Spices, oregano, dried",
+  "kcal": 265.0,
+  "proteinas": 9.0,
+  "grasas": 4.28,
+  "carbohidratos": 68.92,
+  "fibra": 42.5
+ },
+ "eneldo": {
+  "fdc_id": 172233,
+  "usda": "Dill weed, fresh",
+  "kcal": 43.0,
+  "proteinas": 3.46,
+  "grasas": 1.12,
+  "carbohidratos": 7.02,
+  "fibra": 2.1
+ },
+ "semillas de amapola": {
+  "fdc_id": 171330,
+  "usda": "Spices, poppy seed",
+  "kcal": 525.0,
+  "proteinas": 17.99,
+  "grasas": 41.56,
+  "carbohidratos": 28.13,
+  "fibra": 19.5
+ },
+ "mostaza": {
+  "fdc_id": 172234,
+  "usda": "Mustard, prepared, yellow",
+  "kcal": 60.0,
+  "proteinas": 3.74,
+  "grasas": 3.34,
+  "carbohidratos": 5.83,
+  "fibra": 4.0
+ },
+ "mayonesa": {
+  "fdc_id": 171009,
+  "usda": "Salad dressing, mayonnaise, regular",
+  "kcal": 680.0,
+  "proteinas": 0.96,
+  "grasas": 74.85,
+  "carbohidratos": 0.57,
+  "fibra": 0.0
+ },
+ "salsa de soja": {
+  "fdc_id": 174277,
+  "usda": "Soy sauce made from soy and wheat (shoyu)",
+  "kcal": 53.0,
+  "proteinas": 8.14,
+  "grasas": 0.57,
+  "carbohidratos": 4.93,
+  "fibra": 0.8
+ },
+ "salsa de tomate": {
+  "fdc_id": 170054,
+  "usda": "Tomato products, canned, sauce",
+  "kcal": 24.0,
+  "proteinas": 1.2,
+  "grasas": 0.3,
+  "carbohidratos": 5.31,
+  "fibra": 1.5
+ },
+ "salsa barbacoa": {
+  "fdc_id": 174523,
+  "usda": "Sauce, barbecue",
+  "kcal": 172.0,
+  "proteinas": 0.82,
+  "grasas": 0.63,
+  "carbohidratos": 40.77,
+  "fibra": 0.9
+ },
+ "vinagre": {
+  "fdc_id": 172237,
+  "usda": "Vinegar, distilled",
+  "kcal": 18.0,
+  "proteinas": 0.0,
+  "grasas": 0.0,
+  "carbohidratos": 0.04,
+  "fibra": 0.0
+ },
+ "hummus": {
+  "fdc_id": 174289,
+  "usda": "Hummus, commercial",
+  "kcal": 237.0,
+  "proteinas": 7.78,
+  "grasas": 17.82,
+  "carbohidratos": 15.0,
+  "fibra": 5.5
+ },
+ "pesto": {
+  "fdc_id": 171579,
+  "usda": "Sauce, pesto, ready-to-serve, refrigerated",
+  "kcal": 418.0,
+  "proteinas": 9.83,
+  "grasas": 37.6,
+  "carbohidratos": 10.09,
+  "fibra": 1.8
+ },
+ "pasta de maní": {
+  "fdc_id": 172470,
+  "usda": "Peanut butter, smooth style, without salt",
+  "kcal": 598.0,
+  "proteinas": 22.21,
+  "grasas": 51.36,
+  "carbohidratos": 22.31,
+  "fibra": 5.0
+ },
+ "nueces": {
+  "fdc_id": 170187,
+  "usda": "Nuts, walnuts, english",
+  "kcal": 654.0,
+  "proteinas": 15.23,
+  "grasas": 65.21,
+  "carbohidratos": 13.71,
+  "fibra": 6.7
+ },
+ "almendras": {
+  "fdc_id": 170567,
+  "usda": "Nuts, almonds",
+  "kcal": 579.0,
+  "proteinas": 21.15,
+  "grasas": 49.93,
+  "carbohidratos": 21.55,
+  "fibra": 12.5
+ },
+ "maní": {
+  "fdc_id": 172430,
+  "usda": "Peanuts, all types, raw",
+  "kcal": 567.0,
+  "proteinas": 25.8,
+  "grasas": 49.24,
+  "carbohidratos": 16.13,
+  "fibra": 8.5
+ },
+ "frutos secos": {
+  "fdc_id": 170585,
+  "usda": "Nuts, mixed nuts, dry roasted, with peanuts, without salt added",
+  "kcal": 607.0,
+  "proteinas": 19.5,
+  "grasas": 53.5,
+  "carbohidratos": 22.42,
+  "fibra": 6.4
+ },
+ "pasas": {
+  "fdc_id": 168164,
+  "usda": "Raisins, golden, seedless",
+  "kcal": 301.0,
+  "proteinas": 3.28,
+  "grasas": 0.2,
+  "carbohidratos": 80.02,
+  "fibra": 3.3
+ },
+ "semillas": {
+  "fdc_id": 170150,
+  "usda": "Seeds, sesame seeds, whole, dried",
+  "kcal": 573.0,
+  "proteinas": 17.73,
+  "grasas": 49.67,
+  "carbohidratos": 23.45,
+  "fibra": 11.8
+ },
+ "semillas de chía": {
+  "fdc_id": 170554,
+  "usda": "Seeds, chia seeds, dried",
+  "kcal": 486.0,
+  "proteinas": 16.54,
+  "grasas": 30.74,
+  "carbohidratos": 42.12,
+  "fibra": 34.4
+ },
+ "semillas de lino": {
+  "fdc_id": 169414,
+  "usda": "Seeds, flaxseed",
+  "kcal": 534.0,
+  "proteinas": 18.29,
+  "grasas": 42.16,
+  "carbohidratos": 28.88,
+  "fibra": 27.3
+ },
+ "semillas de sésamo": {
+  "fdc_id": 170150,
+  "usda": "Seeds, sesame seeds, whole, dried",
+  "kcal": 573.0,
+  "proteinas": 17.73,
+  "grasas": 49.67,
+  "carbohidratos": 23.45,
+  "fibra": 11.8
+ },
+ "banana": {
+  "fdc_id": 173944,
+  "usda": "Bananas, raw",
+  "kcal": 89.0,
+  "proteinas": 1.09,
+  "grasas": 0.33,
+  "carbohidratos": 22.84,
+  "fibra": 2.6
+ },
+ "manzana": {
+  "fdc_id": 168202,
+  "usda": "Apples, raw, golden delicious, with skin",
+  "kcal": 57.0,
+  "proteinas": 0.28,
+  "grasas": 0.15,
+  "carbohidratos": 13.6,
+  "fibra": 2.4
+ },
+ "pera": {
+  "fdc_id": 169118,
+  "usda": "Pears, raw",
+  "kcal": 57.0,
+  "proteinas": 0.36,
+  "grasas": 0.14,
+  "carbohidratos": 15.23,
+  "fibra": 3.1
+ },
+ "durazno": {
+  "fdc_id": 169928,
+  "usda": "Peaches, yellow, raw",
+  "kcal": 39.0,
+  "proteinas": 0.91,
+  "grasas": 0.25,
+  "carbohidratos": 9.54,
+  "fibra": 1.5
+ },
+ "frutilla": {
+  "fdc_id": 167762,
+  "usda": "Strawberries, raw",
+  "kcal": 32.0,
+  "proteinas": 0.67,
+  "grasas": 0.3,
+  "carbohidratos": 7.68,
+  "fibra": 2.0
+ },
+ "arándanos": {
+  "fdc_id": 171711,
+  "usda": "Blueberries, raw",
+  "kcal": 57.0,
+  "proteinas": 0.74,
+  "grasas": 0.33,
+  "carbohidratos": 14.49,
+  "fibra": 2.4
+ },
+ "uvas": {
+  "fdc_id": 174683,
+  "usda": "Grapes, red or green (European type, such as Thompson seedless), raw",
+  "kcal": 69.0,
+  "proteinas": 0.72,
+  "grasas": 0.16,
+  "carbohidratos": 18.1,
+  "fibra": 0.9
+ },
+ "limón": {
+  "fdc_id": 167746,
+  "usda": "Lemons, raw, without peel",
+  "kcal": 29.0,
+  "proteinas": 1.1,
+  "grasas": 0.3,
+  "carbohidratos": 9.32,
+  "fibra": 2.8
+ },
+ "jugo de limón": {
+  "fdc_id": 167747,
+  "usda": "Lemon juice, raw",
+  "kcal": 22.0,
+  "proteinas": 0.35,
+  "grasas": 0.24,
+  "carbohidratos": 6.9,
+  "fibra": 0.3
+ },
+ "ralladura de limón": {
+  "fdc_id": 167749,
+  "usda": "Lemon peel, raw",
+  "kcal": 47.0,
+  "proteinas": 1.5,
+  "grasas": 0.3,
+  "carbohidratos": 16.0,
+  "fibra": 10.6
+ },
+ "naranja": {
+  "fdc_id": 169097,
+  "usda": "Oranges, raw, all commercial varieties",
+  "kcal": 47.0,
+  "proteinas": 0.94,
+  "grasas": 0.12,
+  "carbohidratos": 11.75,
+  "fibra": 2.4
+ },
+ "jugo de naranja": {
+  "fdc_id": 169098,
+  "usda": "Orange juice, raw (Includes foods for USDA's Food Distribution Program)",
+  "kcal": 45.0,
+  "proteinas": 0.7,
+  "grasas": 0.2,
+  "carbohidratos": 10.4,
+  "fibra": 0.2
+ },
+ "kiwi": {
+  "fdc_id": 168153,
+  "usda": "Kiwifruit, green, raw",
+  "kcal": 61.0,
+  "proteinas": 1.14,
+  "grasas": 0.52,
+  "carbohidratos": 14.66,
+  "fibra": 3.0
+ },
+ "ananá": {
+  "fdc_id": 169124,
+  "usda": "Pineapple, raw, all varieties",
+  "kcal": 50.0,
+  "proteinas": 0.54,
+  "grasas": 0.12,
+  "carbohidratos": 13.12,
+  "fibra": 1.4
+ },
+ "palta": {
+  "fdc_id": 171705,
+  "usda": "Avocados, raw, all commercial varieties",
+  "kcal": 160.0,
+  "proteinas": 2.0,
+  "grasas": 14.66,
+  "carbohidratos": 8.53,
+  "fibra": 6.7
+ },
+ "papa": {
+  "fdc_id": 170026,
+  "usda": "Potatoes, flesh and skin, raw",
+  "kcal": 77.0,
+  "proteinas": 2.05,
+  "grasas": 0.09,
+  "carbohidratos": 17.49,
+  "fibra": 2.1
+ },
+ "batata": {
+  "fdc_id": 168482,
+  "usda": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",
+  "kcal": 86.0,
+  "proteinas": 1.57,
+  "grasas": 0.05,
+  "carbohidratos": 20.12,
+  "fibra": 3.0
+ },
+ "cebolla": {
+  "fdc_id": 170000,
+  "usda": "Onions, raw",
+  "kcal": 40.0,
+  "proteinas": 1.1,
+  "grasas": 0.1,
+  "carbohidratos": 9.34,
+  "fibra": 1.7
+ },
+ "cebolla de verdeo": {
+  "fdc_id": 170005,
+  "usda": "Onions, spring or scallions (includes tops and bulb), raw",
+  "kcal": 32.0,
+  "proteinas": 1.83,
+  "grasas": 0.19,
+  "carbohidratos": 7.34,
+  "fibra": 2.6
+ },
+ "ajo": {
+  "fdc_id": 169230,
+  "usda": "Garlic, raw",
+  "kcal": 149.0,
+  "proteinas": 6.36,
+  "grasas": 0.5,
+  "carbohidratos": 33.06,
+  "fibra": 2.1
+ },
+ "morrón": {
+  "fdc_id": 170108,
+  "usda": "Peppers, sweet, red, raw",
+  "kcal": 26.0,
+  "proteinas": 0.99,
+  "grasas": 0.3,
+  "carbohidratos": 6.03,
+  "fibra": 2.1
+ },
+ "tomate": {
+  "fdc_id": 170457,
+  "usda": "Tomatoes, red, ripe, raw, year round average",
+  "kcal": 18.0,
+  "proteinas": 0.88,
+  "grasas": 0.2,
+  "carbohidratos": 3.89,
+  "fibra": 1.2
+ },
+ "zanahoria": {
+  "fdc_id": 170393,
+  "usda": "Carrots, raw",
+  "kcal": 41.0,
+  "proteinas": 0.93,
+  "grasas": 0.24,
+  "carbohidratos": 9.58,
+  "fibra": 2.8
+ },
+ "zapallito": {
+  "fdc_id": 170487,
+  "usda": "Squash, summer, all varieties, raw",
+  "kcal": 16.0,
+  "proteinas": 1.21,
+  "grasas": 0.18,
+  "carbohidratos": 3.35,
+  "fibra": 1.1
+ },
+ "zucchini": {
+  "fdc_id": 169291,
+  "usda": "Squash, summer, zucchini, includes skin, raw",
+  "kcal": 17.0,
+  "proteinas": 1.21,
+  "grasas": 0.32,
+  "carbohidratos": 3.11,
+  "fibra": 1.0
+ },
+ "calabaza": {
+  "fdc_id": 169295,
+  "usda": "Squash, winter, butternut, raw",
+  "kcal": 45.0,
+  "proteinas": 1.0,
+  "grasas": 0.1,
+  "carbohidratos": 11.69,
+  "fibra": 2.0
+ },
+ "zapallo": {
+  "fdc_id": 168448,
+  "usda": "Pumpkin, raw",
+  "kcal": 26.0,
+  "proteinas": 1.0,
+  "grasas": 0.1,
+  "carbohidratos": 6.5,
+  "fibra": 0.5
+ },
+ "berenjena": {
+  "fdc_id": 169228,
+  "usda": "Eggplant, raw",
+  "kcal": 25.0,
+  "proteinas": 0.98,
+  "grasas": 0.18,
+  "carbohidratos": 5.88,
+  "fibra": 3.0
+ },
+ "espinaca": {
+  "fdc_id": 168462,
+  "usda": "Spinach, raw",
+  "kcal": 23.0,
+  "proteinas": 2.86,
+  "grasas": 0.39,
+  "carbohidratos": 3.63,
+  "fibra": 2.2
+ },
+ "acelga": {
+  "fdc_id": 169991,
+  "usda": "Chard, swiss, raw",
+  "kcal": 19.0,
+  "proteinas": 1.8,
+  "grasas": 0.2,
+  "carbohidratos": 3.74,
+  "fibra": 1.6
+ },
+ "brócoli": {
+  "fdc_id": 170379,
+  "usda": "Broccoli, raw",
+  "kcal": 34.0,
+  "proteinas": 2.82,
+  "grasas": 0.37,
+  "carbohidratos": 6.64,
+  "fibra": 2.6
+ },
+ "coliflor": {
+  "fdc_id": 169986,
+  "usda": "Cauliflower, raw",
+  "kcal": 25.0,
+  "proteinas": 1.92,
+  "grasas": 0.28,
+  "carbohidratos": 4.97,
+  "fibra": 2.0
+ },
+ "lechuga": {
+  "fdc_id": 169249,
+  "usda": "Lettuce, green leaf, raw",
+  "kcal": 15.0,
+  "proteinas": 1.36,
+  "grasas": 0.15,
+  "carbohidratos": 2.87,
+  "fibra": 1.3
+ },
+ "rúcula": {
+  "fdc_id": 169387,
+  "usda": "Arugula, raw",
+  "kcal": 25.0,
+  "proteinas": 2.58,
+  "grasas": 0.66,
+  "carbohidratos": 3.65,
+  "fibra": 1.6
+ },
+ "pepino": {
+  "fdc_id": 168409,
+  "usda": "Cucumber, with peel, raw",
+  "kcal": 15.0,
+  "proteinas": 0.65,
+  "grasas": 0.11,
+  "carbohidratos": 3.63,
+  "fibra": 0.5
+ },
+ "choclo": {
+  "fdc_id": 169998,
+  "usda": "Corn, sweet, yellow, raw",
+  "kcal": 86.0,
+  "proteinas": 3.27,
+  "grasas": 1.35,
+  "carbohidratos": 18.7,
+  "fibra": 2.0
+ },
+ "arvejas": {
+  "fdc_id": 170419,
+  "usda": "Peas, green, raw",
+  "kcal": 81.0,
+  "proteinas": 5.42,
+  "grasas": 0.4,
+  "carbohidratos": 14.45,
+  "fibra": 5.7
+ },
+ "champiñones": {
+  "fdc_id": 169251,
+  "usda": "Mushrooms, white, raw",
+  "kcal": 22.0,
+  "proteinas": 3.09,
+  "grasas": 0.34,
+  "carbohidratos": 3.26,
+  "fibra": 1.0
+ },
+ "perejil": {
+  "fdc_id": 170416,
+  "usda": "Parsley, fresh",
+  "kcal": 36.0,
+  "proteinas": 2.97,
+  "grasas": 0.79,
+  "carbohidratos": 6.33,
+  "fibra": 3.3
+ },
+ "albahaca": {
+  "fdc_id": 172232,
+  "usda": "Basil, fresh",
+  "kcal": 23.0,
+  "proteinas": 3.15,
+  "grasas": 0.64,
+  "carbohidratos": 2.65,
+  "fibra": 1.6
+ },
+ "garbanzos": {
+  "fdc_id": 173757,
+  "usda": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+  "kcal": 164.0,
+  "proteinas": 8.86,
+  "grasas": 2.59,
+  "carbohidratos": 27.42,
+  "fibra": 7.6
+ },
+ "lentejas": {
+  "fdc_id": 172421,
+  "usda": "Lentils, mature seeds, cooked, boiled, without salt",
+  "kcal": 116.0,
+  "proteinas": 9.02,
+  "grasas": 0.38,
+  "carbohidratos": 20.13,
+  "fibra": 7.9
+ },
+ "porotos negros": {
+  "fdc_id": 173735,
+  "usda": "Beans, black, mature seeds, cooked, boiled, without salt",
+  "kcal": 132.0,
+  "proteinas": 8.86,
+  "grasas": 0.54,
+  "carbohidratos": 23.71,
+  "fibra": 8.7
+ },
+ "soja texturizada": {
+  "fdc_id": 172447,
+  "usda": "Soy protein concentrate, produced by alcohol extraction",
+  "kcal": 328.0,
+  "proteinas": 63.63,
+  "grasas": 0.46,
+  "carbohidratos": 25.41,
+  "fibra": 5.5
+ },
+ "carne vacuna": {
+  "fdc_id": 171759,
+  "usda": "Beef, round, top round steak, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+  "kcal": 116.0,
+  "proteinas": 23.59,
+  "grasas": 2.45,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "lomo": {
+  "fdc_id": 171812,
+  "usda": "Beef, tenderloin, steak, separable lean only, trimmed to 1/8\" fat, all grades, raw",
+  "kcal": 153.0,
+  "proteinas": 22.12,
+  "grasas": 6.52,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "carne picada": {
+  "fdc_id": 174030,
+  "usda": "Beef, ground, 90% lean meat / 10% fat, raw",
+  "kcal": 176.0,
+  "proteinas": 20.0,
+  "grasas": 10.0,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "tira de asado": {
+  "fdc_id": 172118,
+  "usda": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 1/8\" fat, all grades, raw",
+  "kcal": 223.0,
+  "proteinas": 20.11,
+  "grasas": 15.18,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "matambre vacuno": {
+  "fdc_id": 169433,
+  "usda": "Beef, flank, steak, separable lean and fat, trimmed to 0\" fat, choice, raw",
+  "kcal": 165.0,
+  "proteinas": 21.22,
+  "grasas": 8.29,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "bondiola de cerdo": {
+  "fdc_id": 167849,
+  "usda": "Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, raw",
+  "kcal": 186.0,
+  "proteinas": 17.42,
+  "grasas": 12.36,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "carne de cerdo": {
+  "fdc_id": 168249,
+  "usda": "Pork, fresh, loin, tenderloin, separable lean only, raw",
+  "kcal": 109.0,
+  "proteinas": 20.95,
+  "grasas": 2.17,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "jamón cocido": {
+  "fdc_id": 173864,
+  "usda": "Ham, sliced, regular (approximately 11% fat)",
+  "kcal": 164.0,
+  "proteinas": 16.6,
+  "grasas": 8.8,
+  "carbohidratos": 3.63,
+  "fibra": 1.3
+ },
+ "salchicha": {
+  "fdc_id": 173862,
+  "usda": "Frankfurter, beef, unheated",
+  "kcal": 315.0,
+  "proteinas": 11.69,
+  "grasas": 28.1,
+  "carbohidratos": 2.97,
+  "fibra": 0.0
+ },
+ "pollo": {
+  "fdc_id": 171052,
+  "usda": "Chicken, broilers or fryers, meat only, raw",
+  "kcal": 119.0,
+  "proteinas": 21.39,
+  "grasas": 3.08,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "pechuga de pollo": {
+  "fdc_id": 171509,
+  "usda": "Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",
+  "kcal": 108.0,
+  "proteinas": 20.32,
+  "grasas": 3.0,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "milanesa de pollo": {
+  "fdc_id": 171078,
+  "usda": "Chicken, broilers or fryers, breast, meat only, cooked, fried",
+  "kcal": 187.0,
+  "proteinas": 33.44,
+  "grasas": 4.71,
+  "carbohidratos": 0.51,
+  "fibra": 0.0
+ },
+ "merluza": {
+  "fdc_id": 171955,
+  "usda": "Fish, cod, Atlantic, raw",
+  "kcal": 82.0,
+  "proteinas": 17.81,
+  "grasas": 0.67,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "pescado": {
+  "fdc_id": 171955,
+  "usda": "Fish, cod, Atlantic, raw",
+  "kcal": 82.0,
+  "proteinas": 17.81,
+  "grasas": 0.67,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "salmón": {
+  "fdc_id": 175167,
+  "usda": "Fish, salmon, Atlantic, farmed, raw",
+  "kcal": 208.0,
+  "proteinas": 20.42,
+  "grasas": 13.42,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "atún al natural": {
+  "fdc_id": 171986,
+  "usda": "Fish, tuna, light, canned in water, without salt, drained solids",
+  "kcal": 116.0,
+  "proteinas": 25.51,
+  "grasas": 0.82,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "calamar": {
+  "fdc_id": 174223,
+  "usda": "Mollusks, squid, mixed species, raw",
+  "kcal": 92.0,
+  "proteinas": 15.58,
+  "grasas": 1.38,
+  "carbohidratos": 3.08,
+  "fibra": 0.0
+ },
+ "mariscos": {
+  "fdc_id": 175179,
+  "usda": "Crustaceans, shrimp, raw",
+  "kcal": 85.0,
+  "proteinas": 20.1,
+  "grasas": 0.51,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "mate cocido": {
+  "fdc_id": 173227,
+  "usda": "Beverages, tea, black, brewed, prepared with tap water",
+  "kcal": 1.0,
+  "proteinas": 0.0,
+  "grasas": 0.0,
+  "carbohidratos": 0.3,
+  "fibra": 0.0
+ }
+}

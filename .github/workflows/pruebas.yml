@@ -35,3 +35,9 @@ jobs:
           python-version: "3.12"
       - name: Validar recetario
         run: python3 tools/validar_recetario.py data/recetas
+      - name: Todos los ingredientes están en el catálogo
+        run: python3 tools/catalogo.py cobertura
+      - name: Los datos iniciales están al día con el recetario
+        run: |
+          python3 tools/generar_seed.py
+          git diff --exit-code db/seed
