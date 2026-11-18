@@ -1366,5 +1366,140 @@
   "grasas": 0.0,
   "carbohidratos": 0.3,
   "fibra": 0.0
+ },
+ "panceta": {
+  "fdc_id": 168277,
+  "usda": "Pork, cured, bacon, unprepared",
+  "kcal": 393.0,
+  "proteinas": 13.66,
+  "grasas": 37.13,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "entraña": {
+  "fdc_id": 173374,
+  "usda": "Beef, plate steak, boneless, inside skirt, separable lean only, trimmed to 0\" fat, all grades, raw",
+  "kcal": 164.0,
+  "proteinas": 21.17,
+  "grasas": 8.82,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "bife ancho": {
+  "fdc_id": 173402,
+  "usda": "Beef, rib eye steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+  "kcal": 228.0,
+  "proteinas": 19.26,
+  "grasas": 16.71,
+  "carbohidratos": 0.12,
+  "fibra": 0.0
+ },
+ "bife de chorizo": {
+  "fdc_id": 168721,
+  "usda": "Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8\" fat, prime, raw",
+  "kcal": 281.0,
+  "proteinas": 19.0,
+  "grasas": 22.17,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "costillitas de cerdo": {
+  "fdc_id": 167853,
+  "usda": "Pork, fresh, spareribs, separable lean and fat, raw",
+  "kcal": 277.0,
+  "proteinas": 15.47,
+  "grasas": 23.4,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "carré de cerdo": {
+  "fdc_id": 168302,
+  "usda": "Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean only, raw",
+  "kcal": 152.0,
+  "proteinas": 21.8,
+  "grasas": 6.48,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "alitas de pollo": {
+  "fdc_id": 172390,
+  "usda": "Chicken, broilers or fryers, wing, meat and skin, raw",
+  "kcal": 191.0,
+  "proteinas": 17.52,
+  "grasas": 12.85,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "milanesa de carne": {
+  "fdc_id": 170235,
+  "usda": "Beef, round, top round, separable lean only, trimmed to 0\" fat, choice, cooked, braised",
+  "kcal": 207.0,
+  "proteinas": 36.12,
+  "grasas": 5.8,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "vino blanco": {
+  "fdc_id": 174837,
+  "usda": "Alcoholic beverage, wine, table, white",
+  "kcal": 82.0,
+  "proteinas": 0.07,
+  "grasas": 0.0,
+  "carbohidratos": 2.6,
+  "fibra": 0.0
+ },
+ "vino tinto": {
+  "fdc_id": 173190,
+  "usda": "Alcoholic beverage, wine, table, red",
+  "kcal": 85.0,
+  "proteinas": 0.07,
+  "grasas": 0.0,
+  "carbohidratos": 2.61,
+  "fibra": 0.0
+ },
+ "cerveza negra": {
+  "fdc_id": 168746,
+  "usda": "Alcoholic beverage, beer, regular, all",
+  "kcal": 43.0,
+  "proteinas": 0.46,
+  "grasas": 0.0,
+  "carbohidratos": 3.55,
+  "fibra": 0.0
+ },
+ "salsa inglesa": {
+  "fdc_id": 171610,
+  "usda": "Sauce, worcestershire",
+  "kcal": 77.0,
+  "proteinas": 0.0,
+  "grasas": 0.0,
+  "carbohidratos": 19.17,
+  "fibra": 0.0
+ },
+ "salsa picante": {
+  "fdc_id": 171186,
+  "usda": "Sauce, hot chile, sriracha",
+  "kcal": 93.0,
+  "proteinas": 1.93,
+  "grasas": 0.93,
+  "carbohidratos": 19.16,
+  "fibra": 2.2
+ },
+ "salsa criolla": {
+  "fdc_id": 170457,
+  "usda": "Tomatoes, red, ripe, raw, year round average",
+  "kcal": 18.0,
+  "proteinas": 0.88,
+  "grasas": 0.2,
+  "carbohidratos": 3.89,
+  "fibra": 1.2
+ },
+ "copos de maíz": {
+  "fdc_id": 174648,
+  "usda": "Cereals ready-to-eat, RALSTON Corn Flakes",
+  "kcal": 384.0,
+  "proteinas": 5.9,
+  "grasas": 0.91,
+  "carbohidratos": 88.01,
+  "fibra": 2.7
  }
 }
