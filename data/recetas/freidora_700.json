@@ -37435,5 +37435,2869 @@
   "origen": "recetario",
   "origen_ref": "af-08-055",
   "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "croquetas-de-atun-y-avena",
+  "titulo": "Croquetas de atún y avena",
+  "descripcion": "Croquetas de atún al natural, sin harina y con mucha proteína.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "lata",
+    "nombre": "atún al natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "jugo de limón, sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Escurrí el atún y uní todo.",
+   "Armá bolitas y cociná 9 minutos a 185 °C."
+  ],
+  "consejo": "Un yogur con ciboulette picada al costado.",
+  "etiquetas": [
+   "pescados",
+   "fit",
+   "económica"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-056",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "hamburguesas-de-garbanzos-y-zanahoria",
+  "titulo": "Hamburguesas de garbanzos y zanahoria",
+  "descripcion": "Medallones de garbanzo con zanahoria, para cenas sin carne.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "garbanzos",
+    "nota": "cocidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "comino, pimentón y sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá todo hasta tener una pasta firme.",
+   "Formá medallones y cociná 10 minutos a 185 °C."
+  ],
+  "consejo": "Con hummus o una ensalada de hojas.",
+  "etiquetas": [
+   "legumbres",
+   "vegetariano",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-057",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "chips-de-zucchini-con-queso",
+  "titulo": "Chips de zucchini con queso",
+  "descripcion": "Láminas de zucchini con queso rallado, crocantes.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá el zucchini en láminas finas.",
+   "Espolvorealas con el queso y los condimentos.",
+   "Cociná 8 minutos a 175 °C."
+  ],
+  "consejo": "Ya fríos, en un frasco cerrado se mantienen crocantes.",
+  "etiquetas": [
+   "snacks",
+   "verduras",
+   "quesos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-058",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pollo-con-champinones-a-la-soja",
+  "titulo": "Pollo con champiñones a la soja",
+  "descripcion": "Salteado rápido de pollo y champiñones con salsa de soja.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 150,
+    "unidad": "g",
+    "nombre": "pechuga de pollo",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "champiñones",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa de soja",
+    "nota": "baja en sodio",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo en una fuente apta.",
+   "Cociná 10 minutos a 185 °C, revolviendo a la mitad."
+  ],
+  "consejo": "Sésamo tostado al servir.",
+  "etiquetas": [
+   "pollo",
+   "fit",
+   "oriental"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-059",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "ensalada-tibia-de-palta-huevo-y-espinaca",
+  "titulo": "Ensalada tibia de palta, huevo y espinaca",
+  "descripcion": "Ensalada simple para una cena liviana.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "palta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo duro",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "fresca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Si la querés tibia, pasá la espinaca 3 minutos a 160 °C.",
+   "Cortá la palta y los huevos y mezclá todo con el aceite."
+  ],
+  "consejo": "Limón y pimienta negra recién molida.",
+  "etiquetas": [
+   "ensaladas",
+   "vegetariano",
+   "keto"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-060",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-de-huevo-y-avena",
+  "titulo": "Pizza de huevo y avena",
+  "descripcion": "Base firme de huevo y avena, sin harina, para un almuerzo rápido.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 7,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "queso light y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la avena y volcalos en un molde redondo.",
+   "Cociná la base 7 minutos a 185 °C.",
+   "Repartí la salsa, sumá el queso y gratiná 4 minutos más."
+  ],
+  "consejo": "Tomate en rodajas o champiñones arriba.",
+  "etiquetas": [
+   "pizza",
+   "fit",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-061",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tarta-de-acelga-sin-masa",
+  "titulo": "Tarta de acelga sin masa",
+  "descripcion": "El relleno de la tarta de acelga, más liviano y sin masa.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "acelga",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo.",
+   "Volcalo en un molde individual y cociná 10 minutos a 180 °C."
+  ],
+  "consejo": "Con yogur natural o salsa criolla.",
+  "etiquetas": [
+   "tartas",
+   "verduras",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-062",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bowl-mediterraneo-de-pollo-y-garbanzos",
+  "titulo": "Bowl mediterráneo de pollo y garbanzos",
+  "descripcion": "Pollo, garbanzos y tomate con limón y perejil.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "pollo",
+    "nota": "cocido",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "garbanzos",
+    "nota": "cocidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite de oliva, jugo de limón y perejil",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo en un bowl.",
+   "Si lo querés tibio, calentalo 5 minutos a 175 °C."
+  ],
+  "consejo": "Aceitunas negras o semillas tostadas.",
+  "etiquetas": [
+   "pollo",
+   "legumbres",
+   "mediterránea"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-063",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pastel-de-verduras",
+  "titulo": "Pastel de verduras",
+  "descripcion": "Puré de verduras con huevo y queso, gratinado: ideal para sobras.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "o brócoli y zanahoria, cocidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá las verduras y uní el resto.",
+   "Pasalo a un molde chico y cociná 12 minutos a 180 °C."
+  ],
+  "consejo": "Semillas arriba para una capa crocante.",
+  "etiquetas": [
+   "verduras",
+   "aprovechamiento",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-064",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "croquetas-de-atun-y-garbanzos",
+  "titulo": "Croquetas de atún y garbanzos",
+  "descripcion": "Croquetas de atún con garbanzos, comino y limón.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "lata",
+    "nombre": "atún al natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "garbanzos",
+    "nota": "cocidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "perejil, comino y limón",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá todo hasta tener una masa firme.",
+   "Armá bolitas y cociná 9 minutos a 185 °C."
+  ],
+  "consejo": "Yogur natural con jugo de limón para mojar.",
+  "etiquetas": [
+   "pescados",
+   "legumbres",
+   "mediterránea"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-065",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "frittata-de-berenjena-y-tomate",
+  "titulo": "Frittata de berenjena y tomate",
+  "descripcion": "Frittata mediterránea de berenjena y tomate.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano y sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con las verduras y los condimentos.",
+   "Volcalo en un molde chico y cociná 10 minutos a 180 °C."
+  ],
+  "consejo": "Queso rallado light arriba antes de servir.",
+  "etiquetas": [
+   "huevos",
+   "verduras",
+   "mediterránea"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-066",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "chips-de-zanahoria-y-zucchini",
+  "titulo": "Chips de zanahoria y zucchini",
+  "descripcion": "Mezcla de chips de verdura, sin grasa ni harina.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las dos verduras en láminas finas.",
+   "Condimentalas con el aceite, la sal y el orégano.",
+   "Cociná 8 a 9 minutos a 170 °C."
+  ],
+  "consejo": "Para mojar en hummus o un dip de palta.",
+  "etiquetas": [
+   "snacks",
+   "verduras",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-067",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "medallones-de-espinaca-y-queso",
+  "titulo": "Medallones de espinaca y queso",
+  "descripcion": "Milanesitas de verdura sin pan rallado.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "nuez moscada y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y formá medallones chatos.",
+   "Acomodalos sobre papel manteca y cociná 9 a 10 minutos a 185 °C."
+  ],
+  "consejo": "Con salsa de tomate o yogur griego.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-068",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bowl-de-atun-y-palta",
+  "titulo": "Bowl de atún y palta",
+  "descripcion": "Plato frío con atún, palta y huevo duro.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "lata",
+    "nombre": "atún al natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "palta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo duro",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "jugo de limón y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo en un bowl.",
+   "Comelo frío o templado."
+  ],
+  "consejo": "Rúcula o espinaca le suman volumen.",
+  "etiquetas": [
+   "pescados",
+   "keto",
+   "sin cocción"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-069",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pollo-al-yogur-y-mostaza",
+  "titulo": "Pollo al yogur y mostaza",
+  "descripcion": "Filetes de pollo marinados en yogur, mostaza y limón.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": "filetes",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "mostaza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "jugo de limón, sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Dejá el pollo 15 minutos en la mezcla de yogur, mostaza y limón.",
+   "Cociná 12 minutos a 190 °C."
+  ],
+  "consejo": "Con ensalada o puré de coliflor.",
+  "etiquetas": [
+   "pollo",
+   "fit",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-070",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "langostinos-al-ajo-y-limon",
+  "titulo": "Langostinos al ajo y limón",
+  "descripcion": "Langostinos marinados con ajo y limón, listos en pocos minutos.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "langostinos",
+    "nota": "pelados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y perejil",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá los langostinos con el ajo, el aceite y el limón y dejalos 10 minutos.",
+   "Cociná 6 a 7 minutos a 185 °C, moviéndolos a la mitad.",
+   "Terminá con perejil."
+  ],
+  "consejo": "Con hojas verdes y palta.",
+  "etiquetas": [
+   "pescados y mariscos",
+   "fit",
+   "gourmet"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-071",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "salmon-envuelto-en-papel",
+  "titulo": "Salmón envuelto en papel",
+  "descripcion": "Salmón cocido en su propio vapor, jugoso y sin aceite.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "salmón",
+    "nota": "un filet",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "eneldo o romero",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal marina",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Apoyá el salmón sobre papel manteca húmedo y condimentalo.",
+   "Cerrá el papel dejándolo flojo, para que circule el vapor.",
+   "Cociná 10 a 11 minutos a 170 °C."
+  ],
+  "consejo": "Acompañalo con verduras a la plancha o un puré de coliflor.",
+  "etiquetas": [
+   "pescados",
+   "fit",
+   "sin aceite"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-072",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bruschettas-de-berenjena",
+  "titulo": "Bruschettas de berenjena",
+  "descripcion": "La berenjena reemplaza al pan: rodajas doradas con tomate y queso.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite de oliva, sal y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pincelá la berenjena con aceite y cocinala 5 minutos a 185 °C.",
+   "Cubrila con el tomate condimentado y el queso.",
+   "Gratiná 3 a 4 minutos más."
+  ],
+  "consejo": "Albahaca fresca al servir.",
+  "etiquetas": [
+   "verduras",
+   "keto",
+   "italiana"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-073",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pollo-con-brocoli-a-la-oriental",
+  "titulo": "Pollo con brócoli a la oriental",
+  "descripcion": "Pollo y brócoli con soja y sésamo, saciante y con pocos hidratos.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "pechuga de pollo",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "salsa de soja",
+    "nota": "baja en sodio",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de sésamo",
+    "nota": "o de oliva",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo en una fuente.",
+   "Cociná 10 minutos a 185 °C, revolviendo a la mitad."
+  ],
+  "consejo": "Jengibre rallado o sésamo tostado al final.",
+  "etiquetas": [
+   "pollo",
+   "oriental",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-074",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "curry-liviano-de-verduras",
+  "titulo": "Curry liviano de verduras",
+  "descripcion": "Calabaza y coliflor doradas con curry y leche de coco.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "coliflor",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "leche de coco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "curry y sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná las verduras 10 minutos a 185 °C.",
+   "Sumá la leche de coco con el curry, mezclá y cociná 2 minutos más."
+  ],
+  "consejo": "Con arroz de coliflor queda como plato completo.",
+  "etiquetas": [
+   "verduras",
+   "vegano",
+   "especiado"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-075",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "filetes-de-pollo-a-la-mostaza-y-miel",
+  "titulo": "Filetes de pollo a la mostaza y miel",
+  "descripcion": "Pollo agridulce con una capa de mostaza y miel.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": "filetes",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "mostaza",
+    "nota": "de Dijon",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta y ajo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la mostaza con la miel y los condimentos y pintá el pollo.",
+   "Cociná 12 minutos a 190 °C."
+  ],
+  "consejo": "La mostaza de Dijon le da más carácter.",
+  "etiquetas": [
+   "pollo",
+   "agridulce",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-076",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "chips-de-batata-al-romero",
+  "titulo": "Chips de batata al romero",
+  "descripcion": "Láminas de batata con romero y sal gruesa.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "batata",
+    "nota": "mediana",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "romero y sal marina",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la batata en láminas finas.",
+   "Condimentalas con el aceite y el romero.",
+   "Cociná 8 a 9 minutos a 170 °C."
+  ],
+  "consejo": "Frías, en frasco cerrado, duran crocantes un par de días.",
+  "etiquetas": [
+   "snacks",
+   "verduras",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-077",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "albondigas-de-pollo-en-salsa-casera",
+  "titulo": "Albóndigas de pollo en salsa casera",
+  "descripcion": "Albóndigas de pollo terminadas en salsa de tomate.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "pollo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní el pollo con el huevo y la avena y armá albóndigas.",
+   "Cocinalas 7 minutos a 185 °C.",
+   "Pasalas a un molde con la salsa y cociná 3 minutos más."
+  ],
+  "consejo": "Con puré de zapallo o de coliflor.",
+  "etiquetas": [
+   "pollo",
+   "fit",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-078",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bollitos-keto-de-queso",
+  "titulo": "Bollitos keto de queso",
+  "descripcion": "Bollitos de queso y harina de almendras para acompañar.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "harina de almendras",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y armá bollitos chicos.",
+   "Cociná 8 a 9 minutos a 180 °C sobre papel manteca."
+  ],
+  "consejo": "Se freezan y se recalientan directo en la canasta.",
+  "etiquetas": [
+   "panes",
+   "keto",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-079",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-cacao-y-banana",
+  "titulo": "Muffins de cacao y banana",
+  "descripcion": "Muffins chicos de banana y cacao, dulces sin azúcar.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "pisada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "esencia de vainilla",
+    "nota": "unas gotas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo hasta que quede cremoso.",
+   "Repartilo en moldes de silicona y cociná 9 minutos a 175 °C."
+  ],
+  "consejo": "Arriba, chips de chocolate o un poco de coco.",
+  "etiquetas": [
+   "postres",
+   "muffins",
+   "sin azúcar"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-080",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "lomo-a-la-pimienta-con-crema",
+  "titulo": "Lomo a la pimienta con crema",
+  "descripcion": "Medallones de lomo con costra de pimienta y una salsa cremosa.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 200,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 300,
+    "unidad": "g",
+    "nombre": "lomo",
+    "nota": "2 medallones",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "pimienta",
+    "nota": "en granos triturados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "crema de leche",
+    "nota": "o yogur griego",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal marina",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Untá la carne con aceite y apretá la pimienta triturada sobre ambas caras.",
+   "Precalentá la freidora 3 minutos a 200 °C.",
+   "Cociná el lomo 6 minutos de cada lado.",
+   "Mientras, calentá la manteca con la crema y una pizca de pimienta, y salseá la carne al servir."
+  ],
+  "consejo": "Un chorrito de coñac o de vino tinto en la salsa.",
+  "etiquetas": [
+   "carnes",
+   "gourmet",
+   "francesa"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-001",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-con-aceite-de-trufa",
+  "titulo": "Papas con aceite de trufa",
+  "descripcion": "Bastones de papa crocantes perfumados con trufa al final.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 16,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal marina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de trufa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "queso rallado",
+    "nota": "fino",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en bastones y dejalas 15 minutos en agua fría.",
+   "Secalas y condimentalas con el aceite de oliva y la sal.",
+   "Cociná 15 a 18 minutos a 190 °C y, al sacarlas, rocialas con el aceite de trufa."
+  ],
+  "consejo": "Sal gruesa o parmesano rallado arriba.",
+  "etiquetas": [
+   "papas",
+   "gourmet",
+   "guarniciones"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-002",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bruschettas-de-queso-de-cabra-y-cherry-confitados",
+  "titulo": "Bruschettas de queso de cabra y cherry confitados",
+  "descripcion": "Pan tostado con queso de cabra y tomates dulces asados.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 13,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "queso de cabra",
+    "nota": "o ricota firme",
+    "opcional": false
+   },
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "cherry",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": "o aceto balsámico",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí los cherry, condimentalos con el aceite y la miel y asalos 10 minutos a 180 °C.",
+   "Tostá el pan 3 minutos.",
+   "Untá el queso y repartí los tomates encima."
+  ],
+  "consejo": "Albahaca o tomillo fresco para terminar.",
+  "etiquetas": [
+   "entradas",
+   "gourmet",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-003",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "provoleta-con-hierbas-y-aceto",
+  "titulo": "Provoleta con hierbas y aceto",
+  "descripcion": "Provoleta dorada con hierbas y unas gotas de balsámico al final.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 7,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 150,
+    "unidad": "g",
+    "nombre": "provoleta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano, tomillo y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceto balsámico",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Apoyá la provoleta sobre papel manteca, cubrila con las hierbas y rociala con aceite.",
+   "Cociná 7 minutos a 190 °C, hasta que se funda y dore.",
+   "Terminala con el aceto."
+  ],
+  "consejo": "Con pan integral tostado o berenjenas a la plancha.",
+  "etiquetas": [
+   "quesos",
+   "gourmet",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-004",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pollo-relleno-de-espinaca-y-queso-crema",
+  "titulo": "Pollo relleno de espinaca y queso crema",
+  "descripcion": "Supremas abiertas y rellenas, doradas por fuera y cremosas adentro.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 190,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": "supremas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "espinaca",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso untable",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y ajo en polvo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Abrí las supremas en libro y condimentalas.",
+   "Rellenalas con la espinaca y el queso, cerralas con palillos y rocialas con aceite.",
+   "Cociná 14 a 15 minutos a 190 °C."
+  ],
+  "consejo": "Va bien con papas trufadas o un puré de coliflor.",
+  "etiquetas": [
+   "pollo",
+   "gourmet",
+   "rellenos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-005",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "champinones-rellenos-con-ricota-y-pistachos",
+  "titulo": "Champiñones rellenos con ricota y pistachos",
+  "descripcion": "Entrada cremosa y crocante de champiñones con pistachos.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 8,
+    "unidad": "unidad",
+    "nombre": "champiñones",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "pistachos",
+    "nota": "picados",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "ajo, perejil y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Sacales el tallo a los champiñones.",
+   "Mezclá la ricota con los pistachos y los condimentos y rellenalos.",
+   "Cociná 8 minutos a 185 °C."
+  ],
+  "consejo": "Sobre un hilo de reducción de soja o de balsámico.",
+  "etiquetas": [
+   "verduras",
+   "gourmet",
+   "entradas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-006",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tomates-rellenos-a-la-provenzal",
+  "titulo": "Tomates rellenos a la provenzal",
+  "descripcion": "Tomates con relleno de quinoa, ajo y perejil.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "medianos",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "quinoa",
+    "nota": "cocida, o avena",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "ajo, perejil y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortales una tapa a los tomates y vacialos.",
+   "Mezclá la pulpa picada con la quinoa, el aceite y los condimentos y rellenalos.",
+   "Cociná 10 minutos a 185 °C."
+  ],
+  "consejo": "Con queso rallado arriba salen gratinados.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "mediterránea"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-007",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "albondigas-al-vino-tinto",
+  "titulo": "Albóndigas al vino tinto",
+  "descripcion": "Albóndigas de carne terminadas en salsa de tomate y vino.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "vino tinto",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la carne con el huevo y la avena y armá albóndigas.",
+   "Cocinalas 10 minutos a 190 °C.",
+   "Pasalas a un molde con el vino y la salsa y cociná 3 minutos más."
+  ],
+  "consejo": "Un malbec le da el toque argentino.",
+  "etiquetas": [
+   "carnes",
+   "gourmet",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-008",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-al-romero-con-ajo-confitado",
+  "titulo": "Papas al romero con ajo confitado",
+  "descripcion": "Cubos de papa con dientes de ajo enteros que se vuelven cremosos.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 16,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "con cáscara",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "romero",
+    "nota": "fresco",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo en un bowl.",
+   "Cociná 16 minutos a 185 °C, sacudiendo a la mitad."
+  ],
+  "consejo": "Apretá los ajos para sacar la pulpa y untala sobre las papas.",
+  "etiquetas": [
+   "papas",
+   "gourmet",
+   "guarniciones"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-009",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pechugas-a-la-dijon",
+  "titulo": "Pechugas a la Dijon",
+  "descripcion": "Pollo cubierto con una crema de mostaza de Dijon y yogur.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "mostaza",
+    "nota": "de Dijon",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y ajo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la mostaza con el yogur y los condimentos y cubrí las pechugas.",
+   "Dejalas 10 minutos y cociná 12 minutos a 185 °C."
+  ],
+  "consejo": "Acompañalas con puré de calabaza o verduras hervidas.",
+  "etiquetas": [
+   "pollo",
+   "francesa",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-010",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "merluza-con-costra-de-avena-y-limon",
+  "titulo": "Merluza con costra de avena y limón",
+  "descripcion": "Pescado con una capa crocante de avena, limón y perejil.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "merluza",
+    "nota": "filetes",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": "o pan rallado integral",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "jugo y ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y perejil",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Secá bien el pescado con papel y untalo con el aceite.",
+   "Mezclá la avena con el limón y los condimentos y cubrí el pescado.",
+   "Cociná 10 a 12 minutos a 190 °C."
+  ],
+  "consejo": "Con puré de arvejas o ensalada criolla.",
+  "etiquetas": [
+   "pescados",
+   "fit",
+   "gourmet"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-011",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "risotto-rapido-de-hongos-y-ajo-negro",
+  "titulo": "Risotto rápido de hongos y ajo negro",
+  "descripcion": "Arroz arbóreo precocido con hongos y ajo negro, cocido tapado en la freidora.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "arroz",
+    "nota": "arbóreo precocido",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "hongos secos",
+    "nota": "hidratados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "ajo negro",
+    "nota": "o ajo asado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "caldo",
+    "nota": "de verduras, concentrado",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "En un bol metálico, mezclá el arroz, los hongos, el ajo y el caldo con el agua de hidratar los hongos hasta cubrir.",
+   "Tapalo con papel aluminio y cociná 14 minutos a 185 °C.",
+   "Sumá el queso y revolvé hasta que quede cremoso."
+  ],
+  "consejo": "Perejil fresco y un hilo de aceite trufado al servir.",
+  "etiquetas": [
+   "arroz",
+   "gourmet",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-012",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "albondigas-de-cordero-con-yogur-y-menta",
+  "titulo": "Albóndigas de cordero con yogur y menta",
+  "descripcion": "Albóndigas especiadas al estilo griego, con salsa fresca de yogur.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "cordero",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "comino",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "menta y ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo menos el yogur y armá bolitas.",
+   "Cociná 10 a 11 minutos a 190 °C.",
+   "Serví sobre el yogur."
+  ],
+  "consejo": "Acompañalas con una ensalada de garbanzos o un tabule.",
+  "etiquetas": [
+   "carnes",
+   "gourmet",
+   "griega"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-013",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "zucchinis-rellenos-de-quinoa-y-almendras",
+  "titulo": "Zucchinis rellenos de quinoa y almendras",
+  "descripcion": "Plato vegetariano con relleno de quinoa y almendras gratinado.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": "medianos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "quinoa",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "almendras",
+    "nota": "picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y aceite de oliva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá cada zucchini en dos mitades largas y sacales la pulpa del centro.",
+   "Mezclá la pulpa picada con la quinoa, las almendras y los condimentos y rellenalos.",
+   "Espolvoreá el queso y cociná 12 a 13 minutos a 185 °C."
+  ],
+  "consejo": "Unas gotas de aceto balsámico al servir.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "gourmet"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-014",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "espaguetis-de-zucchini-al-pesto",
+  "titulo": "Espaguetis de zucchini al pesto",
+  "descripcion": "Tiras de zucchini apenas salteadas con pesto de albahaca y nueces.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 4,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": "grande, en tiras finas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "puñado",
+    "nombre": "albahaca",
+    "nota": "fresca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "nueces",
+    "nota": "o almendras",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá la albahaca con las nueces, el queso y el aceite.",
+   "Cociná las tiras de zucchini 4 minutos a 170 °C.",
+   "Mezclalas con el pesto."
+  ],
+  "consejo": "Tomates secos o pollo grillado arriba.",
+  "etiquetas": [
+   "verduras",
+   "keto",
+   "italiana"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-015",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "medallones-de-lomo-al-malbec",
+  "titulo": "Medallones de lomo al malbec",
+  "descripcion": "Lomo sellado con una reducción de malbec, manteca y tomillo.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 200,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 300,
+    "unidad": "g",
+    "nombre": "lomo",
+    "nota": "2 medallones",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "vino tinto",
+    "nota": "malbec",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y tomillo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná los medallones 5 minutos de cada lado a 200 °C.",
+   "Mientras, reducí el vino a fuego bajo con la manteca y el tomillo hasta que espese.",
+   "Serví el lomo cubierto con la salsa."
+  ],
+  "consejo": "Servilo con puré de coliflor o con las papas trufadas de este capítulo.",
+  "etiquetas": [
+   "carnes",
+   "gourmet",
+   "vinos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-016",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "salmon-con-hierbas-y-limon",
+  "titulo": "Salmón con hierbas y limón",
+  "descripcion": "Salmón apenas rosado en el centro, con eneldo y perejil.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "salmón",
+    "nota": "un filet",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "eneldo, perejil y jugo de limón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal marina",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Poné el salmón sobre papel manteca, rocialo con aceite y cubrilo con las hierbas.",
+   "Cociná 10 minutos a 175 °C."
+  ],
+  "consejo": "Sacalo cuando el centro siga rosado: si se pasa, se seca.",
+  "etiquetas": [
+   "pescados",
+   "gourmet",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-017",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-fondant",
+  "titulo": "Papas fondant",
+  "descripcion": "Cilindros de papa dorados y después cocidos en caldo con manteca.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 190,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas, peladas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "caldo",
+    "nota": "de verduras",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, romero y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en cilindros gruesos y doralas 5 minutos a 190 °C.",
+   "Pasalas a un molde con la manteca, el caldo y los condimentos.",
+   "Cociná 9 minutos más, hasta que absorban casi todo el líquido."
+  ],
+  "consejo": "Para acompañar carnes rojas o pescado.",
+  "etiquetas": [
+   "papas",
+   "francesa",
+   "gourmet"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-018",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "ensalada-tibia-de-remolacha-cabra-y-nueces",
+  "titulo": "Ensalada tibia de remolacha, cabra y nueces",
+  "descripcion": "Remolacha tibia con queso de cabra y nueces, dulce, ácida y salada.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "remolacha",
+    "nota": "cocidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso de cabra",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": "o aceto balsámico",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la remolacha en cubos y calentala 5 minutos a 180 °C.",
+   "Sumá el queso, las nueces y la miel."
+  ],
+  "consejo": "Sobre rúcula o espinaca tierna.",
+  "etiquetas": [
+   "ensaladas",
+   "gourmet",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-019",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "presas-de-pollo-provenzal-con-papas",
+  "titulo": "Presas de pollo provenzal con papas",
+  "descripcion": "Pollo y papas en la misma canasta, con ajo, perejil y limón.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 19,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pollo",
+    "nota": "presas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "ajo, perejil y limón",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Condimentá el pollo con el ajo, el perejil y el aceite.",
+   "Agregá las papas a la canasta y cociná pollo y papas 18 a 20 minutos a 190 °C."
+  ],
+  "consejo": "Limón exprimido justo antes de servir.",
+  "etiquetas": [
+   "pollo",
+   "papas",
+   "mediterránea"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-020",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "volcancitos-de-dulce-de-leche",
+  "titulo": "Volcancitos de dulce de leche",
+  "descripcion": "Dos volcanes con yema y dulce de leche que se derrama al cortarlos.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "dulce de leche",
+    "nota": "repostero",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "yema de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "harina",
+    "nota": "0000 o de almendras",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el huevo, la yema y el azúcar hasta que espumen.",
+   "Sumá la harina y la manteca.",
+   "Llená los moldes hasta la mitad, poné una cucharada de dulce en el medio y tapalo con el resto.",
+   "Cociná 7 a 8 minutos a 180 °C."
+  ],
+  "consejo": "Servilos con una bocha de helado o una pizca de sal gruesa.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "dulce de leche"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-021",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "souffle-de-chocolate-amargo",
+  "titulo": "Soufflé de chocolate amargo",
+  "descripcion": "Soufflé aireado de chocolate al 70 %, en ramequín.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "difícil",
+  "ingredientes": [
+   {
+    "cantidad": 60,
+    "unidad": "g",
+    "nombre": "chips de chocolate amargo",
+    "nota": "70 % de cacao",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Fundí el chocolate con la manteca.",
+   "Aparte, batí el huevo y el azúcar hasta que duplique el volumen.",
+   "Incorporá el chocolate y el cacao con movimientos suaves.",
+   "Volcalo en un ramequín enmantecado y cociná 9 a 10 minutos a 175 °C."
+  ],
+  "consejo": "No abras la freidora mientras se cocina: se baja.",
+  "etiquetas": [
+   "postres",
+   "chocolate",
+   "francesa"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-022",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tarta-fina-de-manzana-caramelizada",
+  "titulo": "Tarta fina de manzana caramelizada",
+  "descripcion": "Lámina de masa con manzana caramelizada, más liviana que una tatin.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "roja",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "lámina",
+    "nombre": "masa filo",
+    "nota": "o tapa de tarta integral",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la manzana en láminas finas y mezclalas con la manteca, el azúcar y la canela.",
+   "Distribuilas sobre la masa y plegá el borde hacia el centro.",
+   "Cociná 8 minutos a 185 °C."
+  ],
+  "consejo": "Tibia, con yogur griego.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "francesa"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-023",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cheesecake-individual-de-limon",
+  "titulo": "Cheesecake individual de limón",
+  "descripcion": "Cheesecake cremoso de limón con base de galleta integral.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "queso untable",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "jugo y ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "galletitas integrales",
+    "nota": "molida",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "aceite de coco",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la galletita con el aceite de coco y apretala en el fondo del molde.",
+   "Batí el queso con el huevo, el azúcar y el limón y volcalo encima.",
+   "Cociná 10 a 12 minutos a 170 °C."
+  ],
+  "consejo": "Frío, con ralladura de limón y menta.",
+  "etiquetas": [
+   "postres",
+   "quesos",
+   "cítricos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-024",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "creme-brulee-liviana",
+  "titulo": "Crème brûlée liviana",
+  "descripcion": "La crema francesa con leche descremada o vegetal y costra de mascabo.",
+  "categoria": "Gourmet",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 170,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "yema de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": "y algo más para la costra",
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "ml",
+    "nombre": "leche",
+    "nota": "descremada o vegetal",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí todo y volcalo en un ramequín.",
+   "Tapalo con papel aluminio y cociná 10 minutos a 170 °C, hasta que cuaje.",
+   "Destapalo, cubrilo con una capa fina de azúcar y dorala 2 a 3 minutos más."
+  ],
+  "consejo": "Si el azúcar es fino, la costra se carameliza pareja.",
+  "etiquetas": [
+   "postres",
+   "francesa",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-09-025",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
  }
 ]

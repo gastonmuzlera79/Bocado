@@ -1888,5 +1888,50 @@
   "grasas": 21.33,
   "carbohidratos": 2.81,
   "fibra": 0.0
+ },
+ "queso de cabra": {
+  "fdc_id": 173435,
+  "usda": "Cheese, goat, soft type",
+  "kcal": 264.0,
+  "proteinas": 18.52,
+  "grasas": 21.08,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "aceite de trufa": {
+  "fdc_id": 171413,
+  "usda": "Oil, olive, salad or cooking",
+  "kcal": 884.0,
+  "proteinas": 0.0,
+  "grasas": 100.0,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "pistachos": {
+  "fdc_id": 170184,
+  "usda": "Nuts, pistachio nuts, raw",
+  "kcal": 560.0,
+  "proteinas": 20.16,
+  "grasas": 45.32,
+  "carbohidratos": 27.17,
+  "fibra": 10.6
+ },
+ "hongos secos": {
+  "fdc_id": 168436,
+  "usda": "Mushrooms, shiitake, dried",
+  "kcal": 296.0,
+  "proteinas": 9.58,
+  "grasas": 0.99,
+  "carbohidratos": 75.37,
+  "fibra": 11.5
+ },
+ "masa filo": {
+  "fdc_id": 172791,
+  "usda": "Phyllo dough",
+  "kcal": 299.0,
+  "proteinas": 7.1,
+  "grasas": 6.0,
+  "carbohidratos": 52.6,
+  "fibra": 1.9
  }
 }

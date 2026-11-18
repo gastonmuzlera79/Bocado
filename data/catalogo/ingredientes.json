@@ -2016,7 +2016,7 @@
   null
  ],
  "caramelo líquido": [
-  "endulzantes",
+  "dulces",
   0,
   [
    "caramelo"
@@ -2057,7 +2057,7 @@
   null
  ],
  "dulce de membrillo": [
-  "almacén",
+  "dulces",
   0,
   [
    "membrillo"
@@ -2150,7 +2150,7 @@
   165
  ],
  "dulce de batata": [
-  "almacén",
+  "dulces",
   0,
   [
    "batata en dulce"
@@ -2217,5 +2217,57 @@
   "nuts|coconut milk|canned",
   null,
   240
+ ],
+ "queso de cabra": [
+  "huevos y lácteos",
+  0,
+  [
+   "chèvre"
+  ],
+  "cheese|goat|soft",
+  null,
+  null
+ ],
+ "aceite de trufa": [
+  "aceites",
+  0,
+  [
+   "aceite trufado",
+   "esencia trufada"
+  ],
+  "oil|olive|salad or cooking",
+  null,
+  null
+ ],
+ "pistachos": [
+  "frutos secos y semillas",
+  0,
+  [
+   "pistacho"
+  ],
+  "nuts|pistachio|raw",
+  null,
+  123
+ ],
+ "hongos secos": [
+  "verduras",
+  0,
+  [
+   "hongos de pino",
+   "boletus"
+  ],
+  "mushrooms|shiitake|dried",
+  null,
+  null
+ ],
+ "masa filo": [
+  "almacén",
+  0,
+  [
+   "masa phyllo"
+  ],
+  "phyllo dough",
+  19,
+  null
  ]
 }
