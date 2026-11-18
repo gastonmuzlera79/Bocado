@@ -2168,5 +2168,46 @@
   "cheese|provolone",
   null,
   null
+ ],
+ "queso cheddar": [
+  "huevos y lácteos",
+  0,
+  [
+   "cheddar"
+  ],
+  "cheese|cheddar",
+  null,
+  113
+ ],
+ "trucha": [
+  "pescados y mariscos",
+  0,
+  [
+   "trucha arcoíris"
+  ],
+  "fish|trout|rainbow|farmed|raw",
+  null,
+  null
+ ],
+ "cordero": [
+  "carnes",
+  0,
+  [
+   "carne de cordero",
+   "cordero picado"
+  ],
+  "lamb|ground|raw",
+  null,
+  null
+ ],
+ "tortillas de maíz": [
+  "almacén",
+  0,
+  [
+   "tortillas de maiz"
+  ],
+  "tortillas|ready-to-bake|corn",
+  26,
+  null
  ]
 }

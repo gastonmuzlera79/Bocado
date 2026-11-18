@@ -31795,5 +31795,2880 @@
   "origen": "recetario",
   "origen_ref": "af-07-027",
   "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tostaditas-de-huevo-y-verdeo",
+  "titulo": "Tostaditas de huevo y verdeo",
+  "descripcion": "Pan tostado con una capa de huevo, verdeo y queso.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "cebolla de verdeo",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con el verdeo y el queso.",
+   "Acomodá el pan en un molde y volcá la mezcla encima.",
+   "Cociná 7 a 8 minutos a 180 °C, hasta que el huevo cuaje."
+  ],
+  "consejo": "Perejil fresco por encima al servir.",
+  "etiquetas": [
+   "picadas",
+   "huevos",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-028",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "brochetitas-de-pollo-con-morron",
+  "titulo": "Brochetitas de pollo con morrón",
+  "descripcion": "Pinchos chicos de pollo, morrón y cebolla, para reuniones.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "pechuga de pollo",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y hierbas",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Ensartá el pollo, el morrón y la cebolla alternados en palitos.",
+   "Pincelalos con aceite y condimentá.",
+   "Cociná 12 minutos a 190 °C, girándolos una vez."
+  ],
+  "consejo": "Para mojar, mostaza con miel o un poco de yogur condimentado.",
+  "etiquetas": [
+   "pollo",
+   "picadas",
+   "pinchos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-029",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tartitas-de-calabaza-y-queso",
+  "titulo": "Tartitas de calabaza y queso",
+  "descripcion": "Tartas chicas de calabaza, entre dulces y saladas.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y nuez moscada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tapas de empanada",
+    "nota": "o masa de tarta",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá la calabaza y uní el queso, el huevo y los condimentos.",
+   "Forrá moldes chicos, rellenalos y pintá el borde con huevo.",
+   "Cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Semillas de girasol o de zapallo arriba.",
+  "etiquetas": [
+   "tartas",
+   "verduras",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-030",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bastones-de-polenta",
+  "titulo": "Bastones de polenta",
+  "descripcion": "Polenta firme cortada en bastones y dorada, para picar o mojar en salsa.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "polenta",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Extendé la polenta caliente en una fuente y dejala enfriar hasta que esté firme.",
+   "Cortala en bastones, pincelalos con aceite y condimentá con el queso y el orégano.",
+   "Cociná 10 minutos a 190 °C."
+  ],
+  "consejo": "Con salsa criolla o un dip de yogur.",
+  "etiquetas": [
+   "picadas",
+   "sin gluten",
+   "económica"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-031",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizzetas-de-jamon-y-roquefort",
+  "titulo": "Pizzetas de jamón y roquefort",
+  "descripcion": "Pizzas chicas con jamón y queso azul, para acompañar una cerveza.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tapas de empanada",
+    "nota": "o pan pita",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 50,
+    "unidad": "g",
+    "nombre": "jamón cocido",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 50,
+    "unidad": "g",
+    "nombre": "queso azul",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Untá las bases con la salsa.",
+   "Cubrilas con el jamón y el queso azul y rociá con un poco de aceite.",
+   "Cociná 6 a 7 minutos a 185 °C."
+  ],
+  "consejo": "Nueces o cebolla morada caramelizada arriba.",
+  "etiquetas": [
+   "pizza",
+   "picadas",
+   "quesos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-032",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bastones-de-pure-rellenos-de-queso",
+  "titulo": "Bastones de puré rellenos de queso",
+  "descripcion": "Bastones de papa pisada con un centro de queso que se derrite.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "grande, hervida",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "queso cremoso",
+    "nota": "en cubitos",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Pisá la papa y mezclala con el queso rallado, el perejil, sal y pimienta.",
+   "Formá bastones; si querés, escondé un cubito de queso adentro de cada uno.",
+   "Cociná 10 minutos a 185 °C."
+  ],
+  "consejo": "Con barbacoa o salsa criolla.",
+  "etiquetas": [
+   "papas",
+   "picadas",
+   "quesos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-033",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-de-ajo-en-rodajas",
+  "titulo": "Pan de ajo en rodajas",
+  "descripcion": "Rodajas de baguette con manteca de ajo y perejil.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "pan",
+    "nota": "baguette, en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la manteca con el ajo y el perejil.",
+   "Untá las rodajas y cociná 6 minutos a 180 °C."
+  ],
+  "consejo": "Con queso rallado arriba sale gratinado.",
+  "etiquetas": [
+   "panes",
+   "picadas",
+   "ajo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-034",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "dip-caliente-de-cheddar-y-morron",
+  "titulo": "Dip caliente de cheddar y morrón",
+  "descripcion": "Salsa de queso fundido con morrón asado, para papas o bastones.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso cheddar",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "morrón",
+    "nota": "asado y picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Poné todo en un recipiente apto y calentalo 2 minutos a 150 °C.",
+   "Revolvé hasta que el queso esté liso."
+  ],
+  "consejo": "Servilo apenas sale, para mojar nachos o verduras crocantes.",
+  "etiquetas": [
+   "salsas",
+   "quesos",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-035",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "falafel-criollo",
+  "titulo": "Falafel criollo",
+  "descripcion": "Bocados de garbanzo con comino y perejil, crocantes y especiados.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "garbanzos",
+    "nota": "cocidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "comino",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "perejil",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá todo hasta tener una pasta firme.",
+   "Armá bolitas o nuggets.",
+   "Cociná 10 minutos a 185 °C."
+  ],
+  "consejo": "Acompañalo con hummus o una salsa fría de yogur.",
+  "etiquetas": [
+   "legumbres",
+   "vegetariano",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-036",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "calzoncitos-de-mozzarella-y-tomate",
+  "titulo": "Calzoncitos de mozzarella y tomate",
+  "descripcion": "Empanadas chicas a la italiana, con queso, tomate y orégano.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tapas de empanada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "mozzarella",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "salsa de tomate",
+    "nota": "por tapa",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "para pintar",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Rellená las tapas con la mozzarella, la salsa y el orégano.",
+   "Cerralas como empanadas y pintalas con huevo.",
+   "Cociná 8 minutos a 180 °C."
+  ],
+  "consejo": "Jamón o aceitunas en el relleno.",
+  "etiquetas": [
+   "picadas",
+   "italiana",
+   "empanadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-037",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bocaditos-de-lentejas",
+  "titulo": "Bocaditos de lentejas",
+  "descripcion": "Bolitas de lentejas con ajo y comino, nutritivas y sabrosas.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "lentejas",
+    "nota": "cocidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "comino y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá todo hasta tener una masa firme.",
+   "Armá bolitas y cociná 9 minutos a 185 °C."
+  ],
+  "consejo": "Con mayonesa de zanahoria o unas gotas de limón.",
+  "etiquetas": [
+   "legumbres",
+   "vegetariano",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-038",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pancitos-de-queso-estilo-brasileno",
+  "titulo": "Pancitos de queso estilo brasileño",
+  "descripcion": "Bolitas de mandioca y queso, elásticas por dentro y sin gluten.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "fécula de mandioca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y armá bolitas.",
+   "Cociná 8 a 9 minutos a 180 °C."
+  ],
+  "consejo": "Calientes, con un dip de queso crema.",
+  "etiquetas": [
+   "panes",
+   "sin gluten",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-039",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizzetas-criollas-de-carne-y-morron",
+  "titulo": "Pizzetas criollas de carne y morrón",
+  "descripcion": "Mitad pizza, mitad empanada: carne, morrón y queso gratinado.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tapas de empanada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "carne picada",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "morrón",
+    "nota": "asado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Untá las tapas con salsa y repartí la carne y el morrón.",
+   "Cubrilas con queso.",
+   "Cociná 8 a 9 minutos a 185 °C, hasta gratinar."
+  ],
+  "consejo": "Arriba, un poco de huevo duro picado y ají molido si te gusta picante.",
+  "etiquetas": [
+   "pizza",
+   "picadas",
+   "carnes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-040",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bocaditos-de-queso-y-cebolla",
+  "titulo": "Bocaditos de queso y cebolla",
+  "descripcion": "Bolitas de queso rallado y cebolla, tiernas y sabrosas.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": "o pan rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo en una masa.",
+   "Armá bolitas y cociná 8 a 9 minutos a 180 °C."
+  ],
+  "consejo": "Van bien con salsa tártara o una mayonesa con ajo.",
+  "etiquetas": [
+   "quesos",
+   "picadas",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-041",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "croquetas-de-queso-azul",
+  "titulo": "Croquetas de queso azul",
+  "descripcion": "Croquetas de papa con queso azul, intensas y cremosas.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 50,
+    "unidad": "g",
+    "nombre": "queso azul",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "chica, hervida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "pan rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá la papa y mezclala con los dos quesos.",
+   "Formá bolitas y pasalas por pan rallado.",
+   "Cociná 7 a 8 minutos a 185 °C."
+  ],
+  "consejo": "Con un dip de mostaza y miel.",
+  "etiquetas": [
+   "quesos",
+   "picadas",
+   "gourmet"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-042",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "chips-de-calabaza",
+  "titulo": "Chips de calabaza",
+  "descripcion": "Láminas finas de calabaza, dulzonas y crocantes.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "rodaja",
+    "nombre": "calabaza",
+    "nota": "grande",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimentón",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la calabaza en láminas muy finas.",
+   "Pincelalas con aceite y condimentá.",
+   "Cociná 9 minutos a 160 °C, en una sola capa."
+  ],
+  "consejo": "Mezclalos con chips de batata y de papa para tener tres colores en la fuente.",
+  "etiquetas": [
+   "snacks",
+   "verduras",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-043",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "dip-frio-de-queso-y-verdeo",
+  "titulo": "Dip frío de queso y verdeo",
+  "descripcion": "Queso crema batido con yogur y verdeo, para galletitas o bastones de zanahoria.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "cebolla de verdeo",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todos los ingredientes.",
+   "Dejalo 20 minutos en la heladera."
+  ],
+  "consejo": "Para untar galletitas o mojar zanahoria cortada en bastones.",
+  "etiquetas": [
+   "salsas",
+   "sin cocción",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-044",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bocaditos-de-jamon-crudo-y-queso",
+  "titulo": "Bocaditos de jamón crudo y queso",
+  "descripcion": "Bolitas de queso con jamón crudo picado, para una picada elegante.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 7,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "feta",
+    "nombre": "jamón crudo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "pan rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y armá bolitas chicas.",
+   "Cociná 7 minutos a 185 °C."
+  ],
+  "consejo": "Con un dip de oliva y limón.",
+  "etiquetas": [
+   "picadas",
+   "gourmet",
+   "quesos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-045",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "dip-de-limon-y-ajo",
+  "titulo": "Dip de limón y ajo",
+  "descripcion": "Yogur con limón y ajo, para cortar sabores fuertes.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "jugo y ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo.",
+   "Enfrialo antes de servir."
+  ],
+  "consejo": "Va con croquetas o papas.",
+  "etiquetas": [
+   "salsas",
+   "sin cocción",
+   "cítricos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-046",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bastones-de-papa-a-la-provenzal",
+  "titulo": "Bastones de papa a la provenzal",
+  "descripcion": "Papas crocantes terminadas con ajo y perejil.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "perejil",
+    "nota": "fresco, picado",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en bastones o cubos y mezclalas con el aceite.",
+   "Cociná 15 minutos a 185 °C.",
+   "Recién salidas, mezclalas con el ajo y el perejil."
+  ],
+  "consejo": "Si querés, sumá parmesano rallado antes de servir.",
+  "etiquetas": [
+   "papas",
+   "guarniciones",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-047",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-picantes",
+  "titulo": "Papas picantes",
+  "descripcion": "Gajos de papa con ají molido y pimentón ahumado.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 16,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "ají molido",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": "ahumado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en gajos y condimentalas con el aceite y las especias.",
+   "Cociná 15 a 16 minutos a 190 °C."
+  ],
+  "consejo": "Acompañalas con barbacoa casera o un dip frío de yogur.",
+  "etiquetas": [
+   "papas",
+   "picante",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-048",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-al-limon-y-romero",
+  "titulo": "Papas al limón y romero",
+  "descripcion": "Cubos de papa con limón y romero, para pescado o pollo.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "jugo de limón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "romero",
+    "nota": "o tomillo",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en cubos y condimentalas con el limón, el aceite y el romero.",
+   "Cociná 14 a 15 minutos a 185 °C."
+  ],
+  "consejo": "Junto a un pescado o pollo grillado.",
+  "etiquetas": [
+   "papas",
+   "guarniciones",
+   "mediterránea"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-049",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bocaditos-de-arroz-y-queso",
+  "titulo": "Bocaditos de arroz y queso",
+  "descripcion": "Bolitas para aprovechar el arroz que sobró.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "arroz",
+    "nota": "cocido",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y armá bolitas.",
+   "Rocialas con aceite y cociná 9 a 10 minutos a 185 °C."
+  ],
+  "consejo": "Quedan bien mojadas en salsa criolla o kétchup.",
+  "etiquetas": [
+   "aprovechamiento",
+   "picadas",
+   "económica"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-050",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bocaditos-de-pollo-al-curry",
+  "titulo": "Bocaditos de pollo al curry",
+  "descripcion": "Bolitas de pollo con curry, doradas y perfumadas.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "pollo",
+    "nota": "picado o desmenuzado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "curry",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": "o pan rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo en una masa firme.",
+   "Armá bolitas o hamburguesitas.",
+   "Cociná 9 a 10 minutos a 185 °C."
+  ],
+  "consejo": "Para acompañar, yogur natural con jugo de limón.",
+  "etiquetas": [
+   "pollo",
+   "picadas",
+   "especiado"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-051",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-fritas-sin-aceite",
+  "titulo": "Papas fritas sin aceite",
+  "descripcion": "Bastones como los de las cadenas de comida rápida, con apenas una cucharadita de aceite.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 17,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, ajo en polvo y pimentón",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en bastones y dejalas 10 minutos en agua fría.",
+   "Secalas muy bien y condimentalas con el aceite y las especias.",
+   "Cociná 16 a 18 minutos a 190 °C, moviéndolas a mitad de camino."
+  ],
+  "consejo": "Queso rallado apenas salen.",
+  "etiquetas": [
+   "papas",
+   "chicos",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-052",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "medallones-chicos-de-lentejas",
+  "titulo": "Medallones chicos de lentejas",
+  "descripcion": "Medallones de lentejas con comino, para picadas sin carne.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "lentejas",
+    "nota": "cocidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "o 1 cucharada de harina de garbanzo con agua",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "comino",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá todo.",
+   "Armá medallones chicos y cociná 9 a 10 minutos a 185 °C."
+  ],
+  "consejo": "Para acompañar: mayonesa de zanahoria o un chutney.",
+  "etiquetas": [
+   "legumbres",
+   "vegano",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-053",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bastones-de-provolone",
+  "titulo": "Bastones de provolone",
+  "descripcion": "Bastones empanados de provolone, entre provoleta y snack.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "provoleta",
+    "nota": "en bastones",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "batido",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "pan rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pasá los bastones por huevo y después por pan rallado con orégano.",
+   "Dejalos 10 minutos en el freezer.",
+   "Cociná 7 a 8 minutos a 185 °C."
+  ],
+  "consejo": "Mostaza dulce o salsa criolla para mojar.",
+  "etiquetas": [
+   "quesos",
+   "picadas",
+   "empanados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-054",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bocaditos-de-brocoli-y-queso",
+  "titulo": "Bocaditos de brócoli y queso",
+  "descripcion": "Bolitas verdes de brócoli, una forma fácil de comer verdura.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": "cocido y picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y armá bolitas.",
+   "Acomodalas sobre papel manteca y cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Con limón o una salsa blanca liviana.",
+  "etiquetas": [
+   "verduras",
+   "chicos",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-055",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "chips-de-berenjena",
+  "titulo": "Chips de berenjena",
+  "descripcion": "Rodajas muy finas de berenjena, secas y crocantes.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la berenjena en rodajas finas.",
+   "Pincelalas con aceite, condimentá y cociná 10 minutos a 165 °C."
+  ],
+  "consejo": "Con guacamole o salsa criolla.",
+  "etiquetas": [
+   "snacks",
+   "verduras",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-056",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "medallones-de-garbanzos-y-calabaza",
+  "titulo": "Medallones de garbanzos y calabaza",
+  "descripcion": "Medallones dulzones de garbanzo y calabaza con comino.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "garbanzos",
+    "nota": "cocidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "en puré",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "comino, sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá todo hasta tener una pasta espesa.",
+   "Formá medallones y cociná 9 minutos a 180 °C."
+  ],
+  "consejo": "Acompañalos con salsa criolla o yogur con hierbas.",
+  "etiquetas": [
+   "legumbres",
+   "vegano",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-057",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "alitas-picantes-al-pimenton",
+  "titulo": "Alitas picantes al pimentón",
+  "descripcion": "Alitas con pimentón picante y barbacoa, al estilo búfalo pero sin fritura.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 17,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "alitas de pollo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": "picante",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "salsa barbacoa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y ajo en polvo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Condimentá las alitas y dejalas marinar 30 minutos.",
+   "Acomodalas en la canasta sin encimar y cociná 16 a 18 minutos a 190 °C."
+  ],
+  "consejo": "Con salsa de yogur o tipo ranch.",
+  "etiquetas": [
+   "pollo",
+   "picante",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-058",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-salados-de-queso",
+  "titulo": "Muffins salados de queso",
+  "descripcion": "Muffins chicos y esponjosos de queso rallado.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y llená moldes chicos.",
+   "Cociná 8 minutos a 175 °C."
+  ],
+  "consejo": "Jamón en trocitos o aceitunas verdes en la mezcla.",
+  "etiquetas": [
+   "muffins",
+   "quesos",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-059",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bocaditos-de-choclo-y-queso-crema",
+  "titulo": "Bocaditos de choclo y queso crema",
+  "descripcion": "Bocados dorados de choclo con centro cremoso.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "choclo",
+    "nota": "en granos",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "fécula de maíz",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo hasta integrar.",
+   "Volcá cucharadas sobre papel manteca y cociná 8 a 9 minutos a 180 °C."
+  ],
+  "consejo": "Mojalos en mostaza con miel o en salsa de tomate.",
+  "etiquetas": [
+   "verduras",
+   "picadas",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-060",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "empanaditas-saltenas",
+  "titulo": "Empanaditas salteñas",
+  "descripcion": "Empanadas norteñas de carne con papa, comino y huevo.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "chica, en cubitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "comino",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo duro",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tapas de empanada",
+    "nota": "chicas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná la carne con la cebolla, sumá la papa y seguí hasta que esté tierna.",
+   "Condimentá con comino y, ya frío, agregá el huevo.",
+   "Rellená las tapas, cerralas y pintalas con huevo.",
+   "Cociná 10 minutos a 185 °C."
+  ],
+  "consejo": "Pasas o aceitunas, como en el norte.",
+  "etiquetas": [
+   "empanadas",
+   "regional",
+   "carnes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-061",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pinchos-de-carne-morron-y-cebolla",
+  "titulo": "Pinchos de carne, morrón y cebolla",
+  "descripcion": "Pinchos con sabor a asado, sin parrilla.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "carne vacuna",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": "rojo",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite, sal y chimichurri seco",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las verduras en cubos y armá los pinchos alternando con la carne.",
+   "Pincelalos con aceite y condimentá.",
+   "Cociná 12 minutos a 190 °C."
+  ],
+  "consejo": "Con salsa criolla o chimichurri.",
+  "etiquetas": [
+   "carnes",
+   "pinchos",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-062",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bastones-de-trucha-patagonica",
+  "titulo": "Bastones de trucha patagónica",
+  "descripcion": "Tiras de trucha empanadas con perejil, tiernas por dentro.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "trucha",
+    "nota": "sin piel",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "pan rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "jugo de limón y perejil",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la trucha en tiras y rociala con limón.",
+   "Pasala por huevo y por pan rallado mezclado con perejil.",
+   "Cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Un yogur con eneldo picado es la salsa ideal.",
+  "etiquetas": [
+   "pescados",
+   "regional",
+   "empanados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-063",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "humitas-en-moldecitos",
+  "titulo": "Humitas en moldecitos",
+  "descripcion": "Humita de choclo rallado cocida en moldes, sin chala ni vaporera.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "choclo",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y repartilo en moldes individuales.",
+   "Cociná 12 minutos a 180 °C, hasta dorar la superficie."
+  ],
+  "consejo": "Con salsa criolla o un hilo de miel.",
+  "etiquetas": [
+   "regional",
+   "verduras",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-064",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pastelitos-salados-de-queso-y-cebolla",
+  "titulo": "Pastelitos salados de queso y cebolla",
+  "descripcion": "Triángulos de masa rellenos de cebolla salteada y queso.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tapas de empanada",
+    "nota": "o masa de hojaldre",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "salteada",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "batido",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Repartí la cebolla y el queso sobre las tapas y doblalas en triángulo.",
+   "Pintalas con huevo.",
+   "Cociná 8 a 9 minutos a 185 °C."
+  ],
+  "consejo": "Jamón o aceitunas en el relleno.",
+  "etiquetas": [
+   "picadas",
+   "empanadas",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-065",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "empanaditas-de-cordero",
+  "titulo": "Empanaditas de cordero",
+  "descripcion": "Empanadas patagónicas de cordero con comino y pimentón.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "cordero",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "comino",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tapas de empanada",
+    "nota": "chicas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná el cordero con la cebolla y las especias.",
+   "Rellená las tapas y cerralas.",
+   "Cociná 10 minutos a 185 °C."
+  ],
+  "consejo": "Con salsa criolla o mostaza con miel.",
+  "etiquetas": [
+   "empanadas",
+   "regional",
+   "carnes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-066",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bruschettas-de-tomate-y-ajo",
+  "titulo": "Bruschettas de tomate y ajo",
+  "descripcion": "Baguette tostada con tomate, ajo, albahaca y oliva.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan",
+    "nota": "tipo baguette",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "albahaca y aceite de oliva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Tostá el pan 3 minutos a 180 °C.",
+   "Picá el tomate y mezclalo con el ajo, la albahaca y el aceite.",
+   "Repartilo sobre el pan y calentá 2 minutos más."
+  ],
+  "consejo": "Queso fresco o mozzarella arriba.",
+  "etiquetas": [
+   "picadas",
+   "italiana",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-067",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "asadito-en-cubos",
+  "titulo": "Asadito en cubos",
+  "descripcion": "Cubos de carne con chimichurri, con gusto a parrilla y sin carbón.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "carne vacuna",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "chimichurri seco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la carne con el chimichurri, el aceite, sal y pimienta y dejala 30 minutos.",
+   "Cociná 12 minutos a 190 °C."
+  ],
+  "consejo": "Servilo con pan casero o unas papas al romero.",
+  "etiquetas": [
+   "carnes",
+   "clásico argentino",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-068",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "provoleta-con-tomates-secos",
+  "titulo": "Provoleta con tomates secos",
+  "descripcion": "Provoleta gratinada con orégano y tomates secos.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "rodaja",
+    "nombre": "provoleta",
+    "nota": "gruesa",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "secos, hidratados",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Apoyá la provoleta sobre papel manteca.",
+   "Cubrila con el orégano y los tomates secos y rociá con aceite.",
+   "Cociná 6 a 7 minutos a 185 °C."
+  ],
+  "consejo": "Acompañala con tostadas o pan de campo.",
+  "etiquetas": [
+   "quesos",
+   "picadas",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-069",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bolitas-de-choclo-y-panceta",
+  "titulo": "Bolitas de choclo y panceta",
+  "descripcion": "Bocados de choclo con panceta, crocantes y ahumados.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "choclo",
+    "nota": "en granos",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "panceta",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "pan rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y armá bolitas.",
+   "Cociná 9 minutos a 185 °C."
+  ],
+  "consejo": "Para mojar, salsa criolla o mayonesa con pimentón.",
+  "etiquetas": [
+   "picadas",
+   "cerdo",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-070",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tacos-criollos-de-carne",
+  "titulo": "Tacos criollos de carne",
+  "descripcion": "Tacos armados con tapas de empanada y carne especiada.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "tapas de empanada",
+    "nota": "chicas",
+    "opcional": false
+   },
+   {
+    "cantidad": 150,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "comino y pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná la carne con la cebolla, el morrón y las especias.",
+   "Calentá las tapas 5 minutos a 185 °C para que se doren y se curven apenas.",
+   "Rellenalas con la carne."
+  ],
+  "consejo": "Con salsa criolla o guacamole.",
+  "etiquetas": [
+   "carnes",
+   "mexicana",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-071",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "nachos-con-queso",
+  "titulo": "Nachos con queso",
+  "descripcion": "Triángulos de tortilla de maíz crocantes, con queso fundido.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "tortillas de maíz",
+    "nota": "en triángulos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimentón y sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Rociá los triángulos con aceite y condimentá.",
+   "Cociná 4 minutos a 185 °C, sumá el queso y seguí 2 minutos más."
+  ],
+  "consejo": "Con guacamole o porotos negros.",
+  "etiquetas": [
+   "picadas",
+   "mexicana",
+   "quesos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-07-072",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "hamburguesas-de-lentejas",
+  "titulo": "Hamburguesas de lentejas",
+  "descripcion": "Medallones de lentejas con cebolla y ajo, que llenan y tienen mucha fibra.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "lentejas",
+    "nota": "cocidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "o 1 cucharada de semillas de lino hidratadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": "o harina de garbanzo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, comino y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá las lentejas con la cebolla y el ajo, dejando algo de textura.",
+   "Sumá el huevo, la avena y los condimentos.",
+   "Formá medallones y dejalos 10 minutos en la heladera.",
+   "Cociná 10 a 12 minutos a 185 °C, dándolos vuelta a la mitad."
+  ],
+  "consejo": "Se congelan crudas, separadas con papel, y se cocinan sin descongelar.",
+  "etiquetas": [
+   "legumbres",
+   "vegetariano",
+   "para congelar"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-001",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "zucchinis-rellenos-de-ricota-y-tomate",
+  "titulo": "Zucchinis rellenos de ricota y tomate",
+  "descripcion": "Mitades de zucchini con un relleno fresco de ricota y tomate.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": "medianos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, orégano y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí cada zucchini en dos a lo largo y sacales un poco de pulpa.",
+   "Mezclá el tomate con la ricota y los condimentos y rellenalos.",
+   "Espolvoreá el queso y cociná 12 minutos a 180 °C."
+  ],
+  "consejo": "Semillas de girasol o lino arriba suman crocancia.",
+  "etiquetas": [
+   "verduras",
+   "fit",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-002",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "croquetas-de-garbanzos",
+  "titulo": "Croquetas de garbanzos",
+  "descripcion": "Croquetas de garbanzo con cebolla y perejil, sin harina.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "garbanzos",
+    "nota": "cocidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "comino, pimienta y sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá todo hasta tener una pasta densa.",
+   "Formá croquetas chicas y cociná 9 a 10 minutos a 185 °C."
+  ],
+  "consejo": "Acompañalas con hummus o yogur condimentado.",
+  "etiquetas": [
+   "legumbres",
+   "vegetariano",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-003",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-de-huevo-y-queso-sin-masa",
+  "titulo": "Pizza de huevo y queso sin masa",
+  "descripcion": "Base de huevo y queso para quienes no comen harinas.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 7,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": "mozzarella o port salut",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa de tomate y coberturas",
+    "nota": "a gusto",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con el queso y el orégano.",
+   "Extendé la mezcla en un disco sobre papel manteca, dentro de la canasta, y cocinala 7 minutos a 185 °C.",
+   "Cubrila y cociná 5 minutos más."
+  ],
+  "consejo": "Con tomate en rodajas y albahaca.",
+  "etiquetas": [
+   "pizza",
+   "keto",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-004",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tortilla-proteica-de-claras",
+  "titulo": "Tortilla proteica de claras",
+  "descripcion": "Tortilla chica de claras y avena, con mucha proteína y pocos hidratos.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "clara de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "semillas de chía",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí todo y volcalo en un molde de silicona.",
+   "Cociná 8 minutos a 180 °C."
+  ],
+  "consejo": "Rellenala con espinaca o pollo desmenuzado.",
+  "etiquetas": [
+   "huevos",
+   "proteico",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-005",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
  }
 ]

@@ -1843,5 +1843,41 @@
   "grasas": 26.62,
   "carbohidratos": 2.14,
   "fibra": 0.0
+ },
+ "queso cheddar": {
+  "fdc_id": 170899,
+  "usda": "Cheese, cheddar, sharp, sliced",
+  "kcal": 410.0,
+  "proteinas": 24.25,
+  "grasas": 33.82,
+  "carbohidratos": 2.13,
+  "fibra": 0.0
+ },
+ "trucha": {
+  "fdc_id": 173717,
+  "usda": "Fish, trout, rainbow, farmed, raw",
+  "kcal": 141.0,
+  "proteinas": 19.94,
+  "grasas": 6.18,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "cordero": {
+  "fdc_id": 174370,
+  "usda": "Lamb, ground, raw",
+  "kcal": 282.0,
+  "proteinas": 16.56,
+  "grasas": 23.41,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "tortillas de maíz": {
+  "fdc_id": 175036,
+  "usda": "Tortillas, ready-to-bake or -fry, corn",
+  "kcal": 218.0,
+  "proteinas": 5.7,
+  "grasas": 2.85,
+  "carbohidratos": 44.64,
+  "fibra": 6.3
  }
 }
