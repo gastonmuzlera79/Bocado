@@ -2209,5 +2209,13 @@
   "tortillas|ready-to-bake|corn",
   26,
   null
+ ],
+ "leche de coco": [
+  "bebidas",
+  0,
+  [],
+  "nuts|coconut milk|canned",
+  null,
+  240
  ]
 }

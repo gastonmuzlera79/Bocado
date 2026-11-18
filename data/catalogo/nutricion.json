@@ -1879,5 +1879,14 @@
   "grasas": 2.85,
   "carbohidratos": 44.64,
   "fibra": 6.3
+ },
+ "leche de coco": {
+  "fdc_id": 170173,
+  "usda": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)",
+  "kcal": 197.0,
+  "proteinas": 2.02,
+  "grasas": 21.33,
+  "carbohidratos": 2.81,
+  "fibra": 0.0
  }
 }

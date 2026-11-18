@@ -34670,5 +34670,2770 @@
   "origen": "recetario",
   "origen_ref": "af-08-005",
   "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "medallones-de-brocoli-y-avena",
+  "titulo": "Medallones de brócoli y avena",
+  "descripcion": "Medallones verdes para sumar verdura y fibra a cualquier comida.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": "cocido y picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo en una masa.",
+   "Formá medallones y cociná 9 minutos a 185 °C."
+  ],
+  "consejo": "Unas gotas de limón o yogur al costado.",
+  "etiquetas": [
+   "verduras",
+   "fit",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-006",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "nuggets-de-pollo-sin-pan-rallado",
+  "titulo": "Nuggets de pollo sin pan rallado",
+  "descripcion": "Nuggets de pollo molido con avena o almendras, sin fritura.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "pechuga de pollo",
+    "nota": "molida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": "o harina de almendras",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, ajo y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y armá nuggets chicos.",
+   "Acomodalos sobre papel manteca y cociná 10 minutos a 185 °C."
+  ],
+  "consejo": "Para mojar: mostaza con un poco de miel o mayonesa liviana.",
+  "etiquetas": [
+   "pollo",
+   "fit",
+   "chicos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-007",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "rollitos-de-zucchini-y-ricota",
+  "titulo": "Rollitos de zucchini y ricota",
+  "descripcion": "Láminas de zucchini enrolladas con ricota y orégano.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": "en láminas finas a lo largo",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la ricota con el queso y los condimentos.",
+   "Untá cada lámina, enrollala y sujetala con un palillo.",
+   "Cociná 8 a 9 minutos a 180 °C."
+  ],
+  "consejo": "Espinaca picada en el relleno le suma fibra.",
+  "etiquetas": [
+   "verduras",
+   "fit",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-008",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "croquetas-de-zanahoria-y-garbanzos",
+  "titulo": "Croquetas de zanahoria y garbanzos",
+  "descripcion": "Croquetas dulzonas de garbanzo y zanahoria, para acompañar una ensalada.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "garbanzos",
+    "nota": "cocidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "comino, sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá todo hasta tener una masa firme.",
+   "Formá croquetas y cociná 9 minutos a 185 °C."
+  ],
+  "consejo": "Un yogur con limón queda bien al lado.",
+  "etiquetas": [
+   "legumbres",
+   "vegetariano",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-009",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bifes-de-soja-marinados",
+  "titulo": "Bifes de soja marinados",
+  "descripcion": "Bifes de soja con salsa de soja, pimentón y ajo, dorados y sin grasa.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "soja texturizada",
+    "nota": "bifes hidratados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "salsa de soja",
+    "nota": "baja en sodio",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano, pimentón y ajo en polvo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la salsa de soja con el aceite y las especias y dejá los bifes 20 minutos en esa marinada.",
+   "Cociná 10 minutos a 185 °C."
+  ],
+  "consejo": "Van con puré de calabaza o una ensalada.",
+  "etiquetas": [
+   "vegano",
+   "fit",
+   "legumbres"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-010",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pechugas-al-limon-y-romero",
+  "titulo": "Pechugas al limón y romero",
+  "descripcion": "Pechugas jugosas con limón y romero, para ensaladas o con verduras.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": "chicas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "romero, ajo en polvo y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Dejá las pechugas 20 minutos con el limón, el aceite y los condimentos.",
+   "Acomodalas en la canasta sin encimar.",
+   "Cociná 14 a 15 minutos a 190 °C."
+  ],
+  "consejo": "Unas rodajas de limón en la canasta suman aroma.",
+  "etiquetas": [
+   "pollo",
+   "fit",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-011",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bowl-de-verduras-asadas",
+  "titulo": "Bowl de verduras asadas",
+  "descripcion": "Brócoli, calabaza y zanahoria asados juntos, para un plato colorido.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 13,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "zanahoria",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y hierbas",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá las verduras con el aceite y los condimentos.",
+   "Cociná 12 a 14 minutos a 185 °C, sacudiendo una vez."
+  ],
+  "consejo": "Con huevo duro o tofu queda como plato completo.",
+  "etiquetas": [
+   "verduras",
+   "fit",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-012",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "omelette-de-claras-y-espinaca",
+  "titulo": "Omelette de claras y espinaca",
+  "descripcion": "Omelette liviano de claras, para una cena rápida o después de entrenar.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "clara de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí las claras con sal y pimienta y sumá la espinaca.",
+   "Volcalo en un molde de silicona y espolvoreá el queso.",
+   "Cociná 7 a 8 minutos a 180 °C."
+  ],
+  "consejo": "Relleno con tomate y jamón magro.",
+  "etiquetas": [
+   "huevos",
+   "fit",
+   "proteico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-013",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "hamburguesas-de-pollo-y-avena",
+  "titulo": "Hamburguesas de pollo y avena",
+  "descripcion": "Hamburguesas de pollo más livianas que las de carne.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "pollo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "ajo, perejil y sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo en una masa firme.",
+   "Formá medallones y cociná 10 minutos a 185 °C."
+  ],
+  "consejo": "Ya cocidas se congelan y se recalientan en la freidora sin descongelar.",
+  "etiquetas": [
+   "pollo",
+   "fit",
+   "para congelar"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-014",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tacos-en-hojas-de-lechuga",
+  "titulo": "Tacos en hojas de lechuga",
+  "descripcion": "Tacos sin masa: la lechuga hace de tortilla.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 3,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "hoja",
+    "nombre": "lechuga",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": "magra, cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimentón y comino",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Calentá la carne con el pimentón y el comino 3 minutos a 170 °C.",
+   "Repartila en las hojas con el tomate y el yogur."
+  ],
+  "consejo": "Palta pisada o cebolla morada arriba.",
+  "etiquetas": [
+   "carnes",
+   "keto",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-015",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "panecillos-de-queso-y-avena",
+  "titulo": "Panecillos de queso y avena",
+  "descripcion": "Bollitos de avena y queso que reemplazan al pan.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y armá bollitos.",
+   "Acomodalos sobre papel manteca y cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Se congelan bien y recuperan la textura al recalentarlos.",
+  "etiquetas": [
+   "panes",
+   "fit",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-016",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "chips-de-zucchini",
+  "titulo": "Chips de zucchini",
+  "descripcion": "Rodajas muy finas de zucchini, crocantes y livianas.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, ajo en polvo y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá el zucchini en láminas finas y secalas con papel.",
+   "Condimentalas con el aceite y las especias.",
+   "Cociná 8 a 9 minutos a 170 °C."
+  ],
+  "consejo": "Con zanahoria o berenjena se hacen igual.",
+  "etiquetas": [
+   "snacks",
+   "verduras",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-017",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "albondigas-de-carne-magra",
+  "titulo": "Albóndigas de carne magra",
+  "descripcion": "Albóndigas chicas y livianas, con avena en vez de pan.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "ajo, perejil, sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y armá albóndigas chicas.",
+   "Rocialas con aceite y cociná 10 minutos a 190 °C."
+  ],
+  "consejo": "Con puré de calabaza o verduras a la plancha.",
+  "etiquetas": [
+   "carnes",
+   "fit",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-018",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "medallones-de-carne-y-verduras",
+  "titulo": "Medallones de carne y verduras",
+  "descripcion": "Medallones de carne con zapallito o zanahoria rallada.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "zapallito",
+    "nota": "o zanahoria, rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta, orégano y ajo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y formá medallones.",
+   "Cociná 10 a 11 minutos a 185 °C, sin encimar."
+  ],
+  "consejo": "Una feta de queso arriba en los últimos 2 minutos.",
+  "etiquetas": [
+   "carnes",
+   "verduras",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-019",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "huevos-rellenos-livianos",
+  "titulo": "Huevos rellenos livianos",
+  "descripcion": "Huevos duros rellenos de yema, yogur y mostaza.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 2,
+  "temperatura_c": 150,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo duro",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": "o mayonesa liviana",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "mostaza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá los huevos al medio y sacá las yemas.",
+   "Pisalas con el yogur, la mostaza, sal y pimienta.",
+   "Rellená las claras; si querés, templalas 2 minutos a 150 °C."
+  ],
+  "consejo": "Atún o palta en el relleno los hace más contundentes.",
+  "etiquetas": [
+   "huevos",
+   "sin cocción",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-020",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "wraps-de-pollo-y-verduras",
+  "titulo": "Wraps de pollo y verduras",
+  "descripcion": "Tortillas rellenas de pollo, zanahoria y pepino, doradas apenas.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tortillas de trigo",
+    "nota": "integrales",
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "pollo",
+    "nota": "cocido y desmenuzado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "pepino",
+    "nota": "en tiras",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Repartí el relleno en las tortillas y enrollalas.",
+   "Doralas 5 a 6 minutos a 180 °C."
+  ],
+  "consejo": "Lechuga o rúcula adentro le dan frescura.",
+  "etiquetas": [
+   "pollo",
+   "fit",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-021",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pancito-de-claras-y-avena",
+  "titulo": "Pancito de claras y avena",
+  "descripcion": "Pan sin harina refinada, de claras batidas y avena.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "clara de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí las claras y sumá la avena, el polvo de hornear y los condimentos.",
+   "Volcalo en moldes chicos y cociná 10 minutos a 175 °C."
+  ],
+  "consejo": "Cortado y tostado 2 minutos más queda crocante.",
+  "etiquetas": [
+   "panes",
+   "proteico",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-022",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "frittata-de-brocoli-y-zanahoria",
+  "titulo": "Frittata de brócoli y zanahoria",
+  "descripcion": "Frittata colorida con pocas harinas.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos, sumá las verduras y los condimentos y volcalo en un molde de silicona.",
+   "Cociná 9 minutos a 180 °C, hasta que cuaje."
+  ],
+  "consejo": "Se come fría o caliente.",
+  "etiquetas": [
+   "huevos",
+   "verduras",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-023",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-claras-y-queso",
+  "titulo": "Muffins de claras y queso",
+  "descripcion": "Bocados salados de claras, para desayunar o picar.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "clara de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y perejil",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí las claras con el resto.",
+   "Repartilo en moldes de silicona y cociná 8 a 9 minutos a 175 °C."
+  ],
+  "consejo": "Espinaca o jamón magro picado en la mezcla.",
+  "etiquetas": [
+   "muffins",
+   "proteico",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-024",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pancitos-de-queso-sin-almidon",
+  "titulo": "Pancitos de queso sin almidón",
+  "descripcion": "Pancitos de huevo y queso, sin harina ni fécula.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo.",
+   "Repartilo en moldes chicos y cociná 8 minutos a 180 °C."
+  ],
+  "consejo": "Acompañan bien una sopa o una ensalada.",
+  "etiquetas": [
+   "panes",
+   "keto",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-025",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "lasana-de-zucchini",
+  "titulo": "Lasaña de zucchini",
+  "descripcion": "Lasaña sin pasta: capas de zucchini, salsa y ricota.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": "grande",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá el zucchini en láminas.",
+   "En un molde, alterná láminas, salsa y ricota, y terminá con el queso.",
+   "Cociná 12 minutos a 180 °C."
+  ],
+  "consejo": "Esperá 5 minutos antes de cortarla para que no se desarme.",
+  "etiquetas": [
+   "verduras",
+   "fit",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-026",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "croquetas-de-espinaca-y-ricota",
+  "titulo": "Croquetas de espinaca y ricota",
+  "descripcion": "Croquetas verdes, sin harina, con espinaca y ricota.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": "o harina de garbanzo",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo en una masa firme.",
+   "Formá bolitas o medallones y cociná 9 a 10 minutos a 185 °C."
+  ],
+  "consejo": "Nuez moscada y ralladura de limón en la mezcla.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-027",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "medallones-de-pollo-y-zanahoria",
+  "titulo": "Medallones de pollo y zanahoria",
+  "descripcion": "Medallones de pollo con zanahoria rallada, jugosos y dorados.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "pollo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, orégano y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y formá medallones.",
+   "Cociná 10 a 11 minutos a 185 °C."
+  ],
+  "consejo": "Con puré de calabaza o ensalada.",
+  "etiquetas": [
+   "pollo",
+   "verduras",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-028",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "rollitos-de-berenjena-con-pollo",
+  "titulo": "Rollitos de berenjena con pollo",
+  "descripcion": "Láminas de berenjena enrolladas con pollo desmenuzado.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": "en láminas finas",
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "pollo",
+    "nota": "cocido y desmenuzado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Repartí el pollo condimentado sobre las láminas.",
+   "Enrollalas, sujetalas con palillos y espolvoreá el queso.",
+   "Cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "El pollo se puede cambiar por atún o espinaca.",
+  "etiquetas": [
+   "verduras",
+   "pollo",
+   "keto"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-029",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-zanahoria-y-oregano",
+  "titulo": "Muffins de zanahoria y orégano",
+  "descripcion": "Muffins salados de zanahoria, apenas dulces, para acompañar.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y repartilo en moldes de silicona.",
+   "Cociná 8 a 9 minutos a 180 °C."
+  ],
+  "consejo": "Semillas o un poco de queso arriba.",
+  "etiquetas": [
+   "muffins",
+   "verduras",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-030",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bowl-de-pollo-y-palta",
+  "titulo": "Bowl de pollo y palta",
+  "descripcion": "Plato frío y saciante con pollo, palta, huevo y cherry.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "pollo",
+    "nota": "cocido",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "palta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo duro",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "cherry",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Si querés el pollo caliente, doralo 5 minutos a 185 °C.",
+   "Armá el bowl con todos los ingredientes y condimentá con aceite, sal y pimienta."
+  ],
+  "consejo": "Semillas de girasol le dan crocancia.",
+  "etiquetas": [
+   "pollo",
+   "keto",
+   "sin cocción"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-031",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-con-base-de-pollo-2",
+  "titulo": "Pizza con base de pollo",
+  "descripcion": "Base de pollo, huevo y queso, sin harina y dorada.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 150,
+    "unidad": "g",
+    "nombre": "pollo",
+    "nota": "molido",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa de tomate y coberturas",
+    "nota": "a gusto",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní el pollo con el huevo y el queso.",
+   "Estirá la mezcla en un disco sobre papel manteca y cocinalo 8 minutos a 185 °C.",
+   "Cubrilo y cociná 5 minutos más."
+  ],
+  "consejo": "Con mozzarella y tomate en rodajas.",
+  "etiquetas": [
+   "pizza",
+   "keto",
+   "pollo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-032",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "nuggets-de-lentejas",
+  "titulo": "Nuggets de lentejas",
+  "descripcion": "Nuggets de legumbres, crocantes y sin aceite.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "lentejas",
+    "nota": "cocidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, ajo y perejil",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá todo hasta tener una masa firme.",
+   "Formá nuggets, acomodalos sobre papel manteca y cociná 10 minutos a 185 °C."
+  ],
+  "consejo": "Mojados en yogur con mostaza.",
+  "etiquetas": [
+   "legumbres",
+   "vegetariano",
+   "chicos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-033",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tarta-sin-masa-de-espinaca-y-queso",
+  "titulo": "Tarta sin masa de espinaca y queso",
+  "descripcion": "El relleno de la tarta de espinaca, cocido solo en un molde.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y volcalo en un molde de silicona.",
+   "Cociná 12 minutos a 180 °C."
+  ],
+  "consejo": "Con ensalada o tomates cherry.",
+  "etiquetas": [
+   "tartas",
+   "vegetariano",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-034",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "chips-de-pepino-al-pimenton",
+  "titulo": "Chips de pepino al pimentón",
+  "descripcion": "Láminas de pepino deshidratadas y crocantes, con condimento criollo.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "pepino",
+    "nota": "grande",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimentón y ajo en polvo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá el pepino en láminas finas y secalas bien.",
+   "Condimentalas con el aceite y las especias.",
+   "Cociná 9 minutos a 160 °C."
+  ],
+  "consejo": "Para mojar en hummus o guacamole.",
+  "etiquetas": [
+   "snacks",
+   "verduras",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-035",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizzetas-de-coliflor",
+  "titulo": "Pizzetas de coliflor",
+  "descripcion": "Discos chicos de coliflor y huevo como base de pizza.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "coliflor",
+    "nota": "procesada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa de tomate y coberturas",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la coliflor con el huevo y el queso y formá discos chicos sobre papel manteca.",
+   "Cocinalos 8 minutos a 185 °C.",
+   "Cubrilos y gratiná 5 minutos más."
+  ],
+  "consejo": "Con brócoli sale una versión verde.",
+  "etiquetas": [
+   "pizza",
+   "sin harina",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-036",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tortilla-de-verduras-variadas",
+  "titulo": "Tortilla de verduras variadas",
+  "descripcion": "Tortilla para aprovechar las verduras que quedan en la heladera.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "zapallito",
+    "nota": "o zanahoria y cebolla, picados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con las verduras y los condimentos.",
+   "Volcalo en un molde aceitado y cociná 9 minutos a 185 °C."
+  ],
+  "consejo": "Con palta o yogur natural.",
+  "etiquetas": [
+   "huevos",
+   "aprovechamiento",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-037",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bowl-de-carne-con-calabaza-y-brocoli",
+  "titulo": "Bowl de carne con calabaza y brócoli",
+  "descripcion": "Carne magra con verduras asadas, con mucha proteína y pocos hidratos.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 150,
+    "unidad": "g",
+    "nombre": "carne vacuna",
+    "nota": "magra, cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "asada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Si la carne está fría, dorala 5 minutos a 190 °C.",
+   "Armá el bowl con las verduras y condimentá con aceite y pimienta."
+  ],
+  "consejo": "Un huevo poché o semillas arriba.",
+  "etiquetas": [
+   "carnes",
+   "keto",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-038",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "champinones-rellenos-de-ricota",
+  "titulo": "Champiñones rellenos de ricota",
+  "descripcion": "Champiñones grandes rellenos de ricota, ajo y perejil.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "champiñones",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "ajo y perejil",
+    "nota": "picados",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Sacá los tallos y picalos.",
+   "Mezclalos con la ricota, el queso, el ajo y el perejil y rellená los sombreros.",
+   "Cociná 8 minutos a 180 °C."
+  ],
+  "consejo": "Nueces picadas arriba.",
+  "etiquetas": [
+   "verduras",
+   "entradas",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-039",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "sopa-de-calabaza-asada-y-coco",
+  "titulo": "Sopa de calabaza asada y coco",
+  "descripcion": "Calabaza dorada en la freidora y licuada con leche de coco.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 300,
+    "unidad": "g",
+    "nombre": "calabaza",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche de coco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y cúrcuma",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná la calabaza 12 minutos a 185 °C.",
+   "Licuala con la leche de coco y los condimentos; si queda espesa, sumá agua caliente."
+  ],
+  "consejo": "Semillas tostadas o jengibre rallado al servir.",
+  "etiquetas": [
+   "sopas",
+   "vegano",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-040",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "waffles-de-claras-y-banana",
+  "titulo": "Waffles de claras y banana",
+  "descripcion": "Waffles de avena, claras y banana, sin azúcar agregada.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "clara de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "pisada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela y esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo.",
+   "Volcalo en moldes de silicona para waffles o en un molde plano.",
+   "Cociná 9 minutos a 175 °C."
+  ],
+  "consejo": "Con yogur y frutos rojos.",
+  "etiquetas": [
+   "desayuno",
+   "proteico",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-041",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pancakes-de-claras-y-avena",
+  "titulo": "Pancakes de claras y avena",
+  "descripcion": "Pancakes livianos para empezar el día con proteína.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "clara de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "o 1 cucharadita de miel",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y dejalo reposar 5 minutos.",
+   "Volcá porciones chicas sobre papel manteca y cociná 8 minutos a 175 °C."
+  ],
+  "consejo": "Untados con pasta de maní o mermelada sin azúcar.",
+  "etiquetas": [
+   "desayuno",
+   "proteico",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-042",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budin-salado-de-zanahoria-y-queso",
+  "titulo": "Budín salado de zanahoria y queso",
+  "descripcion": "Budín chico de zanahoria para desayunar, almorzar o merendar.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y volcalo en un molde de silicona.",
+   "Cociná 10 minutos a 180 °C."
+  ],
+  "consejo": "Jamón magro en cubitos o semillas en la mezcla.",
+  "etiquetas": [
+   "budines",
+   "verduras",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-043",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pancito-keto-de-almendras",
+  "titulo": "Pancito keto de almendras",
+  "descripcion": "Pan individual de harina de almendras, con pocos hidratos.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "harina de almendras",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo hasta que quede liso.",
+   "Pasalo a un molde chico y cociná 9 a 10 minutos a 175 °C."
+  ],
+  "consejo": "Tostado, va bien untado con queso crema o palta.",
+  "etiquetas": [
+   "panes",
+   "keto",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-044",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "wraps-de-lechuga-con-pollo",
+  "titulo": "Wraps de lechuga con pollo",
+  "descripcion": "Hojas de lechuga o repollo rellenas de pollo con queso crema.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "pollo",
+    "nota": "cocido",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso untable",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "hoja",
+    "nombre": "lechuga",
+    "nota": "o repollo, grandes",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Desmenuzá el pollo y mezclalo con el queso crema.",
+   "Calentalo 5 minutos a 175 °C en un molde.",
+   "Repartilo en las hojas, enrollalas y sujetalas con un palillo."
+  ],
+  "consejo": "Mostaza o salsa criolla en el relleno.",
+  "etiquetas": [
+   "pollo",
+   "keto",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-045",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "arroz-de-coliflor-salteado",
+  "titulo": "Arroz de coliflor salteado",
+  "descripcion": "Coliflor procesada que reemplaza al arroz, con huevo y zanahoria.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "coliflor",
+    "nota": "procesada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa de soja",
+    "nota": "baja en sodio",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo en una fuente baja.",
+   "Cociná 10 minutos a 180 °C, revolviendo a la mitad."
+  ],
+  "consejo": "Pollo o tofu lo convierten en plato principal.",
+  "etiquetas": [
+   "verduras",
+   "keto",
+   "sin gluten"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-046",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "huevos-en-moldecitos-con-verduras",
+  "titulo": "Huevos en moldecitos con verduras",
+  "descripcion": "Huevos cocidos sobre espinaca y tomate, para desayuno o cena.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "o acelga",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "cherry",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Repartí las verduras en moldes individuales.",
+   "Rompé un huevo en cada uno y condimentá.",
+   "Cociná 7 a 8 minutos a 180 °C."
+  ],
+  "consejo": "Queso rallado arriba al final para gratinar.",
+  "etiquetas": [
+   "huevos",
+   "verduras",
+   "desayuno"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-047",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "lasanitas-de-berenjena",
+  "titulo": "Lasañitas de berenjena",
+  "descripcion": "Lasañas individuales de berenjena, sin pasta.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": "en láminas finas",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "En moldes individuales, alterná berenjena, salsa y ricota.",
+   "Terminá con queso y cociná 12 minutos a 180 °C."
+  ],
+  "consejo": "Conviene hacer varias juntas y freezarlas en porciones.",
+  "etiquetas": [
+   "verduras",
+   "fit",
+   "para congelar"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-048",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "ninos-envueltos-de-acelga-y-ricota",
+  "titulo": "Niños envueltos de acelga y ricota",
+  "descripcion": "Hojas de acelga rellenas de ricota y zanahoria.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "hoja",
+    "nombre": "acelga",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "ricota",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pasá las hojas 30 segundos por agua hirviendo.",
+   "Mezclá la ricota con la zanahoria y los condimentos, rellená las hojas y enrollalas.",
+   "Cociná 9 minutos a 180 °C."
+  ],
+  "consejo": "Con salsa de tomate caliente por encima.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-049",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tortitas-de-batata",
+  "titulo": "Tortitas de batata",
+  "descripcion": "Tortitas de batata que sirven dulces o saladas.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "batata",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela o sal",
+    "nota": "según la versión",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá la batata y uní el resto.",
+   "Formá tortitas sobre papel manteca y cociná 8 a 9 minutos a 185 °C."
+  ],
+  "consejo": "Dulces, con yogur; saladas, con queso crema.",
+  "etiquetas": [
+   "verduras",
+   "fit",
+   "guarniciones"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-050",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "hamburguesas-de-pollo-y-queso",
+  "titulo": "Hamburguesas de pollo y queso",
+  "descripcion": "Hamburguesas de pechuga con queso, sin pan ni harina.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "pechuga de pollo",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "ajo, perejil, sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo en una masa firme.",
+   "Formá medallones y cociná 10 a 11 minutos a 185 °C."
+  ],
+  "consejo": "Sobre hojas verdes, con yogur como aderezo.",
+  "etiquetas": [
+   "pollo",
+   "keto",
+   "proteico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-051",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "croquetas-de-brocoli-y-queso",
+  "titulo": "Croquetas de brócoli y queso",
+  "descripcion": "Croquetas para aprovechar brócoli, sin harina.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": "cocido y picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo en una masa compacta.",
+   "Armá las croquetas y cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Ralladura de limón en la mezcla.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-052",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tortilla-de-avena-y-verduras",
+  "titulo": "Tortilla de avena y verduras",
+  "descripcion": "Tortilla con avena y verduras, que llena y tiene fibra.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "zapallito",
+    "nota": "con cebolla y morrón, picados",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo en un bowl.",
+   "Volcalo en un molde y cociná 8 a 9 minutos a 185 °C."
+  ],
+  "consejo": "Una pizca de cúrcuma le da color.",
+  "etiquetas": [
+   "huevos",
+   "verduras",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-053",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bowl-de-carne-y-calabaza",
+  "titulo": "Bowl de carne y calabaza",
+  "descripcion": "Carne picada con cebolla y calabaza asada, dulce y salado.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 150,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "asada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná la carne con la cebolla y los condimentos 10 a 12 minutos a 190 °C, revolviendo una vez.",
+   "Serví con la calabaza."
+  ],
+  "consejo": "Terminalo con un puñado de semillas tostadas.",
+  "etiquetas": [
+   "carnes",
+   "fit",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-054",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "omelette-de-claras-y-tomates-secos",
+  "titulo": "Omelette de claras y tomates secos",
+  "descripcion": "Omelette de claras con tomates secos y orégano.",
+  "categoria": "Comidas fit",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "clara de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "secos, hidratados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí las claras con los condimentos y volcalas en un molde aceitado.",
+   "Repartí los tomates secos picados.",
+   "Cociná 7 a 8 minutos a 180 °C."
+  ],
+  "consejo": "Unas hojas de albahaca al servir.",
+  "etiquetas": [
+   "huevos",
+   "proteico",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-08-055",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
  }
 ]
