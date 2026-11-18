@@ -13493,5 +13493,3026 @@
   "origen": "recetario",
   "origen_ref": "af-03-047",
   "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pollo-con-papines-a-la-provenzal",
+  "titulo": "Pollo con papines a la provenzal",
+  "descripcion": "Presas de pollo y papines dorados con ajo y perejil, todo en la misma tanda.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pollo",
+    "nota": "muslos o pechugas",
+    "opcional": false
+   },
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "papines",
+    "nota": "chicos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "perejil",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Partí los papines por la mitad y condimentalos con el aceite, el ajo, sal y pimienta.",
+   "Poné el pollo y los papines juntos en la canasta.",
+   "Cociná 18 minutos a 185 °C y terminá con el perejil."
+  ],
+  "consejo": "Unas gotas de limón al servir.",
+  "etiquetas": [
+   "pollo",
+   "papa",
+   "plato completo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-048",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "costillitas-de-cerdo-con-soja-y-jengibre",
+  "titulo": "Costillitas de cerdo con soja y jengibre",
+  "descripcion": "Costillitas marinadas en soja, miel, vinagre y jengibre, entre dulces y ácidas.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 17,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "costillitas de cerdo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "salsa de soja",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "vinagre",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "jengibre",
+    "nota": "rallado",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Prepará la marinada con la soja, la miel, el vinagre y el jengibre.",
+   "Bañá las costillitas y dejalas media hora.",
+   "Cocinalas 17 minutos a 190 °C."
+  ],
+  "consejo": "Con arroz blanco o verduras salteadas.",
+  "etiquetas": [
+   "cerdo",
+   "oriental",
+   "agridulce"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-049",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "ojo-de-bife-con-manteca-de-romero",
+  "titulo": "Ojo de bife con manteca de romero",
+  "descripcion": "Ojo de bife pintado con manteca y romero, para una cena especial.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "bife ancho",
+    "nota": "ojo de bife",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "romero seco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Derretí la manteca y mezclala con el romero.",
+   "Pintá los bifes y salpimentalos.",
+   "Cocinalos 10 a 11 minutos a 190 °C."
+  ],
+  "consejo": "Con verduras asadas o papas.",
+  "etiquetas": [
+   "carne",
+   "especial",
+   "bifes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-050",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "supremas-rellenas-de-ricota-y-espinaca",
+  "titulo": "Supremas rellenas de ricota y espinaca",
+  "descripcion": "Supremas abiertas y rellenas con una mezcla cremosa de ricota y espinaca.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "suprema de pollo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "ricota",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la ricota con la espinaca, el ajo y los condimentos.",
+   "Abrí las supremas en bolsillo y rellenalas.",
+   "Cerralas con palillos y cociná 12 a 13 minutos a 185 °C."
+  ],
+  "consejo": "La ricota se puede cambiar por queso crema o tofu.",
+  "etiquetas": [
+   "pollo",
+   "rellenos",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-051",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "carne-braseada-rapida-con-verduras",
+  "titulo": "Carne braseada rápida con verduras",
+  "descripcion": "Carne tierna con cebolla, zanahoria y morrón, con gusto a comida de olla.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 20,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "carne vacuna",
+    "nota": "roast beef o paleta, en trozos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "caldo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las verduras y juntalas con la carne, el caldo y los condimentos en una fuente apta.",
+   "Tapá con aluminio agujereado.",
+   "Cociná 20 minutos a 185 °C."
+  ],
+  "consejo": "Una hoja de laurel o un poco de vino tinto le suman sabor.",
+  "etiquetas": [
+   "carne",
+   "guisos",
+   "plato completo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-052",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "costillas-de-ternera-con-salsa-criolla",
+  "titulo": "Costillas de ternera con salsa criolla",
+  "descripcion": "Costillas doradas con sal gruesa y una salsa criolla fresca encima.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 19,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "tira de asado",
+    "nota": "costillas de ternera",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal gruesa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "salsa criolla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Untá las costillas con aceite y sal gruesa.",
+   "Cocinalas 18 a 20 minutos a 190 °C.",
+   "Servilas con la salsa criolla por encima."
+  ],
+  "consejo": "Una marinada previa con limón y ajo les da más profundidad.",
+  "etiquetas": [
+   "carne",
+   "asado",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-053",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "albondigas-de-pollo-y-espinaca",
+  "titulo": "Albóndigas de pollo y espinaca",
+  "descripcion": "Albóndigas verdes y livianas, para una comida equilibrada.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "pechuga de pollo",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "cocida y bien escurrida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y ajo en polvo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Picá la espinaca y mezclala con el pollo, el huevo, la avena y los condimentos.",
+   "Armá unas 10 bolitas sobre papel manteca.",
+   "Cociná 10 a 11 minutos a 185 °C."
+  ],
+  "consejo": "Con puré o arroz integral.",
+  "etiquetas": [
+   "pollo",
+   "verduras",
+   "liviano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-054",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "vacio-dorado-con-chimichurri",
+  "titulo": "Vacío dorado con chimichurri",
+  "descripcion": "Vacío jugoso y bien dorado, servido con chimichurri.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "vacío",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal gruesa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "chimichurri",
+    "nota": "casero",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pintá el vacío con aceite y salalo.",
+   "Cocinalo 17 a 18 minutos a 190 °C, dándolo vuelta una vez.",
+   "Cortalo y servilo con chimichurri."
+  ],
+  "consejo": "Una hora antes en vino blanco con hierbas lo deja más perfumado.",
+  "etiquetas": [
+   "carne",
+   "asado",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-055",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pollo-al-tomillo-y-limon",
+  "titulo": "Pollo al tomillo y limón",
+  "descripcion": "Pollo perfumado con tomillo y limón, para el día a día.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pollo",
+    "nota": "muslos o pechugas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "tomillo seco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá el aceite con el tomillo, el limón, sal y pimienta y untá el pollo.",
+   "Cocinalo 15 minutos a 185 °C, girándolo una vez."
+  ],
+  "consejo": "Con papas hervidas o una ensalada.",
+  "etiquetas": [
+   "pollo",
+   "liviano",
+   "cítricos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-056",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "matambre-a-la-cerveza",
+  "titulo": "Matambre a la cerveza",
+  "descripcion": "Matambre marinado en cerveza rubia, miel y mostaza, con un punto caramelizado.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 16,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "matambre vacuno",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "vaso",
+    "nombre": "cerveza",
+    "nota": "rubia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "mostaza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí la cerveza con la miel, la mostaza, sal y pimienta y dejá el matambre en esa mezcla 30 minutos.",
+   "Pasalo a un molde con aluminio.",
+   "Cociná 16 minutos a 185 °C."
+  ],
+  "consejo": "Rodajas de cebolla en el molde suman aroma.",
+  "etiquetas": [
+   "carne",
+   "cerveza",
+   "para compartir"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-057",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bifes-encebollados",
+  "titulo": "Bifes encebollados",
+  "descripcion": "Bifes de cuadril cubiertos de cebolla que se carameliza en la cocción.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "bife",
+    "nota": "de cuadril",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "en pluma",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y pimentón",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Poné los bifes en un molde y cubrilos con la cebolla.",
+   "Rociá con aceite y condimentá.",
+   "Cociná 12 a 13 minutos a 190 °C."
+  ],
+  "consejo": "Un chorrito de vino blanco o caldo hace más salsa.",
+  "etiquetas": [
+   "carne",
+   "clásico argentino",
+   "económica"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-058",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "costillitas-al-ajo-y-miel",
+  "titulo": "Costillitas al ajo y miel",
+  "descripcion": "Costillitas de cerdo con ajo, miel y soja; rendidoras y económicas.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 17,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "costillitas de cerdo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "salsa de soja",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la miel, el ajo, la soja y los condimentos y cubrí las costillitas.",
+   "Dejalas 30 minutos.",
+   "Cocinalas 17 minutos a 190 °C, girándolas a mitad de tiempo."
+  ],
+  "consejo": "Con puré de batata o ensalada.",
+  "etiquetas": [
+   "cerdo",
+   "agridulce",
+   "económica"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-059",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "lomo-con-ajo-y-perejil",
+  "titulo": "Lomo con ajo y perejil",
+  "descripcion": "Medallones de lomo terminados con ajo y perejil, simples y elegantes.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "lomo",
+    "nota": "medallones",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "perejil",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pintá el lomo con aceite, salpimentalo y cocinalo 8 minutos a 190 °C.",
+   "Agregá el ajo y el perejil por encima y seguí 2 minutos."
+  ],
+  "consejo": "Con papas hervidas o verduras asadas.",
+  "etiquetas": [
+   "carne",
+   "rápida",
+   "especial"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-060",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pollo-al-pimenton-ahumado",
+  "titulo": "Pollo al pimentón ahumado",
+  "descripcion": "Pollo con pimentón ahumado y ajo, para quienes buscan sabores intensos.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pollo",
+    "nota": "muslos o pechugas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón ahumado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá el aceite con el pimentón, el ajo, sal y pimienta.",
+   "Untá el pollo y dejalo 10 minutos.",
+   "Cocinalo 15 minutos a 185 °C, dándolo vuelta a la mitad."
+  ],
+  "consejo": "Con puré o papas al romero.",
+  "etiquetas": [
+   "pollo",
+   "especias",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-061",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "entrana-con-salsa-criolla",
+  "titulo": "Entraña con salsa criolla",
+  "descripcion": "Entraña dorada pareja, sin fuego, con salsa criolla.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "entraña",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal gruesa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "salsa criolla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Untá la entraña con aceite y sal.",
+   "Cocinala 10 a 11 minutos a 190 °C, girándola una vez.",
+   "Servila cubierta con la salsa criolla."
+  ],
+  "consejo": "Una hora antes con limón, ajo y orégano gana sabor.",
+  "etiquetas": [
+   "carne",
+   "asado",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-062",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "costillas-glaseadas-con-barbacoa-casera",
+  "titulo": "Costillas glaseadas con barbacoa casera",
+  "descripcion": "Costillas de cerdo con un glaseado de barbacoa y miel, para lucirse sin parrilla.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "costillitas de cerdo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "salsa barbacoa",
+    "nota": "y algo más para servir",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la barbacoa, la miel, el pimentón, sal y pimienta y cubrí las costillas.",
+   "Dejalas 30 minutos.",
+   "Cocinalas 18 minutos a 190 °C."
+  ],
+  "consejo": "Pintalas con salsa caliente al servir.",
+  "etiquetas": [
+   "cerdo",
+   "barbacoa",
+   "para compartir"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-063",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "albondigas-criollas-con-cebolla-y-morron",
+  "titulo": "Albóndigas criollas con cebolla y morrón",
+  "descripcion": "Albóndigas rendidoras con verduras picadas en la mezcla.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "pan rallado",
+    "nota": "integral",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todos los ingredientes.",
+   "Formá unas 10 albóndigas y ponelas sobre papel manteca.",
+   "Cociná 11 a 12 minutos a 185 °C."
+  ],
+  "consejo": "Con salsa criolla o tomate picado.",
+  "etiquetas": [
+   "carne",
+   "albóndigas",
+   "económica"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-064",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muslos-glaseados-con-miel-y-mostaza",
+  "titulo": "Muslos glaseados con miel y mostaza",
+  "descripcion": "Muslos de pollo con un glaseado dulce y salado, para una cena rápida.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pollo",
+    "nota": "muslos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "mostaza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "jugo de limón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Prepará el glaseado con la miel, la mostaza y el limón.",
+   "Pintá los muslos, salpimentalos y esperá 15 minutos.",
+   "Cocinalos 15 minutos a 185 °C, girándolos a mitad de tiempo."
+  ],
+  "consejo": "Semillas de sésamo por encima al servir.",
+  "etiquetas": [
+   "pollo",
+   "agridulce",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-065",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bifes-de-campo-con-pimenton-y-ajo",
+  "titulo": "Bifes de campo con pimentón y ajo",
+  "descripcion": "Bifes condimentados al estilo criollo, para el almuerzo de todos los días.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "bife",
+    "nota": "de cuadril o nalga",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Frotá la carne con aceite, pimentón, ajo, sal y pimienta.",
+   "Cocinalos 10 a 11 minutos a 190 °C, dándolos vuelta a los 5."
+  ],
+  "consejo": "Acompañalos con una ensalada fresca.",
+  "etiquetas": [
+   "carne",
+   "bifes",
+   "económica"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-066",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "matambre-con-cebolla-al-vino-blanco",
+  "titulo": "Matambre con cebolla al vino blanco",
+  "descripcion": "Matambre tierno en una salsa de cebolla y vino blanco.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 16,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "matambre vacuno",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "en pluma",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "vaso",
+    "nombre": "vino blanco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Acomodá el matambre salpimentado en un molde con la cebolla.",
+   "Sumá el vino y el aceite y tapá con aluminio agujereado.",
+   "Cociná 16 a 17 minutos a 185 °C."
+  ],
+  "consejo": "Dejalo reposar unos minutos antes de cortarlo.",
+  "etiquetas": [
+   "carne",
+   "vino",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-067",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "lomo-al-romero-y-limon",
+  "titulo": "Lomo al romero y limón",
+  "descripcion": "Lomo marinado con romero y limón, liviano y bien dorado.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 300,
+    "unidad": "g",
+    "nombre": "lomo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "romero",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Marina el lomo 15 minutos con el romero, el limón, el aceite, sal y pimienta.",
+   "Cocinalo 10 minutos a 185 °C."
+  ],
+  "consejo": "Va bien con verduras al vapor.",
+  "etiquetas": [
+   "carne",
+   "liviano",
+   "cítricos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-068",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bondiola-caramelizada-con-soja-y-jengibre",
+  "titulo": "Bondiola caramelizada con soja y jengibre",
+  "descripcion": "Bondiola con miel, soja y jengibre: dulce, salada y bien dorada.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 16,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "bondiola de cerdo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "salsa de soja",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "jengibre",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la miel, la soja y el jengibre y cubrí la bondiola.",
+   "Dejala 20 minutos.",
+   "Cocinala 16 minutos a 190 °C, dándola vuelta una vez."
+  ],
+  "consejo": "Con arroz blanco o puré de calabaza.",
+  "etiquetas": [
+   "cerdo",
+   "oriental",
+   "agridulce"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-069",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bife-de-chorizo-con-ajo-y-perejil",
+  "titulo": "Bife de chorizo con ajo y perejil",
+  "descripcion": "Bife de chorizo jugoso con un toque final de ajo y perejil.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "bife de chorizo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pintá los bifes con aceite, salpimentalos y cocinalos 9 minutos a 190 °C.",
+   "Agregá el ajo y el perejil encima y seguí 2 minutos."
+  ],
+  "consejo": "Esperá 3 minutos antes de cortarlos.",
+  "etiquetas": [
+   "carne",
+   "bifes",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-070",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "ojo-de-bife-con-salsa-de-vino-y-romero",
+  "titulo": "Ojo de bife con salsa de vino y romero",
+  "descripcion": "Ojo de bife con una salsa corta de vino tinto, romero y manteca.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 190,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "bife ancho",
+    "nota": "ojo de bife",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "vaso",
+    "nombre": "vino tinto",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "romero seco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Salpimentá los bifes y cocinalos 8 minutos a 190 °C en un molde.",
+   "Agregá el vino y el romero y seguí 3 minutos.",
+   "Sumá la manteca a la salsa para que tome brillo."
+  ],
+  "consejo": "Con puré o papas a la crema.",
+  "etiquetas": [
+   "carne",
+   "especial",
+   "vino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-071",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pechugas-grilladas-a-las-hierbas",
+  "titulo": "Pechugas grilladas a las hierbas",
+  "descripcion": "Pechugas con tomillo, orégano, albahaca y limón, rápidas y livianas.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "hierbas secas",
+    "nota": "tomillo, orégano y albahaca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá el aceite con las hierbas, el limón, sal y pimienta y untá las pechugas.",
+   "Cocinalas 14 minutos a 185 °C, dándolas vuelta a la mitad."
+  ],
+  "consejo": "Con hojas verdes y tomates secos.",
+  "etiquetas": [
+   "pollo",
+   "liviano",
+   "hierbas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-072",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "albondigas-de-carne-y-quinoa",
+  "titulo": "Albóndigas de carne y quinoa",
+  "descripcion": "Albóndigas con quinoa, nutritivas y con proteína completa.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 300,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "quinoa",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todos los ingredientes y formá unas 10 bolitas.",
+   "Cocinalas 11 minutos a 185 °C sobre papel manteca."
+  ],
+  "consejo": "Para mojar, una salsa roja o un yogur condimentado.",
+  "etiquetas": [
+   "carne",
+   "quinoa",
+   "nutritivo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-073",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bondiola-desmenuzada-a-la-barbacoa",
+  "titulo": "Bondiola desmenuzada a la barbacoa",
+  "descripcion": "Bondiola glaseada y deshilachada, para sándwiches o tacos.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "bondiola de cerdo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "salsa barbacoa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Salpimentá la bondiola y cocinala 10 minutos a 190 °C.",
+   "Pintala con la barbacoa mezclada con la miel y el pimentón.",
+   "Seguí 8 minutos más y desmenuzala con dos tenedores."
+  ],
+  "consejo": "En pan con ensalada de repollo.",
+  "etiquetas": [
+   "cerdo",
+   "sándwiches",
+   "barbacoa"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-074",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "medallones-de-lomo-con-champinones",
+  "titulo": "Medallones de lomo con champiñones",
+  "descripcion": "Lomo con una salsa cremosa de champiñones, para una comida especial.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "lomo",
+    "nota": "medallones",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "champiñones",
+    "nota": "fileteados",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "crema de leche",
+    "nota": "liviana, o yogur natural",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Salpimentá el lomo y cocinalo 8 minutos a 185 °C en un molde.",
+   "Agregá los champiñones, la manteca y la crema.",
+   "Seguí 3 minutos más."
+  ],
+  "consejo": "Con arroz o papas doradas.",
+  "etiquetas": [
+   "carne",
+   "especial",
+   "salsas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-075",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pollo-a-la-oriental",
+  "titulo": "Pollo a la oriental",
+  "descripcion": "Cubos de pollo con soja, miel, jengibre y aceite de sésamo.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "salsa de soja",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "jengibre",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de sésamo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la soja, la miel, el jengibre y el aceite y dejá el pollo 20 minutos.",
+   "Cocinalo 12 minutos a 185 °C, revolviendo a la mitad."
+  ],
+  "consejo": "Con arroz y sésamo tostado.",
+  "etiquetas": [
+   "pollo",
+   "oriental",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-076",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "matambre-a-la-mostaza-dijon",
+  "titulo": "Matambre a la mostaza dijon",
+  "descripcion": "Matambre cubierto con mostaza dijon y miel, de sabor fuerte.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "matambre vacuno",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "mostaza dijon",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la mostaza con la miel y el aceite.",
+   "Untá el matambre, salpimentalo y cocinalo 15 minutos a 185 °C, girándolo una vez."
+  ],
+  "consejo": "Acompañalo con un puré pisado grueso.",
+  "etiquetas": [
+   "carne",
+   "mostaza",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-077",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pechugas-con-ajo-negro",
+  "titulo": "Pechugas con ajo negro",
+  "descripcion": "Pechugas untadas con una pasta de ajo negro, dulce y profunda.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "diente",
+    "nombre": "ajo negro",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá el ajo negro con el aceite hasta hacer una pasta.",
+   "Untá las pechugas, salpimentalas y cocinalas 12 a 13 minutos a 180 °C."
+  ],
+  "consejo": "Con arroz yamaní o quinoa.",
+  "etiquetas": [
+   "pollo",
+   "especial",
+   "gourmet"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-078",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "roast-beef-a-las-hierbas",
+  "titulo": "Roast beef a las hierbas",
+  "descripcion": "Roast beef magro con hierbas secas, para sándwiches o con guarnición.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "carne vacuna",
+    "nota": "roast beef",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "hierbas secas",
+    "nota": "romero, orégano y tomillo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Untá la carne con el aceite y las hierbas y dejala 30 minutos.",
+   "Salpimentala y cocinala 18 minutos a 190 °C, dándola vuelta a los 9."
+  ],
+  "consejo": "Cortado fino rinde para varios sándwiches.",
+  "etiquetas": [
+   "carne",
+   "sándwiches",
+   "para adelantar"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-079",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "costillas-glaseadas-con-vino-y-miel",
+  "titulo": "Costillas glaseadas con vino y miel",
+  "descripcion": "Costillas brillantes con un glaseado de vino tinto, miel y mostaza.",
+  "categoria": "Carnes",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "costillitas de cerdo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "vaso",
+    "nombre": "vino tinto",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "mostaza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el vino con la miel y la mostaza.",
+   "Pintá las costillas, salpimentalas y cocinalas 18 minutos a 185 °C, girándolas una vez."
+  ],
+  "consejo": "Con papas en gajos o ensalada fresca.",
+  "etiquetas": [
+   "cerdo",
+   "vino",
+   "agridulce"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-03-080",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-rusticas-crocantes",
+  "titulo": "Papas rústicas crocantes",
+  "descripcion": "Gajos de papa con cáscara, crocantes afuera y suaves adentro.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas, con cáscara",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "romero seco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal gruesa y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Lavá las papas y cortalas en gajos.",
+   "Condimentalas con el aceite, el romero, sal y pimienta.",
+   "Cocinalas 13 a 15 minutos a 190 °C sin encimarlas."
+  ],
+  "consejo": "Si querés más sabor, agregales pimentón o ajo en polvo junto con el aceite.",
+  "etiquetas": [
+   "papa",
+   "guarnición",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-001",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "batatas-caramelizadas-con-miel",
+  "titulo": "Batatas caramelizadas con miel",
+  "descripcion": "Cubos de batata con miel, tiernos y dorados; van con cerdo o pollo.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "batata",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las batatas en cubos.",
+   "Mezclalas con la miel, el aceite, sal y pimienta.",
+   "Cocinalas 14 minutos a 185 °C sobre papel manteca."
+  ],
+  "consejo": "Unas especias dulces, como canela, combinan con la batata.",
+  "etiquetas": [
+   "batata",
+   "guarnición",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-002",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "berenjenas-gratinadas-a-la-italiana",
+  "titulo": "Berenjenas gratinadas a la italiana",
+  "descripcion": "Rodajas de berenjena con salsa, queso derretido y orégano.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": "grande",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano, sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la berenjena en rodajas, salala y cocinala 6 minutos a 185 °C.",
+   "Cubrí cada rodaja con salsa, queso y orégano.",
+   "Gratiná 4 a 5 minutos más."
+  ],
+  "consejo": "Rodajas de tomate o espinaca encima le dan color.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "gratinados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-003",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "zapallitos-rellenos-con-queso",
+  "titulo": "Zapallitos rellenos con queso",
+  "descripcion": "Zapallitos ahuecados y rellenos con su pulpa, cebolla, huevo y queso.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "zapallito redondo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": "o pan rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": "y algo más para gratinar",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá los zapallitos al medio, ahuecalos y picá la pulpa.",
+   "Mezclala con la cebolla, el huevo, la avena, el queso y los condimentos.",
+   "Rellená, espolvoreá queso y cociná 12 a 13 minutos a 185 °C."
+  ],
+  "consejo": "Sirven como plato principal o como guarnición abundante.",
+  "etiquetas": [
+   "verduras",
+   "rellenos",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-004",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "verduras-salteadas-estilo-wok",
+  "titulo": "Verduras salteadas estilo wok",
+  "descripcion": "Zanahoria, morrón, zucchini y cebolla salteados sin sartén.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón rojo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa de soja",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "jengibre",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Cortá todas las verduras en bastones.",
+   "Condimentalas con el aceite y, si querés, soja y jengibre.",
+   "Cocinalas 10 a 11 minutos a 185 °C, revolviendo una vez."
+  ],
+  "consejo": "Sésamo tostado o maní picado le dan crocancia.",
+  "etiquetas": [
+   "verduras",
+   "oriental",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-005",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "zanahorias-glaseadas",
+  "titulo": "Zanahorias glaseadas",
+  "descripcion": "Bastones de zanahoria con miel, dulces y coloridos.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pelá las zanahorias y cortalas en bastones.",
+   "Condimentalas con la miel, el aceite, sal y pimienta.",
+   "Cocinalas 11 a 12 minutos a 180 °C, moviéndolas a mitad de tiempo."
+  ],
+  "consejo": "Un poco de jengibre rallado les da un toque distinto.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-006",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cebollas-asadas-al-aceto",
+  "titulo": "Cebollas asadas al aceto",
+  "descripcion": "Gajos de cebolla tiernos y dulces con un punto ácido de aceto.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "vinagre",
+    "nota": "aceto balsámico",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las cebollas en gajos.",
+   "Bañalas con el aceto, la miel y el aceite y condimentá.",
+   "Cocinalas 13 a 14 minutos a 185 °C, hasta que se doren."
+  ],
+  "consejo": "Sirven para coronar carnes o sándwiches.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-007",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "brocoli-al-ajo-y-limon",
+  "titulo": "Brócoli al ajo y limón",
+  "descripcion": "Ramitos de brócoli con ajo, terminados con limón.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": "en ramitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Condimentá el brócoli con el aceite, el ajo, sal y pimienta.",
+   "Cocinalo 8 a 9 minutos a 180 °C, revolviendo una vez.",
+   "Rociálo con el limón al sacarlo."
+  ],
+  "consejo": "Almendras fileteadas por encima le agregan textura.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-008",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "champinones-al-ajo-y-perejil",
+  "titulo": "Champiñones al ajo y perejil",
+  "descripcion": "Champiñones salteados con ajo y perejil, para carnes o pastas.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "champiñones",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní los champiñones con el aceite, el ajo, el perejil, sal y pimienta.",
+   "Cocinalos 9 minutos a 185 °C, moviéndolos una vez."
+  ],
+  "consejo": "Un chorrito de soja les da un gusto más intenso.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-009",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "choclos-asados-con-manteca-y-pimenton",
+  "titulo": "Choclos asados con manteca y pimentón",
+  "descripcion": "Choclos enteros dorados con manteca y especias.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "choclo",
+    "nota": "entero",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pintá los choclos con la manteca y los condimentos.",
+   "Cocinalos 12 minutos a 190 °C, girándolos a mitad de tiempo."
+  ],
+  "consejo": "Queso rallado y perejil al servir.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-010",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-en-cubos-a-la-provenzal",
+  "titulo": "Papas en cubos a la provenzal",
+  "descripcion": "Cubos de papa con ajo y perejil, una guarnición de siempre.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "perejil seco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en cubos y uní con el aceite, el ajo, el perejil, sal y pimienta.",
+   "Cocinalas 13 a 14 minutos a 190 °C en una sola capa."
+  ],
+  "consejo": "Unas gotas de limón al final realzan el sabor.",
+  "etiquetas": [
+   "papa",
+   "guarnición",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-011",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "batatas-al-romero",
+  "titulo": "Batatas al romero",
+  "descripcion": "Bastones de batata con romero y sal gruesa, en lugar de papas.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "batata",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "romero seco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal gruesa",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las batatas en bastones o cubos.",
+   "Condimentalas con el aceite, el romero y la sal.",
+   "Cocinalas 12 a 13 minutos a 185 °C, hasta dorar."
+  ],
+  "consejo": "Un hilo de miel al final da contraste dulce y salado.",
+  "etiquetas": [
+   "batata",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-012",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-con-cebolla-caramelizada",
+  "titulo": "Papas con cebolla caramelizada",
+  "descripcion": "Cubos de papa y tiras de cebolla con pimentón, sabor casero.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en cubos y la cebolla en tiras.",
+   "Condimentá todo con el aceite, el pimentón, sal y pimienta.",
+   "Cociná 14 minutos a 185 °C, revolviendo una vez."
+  ],
+  "consejo": "Un chorrito de aceto al final les levanta el sabor.",
+  "etiquetas": [
+   "papa",
+   "guarnición",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-013",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "calabaza-gratinada-con-queso",
+  "titulo": "Calabaza gratinada con queso",
+  "descripcion": "Cubos de calabaza tiernos con una costra de queso dorado.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 300,
+    "unidad": "g",
+    "nombre": "calabaza",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Condimentá la calabaza con el aceite, sal, pimienta y nuez moscada.",
+   "Cocinala 9 a 10 minutos a 185 °C, hasta que esté tierna.",
+   "Cubrila con el queso y dejala unos minutos más, hasta que se dore."
+  ],
+  "consejo": "Orégano por encima le da más aroma.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "gratinados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-014",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "brocoli-gratinado-con-salsa-blanca-liviana",
+  "titulo": "Brócoli gratinado con salsa blanca liviana",
+  "descripcion": "Brócoli cubierto con una salsa blanca de leche y fécula, y queso gratinado.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": "en ramitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "fécula de maíz",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná el brócoli 6 minutos a 185 °C.",
+   "Calentá la leche con la fécula disuelta y los condimentos, revolviendo hasta que espese.",
+   "Cubrí el brócoli con la salsa y el queso y gratiná 4 minutos."
+  ],
+  "consejo": "En lugar de queso podés usar semillas tostadas.",
+  "etiquetas": [
+   "verduras",
+   "gratinados",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-015",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "berenjenas-a-la-napolitana",
+  "titulo": "Berenjenas a la napolitana",
+  "descripcion": "Rodajas de berenjena con salsa y mozzarella, un plato sin carne.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "feta",
+    "nombre": "mozzarella",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano, sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la berenjena en rodajas y cocinalas 6 minutos a 185 °C.",
+   "Cubrilas con salsa, mozzarella y orégano.",
+   "Gratiná 4 a 5 minutos más."
+  ],
+  "consejo": "Rodajas de tomate fresco las hacen más jugosas.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-016",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "choclo-cremoso-en-granos",
+  "titulo": "Choclo cremoso en granos",
+  "descripcion": "Granos de choclo con manteca, suaves y rápidos.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "choclo",
+    "nota": "en granos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "o aceite",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todos los ingredientes en un molde chico.",
+   "Cociná 8 a 9 minutos a 180 °C, revolviendo a la mitad."
+  ],
+  "consejo": "Queso rallado o ciboulette al servir.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-017",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
  }
 ]

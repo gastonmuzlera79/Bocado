@@ -1099,7 +1099,9 @@
   0,
   [
    "papas",
-   "patata"
+   "patata",
+   "papines",
+   "papín"
   ],
   "potatoes|flesh and skin|raw",
   170,
@@ -1417,7 +1419,10 @@
    "cuadrada",
    "bife",
    "bifes",
-   "peceto"
+   "peceto",
+   "roast beef",
+   "paleta",
+   "carnaza"
   ],
   "beef|round|top round|separable lean only|trimmed to 0\" fat|select|raw",
   null,
@@ -1527,7 +1532,9 @@
    "pechugas",
    "suprema de pollo",
    "supremas",
-   "filet de pollo"
+   "filet de pollo",
+   "pollo molido",
+   "pollo picado"
   ],
   "chicken|broilers or fryers|breast|skinless|boneless|meat only|raw",
   170,
@@ -1723,7 +1730,8 @@
   "almacén",
   0,
   [
-   "cerveza"
+   "cerveza",
+   "cerveza rubia"
   ],
   "alcoholic beverage|beer|regular|all",
   null,
@@ -1768,5 +1776,72 @@
   "cereals ready-to-eat|corn flakes",
   null,
   28
+ ],
+ "vacío": [
+  "carnes",
+  0,
+  [
+   "vacio"
+  ],
+  "beef|flank|steak|separable lean and fat|trimmed to 0\" fat|choice|raw",
+  null,
+  null
+ ],
+ "quinoa": [
+  "harinas y cereales",
+  0,
+  [
+   "quínoa"
+  ],
+  "quinoa|cooked",
+  null,
+  185
+ ],
+ "ajo negro": [
+  "verduras",
+  0,
+  [],
+  "garlic|raw",
+  3,
+  null
+ ],
+ "aceite de sésamo": [
+  "aceites",
+  0,
+  [],
+  "oil|sesame|salad or cooking",
+  null,
+  218
+ ],
+ "caldo": [
+  "almacén",
+  0,
+  [
+   "caldo de verduras",
+   "caldo de carne"
+  ],
+  "soup|stock|beef|home-prepared",
+  null,
+  240
+ ],
+ "ciboulette": [
+  "verduras",
+  0,
+  [
+   "cebollín"
+  ],
+  "chives|raw",
+  null,
+  null
+ ],
+ "laurel": [
+  "condimentos y especias",
+  1,
+  [
+   "hojas de laurel"
+  ],
+  "spices|bay leaf",
+  null,
+  null
  ]
 }

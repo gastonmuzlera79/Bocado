@@ -1501,5 +1501,68 @@
   "grasas": 0.91,
   "carbohidratos": 88.01,
   "fibra": 2.7
+ },
+ "vacío": {
+  "fdc_id": 169433,
+  "usda": "Beef, flank, steak, separable lean and fat, trimmed to 0\" fat, choice, raw",
+  "kcal": 165.0,
+  "proteinas": 21.22,
+  "grasas": 8.29,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "quinoa": {
+  "fdc_id": 168917,
+  "usda": "Quinoa, cooked",
+  "kcal": 120.0,
+  "proteinas": 4.4,
+  "grasas": 1.92,
+  "carbohidratos": 21.3,
+  "fibra": 2.8
+ },
+ "ajo negro": {
+  "fdc_id": 169230,
+  "usda": "Garlic, raw",
+  "kcal": 149.0,
+  "proteinas": 6.36,
+  "grasas": 0.5,
+  "carbohidratos": 33.06,
+  "fibra": 2.1
+ },
+ "aceite de sésamo": {
+  "fdc_id": 171016,
+  "usda": "Oil, sesame, salad or cooking",
+  "kcal": 884.0,
+  "proteinas": 0.0,
+  "grasas": 100.0,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "caldo": {
+  "fdc_id": 172883,
+  "usda": "Soup, stock, beef, home-prepared",
+  "kcal": 13.0,
+  "proteinas": 1.97,
+  "grasas": 0.09,
+  "carbohidratos": 1.2,
+  "fibra": 0.0
+ },
+ "ciboulette": {
+  "fdc_id": 169994,
+  "usda": "Chives, raw",
+  "kcal": 30.0,
+  "proteinas": 3.27,
+  "grasas": 0.73,
+  "carbohidratos": 4.35,
+  "fibra": 2.5
+ },
+ "laurel": {
+  "fdc_id": 170917,
+  "usda": "Spices, bay leaf",
+  "kcal": 313.0,
+  "proteinas": 7.61,
+  "grasas": 8.36,
+  "carbohidratos": 74.97,
+  "fibra": 26.3
  }
 }
