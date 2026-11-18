@@ -14,7 +14,7 @@ La documentación del proyecto (README general, plan de lanzamiento y flujograma
 | `data/recetas` | Recetario base en JSON, reescrito a partir de los recetarios fuente |
 | `data/catalogo` | Catálogo de ingredientes (categoría, básico, sinónimos, medidas) y nutrición por 100 g del USDA FoodData Central (SR Legacy, dominio público) |
 | `tools` | Scripts: lectura de recetarios, validación, generación de datos, pruebas |
-| `web` | Sitio, versión instalable y panel de administración (Next.js) — próxima etapa |
+| `web` | Sitio y panel de administración (Next.js + Supabase); sin Supabase configurado funciona en modo demo |
 | `worker` | Procesamiento de cargas de usuarios (Python, GitHub Actions) — próxima etapa |
 
 ## Probar la base de datos
@@ -26,6 +26,18 @@ tools/probar_db.sh
 ```
 
 Crea una base temporal, aplica las migraciones, corre las pruebas de permisos y carga los datos iniciales.
+
+## Web
+
+```bash
+cd web
+npm install
+npm run dev
+```
+
+Sin `NEXT_PUBLIC_SUPABASE_URL` y `NEXT_PUBLIC_SUPABASE_ANON_KEY` (ver `web/.env.example`) arranca en modo demo: lee `web/datos/demo.json`, que genera `tools/generar_demo.py` con los mismos datos y cálculos que `db/seed`. En la demo la despensa se guarda en el navegador y no hay cuentas.
+
+Con Supabase configurado se activan el ingreso por enlace al mail, la despensa en la cuenta, el registro de búsquedas y el panel (`/admin`): métricas, recetas por revisar, reportes, usuarios y roles, configuración y auditoría. Cada sección aparece según los permisos del rol, y la base los vuelve a controlar con sus políticas.
 
 ## Recetario base
 

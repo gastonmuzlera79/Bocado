@@ -77,6 +77,31 @@ def texto_ingrediente(i):
     return base
 
 
+def nutricion_receta(r, cat, idx, nutri):
+    """Nutrición por porción: la del libro si la trae; si no, estimada con el USDA.
+    Devuelve (dict con kcal/proteinas/grasas/carbohidratos, "true"|"false"|None)."""
+    claves = ("kcal", "proteinas", "grasas", "carbohidratos")
+    if r.get("nutricion"):
+        return {k: r["nutricion"].get(k) for k in claves}, "false"
+    suma, peso_ok, peso_total = {k: 0 for k in claves}, 0, 0
+    for i in r["ingredientes"]:
+        canon = resolver(i["nombre"], idx)
+        if canon is None or cat[canon][1]:
+            continue  # grupos de condimentos y básicos no pesan en la estimación
+        g = gramos(i, cat[canon])
+        peso_total += 1
+        if g is not None and canon in nutri:
+            peso_ok += 1
+            for k in suma:
+                suma[k] += nutri[canon][k] * g / 100
+        elif canon in ("aceite", "aceite de oliva") and g:
+            peso_ok += 1
+    if peso_total and peso_ok / peso_total >= 0.75:
+        porciones = r.get("porciones") or 1
+        return {k: round(v / porciones, 1) for k, v in suma.items()}, "true"
+    return {k: None for k in claves}, None
+
+
 def main():
     cat = cargar_catalogo()
     idx = indice_nombres(cat)
@@ -106,31 +131,12 @@ def main():
         for r in json.loads(f.read_text(encoding="utf-8")):
             total += 1
             rid = uuid.uuid5(NS, "receta:" + r["origen_ref"])
-            filas, suma, peso_ok, peso_total = [], {"kcal": 0, "proteinas": 0, "grasas": 0, "carbohidratos": 0}, 0, 0
-            for orden, i in enumerate(r["ingredientes"], 1):
-                canon = resolver(i["nombre"], idx)
-                filas.append((orden, ids.get(canon), texto_ingrediente(i), i.get("cantidad"), i.get("unidad"),
-                              i.get("nota"), i.get("opcional", False)))
-                if canon is None or cat[canon][1]:
-                    continue  # grupos de condimentos y básicos no pesan en la estimación
-                g = gramos(i, cat[canon])
-                peso_total += 1
-                if g is not None and canon in nutri:
-                    peso_ok += 1
-                    for k in suma:
-                        suma[k] += nutri[canon][k] * g / 100
-                elif canon in ("aceite", "aceite de oliva") and g:
-                    peso_ok += 1
-            porciones = r.get("porciones") or 1
-            estimada = None
-            if r.get("nutricion"):  # valores que trae el libro: se respetan tal cual
-                nut, estimada = {k: r["nutricion"].get(k) for k in suma}, "false"
+            filas = [(orden, ids.get(resolver(i["nombre"], idx)), texto_ingrediente(i), i.get("cantidad"),
+                      i.get("unidad"), i.get("nota"), i.get("opcional", False))
+                     for orden, i in enumerate(r["ingredientes"], 1)]
+            nut, estimada = nutricion_receta(r, cat, idx, nutri)
+            if nut["kcal"] is not None:
                 con_nutri += 1
-            elif peso_total and peso_ok / peso_total >= 0.75:
-                nut, estimada = {k: round(v / porciones, 1) for k, v in suma.items()}, "true"
-                con_nutri += 1
-            else:
-                nut = {k: None for k in suma}
             out.append(
                 "insert into public.recetas (id, slug, titulo, descripcion, categoria, tecnica, porciones, "
                 "tiempo_coccion_min, temperatura_c, dificultad, consejo, etiquetas, estado, origen, origen_ref, "
