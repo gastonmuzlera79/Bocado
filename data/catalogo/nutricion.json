@@ -1672,5 +1672,50 @@
   "grasas": 10.9,
   "carbohidratos": 6.04,
   "fibra": 1.6
+ },
+ "queso fresco": {
+  "fdc_id": 172223,
+  "usda": "Cheese, fresh, queso fresco",
+  "kcal": 299.0,
+  "proteinas": 18.09,
+  "grasas": 23.82,
+  "carbohidratos": 2.98,
+  "fibra": 0.0
+ },
+ "queso brie": {
+  "fdc_id": 172177,
+  "usda": "Cheese, brie",
+  "kcal": 334.0,
+  "proteinas": 20.75,
+  "grasas": 27.68,
+  "carbohidratos": 0.45,
+  "fibra": 0.0
+ },
+ "galletitas integrales": {
+  "fdc_id": 172749,
+  "usda": "Crackers, whole-wheat",
+  "kcal": 427.0,
+  "proteinas": 10.58,
+  "grasas": 14.13,
+  "carbohidratos": 69.55,
+  "fibra": 10.3
+ },
+ "especias": {
+  "fdc_id": 171329,
+  "usda": "Spices, paprika",
+  "kcal": 282.0,
+  "proteinas": 14.14,
+  "grasas": 12.89,
+  "carbohidratos": 53.99,
+  "fibra": 34.9
+ },
+ "caramelo líquido": {
+  "fdc_id": 168841,
+  "usda": "Toppings, butterscotch or caramel",
+  "kcal": 216.0,
+  "proteinas": 1.21,
+  "grasas": 0.0,
+  "carbohidratos": 57.01,
+  "fibra": 0.0
  }
 }

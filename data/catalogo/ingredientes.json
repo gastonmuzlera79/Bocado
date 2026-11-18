@@ -541,7 +541,8 @@
    "aceite neutro",
    "aceite de girasol",
    "aceite vegetal",
-   "aceite de maíz"
+   "aceite de maíz",
+   "grasa vegetal"
   ],
   "oil|sunflow",
   null,
@@ -1172,7 +1173,8 @@
    "tomates",
    "tomate perita",
    "tomates cherry",
-   "tomate cherry"
+   "tomate cherry",
+   "tomates secos"
   ],
   "tomatoes|red|ripe|raw|year round average",
   123,
@@ -1968,5 +1970,58 @@
   "olives|ripe|canned (small-extra large)",
   4,
   null
+ ],
+ "queso fresco": [
+  "huevos y lácteos",
+  0,
+  [
+   "queso cremoso",
+   "queso de campo"
+  ],
+  "cheese|queso fresco",
+  null,
+  null
+ ],
+ "queso brie": [
+  "huevos y lácteos",
+  0,
+  [
+   "brie"
+  ],
+  "cheese|brie",
+  null,
+  null
+ ],
+ "galletitas integrales": [
+  "almacén",
+  0,
+  [
+   "galletitas",
+   "galletas integrales"
+  ],
+  "crackers|whole-wheat",
+  8,
+  null
+ ],
+ "especias": [
+  "condimentos y especias",
+  1,
+  [
+   "especias a gusto",
+   "condimentos"
+  ],
+  "spices|paprika",
+  null,
+  null
+ ],
+ "caramelo líquido": [
+  "endulzantes",
+  0,
+  [
+   "caramelo"
+  ],
+  "toppings|caramel",
+  null,
+  320
  ]
 }
