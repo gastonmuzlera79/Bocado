@@ -1895,5 +1895,78 @@
   "spices|pepper|red or cayenne",
   null,
   null
+ ],
+ "harina de arroz": [
+  "harinas y cereales",
+  0,
+  [],
+  "rice flour|white|unenriched",
+  null,
+  158
+ ],
+ "harina leudante": [
+  "harinas y cereales",
+  0,
+  [
+   "harina autoleudante",
+   "harina leudante 0000"
+  ],
+  "wheat flour|white|all-purpose|self-rising|enriched",
+  null,
+  125
+ ],
+ "leche vegetal": [
+  "huevos y lácteos",
+  0,
+  [
+   "bebida vegetal",
+   "leche de almendras",
+   "leche de avena"
+  ],
+  "beverages|almond milk|unsweetened|shelf stable",
+  null,
+  240
+ ],
+ "jamón crudo": [
+  "carnes",
+  0,
+  [
+   "prosciutto"
+  ],
+  "ham|cured|boneless|extra lean|unheated",
+  15,
+  null
+ ],
+ "azúcar impalpable": [
+  "endulzantes",
+  0,
+  [
+   "azúcar glas",
+   "azúcar en polvo"
+  ],
+  "sugars|powdered",
+  null,
+  120
+ ],
+ "mermelada": [
+  "dulces",
+  0,
+  [
+   "mermelada sin azúcar"
+  ],
+  "jams and preserves",
+  null,
+  null
+ ],
+ "aceitunas": [
+  "almacén",
+  0,
+  [
+   "aceitunas verdes",
+   "aceitunas negras"
+  ],
+  "olives|ripe|canned (small-extra large)",
+  4,
+  null
  ]
 }

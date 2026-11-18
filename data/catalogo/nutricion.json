@@ -1609,5 +1609,68 @@
   "grasas": 17.27,
   "carbohidratos": 56.63,
   "fibra": 27.2
+ },
+ "harina de arroz": {
+  "fdc_id": 169714,
+  "usda": "Rice flour, white, unenriched",
+  "kcal": 366.0,
+  "proteinas": 5.95,
+  "grasas": 1.42,
+  "carbohidratos": 80.13,
+  "fibra": 2.4
+ },
+ "harina leudante": {
+  "fdc_id": 168895,
+  "usda": "Wheat flour, white, all-purpose, self-rising, enriched",
+  "kcal": 354.0,
+  "proteinas": 9.89,
+  "grasas": 0.97,
+  "carbohidratos": 74.22,
+  "fibra": 2.7
+ },
+ "leche vegetal": {
+  "fdc_id": 174832,
+  "usda": "Beverages, almond milk, unsweetened, shelf stable",
+  "kcal": 15.0,
+  "proteinas": 0.4,
+  "grasas": 0.96,
+  "carbohidratos": 1.31,
+  "fibra": 0.2
+ },
+ "jamón crudo": {
+  "fdc_id": 167874,
+  "usda": "Pork, cured, ham, steak, boneless, extra lean, unheated",
+  "kcal": 122.0,
+  "proteinas": 19.56,
+  "grasas": 4.25,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "azúcar impalpable": {
+  "fdc_id": 169656,
+  "usda": "Sugars, powdered",
+  "kcal": 389.0,
+  "proteinas": 0.0,
+  "grasas": 0.0,
+  "carbohidratos": 99.77,
+  "fibra": 0.0
+ },
+ "mermelada": {
+  "fdc_id": 169641,
+  "usda": "Jams and preserves",
+  "kcal": 278.0,
+  "proteinas": 0.37,
+  "grasas": 0.07,
+  "carbohidratos": 68.86,
+  "fibra": 1.1
+ },
+ "aceitunas": {
+  "fdc_id": 169094,
+  "usda": "Olives, ripe, canned (small-extra large)",
+  "kcal": 116.0,
+  "proteinas": 0.84,
+  "grasas": 10.9,
+  "carbohidratos": 6.04,
+  "fibra": 1.6
  }
 }

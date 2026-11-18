@@ -19520,5 +19520,3139 @@
   "origen": "recetario",
   "origen_ref": "af-04-067",
   "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bastones-de-batata-al-romero-y-limon",
+  "titulo": "Bastones de batata al romero y limón",
+  "descripcion": "Batata crocante con romero y un toque de limón.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "batata",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "romero",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las batatas en bastones y condimentalas con el aceite, el romero, el limón, sal y pimienta.",
+   "Cocinalas 12 a 13 minutos a 185 °C, moviéndolas a la mitad."
+  ],
+  "consejo": "Para mojar, salsa criolla o mayonesa casera.",
+  "etiquetas": [
+   "batata",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-068",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "coliflor-al-curry-con-queso",
+  "titulo": "Coliflor al curry con queso",
+  "descripcion": "Ramitos de coliflor dorados con curry y queso rallado.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "coliflor",
+    "nota": "en ramitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "curry",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo en un bol.",
+   "Cociná 10 a 11 minutos a 185 °C."
+  ],
+  "consejo": "Semillas tostadas por encima le dan textura.",
+  "etiquetas": [
+   "verduras",
+   "especias",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-069",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-doradas-a-las-hierbas-provenzales",
+  "titulo": "Papas doradas a las hierbas provenzales",
+  "descripcion": "Cubos o gajos de papa con hierbas provenzales, crocantes y aromáticos.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "hierbas secas",
+    "nota": "provenzales",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en cubos o gajos y condimentalas.",
+   "Cocinalas 13 a 14 minutos a 190 °C, revolviendo una vez."
+  ],
+  "consejo": "Al servir, sumales un poco de ajo picado o queso.",
+  "etiquetas": [
+   "papa",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-070",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "ensalada-tibia-de-zucchini-y-cherry",
+  "titulo": "Ensalada tibia de zucchini y cherry",
+  "descripcion": "Zucchini y tomates cherry apenas asados, para servir tibios.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 7,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "cherry",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá el zucchini en rodajas delgadas y los tomates por la mitad.",
+   "Condimentá todo y cociná 7 minutos a 185 °C.",
+   "Servila tibia."
+  ],
+  "consejo": "Queso rallado o almendras fileteadas por encima.",
+  "etiquetas": [
+   "ensaladas",
+   "verduras",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-071",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "berenjenas-a-la-oriental",
+  "titulo": "Berenjenas a la oriental",
+  "descripcion": "Cubos de berenjena con soja, miel y jengibre, dorados y dulzones.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "salsa de soja",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "jengibre",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la berenjena en cubos y dejala 15 minutos en la soja con la miel, el jengibre y el aceite.",
+   "Cocinala 10 minutos a 185 °C, revolviendo una vez."
+  ],
+  "consejo": "Sésamo o maní tostado por encima.",
+  "etiquetas": [
+   "verduras",
+   "oriental",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-072",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tostadas-con-brocoli-al-ajo",
+  "titulo": "Tostadas con brócoli al ajo",
+  "descripcion": "Brócoli dorado con ajo servido sobre pan integral tostado.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": "en ramitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Condimentá el brócoli con el ajo, el aceite, sal y pimienta.",
+   "Cocinalo 8 minutos a 185 °C; en los últimos 3 minutos sumá el pan para tostarlo.",
+   "Serví el brócoli sobre las tostadas."
+  ],
+  "consejo": "Limón o queso rallado por encima.",
+  "etiquetas": [
+   "verduras",
+   "almuerzo liviano",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-073",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bastones-de-batata-con-avena-y-pimenton",
+  "titulo": "Bastones de batata con avena y pimentón",
+  "descripcion": "Batata rebozada con avena y pimentón, crocante y sin fritura.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "batata",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las batatas en bastones finos.",
+   "Mezclalas con el aceite y después con la avena, el pimentón, sal y pimienta.",
+   "Cocinalas 12 a 13 minutos a 185 °C, hasta dorar."
+  ],
+  "consejo": "Para mojar, un dip de yogur o de palta.",
+  "etiquetas": [
+   "batata",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-074",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "coliflor-con-salsa-de-almendras",
+  "titulo": "Coliflor con salsa de almendras",
+  "descripcion": "Una versión sin lácteos de la coliflor gratinada, con bebida vegetal y almendras.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "coliflor",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche vegetal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "harina de almendras",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná la coliflor 5 minutos a 185 °C.",
+   "Mezclá la bebida vegetal con la harina de almendras, el aceite y los condimentos.",
+   "Cubrí la coliflor con la salsa y cociná 3 minutos más."
+  ],
+  "consejo": "Levadura nutricional en la salsa le da gusto a queso.",
+  "etiquetas": [
+   "verduras",
+   "vegano",
+   "sin lácteos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-075",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "brocoli-con-soja-y-sesamo",
+  "titulo": "Brócoli con soja y sésamo",
+  "descripcion": "Brócoli crocante con soja y sésamo, para pollo o arroz.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "brócoli",
+    "nota": "en ramitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "salsa de soja",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "semillas de sésamo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo en un bol y pasalo a la canasta.",
+   "Cociná 7 a 8 minutos a 185 °C, revolviendo una vez."
+  ],
+  "consejo": "Un poco de jengibre o miel lo hace más especial.",
+  "etiquetas": [
+   "verduras",
+   "oriental",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-076",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "choclos-asados-con-pimenton-y-queso",
+  "titulo": "Choclos asados con pimentón y queso",
+  "descripcion": "Choclos dorados con pimentón y una lluvia de queso al final.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "choclo",
+    "nota": "entero",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Untá los choclos con el aceite y el pimentón.",
+   "Cocinalos 12 minutos a 190 °C, girándolos una vez.",
+   "Espolvorealos con el queso."
+  ],
+  "consejo": "Limón o cilantro picado le dan frescura.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-077",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "hojas-verdes-salteadas-con-almendras",
+  "titulo": "Hojas verdes salteadas con almendras",
+  "descripcion": "Espinaca y acelga salteadas con almendras tostadas, una guarnición elegante.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "acelga",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "almendras",
+    "nota": "picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Condimentá las hojas con el aceite, sal y pimienta y cocinalas 6 minutos a 180 °C en un molde.",
+   "Sumá las almendras y seguí 2 minutos para tostarlas."
+  ],
+  "consejo": "Aceto o limón al servir.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-078",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tomates-cherry-al-romero-y-ajo",
+  "titulo": "Tomates cherry al romero y ajo",
+  "descripcion": "Tomates cherry que se ablandan y caramelizan con romero y ajo.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 8,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "cherry",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "romero seco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo en un molde chico.",
+   "Cociná 9 minutos a 180 °C, hasta que los tomates empiecen a abrirse."
+  ],
+  "consejo": "Sobre tostadas con queso crema o con pastas.",
+  "etiquetas": [
+   "verduras",
+   "guarnición",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-079",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "papas-rellenas-de-espinaca-y-queso",
+  "titulo": "Papas rellenas de espinaca y queso",
+  "descripcion": "Papas asadas rellenas con espinaca y queso, cremosas y doradas.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cociná las papas enteras unos 10 minutos a 185 °C, hasta que estén tiernas.",
+   "Partilas, sacales parte de la pulpa y mezclala con la espinaca, el queso y los condimentos.",
+   "Rellenalas, pincelalas con aceite y gratiná 4 minutos."
+  ],
+  "consejo": "Perejil o semillas por encima.",
+  "etiquetas": [
+   "papa",
+   "rellenos",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-04-080",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-con-base-de-avena",
+  "titulo": "Pizza con base de avena",
+  "descripcion": "Pizza de base firme hecha con avena, huevo y yogur, sin harina.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": "o agua",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa de tomate y mozzarella",
+    "nota": "para cubrir",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la avena, el huevo, el yogur, sal y orégano hasta tener una pasta.",
+   "Extendela fina sobre papel manteca en la canasta y cocinala 10 minutos a 180 °C.",
+   "Cubrila con salsa, queso y lo que quieras sumar y cociná 5 minutos más."
+  ],
+  "consejo": "Con avena instantánea la masa queda más fina.",
+  "etiquetas": [
+   "pizza",
+   "sin harina",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-001",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-con-base-de-coliflor",
+  "titulo": "Pizza con base de coliflor",
+  "descripcion": "Base de coliflor y queso, baja en carbohidratos y con buena fibra.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "coliflor",
+    "nota": "rallada y cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa de tomate y mozzarella",
+    "nota": "para cubrir",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Escurrí muy bien la coliflor en un repasador.",
+   "Mezclala con el huevo, el queso y los condimentos y formá un disco sobre papel manteca.",
+   "Cociná 8 minutos a 185 °C, hasta que esté firme.",
+   "Cubrila con salsa y queso y cociná 5 minutos más."
+  ],
+  "consejo": "Cuanto más seca esté la coliflor, mejor se arma la base.",
+  "etiquetas": [
+   "pizza",
+   "sin harina",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-002",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pancitos-rapidos-sin-levadura",
+  "titulo": "Pancitos rápidos sin levadura",
+  "descripcion": "Bollitos esponjosos con polvo de hornear, listos en un rato.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": "0000 o integral",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el polvo de hornear y la sal, y agregá el agua y el aceite.",
+   "Formá bollitos y acomodalos en un molde de silicona.",
+   "Cociná 12 minutos a 175 °C."
+  ],
+  "consejo": "Semillas o hierbas en la masa les dan variedad.",
+  "etiquetas": [
+   "panes",
+   "sin levadura",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-003",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "arrollado-de-pan-con-jamon-y-queso",
+  "titulo": "Arrollado de pan con jamón y queso",
+  "descripcion": "Masa rápida enrollada con jamón y queso, con el centro derretido.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "y algo más para pintar",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 50,
+    "unidad": "g",
+    "nombre": "jamón cocido",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 50,
+    "unidad": "g",
+    "nombre": "queso magro",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el huevo, el aceite y el agua en una masa y estirala en un rectángulo.",
+   "Cubrila con jamón y queso, enrollala y cerrá bien los bordes.",
+   "Pintala con huevo y cociná 12 minutos a 180 °C."
+  ],
+  "consejo": "El huevo batido arriba le da un dorado parejo.",
+  "etiquetas": [
+   "panes",
+   "jamón y queso",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-004",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-dulce-rapido",
+  "titulo": "Pan dulce rápido",
+  "descripcion": "Pan dulce con frutas secas y miel, sin horno ni amasado largo.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 170,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": "0000",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "levadura seca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "frutos secos",
+    "nota": "o frutas secas picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todos los ingredientes y dejá levar la masa 30 minutos.",
+   "Pasala a un molde de silicona.",
+   "Cociná 18 minutos a 170 °C."
+  ],
+  "consejo": "Almendras y azúcar impalpable por encima para las fiestas.",
+  "etiquetas": [
+   "fiestas",
+   "panes",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-005",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizzetas-sin-gluten",
+  "titulo": "Pizzetas sin gluten",
+  "descripcion": "Pizzetas de harina de arroz y fécula, para quienes no comen gluten.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 4,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina de arroz",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "fécula de maíz",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "agua",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa de tomate y queso",
+    "nota": "para cubrir",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todos los ingredientes de la masa hasta que quede pareja.",
+   "Formá las pizzetas y cocinalas 9 minutos a 180 °C.",
+   "Cubrilas y cociná 4 minutos más."
+  ],
+  "consejo": "Con jamón crudo y rúcula, o con queso y morrones. Verificá que todos los ingredientes sean aptos para celíacos.",
+  "etiquetas": [
+   "pizza",
+   "sin gluten",
+   "porción individual"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-006",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pancitos-de-yogur-en-10-minutos",
+  "titulo": "Pancitos de yogur en 10 minutos",
+  "descripcion": "Bollitos con harina leudante y yogur, sin levadura ni amasado.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina leudante",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo hasta tener una masa blanda.",
+   "Armá bollitos y ponelos en la canasta.",
+   "Cociná 9 minutos a 175 °C."
+  ],
+  "consejo": "Con manteca y mermelada para el desayuno.",
+  "etiquetas": [
+   "panes",
+   "sin levadura",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-007",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-integral-de-masa-fina",
+  "titulo": "Pizza integral de masa fina",
+  "descripcion": "Pizza rústica de harina integral, con más fibra.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 4,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa de tomate y mozzarella",
+    "nota": "para cubrir",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní los ingredientes y estirá una base fina.",
+   "Cocinala sola 10 minutos a 180 °C.",
+   "Cubrila y cociná 4 minutos más."
+  ],
+  "consejo": "Semillas en la masa la hacen más crocante.",
+  "etiquetas": [
+   "pizza",
+   "integral",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-008",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-de-ajo-y-queso",
+  "titulo": "Pan de ajo y queso",
+  "descripcion": "Pan con manteca de ajo y queso gratinado, para acompañar comidas.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 7,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "pan",
+    "nota": "mini baguette o pan del día anterior",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la manteca blanda con el ajo y el queso.",
+   "Cortá el pan, untalo y cocinalo 7 minutos a 180 °C."
+  ],
+  "consejo": "Perejil fresco picado al servir.",
+  "etiquetas": [
+   "panes",
+   "acompañamiento",
+   "aprovechamiento"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-009",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bagels-de-harina-leudante",
+  "titulo": "Bagels de harina leudante",
+  "descripcion": "Bagels sin hervir con harina leudante y yogur, para rellenar.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina leudante",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "semillas",
+    "nota": "para cubrir",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y formá aros con la masa.",
+   "Pincelalos con agua y cubrilos con semillas.",
+   "Cociná 10 minutos a 180 °C."
+  ],
+  "consejo": "Rellenos con queso crema y verduras para un desayuno liviano.",
+  "etiquetas": [
+   "panes",
+   "desayuno",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-010",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-con-base-de-pollo",
+  "titulo": "Pizza con base de pollo",
+  "descripcion": "Base de pechuga procesada, alta en proteína y sin harinas.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "pechuga de pollo",
+    "nota": "procesada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, orégano y ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa de tomate y mozzarella",
+    "nota": "para cubrir",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní el pollo con el huevo, el queso y los condimentos.",
+   "Extendé la mezcla en una base fina sobre papel manteca y cocinala 10 minutos a 185 °C.",
+   "Cubrila y cociná 5 minutos más."
+  ],
+  "consejo": "Rúcula y tomates cherry encima al servir.",
+  "etiquetas": [
+   "pizza",
+   "proteico",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-011",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pancitos-de-queso-sin-gluten",
+  "titulo": "Pancitos de queso sin gluten",
+  "descripcion": "Bolitas de queso con fécula de mandioca, esponjosas y sin harina de trigo.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "fécula de mandioca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo hasta tener una masa húmeda.",
+   "Armá unas 8 bolitas y ponelas en la canasta.",
+   "Cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Con un queso semiduro, como pategrás, tienen más sabor.",
+  "etiquetas": [
+   "panes",
+   "sin gluten",
+   "mate"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-012",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-multisemillas",
+  "titulo": "Pan multisemillas",
+  "descripcion": "Pan integral con mezcla de semillas, para desayunos o sándwiches.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "semillas",
+    "nota": "mezcla",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo hasta formar una masa pareja.",
+   "Pasala a un molde chico de silicona.",
+   "Cociná 12 a 13 minutos a 175 °C."
+  ],
+  "consejo": "Tostado con palta o queso crema.",
+  "etiquetas": [
+   "panes",
+   "semillas",
+   "integral"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-013",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-con-base-de-zapallito",
+  "titulo": "Pizza con base de zapallito",
+  "descripcion": "Base liviana de zapallito, avena y huevo, sorprendente de sabor.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zapallito",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "jamón, queso y tomate",
+    "nota": "para cubrir",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Escurrí muy bien el zapallito y mezclalo con el huevo, la avena y los condimentos.",
+   "Formá una base sobre papel manteca y cocinala 7 minutos a 185 °C.",
+   "Cubrila y cociná 5 minutos más."
+  ],
+  "consejo": "Funciona con cualquier cobertura de pizza clásica.",
+  "etiquetas": [
+   "pizza",
+   "verduras",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-014",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-relleno-de-cebolla-caramelizada-y-queso",
+  "titulo": "Pan relleno de cebolla caramelizada y queso",
+  "descripcion": "Masa simple rellena con cebolla caramelizada y queso, muy aromática.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "cebolla",
+    "nota": "caramelizada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el agua y el aceite y estirá la masa.",
+   "Distribuí la cebolla y el queso, cerrala y sellá bien los bordes.",
+   "Cociná 12 minutos a 180 °C."
+  ],
+  "consejo": "Con cebolla morada queda todavía más dulce.",
+  "etiquetas": [
+   "panes",
+   "rellenos",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-015",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-blanca-de-ricota-y-espinaca",
+  "titulo": "Pizza blanca de ricota y espinaca",
+  "descripcion": "Pizza sin salsa de tomate, con ricota y espinaca, cremosa y liviana.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 13,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "ricota",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "cocida y picada",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina con el agua y una pizca de sal, estirá la base y cocinala 8 minutos a 185 °C.",
+   "Mezclá la ricota con la espinaca y los condimentos y cubrí la base.",
+   "Cociná 5 minutos más."
+  ],
+  "consejo": "Al servirla, un poco de queso o unas gotas de limón.",
+  "etiquetas": [
+   "pizza",
+   "vegetariano",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-016",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-rustico-de-campo",
+  "titulo": "Pan rústico de campo",
+  "descripcion": "Pan con levadura, corteza crocante y miga aireada.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 175,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": "000",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "levadura seca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y amasá unos 5 minutos.",
+   "Dejá descansar 30 minutos y formá un bollo.",
+   "Hacele unos cortes arriba, pincelalo con agua y cociná 15 minutos a 175 °C."
+  ],
+  "consejo": "El agua por encima antes de cocinar le da una corteza brillante.",
+  "etiquetas": [
+   "panes",
+   "con levadura",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-017",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-criolla-con-jamon-morron-y-huevo",
+  "titulo": "Pizza criolla con jamón, morrón y huevo",
+  "descripcion": "La pizza argentina con jamón, morrón asado y un huevo cuajado arriba.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "masa de pizza",
+    "nota": "prepizza o casera",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "feta",
+    "nombre": "jamón cocido",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": "asado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cubrí la base con salsa, jamón, morrón y queso.",
+   "Rompé el huevo en el centro.",
+   "Cociná 9 a 10 minutos a 185 °C, hasta que el huevo cuaje."
+  ],
+  "consejo": "Orégano fresco o aceitunas verdes al servir.",
+  "etiquetas": [
+   "pizza",
+   "clásico argentino",
+   "huevos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-018",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-de-avena-y-miel",
+  "titulo": "Pan de avena y miel",
+  "descripcion": "Pan dulce de avena para tostadas o meriendas.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": "o agua",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todos los ingredientes.",
+   "Pasá la mezcla a un molde chico.",
+   "Cociná 12 a 13 minutos a 175 °C."
+  ],
+  "consejo": "Con mermelada sin azúcar.",
+  "etiquetas": [
+   "panes",
+   "avena",
+   "desayuno"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-019",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pancitos-para-mini-hamburguesas",
+  "titulo": "Pancitos para mini hamburguesas",
+  "descripcion": "Bollitos chicos y suaves, ideales para sándwiches de bocado.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": "000",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y formá bollitos chicos.",
+   "Pincelalos con agua o huevo y ponelos en la canasta.",
+   "Cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Se pueden freezar y se regeneran en 3 minutos en la freidora.",
+  "etiquetas": [
+   "panes",
+   "para freezar",
+   "sándwiches"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-020",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-de-hierbas-y-ajo",
+  "titulo": "Pan de hierbas y ajo",
+  "descripcion": "Pan con levadura, orégano y ajo, para acompañar carnes o pastas.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": "0000",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "levadura seca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todos los ingredientes hasta tener una masa.",
+   "Dejala descansar 20 minutos, dale forma y hacele unos cortes.",
+   "Cociná 15 minutos a 180 °C."
+  ],
+  "consejo": "Pintalo con manteca derretida apenas sale.",
+  "etiquetas": [
+   "panes",
+   "con levadura",
+   "hierbas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-021",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "focaccia-rapida-con-tomates-cherry",
+  "titulo": "Focaccia rápida con tomates cherry",
+  "descripcion": "Focaccia esponjosa sin levadura, con cherry y aceite de oliva.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": "y algo más para arriba",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 5,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "cherry, en mitades",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo menos los tomates y extendé la masa en un molde de silicona.",
+   "Hundí los tomates en la masa y rociá con aceite.",
+   "Cociná 12 a 13 minutos a 185 °C."
+  ],
+  "consejo": "Romero fresco o aceitunas negras la hacen más especial.",
+  "etiquetas": [
+   "panes",
+   "italiana",
+   "para compartir"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-022",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "calzone-de-masa-casera",
+  "titulo": "Calzone de masa casera",
+  "descripcion": "Pizza doblada con masa casera, jamón, queso y salsa.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "feta",
+    "nombre": "jamón cocido",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "yema",
+    "nota": "para pintar",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el agua y el aceite y estirá la masa en un círculo.",
+   "Poné el relleno en una mitad, doblá y presioná el borde con un tenedor.",
+   "Cociná 11 a 12 minutos a 185 °C."
+  ],
+  "consejo": "Pintado con yema toma más color.",
+  "etiquetas": [
+   "pizza",
+   "jamón y queso",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-023",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-rellena-de-cuatro-quesos",
+  "titulo": "Pizza rellena de cuatro quesos",
+  "descripcion": "Dos tapas de pizza con mozzarella, queso azul, ricota y rallado en el medio.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "masa de pizza",
+    "nota": "tapas finas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "mozzarella",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso azul",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "ricota",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Repartí la mezcla de quesos sobre una de las masas y tapala con la segunda.",
+   "Cerrá bien el borde.",
+   "Cociná 10 a 11 minutos a 185 °C."
+  ],
+  "consejo": "Pimienta negra o nuez moscada en el relleno.",
+  "etiquetas": [
+   "pizza",
+   "quesos",
+   "para compartir"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-024",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-integral-con-semillas-y-miel",
+  "titulo": "Pan integral con semillas y miel",
+  "descripcion": "Pan de harinas mezcladas con semillas y un toque de miel.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "semillas",
+    "nota": "chía, lino y girasol",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y pasalo a un molde.",
+   "Cociná 12 a 13 minutos a 175 °C, hasta que un palillo salga seco."
+  ],
+  "consejo": "En un recipiente cerrado dura varios días.",
+  "etiquetas": [
+   "panes",
+   "integral",
+   "semillas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-025",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizzas-de-berenjena",
+  "titulo": "Pizzas de berenjena",
+  "descripcion": "Rodajas de berenjena como base, con salsa y queso gratinado.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano y sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Salá las rodajas y cocinalas 5 minutos a 185 °C.",
+   "Cubrilas con salsa, queso y orégano.",
+   "Gratiná 3 a 4 minutos más."
+  ],
+  "consejo": "Jamón o tomate fresco encima.",
+  "etiquetas": [
+   "pizza",
+   "sin masa",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-026",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-de-campo-con-avena",
+  "titulo": "Pan de campo con avena",
+  "descripcion": "Pan rústico de harina integral y avena, contundente.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo hasta tener una masa firme.",
+   "Dejala descansar 10 minutos.",
+   "Dale forma y cociná 14 minutos a 175 °C."
+  ],
+  "consejo": "Con manteca o miel.",
+  "etiquetas": [
+   "panes",
+   "avena",
+   "integral"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-027",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "focaccia-de-ajo-y-romero",
+  "titulo": "Focaccia de ajo y romero",
+  "descripcion": "Focaccia esponjosa perfumada con ajo y romero.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "romero",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el agua, el aceite y la sal y extendé la masa en un molde.",
+   "Espolvoreala con el ajo y el romero.",
+   "Cociná 11 a 12 minutos a 185 °C."
+  ],
+  "consejo": "Sal en escamas por encima al servir.",
+  "etiquetas": [
+   "panes",
+   "italiana",
+   "para compartir"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-028",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizza-caprese",
+  "titulo": "Pizza caprese",
+  "descripcion": "Pizza de tomate, mozzarella y albahaca, fresca y liviana.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "masa de pizza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "mozzarella",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "albahaca",
+    "nota": "hojas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cubrí la base con salsa, mozzarella y rodajas de tomate.",
+   "Cociná 9 minutos a 185 °C, hasta dorar el borde.",
+   "Terminá con las hojas de albahaca."
+  ],
+  "consejo": "Un hilo de aceite de oliva al servir.",
+  "etiquetas": [
+   "pizza",
+   "vegetariano",
+   "italiana"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-029",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-de-avena-y-queso",
+  "titulo": "Pan de avena y queso",
+  "descripcion": "Pan sin harina de trigo, de avena y queso, rápido y saciante.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo y pasalo a un molde de silicona.",
+   "Cociná 12 minutos a 180 °C."
+  ],
+  "consejo": "Sirve para tostadas o sándwiches. La avena puede tener trazas de gluten.",
+  "etiquetas": [
+   "panes",
+   "sin harina",
+   "avena"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-030",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "rolls-de-canela-con-levadura",
+  "titulo": "Rolls de canela con levadura",
+  "descripcion": "Espirales tiernos con canela y azúcar mascabo, como los de panadería.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": "0000",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "o aceite, y algo más para untar",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "levadura seca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, la leche, la manteca y la levadura y dejá descansar 20 minutos.",
+   "Estirá la masa, untala con manteca y espolvoreá el azúcar y la canela.",
+   "Enrollala y cortala en 6 rodajas.",
+   "Cociná 10 a 11 minutos a 175 °C."
+  ],
+  "consejo": "Un glaseado de azúcar impalpable con limón los termina.",
+  "etiquetas": [
+   "merienda",
+   "masas",
+   "canela"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-031",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-dulce-de-avena",
+  "titulo": "Pan dulce de avena",
+  "descripcion": "Un pan dulce navideño de avena y miel, sin harinas refinadas.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "frutos secos",
+    "nota": "o frutas secas, picados",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo hasta integrar.",
+   "Pasalo a un molde chico.",
+   "Cociná 14 minutos a 180 °C."
+  ],
+  "consejo": "Ralladura de naranja le da perfume.",
+  "etiquetas": [
+   "fiestas",
+   "avena",
+   "panes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-032",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budin-de-banana-y-avena",
+  "titulo": "Budín de banana y avena",
+  "descripcion": "Banana bread húmedo y dulce por la fruta madura.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "maduras",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá las bananas y mezclalas con el resto.",
+   "Pasá la mezcla a un molde de silicona.",
+   "Cociná 15 minutos a 175 °C."
+  ],
+  "consejo": "Le podés sumar frutos secos o trocitos de chocolate.",
+  "etiquetas": [
+   "budines",
+   "frutas",
+   "aprovechamiento"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-033",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-vainilla-y-limon",
+  "titulo": "Muffins de vainilla y limón",
+  "descripcion": "Muffins livianos y perfumados, para la merienda.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "la ralladura",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todos los ingredientes.",
+   "Repartí la mezcla en moldes individuales de silicona.",
+   "Cociná 9 a 10 minutos a 175 °C."
+  ],
+  "consejo": "Glasé o semillas de amapola por encima.",
+  "etiquetas": [
+   "merienda",
+   "muffins",
+   "cítricos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-034",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-de-chocolate-y-avena",
+  "titulo": "Pan de chocolate y avena",
+  "descripcion": "Pan de cacao y avena, para el café o la leche.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "o azúcar mascabo",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo hasta tener una mezcla pareja.",
+   "Pasala a un molde.",
+   "Cociná 13 a 14 minutos a 180 °C."
+  ],
+  "consejo": "Admite frutos secos o chocolate amargo picado.",
+  "etiquetas": [
+   "panes",
+   "chocolate",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-035",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "trenza-de-manteca",
+  "titulo": "Trenza de manteca",
+  "descripcion": "Pan trenzado tierno, más liviano y sin horno.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 175,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "levadura seca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y dejá levar la masa 30 minutos.",
+   "Dividila en tres tiras y trenzalas.",
+   "Cociná 15 minutos a 175 °C."
+  ],
+  "consejo": "Pintala con miel apenas sale para que brille.",
+  "etiquetas": [
+   "panes",
+   "merienda",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-036",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "facturas-rapidas",
+  "titulo": "Facturas rápidas",
+  "descripcion": "Facturas simples sin levadura, con dulce o crema pastelera.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "dulce de leche",
+    "nota": "o crema pastelera",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo, formá bolitas y aplastalas.",
+   "Poné un poco de dulce en el centro de cada una.",
+   "Cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Azúcar impalpable o coco rallado por encima.",
+  "etiquetas": [
+   "merienda",
+   "clásico argentino",
+   "mate"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-05-037",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
  }
 ]

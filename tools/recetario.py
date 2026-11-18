@@ -119,6 +119,7 @@ pure papas batatas ensalada verde arroz blanco fideos salsa criolla tomate barba
 horno grilladas vegetales verduras pan plato servir acompaña acompañá calabaza manzana papa
 finas finos gruesas gruesos medianas medianos chicas chicos grandes laminas medio pincelalas pincelalos pinceladas
 lavalas lavalos pelalas pelalos verduras cebollas batatas zapallitos
+masa extende extendé silicona
 """.split())
 
 
