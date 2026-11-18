@@ -2023,5 +2023,119 @@
   "toppings|caramel",
   null,
   320
+ ],
+ "gelatina sin sabor": [
+  "almacén",
+  0,
+  [
+   "gelatina"
+  ],
+  "gelatins|dry powder|unsweetened",
+  null,
+  null
+ ],
+ "frutos rojos": [
+  "frutas",
+  0,
+  [
+   "frutas rojas",
+   "berries"
+  ],
+  "blueberries|raw",
+  null,
+  148
+ ],
+ "galletitas de chocolate": [
+  "almacén",
+  0,
+  [
+   "galletitas chocolinas"
+  ],
+  "cookies|chocolate wafers",
+  6,
+  null
+ ],
+ "dulce de membrillo": [
+  "almacén",
+  0,
+  [
+   "membrillo"
+  ],
+  "jams and preserves",
+  null,
+  null
+ ],
+ "bizcochuelo": [
+  "almacén",
+  0,
+  [
+   "pionono"
+  ],
+  "cake|sponge|commercially prepared",
+  60,
+  null
+ ],
+ "durazno en almíbar": [
+  "frutas",
+  0,
+  [
+   "duraznos en almíbar"
+  ],
+  "peaches|canned|heavy syrup|solids and liquids",
+  100,
+  null
+ ],
+ "café": [
+  "bebidas",
+  0,
+  [
+   "café fuerte"
+  ],
+  "coffee|brewed|tap water",
+  null,
+  237
+ ],
+ "frutas": [
+  "frutas",
+  0,
+  [
+   "frutas variadas",
+   "fruta fresca"
+  ],
+  "fruit cocktail|canned|juice pack",
+  null,
+  240
+ ],
+ "melón": [
+  "frutas",
+  0,
+  [
+   "melones"
+  ],
+  "melons|cantaloupe|raw",
+  null,
+  160
+ ],
+ "yema de huevo": [
+  "huevos y lácteos",
+  0,
+  [
+   "yemas",
+   "yema"
+  ],
+  "egg|yolk|raw|fresh",
+  17,
+  null
+ ],
+ "vainillas": [
+  "almacén",
+  0,
+  [
+   "vainillas integrales",
+   "bizcochos de vainilla"
+  ],
+  "ladyfingers",
+  11,
+  null
  ]
 }

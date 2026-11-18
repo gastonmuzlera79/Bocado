@@ -1717,5 +1717,104 @@
   "grasas": 0.0,
   "carbohidratos": 57.01,
   "fibra": 0.0
+ },
+ "gelatina sin sabor": {
+  "fdc_id": 169599,
+  "usda": "Gelatins, dry powder, unsweetened",
+  "kcal": 335.0,
+  "proteinas": 85.6,
+  "grasas": 0.1,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "frutos rojos": {
+  "fdc_id": 171711,
+  "usda": "Blueberries, raw",
+  "kcal": 57.0,
+  "proteinas": 0.74,
+  "grasas": 0.33,
+  "carbohidratos": 14.49,
+  "fibra": 2.4
+ },
+ "galletitas de chocolate": {
+  "fdc_id": 172714,
+  "usda": "Cookies, chocolate wafers",
+  "kcal": 433.0,
+  "proteinas": 6.6,
+  "grasas": 14.2,
+  "carbohidratos": 72.7,
+  "fibra": 3.4
+ },
+ "dulce de membrillo": {
+  "fdc_id": 169641,
+  "usda": "Jams and preserves",
+  "kcal": 278.0,
+  "proteinas": 0.37,
+  "grasas": 0.07,
+  "carbohidratos": 68.86,
+  "fibra": 1.1
+ },
+ "bizcochuelo": {
+  "fdc_id": 172706,
+  "usda": "Cake, sponge, commercially prepared",
+  "kcal": 290.0,
+  "proteinas": 5.4,
+  "grasas": 2.7,
+  "carbohidratos": 61.0,
+  "fibra": 0.5
+ },
+ "durazno en almíbar": {
+  "fdc_id": 169112,
+  "usda": "Peaches, canned, heavy syrup pack, solids and liquids",
+  "kcal": 74.0,
+  "proteinas": 0.45,
+  "grasas": 0.1,
+  "carbohidratos": 19.94,
+  "fibra": 1.3
+ },
+ "café": {
+  "fdc_id": 171890,
+  "usda": "Beverages, coffee, brewed, prepared with tap water",
+  "kcal": 1.0,
+  "proteinas": 0.12,
+  "grasas": 0.02,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "frutas": {
+  "fdc_id": 174668,
+  "usda": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, juice pack, solids and liquids",
+  "kcal": 46.0,
+  "proteinas": 0.46,
+  "grasas": 0.01,
+  "carbohidratos": 11.86,
+  "fibra": 1.0
+ },
+ "melón": {
+  "fdc_id": 169092,
+  "usda": "Melons, cantaloupe, raw",
+  "kcal": 34.0,
+  "proteinas": 0.84,
+  "grasas": 0.19,
+  "carbohidratos": 8.16,
+  "fibra": 0.9
+ },
+ "yema de huevo": {
+  "fdc_id": 172184,
+  "usda": "Egg, yolk, raw, fresh",
+  "kcal": 322.0,
+  "proteinas": 15.86,
+  "grasas": 26.54,
+  "carbohidratos": 3.59,
+  "fibra": 0.0
+ },
+ "vainillas": {
+  "fdc_id": 174959,
+  "usda": "Cookies, ladyfingers, with lemon juice and rind",
+  "kcal": 365.0,
+  "proteinas": 10.6,
+  "grasas": 9.1,
+  "carbohidratos": 59.7,
+  "fibra": 1.0
  }
 }

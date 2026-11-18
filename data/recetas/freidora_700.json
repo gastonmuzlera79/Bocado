@@ -25828,5 +25828,3081 @@
   "origen": "recetario",
   "origen_ref": "af-06-007",
   "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tarta-de-limon-y-yogur",
+  "titulo": "Tarta de limón y yogur",
+  "descripcion": "Tarta fresca de yogur y limón sobre una base de galletitas integrales.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "jugo de limón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "galletitas integrales",
+    "nota": "molidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní las galletitas molidas con la miel y apretalas en el fondo del molde.",
+   "Batí el yogur con el huevo y el jugo de limón y volcalo sobre la base.",
+   "Cociná 9 minutos a 165 °C y dejala enfriar."
+  ],
+  "consejo": "Ralladura de limón o unas hojas de menta al servir.",
+  "etiquetas": [
+   "postres",
+   "cítricos",
+   "tartas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-008",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "crumble-de-manzana-y-avena",
+  "titulo": "Crumble de manzana y avena",
+  "descripcion": "Manzana tierna bajo una capa crocante de avena, miel y canela.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "o aceite de coco",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Repartí la manzana en un molde.",
+   "Mezclá la avena con la miel, la canela y la manteca y cubrí la fruta.",
+   "Cociná 10 a 11 minutos a 180 °C, hasta que la cobertura dore."
+  ],
+  "consejo": "Tibio, con una cucharada de yogur o helado.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "avena"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-009",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pastelito-de-frutos-rojos-y-queso-crema",
+  "titulo": "Pastelito de frutos rojos y queso crema",
+  "descripcion": "Postre rápido en capas: galletitas, queso crema y frutos rojos.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "frutos rojos",
+    "nota": "frescos o congelados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "galletitas integrales",
+    "nota": "molidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Armá una base con las galletitas en un molde chico.",
+   "Untala con el queso crema y cubrila con los frutos rojos y la miel.",
+   "Cociná 8 minutos a 170 °C."
+  ],
+  "consejo": "Menta fresca o ralladura de limón arriba.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-010",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "torta-marmolada",
+  "titulo": "Torta marmolada",
+  "descripcion": "Bizcocho de vainilla con vetas de chocolate, como el de panadería.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní el huevo, la harina, el azúcar, la leche y el polvo de hornear, y separá la masa en dos partes.",
+   "Perfumá una con vainilla y sumale el cacao a la otra.",
+   "Volcá cucharadas de cada una alternadas en el molde.",
+   "Cociná 12 a 13 minutos a 175 °C."
+  ],
+  "consejo": "Si pasás un palillo en zigzag antes de cocinar, las vetas quedan más marcadas.",
+  "etiquetas": [
+   "postres",
+   "chocolate",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-011",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budin-de-limon-y-amapola",
+  "titulo": "Budín de limón y amapola",
+  "descripcion": "Budín perfumado de limón con semillas de amapola que le dan crocancia.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "jugo y ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "semillas de amapola",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todos los ingredientes y pasalos al molde.",
+   "Cociná 10 a 11 minutos a 175 °C, hasta que esté firme."
+  ],
+  "consejo": "Un glasé de azúcar impalpable y jugo de limón arriba.",
+  "etiquetas": [
+   "budines",
+   "cítricos",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-012",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tarta-de-manzana-con-avena",
+  "titulo": "Tarta de manzana con avena",
+  "descripcion": "Tarta casera de avena y huevo cubierta con rodajas de manzana.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la avena, el huevo, la miel y la canela.",
+   "Pasalo al molde y acomodá la manzana encima.",
+   "Cociná 11 a 12 minutos a 175 °C."
+  ],
+  "consejo": "Unas pasas o nueces en la mezcla.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "tartas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-013",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cheesecake-de-frutillas",
+  "titulo": "Cheesecake de frutillas",
+  "descripcion": "Cheesecake liviano con frutillas en la crema y base de galletitas.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "galletitas integrales",
+    "nota": "molidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "frutillas",
+    "nota": "picadas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Apretá las galletitas molidas en el fondo del molde.",
+   "Batí el queso con el huevo y el azúcar, sumá las frutillas y volcalo encima.",
+   "Cociná 10 minutos a 165 °C y enfrialo."
+  ],
+  "consejo": "Con mermelada de frutilla por encima.",
+  "etiquetas": [
+   "postres",
+   "quesos",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-014",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budin-de-chocolate-y-nueces",
+  "titulo": "Budín de chocolate y nueces",
+  "descripcion": "Budín húmedo de cacao con nueces picadas.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y pasalo a un molde rectangular.",
+   "Cociná 12 minutos a 175 °C."
+  ],
+  "consejo": "Trocitos de chocolate en la mezcla si lo querés más intenso.",
+  "etiquetas": [
+   "budines",
+   "chocolate",
+   "frutos secos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-015",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tarta-de-pera-y-miel",
+  "titulo": "Tarta de pera y miel",
+  "descripcion": "Tarta suave de harina integral con láminas de pera.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "pera",
+    "nota": "madura, en láminas finas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con la harina, la miel y el polvo de hornear y volcalo en el molde.",
+   "Distribuí las láminas de pera arriba.",
+   "Cociná 11 minutos a 170 °C."
+  ],
+  "consejo": "Se sirve tibia; queda bien con una cucharada de yogur.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "tartas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-016",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "torta-de-coco-y-dulce-de-leche",
+  "titulo": "Torta de coco y dulce de leche",
+  "descripcion": "Torta de coco con dulce de leche, dorada afuera y húmeda adentro.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "coco rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "dulce de leche",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y pasalo a un molde.",
+   "Cociná 12 a 13 minutos a 175 °C."
+  ],
+  "consejo": "Coco tostado por encima al servir.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "dulce de leche"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-017",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-banana-y-avena",
+  "titulo": "Muffins de banana y avena",
+  "descripcion": "Muffins suaves endulzados con banana madura.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "madura",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá la banana y uní el resto de los ingredientes.",
+   "Llená moldes individuales y cociná 8 a 9 minutos a 175 °C."
+  ],
+  "consejo": "Canela o chips de chocolate en la mezcla.",
+  "etiquetas": [
+   "postres",
+   "muffins",
+   "aprovechamiento"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-018",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "volcan-de-chocolate",
+  "titulo": "Volcán de chocolate",
+  "descripcion": "Bizcocho chico de chocolate con el centro todavía líquido.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 7,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 80,
+    "unidad": "g",
+    "nombre": "chips de chocolate amargo",
+    "nota": "o chocolate en barra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Fundí juntos el chocolate y la manteca.",
+   "Integrá el huevo, el azúcar y la harina.",
+   "Pasalo a un molde individual enmantecado y cociná 7 minutos a 180 °C.",
+   "Desmoldalo enseguida."
+  ],
+  "consejo": "Con helado de crema o frutos rojos.",
+  "etiquetas": [
+   "postres",
+   "chocolate",
+   "porción individual"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-019",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cupcakes-de-vainilla",
+  "titulo": "Cupcakes de vainilla",
+  "descripcion": "Bizcochitos individuales de vainilla, dorados y livianos.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí todo hasta tener una mezcla lisa.",
+   "Repartila en moldes individuales y cociná 9 minutos a 175 °C."
+  ],
+  "consejo": "Decorados con crema batida o dulce de leche.",
+  "etiquetas": [
+   "postres",
+   "muffins",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-020",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "flan-casero-de-vainilla",
+  "titulo": "Flan casero de vainilla",
+  "descripcion": "Flan de huevo y leche en moldecitos, sin baño María.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 250,
+    "unidad": "ml",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "caramelo líquido",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la leche, el azúcar y la vainilla.",
+   "Repartí la mezcla en moldes de silicona.",
+   "Apoyalos sobre una rejilla dentro de la canasta y cociná 10 a 11 minutos a 160 °C.",
+   "Enfrialos en la heladera antes de desmoldar."
+  ],
+  "consejo": "Con caramelo, dulce de leche o fruta fresca.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "pocos ingredientes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-021",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "chocotorta-tibia",
+  "titulo": "Chocotorta tibia",
+  "descripcion": "La chocotorta de siempre en un molde chico, apenas calentada para que se funda.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "galletitas de chocolate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "dulce de leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní el queso crema con el dulce de leche.",
+   "En un molde chico, alterná galletitas y crema hasta terminar.",
+   "Calentala 6 a 7 minutos a 160 °C y espolvoreá el cacao."
+  ],
+  "consejo": "Remojar apenas las galletitas en leche o café la hace más húmeda.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "dulce de leche"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-022",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "panqueques-de-manzana-y-avena",
+  "titulo": "Panqueques de manzana y avena",
+  "descripcion": "Panqueques chicos de manzana rallada, sin sartén ni aceite.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todos los ingredientes.",
+   "Formá discos con cucharadas de la mezcla sobre papel manteca.",
+   "Cociná 7 a 8 minutos a 175 °C."
+  ],
+  "consejo": "Con yogur o mermelada.",
+  "etiquetas": [
+   "desayuno",
+   "frutas",
+   "sin fritura"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-023",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "panqueques-sin-sarten",
+  "titulo": "Panqueques sin sartén",
+  "descripcion": "Panqueques finos para rellenar con dulce de leche, fruta o crema.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 4,
+  "temperatura_c": 170,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí todo hasta que no queden grumos.",
+   "Volcá una capa fina en un molde plano de silicona.",
+   "Cociná 2 minutos a 170 °C, dalo vuelta y cociná 2 minutos más."
+  ],
+  "consejo": "Rellenos y enrollados, sirven para crepes o canelones dulces.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-024",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "dulce-de-batata-casero",
+  "titulo": "Dulce de batata casero",
+  "descripcion": "Dulce de batata más liviano que el comercial, para comer con queso.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 160,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 300,
+    "unidad": "g",
+    "nombre": "batata",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "gelatina sin sabor",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Herví la batata hasta que esté tierna y hacela puré.",
+   "Hidratá la gelatina en el agua y mezclala con el puré y el azúcar.",
+   "Pasalo a un molde y cociná 8 a 9 minutos a 160 °C para que pierda humedad.",
+   "Dejalo enfriar en la heladera hasta que tome cuerpo."
+  ],
+  "consejo": "Con queso fresco, como un vigilante.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "dulces caseros"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-025",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pastafrola-individual",
+  "titulo": "Pastafrola individual",
+  "descripcion": "Pastafrola chica de membrillo con su enrejado.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "o aceite",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "dulce de membrillo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el azúcar, el huevo y la manteca en una masa.",
+   "Forrá un molde chico con parte de la masa y cubrila con el membrillo.",
+   "Con el resto, armá tiritas cruzadas arriba.",
+   "Cociná 10 a 11 minutos a 180 °C."
+  ],
+  "consejo": "También sale con dulce de batata o dulce de leche.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "tartas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-026",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "alfajorcitos-de-maicena",
+  "titulo": "Alfajorcitos de maicena",
+  "descripcion": "Tapitas tiernas de maicena unidas con dulce de leche y coco.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 170,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "fécula de maíz",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "dulce de leche",
+    "nota": "para rellenar",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "coco rallado",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Uní la fécula, la harina, el huevo, el azúcar y la manteca en una masa.",
+   "Estirala y cortá tapitas.",
+   "Cociná 7 a 8 minutos a 170 °C.",
+   "Cuando estén frías, unilas de a dos con dulce de leche y pasá el borde por coco."
+  ],
+  "consejo": "Si las rellenás calientes se rompen: esperá a que se enfríen del todo.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "dulce de leche"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-027",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "lemon-pie-rapido",
+  "titulo": "Lemon pie rápido",
+  "descripcion": "Base de galletitas y relleno de limón, en porción chica.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "galletitas integrales",
+    "nota": "molidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "el jugo",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní las galletitas con la manteca y armá la base en el molde.",
+   "Batí el huevo con el jugo de limón, el azúcar y la leche y volcalo arriba.",
+   "Cociná 10 minutos a 165 °C y enfrialo."
+  ],
+  "consejo": "Servilo bien frío; arriba podés poner merengue.",
+  "etiquetas": [
+   "postres",
+   "cítricos",
+   "tartas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-028",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "chaja-en-vasito",
+  "titulo": "Chajá en vasito",
+  "descripcion": "El postre uruguayo armado en un molde chico, con un golpe de calor para sellarlo.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 2,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "porción",
+    "nombre": "bizcochuelo",
+    "nota": "o pionono",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "crema de leche",
+    "nota": "batida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "durazno en almíbar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "dulce de leche",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Alterná capas de bizcochuelo, dulce de leche, durazno y crema en un molde chico.",
+   "Llevalo 2 a 3 minutos a 160 °C para dorar la superficie.",
+   "Enfrialo antes de servir."
+  ],
+  "consejo": "Merengue triturado arriba lo acerca al original.",
+  "etiquetas": [
+   "postres",
+   "regional",
+   "sin horno"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-029",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "coquitos-dorados",
+  "titulo": "Coquitos dorados",
+  "descripcion": "Bocaditos de coco y huevo, dorados por fuera.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "coco rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y armá bolitas.",
+   "Acomodalas sobre papel manteca y cociná 8 a 9 minutos a 175 °C."
+  ],
+  "consejo": "Mojá la base en chocolate fundido una vez fríos.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "coco"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-030",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "mousse-liviana-de-chocolate",
+  "titulo": "Mousse liviana de chocolate",
+  "descripcion": "Mousse aireada de chocolate y claras, sin azúcar agregada.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "chips de chocolate amargo",
+    "nota": "sin azúcar",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "clara de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Fundí el chocolate en un recipiente apto, 2 minutos a 60 °C en la freidora o a baño María.",
+   "Batí las claras a nieve firme.",
+   "Uní el chocolate con el yogur y la miel e incorporá las claras de a poco, con movimientos envolventes.",
+   "Llevala a la heladera hasta servir."
+  ],
+  "consejo": "Con frutillas o virutas de chocolate.",
+  "etiquetas": [
+   "postres",
+   "chocolate",
+   "sin cocción"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-031",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cheesecake-frio-de-yogur-y-frutillas",
+  "titulo": "Cheesecake frío de yogur y frutillas",
+  "descripcion": "Cheesecake sin cocción de yogur griego y queso crema.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "yogur griego",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso untable",
+    "nota": "light",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "galletitas integrales",
+    "nota": "molidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "frutillas",
+    "nota": "picadas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Apretá las galletitas en el fondo de un molde.",
+   "Uní el yogur con el queso, la miel y las frutillas y volcalo encima.",
+   "Dejalo 1 hora en la heladera."
+  ],
+  "consejo": "Frutillas licuadas con limón sirven de cobertura.",
+  "etiquetas": [
+   "postres",
+   "sin cocción",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-032",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "helado-de-banana-y-cacao",
+  "titulo": "Helado de banana y cacao",
+  "descripcion": "Helado cremoso de banana congelada, sin máquina.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "congeladas en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": "o leche vegetal",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá todo hasta que quede cremoso.",
+   "Comelo en el momento o llevalo 30 minutos al freezer."
+  ],
+  "consejo": "Una cucharada de manteca de maní le suma proteína.",
+  "etiquetas": [
+   "postres",
+   "sin cocción",
+   "helados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-033",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tiramisu-liviano",
+  "titulo": "Tiramisú liviano",
+  "descripcion": "Tiramisú con queso crema y yogur en lugar de mascarpone, con mucho café.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "vainillas",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "ml",
+    "nombre": "café",
+    "nota": "fuerte",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "cacao amargo",
+    "nota": "para espolvorear",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el queso con el yogur y la miel.",
+   "Pasá las vainillas por el café y armá capas alternadas con la crema.",
+   "Terminá con cacao y dejalo 2 horas en la heladera."
+  ],
+  "consejo": "Cuanto más tiempo de heladera, más firme se corta.",
+  "etiquetas": [
+   "postres",
+   "sin cocción",
+   "italiana"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-034",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "mousse-de-anana-y-coco",
+  "titulo": "Mousse de ananá y coco",
+  "descripcion": "Postre frío y tropical de ananá, yogur y coco.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "rodaja",
+    "nombre": "ananá",
+    "nota": "gruesa",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "coco rallado",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá el ananá con el yogur y la miel.",
+   "Sumá el coco y dejala 1 hora en la heladera."
+  ],
+  "consejo": "Trocitos de ananá o coco tostado arriba.",
+  "etiquetas": [
+   "postres",
+   "sin cocción",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-035",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "flan-proteico",
+  "titulo": "Flan proteico",
+  "descripcion": "Flan con proteína en polvo, sin azúcar, para después de entrenar.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 30,
+    "unidad": "g",
+    "nombre": "proteína en polvo",
+    "nota": "sabor vainilla",
+    "opcional": false
+   },
+   {
+    "cantidad": 200,
+    "unidad": "ml",
+    "nombre": "leche",
+    "nota": "o bebida vegetal",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "edulcorante",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí todo hasta disolver la proteína.",
+   "Pasalo a un molde chico y cociná 9 a 10 minutos a 160 °C.",
+   "Enfrialo antes de comer."
+  ],
+  "consejo": "Queda bien con mermelada light arriba.",
+  "etiquetas": [
+   "postres",
+   "proteico",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-036",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "gelatina-de-naranja-natural",
+  "titulo": "Gelatina de naranja natural",
+  "descripcion": "Gelatina casera de jugo exprimido, sin colorantes.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "ml",
+    "nombre": "jugo de naranja",
+    "nota": "natural",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "gelatina sin sabor",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Hidratá la gelatina en 2 cucharadas de agua tibia.",
+   "Unila con el jugo y la miel y repartila en vasitos.",
+   "Dejala 2 horas en la heladera."
+  ],
+  "consejo": "Gajos de naranja o menta adentro antes de que cuaje.",
+  "etiquetas": [
+   "postres",
+   "sin cocción",
+   "cítricos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-037",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "crema-de-chocolate-y-yogur",
+  "titulo": "Crema de chocolate y yogur",
+  "descripcion": "Postre en copa de yogur con cacao, listo en dos minutos.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "chips de chocolate amargo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el yogur con el cacao y la miel hasta que quede liso.",
+   "Servilo frío en una copa con los chips arriba."
+  ],
+  "consejo": "En capas con fruta queda más vistoso.",
+  "etiquetas": [
+   "postres",
+   "sin cocción",
+   "chocolate"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-038",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "parfait-de-frutas-y-avena",
+  "titulo": "Parfait de frutas y avena",
+  "descripcion": "Vasito en capas de yogur, avena y fruta.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "frutas",
+    "nota": "variadas, picadas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Alterná capas de yogur, avena y fruta en un vaso.",
+   "Dejalo 1 hora en la heladera."
+  ],
+  "consejo": "Granola o frutos secos arriba.",
+  "etiquetas": [
+   "postres",
+   "sin cocción",
+   "desayuno"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-039",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "mousse-de-melon",
+  "titulo": "Mousse de melón",
+  "descripcion": "Mousse fresca de melón, para el verano.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": null,
+  "temperatura_c": null,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "melón",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharada",
+    "nombre": "gelatina sin sabor",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá el melón con el yogur y la miel.",
+   "Hidratá la gelatina en un poco de agua tibia y sumala.",
+   "Repartila en copas y dejala en la heladera hasta que tome cuerpo."
+  ],
+  "consejo": "Menta o ralladura de lima al servir.",
+  "etiquetas": [
+   "postres",
+   "sin cocción",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-040",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tartitas-de-frutos-rojos",
+  "titulo": "Tartitas de frutos rojos",
+  "descripcion": "Tartas chicas de masa crocante rellenas de frutos rojos.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "o aceite",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "frutos rojos",
+    "nota": "frescos o congelados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "fécula de maíz",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, la manteca y la miel en una masa; si hace falta, sumá una cucharada de agua.",
+   "Estirala y forrá moldes chicos.",
+   "Mezclá los frutos rojos con la fécula y rellenalas.",
+   "Cociná 10 a 11 minutos a 175 °C."
+  ],
+  "consejo": "Azúcar impalpable o coco rallado arriba.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "tartas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-041",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "galletitas-de-chocolate-y-avena",
+  "titulo": "Galletitas de chocolate y avena",
+  "descripcion": "Galletitas de avena y cacao, crocantes afuera y tiernas adentro.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo en una masa firme.",
+   "Armá bolitas, aplastalas sobre papel manteca y cociná 7 a 8 minutos a 180 °C."
+  ],
+  "consejo": "Chips de chocolate o nueces en la masa.",
+  "etiquetas": [
+   "galletitas",
+   "chocolate",
+   "avena"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-042",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cookies-de-manteca-de-mani",
+  "titulo": "Cookies de manteca de maní",
+  "descripcion": "Galletitas tiernas de maní, para el mate o el café.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 7,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "manteca de maní",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo hasta formar una masa.",
+   "Armá bolitas, aplastalas un poco y cociná 7 minutos a 175 °C."
+  ],
+  "consejo": "Una pizca de sal gruesa arriba resalta el maní.",
+  "etiquetas": [
+   "galletitas",
+   "mate",
+   "frutos secos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-043",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "crumble-individual-de-manzana",
+  "titulo": "Crumble individual de manzana",
+  "descripcion": "Porción de manzana con canela y cobertura crocante de avena.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "o aceite de coco",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Poné la manzana con la canela en un molde individual.",
+   "Mezclá la avena con la miel y la manteca y cubrila.",
+   "Cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Con helado o yogur.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "porción individual"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-044",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "espirales-de-canela-integrales",
+  "titulo": "Espirales de canela integrales",
+  "descripcion": "Arrollados de masa integral con canela y miel, sin azúcar refinada.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el huevo, el yogur y el polvo de hornear y estirá la masa en un rectángulo.",
+   "Pincelala con miel, espolvoreá la canela, enrollala y cortá porciones.",
+   "Cociná 9 minutos a 180 °C."
+  ],
+  "consejo": "Glasé de limón o una cucharada de yogur arriba.",
+  "etiquetas": [
+   "postres",
+   "canela",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-045",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tarta-brownie-con-nueces",
+  "titulo": "Tarta brownie con nueces",
+  "descripcion": "Mitad tarta, mitad brownie: húmeda, intensa y con nueces.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 80,
+    "unidad": "g",
+    "nombre": "chips de chocolate amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Fundí el chocolate con la manteca y uní el resto de los ingredientes.",
+   "Pasalo a un molde chico y cociná 10 a 11 minutos a 175 °C."
+  ],
+  "consejo": "Tibia, con crema o helado.",
+  "etiquetas": [
+   "postres",
+   "chocolate",
+   "frutos secos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-046",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-zanahoria-y-canela",
+  "titulo": "Muffins de zanahoria y canela",
+  "descripcion": "Muffins húmedos de zanahoria rallada, dulces sin azúcar agregada.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y llená moldes individuales.",
+   "Cociná 9 minutos a 175 °C."
+  ],
+  "consejo": "Nueces o pasas en la mezcla.",
+  "etiquetas": [
+   "postres",
+   "muffins",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-047",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "galletitas-de-coco",
+  "titulo": "Galletitas de coco",
+  "descripcion": "Galletitas de coco doradas por fuera y tiernas adentro.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "coco rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y armá bolitas chicas.",
+   "Aplastalas apenas sobre papel manteca y cociná 8 minutos a 175 °C."
+  ],
+  "consejo": "Bañá la base en chocolate amargo fundido.",
+  "etiquetas": [
+   "galletitas",
+   "coco",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-048",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tarta-de-ricota-y-miel",
+  "titulo": "Tarta de ricota y miel",
+  "descripcion": "Tarta suave de ricota endulzada con miel.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "ricota",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el aceite y un poco de agua en una masa y forrá el molde.",
+   "Precocinala 3 minutos a 175 °C.",
+   "Batí la ricota con la miel y el huevo, rellenala y cociná 7 minutos más."
+  ],
+  "consejo": "Fruta fresca o almendras arriba.",
+  "etiquetas": [
+   "postres",
+   "quesos",
+   "tartas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-049",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "empanaditas-de-manzana-y-canela",
+  "titulo": "Empanaditas de manzana y canela",
+  "descripcion": "Empanadas dulces de manzana, crocantes y jugosas.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tapas de empanada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "para pintar",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la manzana con la miel y la canela.",
+   "Rellená las tapas, cerralas con repulgue y pintalas con huevo.",
+   "Cociná 8 a 9 minutos a 180 °C."
+  ],
+  "consejo": "Azúcar impalpable apenas salen.",
+  "etiquetas": [
+   "postres",
+   "empanadas",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-050",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "volcan-de-dulce-de-leche",
+  "titulo": "Volcán de dulce de leche",
+  "descripcion": "Bizcochito con un corazón de dulce de leche que se derrama al cortarlo.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "dulce de leche",
+    "nota": "repostero",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "o aceite",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con la harina, el azúcar, la manteca y el polvo de hornear.",
+   "Volcá la mitad en un molde, poné el dulce de leche en el centro y tapalo con el resto.",
+   "Cociná 7 a 8 minutos a 180 °C."
+  ],
+  "consejo": "Con helado de crema o crema batida.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "dulce de leche"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-051",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "torta-red-velvet-liviana",
+  "titulo": "Torta red velvet liviana",
+  "descripcion": "Bizcocho rojo de harina integral teñido con remolacha.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "remolacha",
+    "nota": "cocida y procesada",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y pasalo a un molde redondo chico.",
+   "Cociná 11 a 12 minutos a 175 °C."
+  ],
+  "consejo": "Cubrila con queso crema batido con miel.",
+  "etiquetas": [
+   "postres",
+   "verduras",
+   "tortas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-052",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cheesecake-tibio-de-frutillas",
+  "titulo": "Cheesecake tibio de frutillas",
+  "descripcion": "Cheesecake sin base, cremoso y con la superficie dorada.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "frutillas",
+    "nota": "picadas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí todo y pasalo a un molde chico.",
+   "Cociná 9 a 10 minutos a 165 °C; el centro tiene que moverse apenas."
+  ],
+  "consejo": "Con galletitas molidas en el fondo gana textura.",
+  "etiquetas": [
+   "postres",
+   "quesos",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-053",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budin-con-corazon-de-chocolate",
+  "titulo": "Budín con corazón de chocolate",
+  "descripcion": "Bizcocho esponjoso con trocitos de chocolate fundidos en el centro.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 20,
+    "unidad": "g",
+    "nombre": "chips de chocolate amargo",
+    "nota": "o 2 cuadraditos",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con la harina, el azúcar, la leche y el polvo de hornear.",
+   "Volcá la mitad en el molde, poné el chocolate y cubrilo con el resto.",
+   "Cociná 10 a 11 minutos a 175 °C."
+  ],
+  "consejo": "Cacao o azúcar impalpable arriba al servir.",
+  "etiquetas": [
+   "budines",
+   "chocolate",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-054",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "torta-de-naranja-y-almendras",
+  "titulo": "Torta de naranja y almendras",
+  "descripcion": "Torta húmeda de almendras y jugo de naranja, sin harina de trigo.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina de almendras",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "jugo de naranja",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y pasalo a un molde chico.",
+   "Cociná 11 a 12 minutos a 175 °C."
+  ],
+  "consejo": "Ralladura de naranja en la masa o un glasé de jugo arriba.",
+  "etiquetas": [
+   "postres",
+   "sin harina",
+   "cítricos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-055",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "creme-brulee-rapida",
+  "titulo": "Crème brûlée rápida",
+  "descripcion": "Crema de yemas con costra de azúcar quemada, en porción individual.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 2,
+  "temperatura_c": 160,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "yema de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 150,
+    "unidad": "ml",
+    "nombre": "crema de leche",
+    "nota": "o leche vegetal",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": "y algo más para la costra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí las yemas con la crema, el azúcar y la vainilla y pasalo a un molde chico.",
+   "Cociná 8 minutos a 160 °C, hasta que cuaje.",
+   "Cubrí con una capa fina de azúcar y cociná 2 minutos más para caramelizar."
+  ],
+  "consejo": "Con azúcar mascabo la costra tiene más sabor.",
+  "etiquetas": [
+   "postres",
+   "francesa",
+   "porción individual"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-056",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tarta-invertida-de-manzana",
+  "titulo": "Tarta invertida de manzana",
+  "descripcion": "Versión liviana de la tarte tatin: manzana caramelizada abajo y masa arriba.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "en láminas finas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "o aceite",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Acomodá la manzana con la miel y la manteca en el molde y cocinala 3 minutos a 170 °C.",
+   "Batí el huevo con la harina y volcalo sobre la fruta.",
+   "Cociná 10 minutos a 175 °C y desmoldala dada vuelta."
+  ],
+  "consejo": "Tibia, con canela o yogur.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "francesa"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-06-057",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
  }
 ]
