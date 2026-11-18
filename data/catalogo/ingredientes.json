@@ -1051,7 +1051,8 @@
   "frutas",
   0,
   [
-   "naranjas"
+   "naranjas",
+   "mandarina"
   ],
   "oranges|raw|all commercial varieties",
   140,
@@ -2136,6 +2137,36 @@
   ],
   "ladyfingers",
   11,
+  null
+ ],
+ "mango": [
+  "frutas",
+  0,
+  [
+   "mangos"
+  ],
+  "mangos|raw",
+  200,
+  165
+ ],
+ "dulce de batata": [
+  "almacén",
+  0,
+  [
+   "batata en dulce"
+  ],
+  "jams and preserves",
+  null,
+  null
+ ],
+ "provoleta": [
+  "huevos y lácteos",
+  0,
+  [
+   "provolone"
+  ],
+  "cheese|provolone",
+  null,
   null
  ]
 }

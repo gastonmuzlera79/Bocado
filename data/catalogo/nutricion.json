@@ -1816,5 +1816,32 @@
   "grasas": 9.1,
   "carbohidratos": 59.7,
   "fibra": 1.0
+ },
+ "mango": {
+  "fdc_id": 169910,
+  "usda": "Mangos, raw",
+  "kcal": 60.0,
+  "proteinas": 0.82,
+  "grasas": 0.38,
+  "carbohidratos": 14.98,
+  "fibra": 1.6
+ },
+ "dulce de batata": {
+  "fdc_id": 169641,
+  "usda": "Jams and preserves",
+  "kcal": 278.0,
+  "proteinas": 0.37,
+  "grasas": 0.07,
+  "carbohidratos": 68.86,
+  "fibra": 1.1
+ },
+ "provoleta": {
+  "fdc_id": 170850,
+  "usda": "Cheese, provolone",
+  "kcal": 351.0,
+  "proteinas": 25.58,
+  "grasas": 26.62,
+  "carbohidratos": 2.14,
+  "fibra": 0.0
  }
 }
