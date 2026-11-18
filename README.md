@@ -27,6 +27,15 @@ tools/probar_db.sh
 
 Crea una base temporal, aplica las migraciones, corre las pruebas de permisos y carga los datos iniciales.
 
+## Recetario base
+
+Hoy tiene 888 recetas reescritas: 690 de "700 Recetas Argentinas para Freidora de Aire" y 198 de la serie "Air Fryer 101 · Sabores sin culpa".
+
+- Libros con extracción cruda (`tools/leer_recetario_airfryer.py`): la reescritura va en `data/recetas/lotes/*.jsonl` y `tools/recetario.py armar` genera el JSON final. `tools/recetario.py copia` controla que no haya frases de 6 palabras copiadas.
+- Libros sin extracción cruda: la reescritura va en `data/recetas/lotes_101/<libro>.jsonl` con tiempo, temperatura, categoría y la nutrición del libro; `data/recetas/lotes_101/fuentes.json` dice qué "Adaptada de" lleva cada uno y `tools/armar_directos.py` arma todos. El control de copia es `tools/recetario.py copia_texto <texto.txt> <lote.jsonl>`.
+- `tools/validar_recetario.py` revisa campos, unidades, slugs y títulos repetidos; `tools/catalogo.py cobertura` revisa que cada ingrediente esté en el catálogo; `tools/generar_seed.py` arma `db/seed`.
+- La nutrición que trae un libro se guarda tal cual (`nutricion_estimada = false`); si no la trae, se estima con el USDA.
+
 ## Reglas del proyecto
 
 - La app funciona completa sin IA. Las funciones con Claude están apagadas hasta que se activen desde el panel.
