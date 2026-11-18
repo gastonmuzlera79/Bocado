@@ -8,6 +8,8 @@ Comandos:
            (temperatura, tiempo, porciones, capítulo) y genera el recetario completo.
   copia    <crudo.json> <carpeta_lotes>
            Controla que ningún paso o descripción reescrita repita 6 palabras seguidas del original.
+  copia_texto <texto_fuente.txt> <archivo.jsonl>
+           Igual que copia, pero contra el texto completo de un libro sin extracción cruda.
   directo  <archivo.jsonl> <salida.json> <prefijo_slug> <fuente_visible>
            Para libros sin extracción cruda: cada línea trae además "cat" (categoría), "min" (minutos),
            "temp" (°C) y "nut" ([kcal, proteínas, grasas, carbohidratos] por porción, tal como los da el
@@ -198,6 +200,24 @@ def cmd_copia(crudo, carpeta, n=6):
     return problemas
 
 
+def cmd_copia_texto(texto, archivo, n=6):
+    fuente = Path(texto).read_text(encoding="utf-8")
+    orig = ngramas(fuente, n)
+    problemas = 0
+    for linea in Path(archivo).read_text(encoding="utf-8").splitlines():
+        if not linea.strip():
+            continue
+        r = json.loads(linea)
+        vocab = set(norm(" ".join(str(i[2]) for i in r["i"])).split())
+        nuevo = " ".join(r["s"] + [r["d"], r.get("c") or ""])
+        repetidos = {g for g in ngramas(nuevo, n) & orig if not es_enumeracion(g, vocab)}
+        if repetidos:
+            problemas += 1
+            print(f"{r['id']}: {sorted(repetidos)[:3]}")
+    print(f"Recetas con frases de {n} palabras copiadas: {problemas}")
+    return problemas
+
+
 if __name__ == "__main__":
     c, *a = sys.argv[1:]
     if c == "lote":
@@ -205,6 +225,8 @@ if __name__ == "__main__":
         cmd_lote(a[0], a[1], a[2], sal)
     elif c == "armar":
         cmd_armar(*a)
+    elif c == "copia_texto":
+        sys.exit(1 if cmd_copia_texto(*a) else 0)
     elif c == "directo":
         cmd_directo(*a)
     elif c == "copia":

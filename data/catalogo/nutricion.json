@@ -2194,5 +2194,77 @@
   "grasas": 0.34,
   "carbohidratos": 11.95,
   "fibra": 5.7
+ },
+ "galletitas de vainilla": {
+  "fdc_id": 174973,
+  "usda": "Cookies, vanilla wafers, lower fat",
+  "kcal": 441.0,
+  "proteinas": 5.0,
+  "grasas": 15.2,
+  "carbohidratos": 73.6,
+  "fibra": 1.9
+ },
+ "leche condensada": {
+  "fdc_id": 171275,
+  "usda": "Milk, canned, condensed, sweetened",
+  "kcal": 321.0,
+  "proteinas": 7.91,
+  "grasas": 8.7,
+  "carbohidratos": 54.4,
+  "fibra": 0.0
+ },
+ "helado": {
+  "fdc_id": 167575,
+  "usda": "Ice creams, vanilla",
+  "kcal": 207.0,
+  "proteinas": 3.5,
+  "grasas": 11.0,
+  "carbohidratos": 23.6,
+  "fibra": 0.7
+ },
+ "salsa de chocolate": {
+  "fdc_id": 168835,
+  "usda": "Syrups, chocolate, fudge-type",
+  "kcal": 350.0,
+  "proteinas": 4.6,
+  "grasas": 8.9,
+  "carbohidratos": 62.9,
+  "fibra": 2.8
+ },
+ "leche evaporada": {
+  "fdc_id": 171276,
+  "usda": "Milk, canned, evaporated, with added vitamin D and without added vitamin A",
+  "kcal": 134.0,
+  "proteinas": 6.81,
+  "grasas": 7.56,
+  "carbohidratos": 10.04,
+  "fibra": 0.0
+ },
+ "dátiles": {
+  "fdc_id": 168191,
+  "usda": "Dates, medjool",
+  "kcal": 277.0,
+  "proteinas": 1.81,
+  "grasas": 0.15,
+  "carbohidratos": 74.97,
+  "fibra": 6.7
+ },
+ "cremor tártaro": {
+  "fdc_id": 175041,
+  "usda": "Leavening agents, cream of tartar",
+  "kcal": 258.0,
+  "proteinas": 0.0,
+  "grasas": 0.0,
+  "carbohidratos": 61.5,
+  "fibra": 0.2
+ },
+ "maracuyá": {
+  "fdc_id": 169108,
+  "usda": "Passion-fruit, (granadilla), purple, raw",
+  "kcal": 97.0,
+  "proteinas": 2.2,
+  "grasas": 0.7,
+  "carbohidratos": 23.38,
+  "fibra": 10.4
  }
 }

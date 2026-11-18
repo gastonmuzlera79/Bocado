@@ -2573,5 +2573,83 @@
   "artichokes|cooked, boiled, drained, without salt",
   null,
   null
+ ],
+ "galletitas de vainilla": [
+  "almacén",
+  0,
+  [
+   "galletitas María",
+   "galletitas dulces",
+   "galletas digestive"
+  ],
+  "cookies|vanilla wafers|lower fat",
+  4,
+  null
+ ],
+ "leche condensada": [
+  "huevos y lácteos",
+  0,
+  [],
+  "milk|canned|condensed|sweetened",
+  null,
+  306
+ ],
+ "helado": [
+  "dulces",
+  0,
+  [
+   "helado de crema",
+   "helado de vainilla"
+  ],
+  "ice creams|vanilla",
+  null,
+  132
+ ],
+ "salsa de chocolate": [
+  "dulces",
+  0,
+  [
+   "salsa de caramelo"
+  ],
+  "syrups|chocolate|fudge-type",
+  null,
+  null
+ ],
+ "leche evaporada": [
+  "huevos y lácteos",
+  0,
+  [],
+  "milk|canned|evaporated|without added vitamin a",
+  null,
+  252
+ ],
+ "dátiles": [
+  "frutas",
+  0,
+  [
+   "dátil"
+  ],
+  "dates|medjool",
+  24,
+  null
+ ],
+ "cremor tártaro": [
+  "almacén",
+  1,
+  [],
+  "leavening agents|cream of tartar",
+  null,
+  null
+ ],
+ "maracuyá": [
+  "frutas",
+  0,
+  [
+   "fruta de la pasión",
+   "pulpa de maracuyá"
+  ],
+  "passion-fruit|(granadilla)|purple|raw",
+  18,
+  236
  ]
 }
