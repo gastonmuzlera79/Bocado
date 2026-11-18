@@ -1,0 +1,6932 @@
+[
+ {
+  "slug": "medialunas-livianas-de-yogur",
+  "titulo": "Medialunas livianas de yogur",
+  "descripcion": "Medialunas de masa rápida con yogur y aceite, sin manteca. Van bien con mate o café.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 170,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "harina integral",
+    "nota": "o 0000",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": "o vegetal",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite neutro",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": "o miel",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "esencia de vainilla",
+    "nota": "unas gotas",
+    "opcional": true
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "yema",
+    "nota": "para pintar",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina con el polvo de hornear en un bol.",
+   "Sumá el huevo, el yogur, el aceite, el endulzante y la vainilla, y trabajá hasta tener una masa blanda.",
+   "Estirala fina en forma de rectángulo y cortá triángulos.",
+   "Enrollá cada triángulo desde el lado ancho hacia la punta.",
+   "Pintalas con la yema y acomodalas sobre papel manteca en la canasta.",
+   "Cociná 10 a 12 minutos a 170 °C. No hace falta darlas vuelta."
+  ],
+  "consejo": "Antes de enrollar podés poner un poco de dulce o de pasta de maní en la base.",
+  "etiquetas": [
+   "desayuno",
+   "merienda",
+   "masas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-001",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "galletitas-de-avena-banana-y-miel",
+  "titulo": "Galletitas de avena, banana y miel",
+  "descripcion": "Galletitas sin harina, endulzadas con banana y miel. Doradas en los bordes y tiernas en el centro.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 10,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "madura",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de coco",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela",
+    "nota": "a gusto",
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "chips de chocolate amargo",
+    "nota": "o pasas",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Hacé un puré con la banana.",
+   "Agregá la avena, la miel y el aceite, y mezclá hasta que se forme una pasta húmeda. Si querés, sumá canela y chips o pasas.",
+   "Armá bolitas, aplastalas un poco y ponelas sobre papel manteca en la canasta.",
+   "Cociná unos 10 minutos a 160 °C, hasta que se doren los bordes."
+  ],
+  "consejo": "Para que queden más crocantes, sumá 2 minutos y dejalas enfriar afuera de la freidora.",
+  "etiquetas": [
+   "merienda",
+   "sin harina",
+   "galletitas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-002",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-integral-de-molde-en-freidora",
+  "titulo": "Pan integral de molde en freidora",
+  "descripcion": "Un pan chico con levadura que se hace sin horno. Sirve para tostadas del desayuno.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 20,
+  "temperatura_c": 170,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "harina integral",
+    "nota": "o mitad integral y mitad común",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "levadura seca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 150,
+    "unidad": "ml",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Disolvé la levadura y el azúcar en el agua tibia y esperá 10 minutos.",
+   "Agregá la harina, el aceite y la sal, y uní hasta tener una masa pareja.",
+   "Tapala y dejala levar alrededor de una hora, hasta que duplique el volumen.",
+   "Pasala a un molde que entre en la freidora, pincelala con aceite y hacele unos tajos arriba.",
+   "Cociná 20 minutos a 170 °C, girando el molde a mitad de tiempo para que se dore parejo."
+  ],
+  "consejo": "Unas semillas de chía, lino o sésamo en la masa le dan más textura.",
+  "etiquetas": [
+   "panes",
+   "desayuno",
+   "con levadura"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-003",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budincitos-de-ricota-y-vainilla",
+  "titulo": "Budincitos de ricota y vainilla",
+  "descripcion": "Bocados suaves de ricota, sin harina y con mucha proteína, para un desayuno dulce.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "o edulcorante líquido",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "fécula de maíz",
+    "nota": "para que quede más firme",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Batí la ricota junto con el huevo, la miel y la vainilla.",
+   "Para que queden más compactos, sumá la fécula.",
+   "Repartí en moldes chicos de silicona y ponelos en la canasta.",
+   "Cociná 15 minutos a 160 °C."
+  ],
+  "consejo": "Un poco de canela o ralladura de limón arriba antes de cocinar les da perfume.",
+  "etiquetas": [
+   "desayuno",
+   "sin harina",
+   "ricota"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-004",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-banana-y-cacao-sin-azucar",
+  "titulo": "Muffins de banana y cacao sin azúcar",
+  "descripcion": "Muffins húmedos con sabor a cacao, endulzados con banana madura.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "maduras",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": "o harina integral",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de girasol",
+    "nota": "o de coco",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "miel",
+    "nota": "o edulcorante, a gusto",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "chips de chocolate amargo",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Pisá las bananas y batilas con los huevos y el aceite.",
+   "Incorporá la avena, el cacao y el polvo de hornear.",
+   "Ajustá el dulzor y uní hasta lograr una pasta cremosa.",
+   "Llená moldes de silicona y, si querés, poné chips arriba.",
+   "Cociná 12 a 14 minutos a 165 °C."
+  ],
+  "consejo": "Una cucharadita de pasta de maní en el centro de cada uno les deja un corazón cremoso.",
+  "etiquetas": [
+   "desayuno",
+   "sin azúcar",
+   "chocolate"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-005",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bizcochitos-integrales-de-queso-y-semillas",
+  "titulo": "Bizcochitos integrales de queso y semillas",
+  "descripcion": "Bizcochitos salados y crocantes, con poca grasa, para acompañar el mate.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 20,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 80,
+    "unidad": "ml",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "semillas de chía, lino o sésamo",
+    "nota": "a gusto",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el polvo de hornear, la sal y el queso.",
+   "Agregá el aceite y el agua, y formá una masa firme.",
+   "Estirala, cortá bastones o discos y cubrilos con semillas.",
+   "Acomodalos sobre papel manteca y cociná 10 a 12 minutos a 175 °C."
+  ],
+  "consejo": "Se conservan crocantes en un frasco cerrado con un papel absorbente adentro.",
+  "etiquetas": [
+   "mate",
+   "salados",
+   "snacks"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-006",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "panqueques-de-avena-y-yogur",
+  "titulo": "Panqueques de avena y yogur",
+  "descripcion": "Panqueques gruesos sin harina blanca, que llenan y se preparan en minutos.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "esencia de vainilla",
+    "nota": "o canela",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo, a mano o con licuadora, hasta que no queden grumos.",
+   "Distribuí la mezcla en porciones sobre una plancha de silicona y alisalas con una cuchara.",
+   "Cociná 8 minutos a 160 °C."
+  ],
+  "consejo": "La mezcla aguanta un día en la heladera, así que podés dejarla lista la noche anterior.",
+  "etiquetas": [
+   "desayuno",
+   "sin harina",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-007",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-manzana-rallada-y-canela",
+  "titulo": "Muffins de manzana rallada y canela",
+  "descripcion": "Muffins húmedos con manzana y canela, sin azúcar refinada.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "grande, rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todos los ingredientes en un bol.",
+   "Repartí la mezcla en moldes de silicona y espolvoreá un poco más de canela.",
+   "Cociná 12 minutos a 165 °C."
+  ],
+  "consejo": "Nueces picadas o pasas le suman textura.",
+  "etiquetas": [
+   "merienda",
+   "frutas",
+   "sin azúcar"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-008",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budincitos-de-limon-con-semillas-de-amapola",
+  "titulo": "Budincitos de limón con semillas de amapola",
+  "descripcion": "Budincitos cítricos y húmedos, pensados para la hora del té.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "jugo y ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "semillas de amapola",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con el yogur, la miel, el jugo y la ralladura de limón.",
+   "Incorporá la harina, la amapola y el polvo de hornear.",
+   "Llená moldes individuales y cociná 10 a 12 minutos a 170 °C."
+  ],
+  "consejo": "Rallá un poco de cáscara de limón por encima al servir.",
+  "etiquetas": [
+   "merienda",
+   "cítricos",
+   "budines"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-009",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "galletitas-de-coco-y-banana",
+  "titulo": "Galletitas de coco y banana",
+  "descripcion": "Galletitas de tres ingredientes, sin harina y dulces por la banana.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 10,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "madura",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "coco rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá la banana y mezclala con el huevo y el coco.",
+   "Formá bolitas, aplastalas y ponelas sobre papel manteca.",
+   "Cociná 8 minutos a 160 °C."
+  ],
+  "consejo": "Admiten chips de chocolate amargo o nueces.",
+  "etiquetas": [
+   "merienda",
+   "sin harina",
+   "pocos ingredientes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-010",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cupcakes-livianos-de-zanahoria",
+  "titulo": "Cupcakes livianos de zanahoria",
+  "descripcion": "Una versión chica y liviana de la torta de zanahoria, húmeda y especiada.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zanahoria",
+    "nota": "mediana, rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todos los ingredientes.",
+   "Llená moldes de silicona y cociná 10 minutos a 165 °C."
+  ],
+  "consejo": "Para cubrirlos, mezclá yogur con ralladura de naranja.",
+  "etiquetas": [
+   "merienda",
+   "verduras",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-011",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tartitas-de-avena-con-yogur-y-fruta",
+  "titulo": "Tartitas de avena con yogur y fruta",
+  "descripcion": "Bases crocantes de avena rellenas con yogur frío y fruta fresca.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de coco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "yogur natural",
+    "nota": "cantidad necesaria",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "fruta fresca",
+    "nota": "kiwi, frutilla o durazno",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la avena con la miel y el aceite.",
+   "Presioná la mezcla en moldes individuales y cociná las bases 6 minutos a 160 °C.",
+   "Dejalas entibiar y recién ahí rellenalas con yogur y fruta."
+  ],
+  "consejo": "Una vez que tienen el yogur no vuelven a la freidora.",
+  "etiquetas": [
+   "merienda",
+   "frutas",
+   "sin horno"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-012",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bagels-integrales-rapidos",
+  "titulo": "Bagels integrales rápidos",
+  "descripcion": "Bagels de masa con yogur que se cocinan directo, sin hervirlos antes.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "semillas",
+    "nota": "para cubrir",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el polvo de hornear, la sal y el yogur hasta formar una masa.",
+   "Dividila, armá aros y abrí bien el agujero del centro.",
+   "Pincelalos con agua y pasalos por semillas.",
+   "Cociná 12 minutos a 180 °C."
+  ],
+  "consejo": "Rellenos con palta, jamón o queso son un desayuno completo.",
+  "etiquetas": [
+   "panes",
+   "desayuno",
+   "sin levadura"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-013",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "barritas-de-avena-y-pasta-de-mani",
+  "titulo": "Barritas de avena y pasta de maní",
+  "descripcion": "Barritas caseras para tener energía a mano, sin conservantes.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "pasta de maní",
+    "nota": "natural",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "frutos secos",
+    "nota": "picados, a gusto",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todos los ingredientes.",
+   "Pasá la mezcla a un molde rectangular, apretala y emparejá la superficie.",
+   "Cociná 8 a 10 minutos a 170 °C."
+  ],
+  "consejo": "Cortalas mientras están tibias, así no se rompen.",
+  "etiquetas": [
+   "snacks",
+   "merienda",
+   "energía"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-014",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "brownie-de-avena-y-banana",
+  "titulo": "Brownie de avena y banana",
+  "descripcion": "Brownie húmedo de cacao hecho con avena en lugar de harina blanca.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá la banana y uníla con el resto de los ingredientes.",
+   "Pasá la mezcla a un molde cuadrado chico.",
+   "Cociná 10 minutos a 165 °C."
+  ],
+  "consejo": "Nueces o chips sin azúcar le quedan muy bien.",
+  "etiquetas": [
+   "postres",
+   "chocolate",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-015",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budin-rapido-de-banana",
+  "titulo": "Budín rápido de banana",
+  "descripcion": "Budín chico de banana que se arma en un bol y queda listo en un cuarto de hora.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá las bananas y mezclalas con el resto de los ingredientes.",
+   "Volcá en una budinera que entre en la freidora.",
+   "Cociná 15 minutos a 170 °C."
+  ],
+  "consejo": "Con nueces tostadas queda mejor.",
+  "etiquetas": [
+   "budines",
+   "merienda",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-016",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "waffles-de-avena-en-molde",
+  "titulo": "Waffles de avena en molde",
+  "descripcion": "Waffles dorados por fuera y tiernos por dentro, sin necesidad de waflera.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 7,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "esencia de vainilla",
+    "nota": "unas gotas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá o mezclá todos los ingredientes.",
+   "Volcá la mezcla en un molde plano de silicona.",
+   "Cociná 7 minutos a 180 °C."
+  ],
+  "consejo": "Acompañalos con fruta y yogur.",
+  "etiquetas": [
+   "desayuno",
+   "brunch",
+   "avena"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-017",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "scones-integrales-de-yogur",
+  "titulo": "Scones integrales de yogur",
+  "descripcion": "Scones tiernos que se hacen rápido y rinden varias porciones.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina con el polvo de hornear y agregá el aceite, el yogur y la miel.",
+   "Formá una masa, estirala y cortá triángulos o círculos.",
+   "Cociná 10 minutos a 175 °C."
+  ],
+  "consejo": "Recién salidos, pincelalos con un poco de miel con agua para que brillen.",
+  "etiquetas": [
+   "merienda",
+   "scones",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-018",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "donas-de-vainilla-sin-fritura",
+  "titulo": "Donas de vainilla sin fritura",
+  "descripcion": "Donas con el gusto de siempre, cocinadas con aire caliente en lugar de aceite.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todos los ingredientes hasta integrar.",
+   "Llená moldes de dona de silicona.",
+   "Cociná 9 minutos a 170 °C."
+  ],
+  "consejo": "Para el glaseado, mezclá yogur con ralladura de limón.",
+  "etiquetas": [
+   "merienda",
+   "sin fritura",
+   "dulces"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-019",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "manzanas-asadas-con-miel-y-nueces",
+  "titulo": "Manzanas asadas con miel y nueces",
+  "descripcion": "Mitades de manzana tiernas con miel, canela y frutos secos.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela",
+    "nota": "a gusto",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "nueces",
+    "nota": "o almendras",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las manzanas por la mitad y sacales el centro.",
+   "Rellená el hueco con miel, canela y frutos secos.",
+   "Cociná 10 minutos a 180 °C."
+  ],
+  "consejo": "Quedan muy bien acompañadas con yogur bien frío.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "pocos ingredientes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-020",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "alfajores-de-maicena-y-avena",
+  "titulo": "Alfajores de maicena y avena",
+  "descripcion": "Alfajores caseros más livianos, con tapitas de maicena y avena.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 160,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "fécula de maíz",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "dulce de leche",
+    "nota": "sin azúcar, para rellenar",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la fécula, la avena, el huevo, la miel y el aceite hasta formar una masa.",
+   "Estirala y cortá discos.",
+   "Cociná las tapitas 8 minutos a 160 °C y dejalas enfriar.",
+   "Unilas de a pares con dulce de leche."
+  ],
+  "consejo": "Si los dejás una hora en un frasco cerrado, las tapitas se ablandan y quedan como las de panadería.",
+  "etiquetas": [
+   "merienda",
+   "alfajores",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-021",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tartitas-de-ricota-y-limon-con-base-de-avena",
+  "titulo": "Tartitas de ricota y limón con base de avena",
+  "descripcion": "Tartitas individuales con base crocante y relleno cremoso de ricota.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 165,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de coco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "dividida entre base y relleno",
+    "opcional": false
+   },
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "jugo y ralladura",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la avena, el aceite y una cucharada de miel, y presionalo en moldes individuales.",
+   "Cociná las bases 5 minutos a 165 °C.",
+   "Batí la ricota con el huevo, el resto de la miel y el limón.",
+   "Rellená las bases y volvé a cocinar unos 7 minutos, hasta que el relleno cuaje."
+  ],
+  "consejo": "Dejalas enfriar antes de desmoldar.",
+  "etiquetas": [
+   "postres",
+   "ricota",
+   "cítricos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-022",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-avena-y-jugo-de-naranja",
+  "titulo": "Muffins de avena y jugo de naranja",
+  "descripcion": "Muffins cítricos con avena, húmedos y con buena fibra.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "jugo de naranja",
+    "nota": "natural",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todos los ingredientes.",
+   "Llená moldes de silicona y cociná 12 minutos a 170 °C."
+  ],
+  "consejo": "Un poco de ralladura de naranja en la mezcla intensifica el sabor.",
+  "etiquetas": [
+   "desayuno",
+   "cítricos",
+   "avena"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-023",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "galletas-crocantes-de-coco-y-avena",
+  "titulo": "Galletas crocantes de coco y avena",
+  "descripcion": "Galletas simples de cuatro ingredientes que quedan bien crocantes.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 10,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "coco rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo, armá bolitas y aplastalas.",
+   "Cociná 10 minutos a 160 °C sobre papel manteca."
+  ],
+  "consejo": "Terminan de endurecerse si las dejás enfriar fuera de la freidora.",
+  "etiquetas": [
+   "merienda",
+   "galletitas",
+   "pocos ingredientes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-024",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budin-proteico-de-cacao",
+  "titulo": "Budín proteico de cacao",
+  "descripcion": "Budín de cacao con yogur y proteína en polvo, para después de entrenar o una merienda fuerte.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "proteína en polvo",
+    "nota": "de vainilla o neutra",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Batí el yogur con los huevos.",
+   "Agregá la proteína, el cacao, la avena y el polvo de hornear, y mezclá hasta que no haya grumos.",
+   "Pasalo a una budinera chica y cociná 14 a 15 minutos a 170 °C."
+  ],
+  "consejo": "Esperá 10 minutos antes de desmoldarlo para que se asiente.",
+  "etiquetas": [
+   "proteico",
+   "chocolate",
+   "budines"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-025",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-uva-y-limon",
+  "titulo": "Muffins de uva y limón",
+  "descripcion": "Muffins cítricos con trozos de uva fresca, livianos para la merienda.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": "o 0000",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "jugo y ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "uvas",
+    "nota": "sin semillas, en mitades",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con el yogur, la miel y el limón.",
+   "Agregá la harina y el polvo de hornear.",
+   "Incorporá las uvas con movimientos suaves y repartí en moldes.",
+   "Cociná 12 a 13 minutos a 170 °C."
+  ],
+  "consejo": "Pasá las uvas por un poco de harina antes de sumarlas, así no se hunden.",
+  "etiquetas": [
+   "merienda",
+   "frutas",
+   "cítricos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-026",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "cupcakes-de-frutilla-sin-colorantes",
+  "titulo": "Cupcakes de frutilla sin colorantes",
+  "descripcion": "Cupcakes rosados por el puré de frutilla, con fruta de verdad.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "frutilla",
+    "nota": "licuada en puré",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá el puré de frutilla con el huevo, el aceite, el endulzante y la vainilla.",
+   "Sumá la harina y el polvo de hornear.",
+   "Llená los moldes hasta tres cuartos y cociná 12 minutos a 165 °C."
+  ],
+  "consejo": "Decoralos con yogur frío y frutilla picada.",
+  "etiquetas": [
+   "merienda",
+   "frutas",
+   "cupcakes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-027",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budin-de-zanahoria-y-coco",
+  "titulo": "Budín de zanahoria y coco",
+  "descripcion": "Budín húmedo donde la zanahoria aporta dulzor y el coco, textura.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "zanahoria",
+    "nota": "rallada fina",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "coco rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Mezclá los huevos con la miel y la zanahoria.",
+   "Agregá el coco, la avena, el polvo de hornear y la canela.",
+   "Pasalo a una budinera y cociná 14 a 15 minutos a 170 °C."
+  ],
+  "consejo": "Un puñado de nueces picadas lo hace más crocante.",
+  "etiquetas": [
+   "budines",
+   "verduras",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-028",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-chocolate-amargo-y-almendras",
+  "titulo": "Muffins de chocolate amargo y almendras",
+  "descripcion": "Muffins intensos de cacao con harina de almendras, poco dulces y saciantes.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "harina de almendras",
+    "nota": "o almendras molidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "chips de chocolate amargo",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con el aceite y el endulzante.",
+   "Incorporá el cacao, la harina de almendras, la avena y el polvo de hornear, y agregá los chips si los usás.",
+   "Llená los moldes y cociná 11 a 12 minutos a 165 °C."
+  ],
+  "consejo": "Espolvorealos con cacao apenas salen.",
+  "etiquetas": [
+   "chocolate",
+   "merienda",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-029",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "panqueques-finos-de-banana-y-avena",
+  "titulo": "Panqueques finos de banana y avena",
+  "descripcion": "Panqueques delgados de banana y avena, ideales para enrollar con fruta.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "madura, pisada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": "o bebida vegetal",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "vainilla o canela",
+    "nota": "a gusto",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo hasta tener una pasta líquida.",
+   "Volcá capas finas en un molde plano de silicona.",
+   "Cociná de a una tanda por vez, 6 a 7 minutos a 170 °C."
+  ],
+  "consejo": "Rellenos con ricota batida y fruta suman proteína.",
+  "etiquetas": [
+   "desayuno",
+   "panqueques",
+   "avena"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-030",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "granola-casera-tostada",
+  "titulo": "Granola casera tostada",
+  "descripcion": "Granola crocante de avena, frutos secos y semillas, para yogur o leche.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 10,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 150,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1.5,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "almendras",
+    "nota": "picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "semillas",
+    "nota": "chía, sésamo o lino",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de coco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "pasas",
+    "nota": "o arándanos secos",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la avena, los frutos secos, las semillas, la canela, la miel y el aceite.",
+   "Extendé la mezcla en capa fina sobre papel manteca.",
+   "Tostá 10 a 12 minutos a 150 °C, revolviendo a los 6 minutos.",
+   "Agregá las pasas cuando sale de la freidora."
+  ],
+  "consejo": "Guardala en frasco recién cuando esté fría del todo, así se mantiene crocante.",
+  "etiquetas": [
+   "desayuno",
+   "granola",
+   "frutos secos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-031",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "torrejas-livianas-de-pan-integral",
+  "titulo": "Torrejas livianas de pan integral",
+  "descripcion": "Pan remojado en huevo y leche con canela, dorado sin fritura.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con la leche, la vainilla, la canela y la miel.",
+   "Pasá cada rodaja por la mezcla, unos segundos de cada lado.",
+   "Acomodalas sobre papel manteca y cociná 6 a 7 minutos a 185 °C, dándolas vuelta a la mitad."
+  ],
+  "consejo": "Con frutillas y yogur queda un desayuno completo.",
+  "etiquetas": [
+   "desayuno",
+   "brunch",
+   "pan"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-032",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "medialunas-saladas-de-jamon-y-queso",
+  "titulo": "Medialunas saladas de jamón y queso",
+  "descripcion": "Medialunas de masa rápida rellenas de jamón y queso, o de ricota y espinaca.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 175,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "y algo más para pintar",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "yogur",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "queso magro",
+    "nota": "en fetas",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "jamón cocido",
+    "nota": "o ricota con espinaca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el polvo de hornear, el huevo, el yogur, el aceite, sal y pimienta en una masa blanda.",
+   "Estirala, cortá triángulos y poné el relleno en la base de cada uno.",
+   "Enrollalas y pintalas con huevo batido.",
+   "Cociná 10 a 12 minutos a 175 °C."
+  ],
+  "consejo": "Unas semillas arriba les dan más crocancia.",
+  "etiquetas": [
+   "desayuno",
+   "salados",
+   "masas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-033",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tostado-integral-de-huevo-y-queso",
+  "titulo": "Tostado integral de huevo y queso",
+  "descripcion": "Sándwich caliente de huevo, queso y tomate, listo en pocos minutos.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "feta",
+    "nombre": "queso magro",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "revuelto y ya cocido",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tomate",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Armá el sándwich con el queso, el huevo revuelto y el tomate; salpimentá.",
+   "Cociná 5 a 6 minutos a 180 °C sobre rejilla o papel manteca."
+  ],
+  "consejo": "Rociá el pan con aceite en aerosol para que se dore más.",
+  "etiquetas": [
+   "desayuno",
+   "sándwich",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-034",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "chipa-liviano-sin-fritura",
+  "titulo": "Chipá liviano sin fritura",
+  "descripcion": "Bolitas de queso y mandioca más livianas, para el mate.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "fécula de mandioca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso magro",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "yogur",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo hasta tener una masa tierna.",
+   "Formá bolitas chicas, de unos 3 cm.",
+   "Cociná 10 a 12 minutos a 175 °C."
+  ],
+  "consejo": "Un cubito de queso en el centro de cada bolita las deja con corazón derretido.",
+  "etiquetas": [
+   "mate",
+   "sin gluten",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-035",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "scones-integrales-de-queso",
+  "titulo": "Scones integrales de queso",
+  "descripcion": "Scones salados y esponjosos para acompañar infusiones.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 80,
+    "unidad": "ml",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 40,
+    "unidad": "g",
+    "nombre": "queso rallado",
+    "nota": "y algo más para arriba",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la harina, el polvo de hornear, el queso, sal y pimienta; agregá el aceite y la leche.",
+   "Estirá la masa, cortá triángulos y espolvorealos con queso.",
+   "Cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Quedan bien con una sopa o una ensalada.",
+  "etiquetas": [
+   "merienda",
+   "salados",
+   "scones"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-036",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "magdalenas-integrales-de-limon",
+  "titulo": "Magdalenas integrales de limón",
+  "descripcion": "Las magdalenas de panadería, más livianas y con harina integral.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "la ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con el aceite, la leche, la miel y la ralladura.",
+   "Agregá la harina y el polvo de hornear.",
+   "Repartí en pirotines de silicona y cociná 10 a 11 minutos a 170 °C."
+  ],
+  "consejo": "Podés terminarlas con un poco de azúcar impalpable sin azúcar.",
+  "etiquetas": [
+   "merienda",
+   "cítricos",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-037",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tortitas-de-avena-y-manzana",
+  "titulo": "Tortitas de avena y manzana",
+  "descripcion": "Tortitas chicas con manzana rallada, dulces y con fibra.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "yogur",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela",
+    "nota": "a gusto",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo y dejá reposar 5 minutos para que la avena se hidrate.",
+   "Formá discos sobre una plancha de silicona.",
+   "Cociná 8 a 9 minutos a 170 °C."
+  ],
+  "consejo": "Servilas con miel o pasta de maní.",
+  "etiquetas": [
+   "desayuno",
+   "frutas",
+   "avena"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-038",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budincitos-de-zapallo-y-naranja",
+  "titulo": "Budincitos de zapallo y naranja",
+  "descripcion": "Budincitos húmedos y perfumados; el zapallo les da color y suavidad.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "zapallo",
+    "nota": "cocido, en puré",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "naranja",
+    "nota": "jugo y ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela o nuez moscada",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Mezclá el puré de zapallo con el huevo, la miel y la naranja.",
+   "Agregá la harina, el polvo de hornear y las especias.",
+   "Llená los moldes y cociná 12 a 13 minutos a 170 °C."
+  ],
+  "consejo": "Un glaseado de yogur con ralladura de naranja los termina bien.",
+  "etiquetas": [
+   "merienda",
+   "verduras",
+   "budines"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-039",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "crepes-integrales",
+  "titulo": "Crepes integrales",
+  "descripcion": "Crepes finos y flexibles, buena base para rellenos dulces livianos.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.75,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo sin dejar grumos y dejá reposar 10 minutos.",
+   "Volcá capas finas sobre una lámina de silicona.",
+   "Cociná cada tanda 5 a 6 minutos a 180 °C."
+  ],
+  "consejo": "Rellenalos con ricota o mermelada sin azúcar y fruta.",
+  "etiquetas": [
+   "desayuno",
+   "crepes",
+   "dulces"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-040",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "rolls-de-canela-con-miel",
+  "titulo": "Rolls de canela con miel",
+  "descripcion": "Espirales tiernos con canela y poca azúcar, sin manteca.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "yogur",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "la mitad para el relleno",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el polvo de hornear, el huevo, el yogur, el aceite y la mitad de la miel en una masa tierna.",
+   "Estirala en un rectángulo y untala con el resto de la miel mezclada con la canela.",
+   "Enrollá la masa, dividila en 8 rodajas y ponelas en la canasta.",
+   "Cociná 10 a 11 minutos a 175 °C."
+  ],
+  "consejo": "Un glaseado de yogur con vainilla les va muy bien.",
+  "etiquetas": [
+   "merienda",
+   "masas",
+   "canela"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-041",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-arandanos-con-yogur",
+  "titulo": "Muffins de arándanos con yogur",
+  "descripcion": "Muffins clásicos de arándanos con ingredientes simples y poca azúcar.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "arándanos",
+    "nota": "frescos o congelados",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá el huevo, el yogur y la miel.",
+   "Agregá la harina y el polvo de hornear.",
+   "Sumá los arándanos con suavidad y repartí en moldes.",
+   "Cociná 12 minutos a 170 °C."
+  ],
+  "consejo": "Enharinar apenas los arándanos evita que se vayan al fondo.",
+  "etiquetas": [
+   "merienda",
+   "frutas",
+   "muffins"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-042",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pancitos-de-leche",
+  "titulo": "Pancitos de leche",
+  "descripcion": "Pancitos tiernos con levadura, para untar o hacer sándwiches chicos.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "harina",
+    "nota": "integral o 0000",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "levadura seca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 150,
+    "unidad": "ml",
+    "nombre": "leche descremada",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Disolvé la levadura con la leche y el azúcar y esperá 10 minutos.",
+   "Agregá la harina, el aceite y la sal, y amasá hasta que esté lisa.",
+   "Dejá levar entre 45 minutos y una hora, y formá 6 bollos.",
+   "Pincelalos con leche y cociná 12 minutos a 175 °C."
+  ],
+  "consejo": "Pintados con leche quedan brillantes.",
+  "etiquetas": [
+   "panes",
+   "con levadura",
+   "desayuno"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-043",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "galletitas-de-algarroba-y-avena",
+  "titulo": "Galletitas de algarroba y avena",
+  "descripcion": "Galletitas de sabor intenso, con poca azúcar y buena fibra.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina de algarroba",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "leche",
+    "nota": "un chorrito si hace falta",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo hasta tener una masa tierna; si está seca, sumá un poco de leche.",
+   "Armá bolitas y aplastalas sobre papel manteca.",
+   "Cociná 9 a 10 minutos a 165 °C."
+  ],
+  "consejo": "Ralladura de naranja o chips amargos les suman sabor.",
+  "etiquetas": [
+   "merienda",
+   "galletitas",
+   "algarroba"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-044",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bizcochuelo-integral",
+  "titulo": "Bizcochuelo integral",
+  "descripcion": "Bizcochuelo aireado y suave, base para tortas más livianas.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 13,
+  "temperatura_c": 170,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": "tamizada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la miel hasta que estén espumosos.",
+   "Sumá la leche y la vainilla.",
+   "Incorporá la harina y el polvo de hornear tamizados, con movimientos envolventes.",
+   "Pasalo a un molde chico y cociná 12 a 14 minutos a 170 °C."
+  ],
+  "consejo": "No abras la freidora en los primeros 10 minutos porque se baja.",
+  "etiquetas": [
+   "tortas",
+   "budines",
+   "base"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-045",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-durazno-y-vainilla",
+  "titulo": "Muffins de durazno y vainilla",
+  "descripcion": "Muffins frutales con avena, para aprovechar duraznos frescos o en almíbar liviano.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "durazno",
+    "nota": "en cubitos, bien escurrido",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con el yogur, la miel y la vainilla.",
+   "Agregá la avena y el polvo de hornear.",
+   "Incorporá el durazno con cuidado y repartí en moldes.",
+   "Cociná 12 a 13 minutos a 170 °C."
+  ],
+  "consejo": "Si el durazno es de lata, secalo bien con papel antes de usarlo.",
+  "etiquetas": [
+   "merienda",
+   "frutas",
+   "avena"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-046",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "medallones-de-ricota-y-queso",
+  "titulo": "Medallones de ricota y queso",
+  "descripcion": "Medallones salados con mucha proteína, para una ensalada o para picar.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo y formá medallones.",
+   "Acomodalos en la canasta con papel manteca debajo.",
+   "Cociná 10 a 11 minutos a 180 °C, dándolos vuelta a los 6 minutos."
+  ],
+  "consejo": "Con un poco de aceite en aerosol se doran más parejo.",
+  "etiquetas": [
+   "salados",
+   "ricota",
+   "proteico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-047",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budin-integral-de-pera-y-canela",
+  "titulo": "Budín integral de pera y canela",
+  "descripcion": "Budín húmedo con pera rallada; cortado en rodajas se puede tostar.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "pera",
+    "nota": "rallada y escurrida",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la leche, el huevo y la miel; sumá la harina, la canela y el polvo de hornear.",
+   "Incorporá la pera.",
+   "Pasalo a una budinera y cociná 14 a 15 minutos a 170 °C."
+  ],
+  "consejo": "Almendras fileteadas por encima le dan un toque crocante.",
+  "etiquetas": [
+   "budines",
+   "frutas",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-048",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "mini-omelettes-de-verduras",
+  "titulo": "Mini omelettes de verduras",
+  "descripcion": "Porciones individuales de huevo con verduras, para comer calientes o frías.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": "en cubitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "chica, picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la leche, sal y pimienta.",
+   "Agregá las verduras.",
+   "Llená moldes de silicona y cociná 10 a 11 minutos a 175 °C."
+  ],
+  "consejo": "Unos cubitos de queso magro en la mezcla los hacen más cremosos.",
+  "etiquetas": [
+   "desayuno",
+   "proteico",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-049",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tostadas-de-ajo-y-perejil",
+  "titulo": "Tostadas de ajo y perejil",
+  "descripcion": "Pan integral con aceite, ajo y perejil, tostado en minutos.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 4,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá el aceite con el ajo, el perejil y una pizca de sal.",
+   "Pincelá el pan por arriba.",
+   "Cociná 4 a 5 minutos a 185 °C."
+  ],
+  "consejo": "Para un gusto más intenso, pasá medio diente de ajo crudo por el pan ya tostado.",
+  "etiquetas": [
+   "acompañamiento",
+   "pan",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-050",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "panqueques-proteicos-con-arandanos",
+  "titulo": "Panqueques proteicos con arándanos",
+  "descripcion": "Panqueques esponjosos con proteína en polvo y arándanos que aportan un punto ácido.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "proteína en polvo",
+    "nota": "sabor vainilla",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "arándanos",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní el huevo, el yogur y la proteína.",
+   "Agregá la avena y el polvo de hornear, y al final los arándanos.",
+   "Formá porciones sobre una plancha de silicona y cociná 8 minutos a 165 °C."
+  ],
+  "consejo": "Unas gotas de jugo de limón en la mezcla resaltan el sabor de la fruta.",
+  "etiquetas": [
+   "desayuno",
+   "proteico",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-051",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "wraps-de-avena-y-queso",
+  "titulo": "Wraps de avena y queso",
+  "descripcion": "Tortillas finas caseras que sirven para rellenos dulces o salados.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo y esperá 5 minutos a que la avena absorba el líquido.",
+   "Extendé capas delgadas sobre una lámina de silicona.",
+   "Cociná cada tanda 5 a 6 minutos a 180 °C."
+  ],
+  "consejo": "Para guardarlas, separalas con papel manteca y no se pegan.",
+  "etiquetas": [
+   "almuerzo",
+   "wraps",
+   "avena"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-052",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "galletitas-de-cacao-con-tres-semillas",
+  "titulo": "Galletitas de cacao con tres semillas",
+  "descripcion": "Galletitas crocantes de avena y cacao con chía, lino y sésamo.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "semillas de chía",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "semillas de lino",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "semillas de sésamo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todos los ingredientes hasta formar una pasta.",
+   "Hacé bolitas y aplastalas con la palma.",
+   "Cociná 9 a 10 minutos a 165 °C."
+  ],
+  "consejo": "Se endurecen al enfriarse sobre una rejilla.",
+  "etiquetas": [
+   "merienda",
+   "galletitas",
+   "semillas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-053",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "scones-de-queso-y-cebolla",
+  "titulo": "Scones de queso y cebolla",
+  "descripcion": "Scones salados con cebolla salteada, para media mañana.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "chica, salteada y fría",
+    "opcional": false
+   },
+   {
+    "cantidad": 50,
+    "unidad": "g",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 80,
+    "unidad": "ml",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la harina, el polvo de hornear, el queso, la cebolla, sal y pimienta.",
+   "Agregá la leche y el aceite y armá una masa.",
+   "Estirala, cortala en triángulos y cociná 9 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Pintalos con un poco de leche antes de cocinar para que brillen.",
+  "etiquetas": [
+   "salados",
+   "scones",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-054",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "galletas-blandas-de-banana-y-avena",
+  "titulo": "Galletas blandas de banana y avena",
+  "descripcion": "Medallones finos de banana y avena que se hacen en minutos y llenan.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 10,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.75,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela",
+    "nota": "a gusto",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá la banana y sumale la avena, la miel y la canela.",
+   "Formá discos delgados sobre papel manteca.",
+   "Cociná 8 a 9 minutos a 170 °C."
+  ],
+  "consejo": "Podés agregar maní picado o chips amargos.",
+  "etiquetas": [
+   "merienda",
+   "avena",
+   "pocos ingredientes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-055",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "waffles-integrales-de-manzana",
+  "titulo": "Waffles integrales de manzana",
+  "descripcion": "Waffles con manzana y canela hechos en un molde plano, sin waflera.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 7,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todos los ingredientes hasta que la mezcla quede líquida y sin grumos.",
+   "Volcala en una plancha delgada de silicona.",
+   "Cociná 7 minutos a 180 °C."
+  ],
+  "consejo": "Van con yogur y nueces.",
+  "etiquetas": [
+   "desayuno",
+   "brunch",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-056",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "torrejas-saladas-con-queso-y-tomate",
+  "titulo": "Torrejas saladas con queso y tomate",
+  "descripcion": "Pan remojado en huevo y leche con orégano, gratinado con queso.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 40,
+    "unidad": "g",
+    "nombre": "queso magro",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tomate",
+    "nota": "en rodajas",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con la leche, sal, pimienta y orégano.",
+   "Pasá el pan por la mezcla y cubrilo con el queso.",
+   "Cociná 6 a 7 minutos a 185 °C y, si querés, terminá con rodajas de tomate."
+  ],
+  "consejo": "Un chorrito de aceite de oliva al servir le suma mucho.",
+  "etiquetas": [
+   "brunch",
+   "salados",
+   "pan"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-057",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bocaditos-de-garbanzo-al-limon",
+  "titulo": "Bocaditos de garbanzo al limón",
+  "descripcion": "Una versión rápida del falafel, con garbanzos, limón y comino.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "garbanzos",
+    "nota": "cocidos y escurridos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "jugo y ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y comino",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá los garbanzos y uní el puré con el resto de los ingredientes.",
+   "Formá bolitas y aplanalas un poco.",
+   "Cociná 10 a 11 minutos a 190 °C, girándolas a mitad de cocción."
+  ],
+  "consejo": "Acompañalos con yogur natural con limón.",
+  "etiquetas": [
+   "vegetariano",
+   "legumbres",
+   "snacks"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-058",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tostado-caprese",
+  "titulo": "Tostado caprese",
+  "descripcion": "Sándwich caliente de mozzarella, tomate y albahaca fresca.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "feta",
+    "nombre": "mozzarella",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tomate",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "albahaca",
+    "nota": "hojas frescas",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Armá el sándwich con la mozzarella y el tomate, y condimentá.",
+   "Cociná 5 a 6 minutos a 180 °C.",
+   "Recién al sacarlo agregá la albahaca."
+  ],
+  "consejo": "Un poco de orégano seco le da más sabor.",
+  "etiquetas": [
+   "sándwich",
+   "vegetariano",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-059",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "omelette-de-verduras-en-molde",
+  "titulo": "Omelette de verduras en molde",
+  "descripcion": "Omelette de morrón, cebolla y queso que no se pega porque se hace en molde.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": "en tiras",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "en pluma",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso magro",
+    "nota": "en hebras",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la leche, sal y pimienta.",
+   "Pasá la mezcla a un molde redondo de silicona y distribuí las verduras y el queso.",
+   "Cociná 9 a 10 minutos a 175 °C, desmoldá y doblalo por la mitad."
+  ],
+  "consejo": "Doblado al medio queda como uno hecho en sartén.",
+  "etiquetas": [
+   "desayuno",
+   "proteico",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-060",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-rapido-de-avena-y-yogur",
+  "titulo": "Pan rápido de avena y yogur",
+  "descripcion": "Un pan chico sin levadura, que llena y se tuesta muy bien.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 17,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "yogur",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todos los ingredientes y pasalos a un molde chico.",
+   "Cociná 16 a 18 minutos a 175 °C."
+  ],
+  "consejo": "Semillas por arriba antes de cocinarlo le quedan bien.",
+  "etiquetas": [
+   "panes",
+   "sin levadura",
+   "avena"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-061",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budin-marmolado-integral",
+  "titulo": "Budín marmolado integral",
+  "descripcion": "El budín de vainilla y chocolate de siempre, con harina integral y miel.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 170,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.75,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la leche, el aceite y la miel, y agregá la harina y el polvo de hornear.",
+   "Apartá un tercio de la mezcla y sumale el cacao.",
+   "Volcá las dos mezclas alternadas en la budinera y pasá un palillo para dibujar vetas.",
+   "Cociná 14 a 15 minutos a 170 °C."
+  ],
+  "consejo": "Abrir la canasta en los primeros 12 minutos hace que se baje.",
+  "etiquetas": [
+   "budines",
+   "chocolate",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-062",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tostadas-con-hummus-y-pimenton",
+  "titulo": "Tostadas con hummus y pimentón",
+  "descripcion": "Merienda salada con proteína vegetal: pan tostado, hummus y pimentón.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 4,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "hummus",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "pimentón dulce",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Tostá el pan 3 a 4 minutos a 185 °C.",
+   "Cubrilo con hummus, pimentón y perejil.",
+   "Terminá con un hilo de aceite."
+  ],
+  "consejo": "Pepino o tomate en rodajas arriba lo hacen más fresco.",
+  "etiquetas": [
+   "merienda",
+   "vegetariano",
+   "legumbres"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-063",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bocados-de-coco",
+  "titulo": "Bocados de coco",
+  "descripcion": "Dulces de coco con pocos ingredientes, dorados afuera y tiernos adentro.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "coco rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo y formá bolitas o pequeñas montañitas.",
+   "Acomodalas sobre papel manteca.",
+   "Cociná 9 a 10 minutos a 165 °C."
+  ],
+  "consejo": "Mojá la mitad de cada uno en chocolate amargo derretido.",
+  "etiquetas": [
+   "postres",
+   "coco",
+   "pocos ingredientes"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-064",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-salados-de-zanahoria-y-queso",
+  "titulo": "Muffins salados de zanahoria y queso",
+  "descripcion": "Muffins húmedos y sabrosos para acompañar el mate con algo salado.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "zanahoria",
+    "nota": "rallada fina",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con la leche y el aceite.",
+   "Incorporá la harina, el polvo de hornear, la zanahoria y el queso, y condimentá.",
+   "Repartí en moldes de silicona y cociná 11 a 12 minutos a 175 °C."
+  ],
+  "consejo": "Ciboulette picada en la mezcla les da frescura.",
+  "etiquetas": [
+   "salados",
+   "mate",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-065",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pan-integral-con-nueces",
+  "titulo": "Pan integral con nueces",
+  "descripcion": "Pan casero de miga húmeda con nueces, para tostar con queso o mermelada.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 19,
+  "temperatura_c": 170,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "harina integral",
+    "nota": "o mitad integral y mitad 0000",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "levadura seca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 150,
+    "unidad": "ml",
+    "nombre": "agua",
+    "nota": "tibia",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Disolvé la levadura en el agua con la miel y esperá 10 minutos.",
+   "Sumá la harina, la sal y el aceite, y amasá unos 5 minutos.",
+   "Integrá las nueces, formá un bollo y ponelo en un molde apto.",
+   "Dejalo crecer entre 45 minutos y una hora, hasta duplicar, y hacele unos tajos.",
+   "Cociná 18 a 20 minutos a 170 °C."
+  ],
+  "consejo": "Cortalo después de 20 minutos fuera de la freidora, así no se desarma.",
+  "etiquetas": [
+   "panes",
+   "con levadura",
+   "frutos secos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-066",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "galletitas-de-avena-y-mani",
+  "titulo": "Galletitas de avena y maní",
+  "descripcion": "Galletitas de cuatro ingredientes, crocantes y sin harina blanca.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena arrollada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "pasta de maní",
+    "nota": "natural",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá todo hasta tener una masa pegajosa.",
+   "Armá bolitas y aplastalas sobre papel manteca.",
+   "Cociná 9 a 10 minutos a 165 °C."
+  ],
+  "consejo": "Unos granitos de sal marina arriba hacen resaltar el maní.",
+  "etiquetas": [
+   "merienda",
+   "galletitas",
+   "mate"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-067",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "budin-de-yogur-con-medida-de-pote",
+  "titulo": "Budín de yogur con medida de pote",
+  "descripcion": "El budín de yogur medido con el mismo pote, en versión más liviana.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "yogur natural",
+    "nota": "pote de 190 a 200 g",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "harina integral",
+    "nota": "medidas con el pote del yogur",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "ralladura de limón",
+    "nota": "o vainilla",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el yogur con los huevos, el aceite, la miel y la ralladura.",
+   "Agregá la harina y el polvo de hornear, mezclando sin batir de más.",
+   "Pasalo a una budinera y cociná 14 a 16 minutos a 170 °C."
+  ],
+  "consejo": "Admite arándanos o chips de chocolate en la mezcla.",
+  "etiquetas": [
+   "budines",
+   "merienda",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-068",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "croque-monsieur-liviano",
+  "titulo": "Croque monsieur liviano",
+  "descripcion": "El sándwich francés de jamón y queso, con una mezcla de mostaza y yogur.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "feta",
+    "nombre": "jamón cocido",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "feta",
+    "nombre": "queso magro",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "mostaza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "yogur",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la mostaza con el yogur y untá el pan.",
+   "Armá el sándwich con el jamón y el queso, y sumá pimienta.",
+   "Cociná 5 a 6 minutos a 185 °C."
+  ],
+  "consejo": "Una rodaja de tomate con orégano al final lo completa.",
+  "etiquetas": [
+   "sándwich",
+   "rápida",
+   "jamón y queso"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-069",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-calabaza-y-cacao",
+  "titulo": "Muffins de calabaza y cacao",
+  "descripcion": "Muffins muy húmedos, con especias y apenas dulces.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 165,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "cocida, en puré",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela o nuez moscada",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Mezclá el puré con el huevo y el endulzante.",
+   "Agregá la avena, el cacao, el polvo de hornear y las especias.",
+   "Llená los moldes y cociná 12 a 13 minutos a 165 °C."
+  ],
+  "consejo": "Nueces o chips amargos les dan textura.",
+  "etiquetas": [
+   "merienda",
+   "verduras",
+   "chocolate"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-070",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "scones-de-naranja-con-chips-de-chocolate",
+  "titulo": "Scones de naranja con chips de chocolate",
+  "descripcion": "Scones esponjosos con ralladura de naranja y trocitos de chocolate amargo.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "naranja",
+    "nota": "la ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "chips de chocolate amargo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la harina, el polvo de hornear, la ralladura y los chips.",
+   "Agregá la leche, el aceite y la miel, y formá una masa blanda.",
+   "Estirá, cortá triángulos y cociná 10 a 11 minutos a 175 °C."
+  ],
+  "consejo": "Un glaseado de yogur con ralladura de naranja los termina.",
+  "etiquetas": [
+   "merienda",
+   "scones",
+   "chocolate"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-071",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "granola-de-cacao-y-almendras",
+  "titulo": "Granola de cacao y almendras",
+  "descripcion": "Granola tostada con sabor a chocolate, para yogur o leche vegetal.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 10,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 150,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1.5,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "almendras",
+    "nota": "picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de coco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "chips de chocolate amargo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la avena, las almendras, el cacao, la miel, el aceite, la vainilla y la sal.",
+   "Extendé la mezcla bien finita sobre papel manteca.",
+   "Tostá 10 a 12 minutos a 150 °C, revolviendo a mitad de tiempo.",
+   "Sumá los chips cuando la granola esté fría."
+  ],
+  "consejo": "Si agregás los chips en caliente se derriten.",
+  "etiquetas": [
+   "desayuno",
+   "granola",
+   "chocolate"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-072",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "torrejas-rellenas-de-ricota-y-frutilla",
+  "titulo": "Torrejas rellenas de ricota y frutilla",
+  "descripcion": "Sándwiches de pan con ricota y frutilla, pasados por huevo y dorados.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": "gruesas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "frutillas",
+    "nota": "picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Mezclá la ricota con las frutillas y armá dos sándwiches.",
+   "Batí el huevo con la leche, la vainilla, la canela y la miel.",
+   "Mojá cada sándwich rápido de los dos lados y ponelo sobre papel manteca.",
+   "Cociná 7 a 8 minutos a 185 °C, dándolos vuelta a la mitad."
+  ],
+  "consejo": "Ralladura de limón al servir les da frescura.",
+  "etiquetas": [
+   "desayuno",
+   "brunch",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-073",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tortas-fritas-al-aire",
+  "titulo": "Tortas fritas al aire",
+  "descripcion": "Las tortitas de los días de lluvia, doradas sin aceite caliente.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 10,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "harina",
+    "nota": "integral o 0000",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": "y algo más para pincelar",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "tibia, aproximadamente",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la harina, el polvo de hornear, la sal y el aceite; sumá agua de a poco hasta tener una masa tierna.",
+   "Dejala descansar 10 minutos.",
+   "Estirala fina, cortá discos y pinchalos con un tenedor.",
+   "Pincelalos con muy poco aceite y cociná 8 a 9 minutos a 180 °C."
+  ],
+  "consejo": "Si doblás la masa en tres y la volvés a estirar antes de cortar, quedan más hojaldradas.",
+  "etiquetas": [
+   "mate",
+   "clásico argentino",
+   "masas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-074",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "muffins-de-mate-cocido-y-limon",
+  "titulo": "Muffins de mate cocido y limón",
+  "descripcion": "Muffins con gusto a mate cocido y un toque de limón, bien argentinos.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 170,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "mate cocido",
+    "nota": "concentrado y frío",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "la ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá el mate cocido con el huevo, la miel, el aceite y la ralladura.",
+   "Integrá la harina y el polvo de hornear.",
+   "Llená los moldes y cociná 11 a 12 minutos a 170 °C."
+  ],
+  "consejo": "Mojarlos con un poco de mate cocido apenas salen refuerza el sabor.",
+  "etiquetas": [
+   "merienda",
+   "mate",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-01-075",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "milanesas-de-carne-sin-fritura",
+  "titulo": "Milanesas de carne sin fritura",
+  "descripcion": "Milanesas empanadas con pan rallado y avena, doradas con aire caliente y sin sartén.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "filete",
+    "nombre": "carne vacuna",
+    "nota": "magra: nalga, cuadrada o bola de lomo",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "pan rallado",
+    "nota": "integral",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "mostaza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite en aerosol",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Uní en un plato hondo el huevo, la mostaza, sal, pimienta y ajo en polvo.",
+   "Mezclá el pan rallado con la avena.",
+   "Pasá los filetes primero por el huevo y después por el pan rallado.",
+   "Acomodalos en la canasta sobre rejilla o papel manteca y, si querés, rociálos con aceite.",
+   "Cociná 10 a 12 minutos a 190 °C, dándolos vuelta a los 6 minutos."
+  ],
+  "consejo": "Diez minutos de heladera después de empanarlas las hace más crocantes.",
+  "etiquetas": [
+   "carne",
+   "clásico argentino",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-001",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "empanadas-criollas-de-carne-al-aire",
+  "titulo": "Empanadas criollas de carne al aire",
+  "descripcion": "Empanadas de carne cortada con huevo duro, doradas en la freidora en lugar de fritas.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 12,
+    "unidad": "tapa",
+    "nombre": "tapas de empanada",
+    "nota": "criollas u hojaldradas",
+    "opcional": false
+   },
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "mediana, picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón rojo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo duro",
+    "nota": "picados",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "comino, pimentón y sal",
+    "nota": "media cucharadita de cada uno",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "batido, para pintar",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Saltá la cebolla y el morrón en una sartén, sumá la carne y los condimentos y cociná hasta que se dore.",
+   "Dejá enfriar el relleno y agregale el huevo duro.",
+   "Rellená las tapas y cerralas con repulgue.",
+   "Pintalas con huevo y cociná 8 a 9 minutos a 180 °C sobre papel manteca."
+  ],
+  "consejo": "Con tapas integrales o caseras de avena quedan más livianas.",
+  "etiquetas": [
+   "clásico argentino",
+   "carne",
+   "para compartir"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-002",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tortilla-de-papa-sin-sarten",
+  "titulo": "Tortilla de papa sin sartén",
+  "descripcion": "Tortilla de papa y cebolla cocida en molde, dorada por fuera y tierna adentro.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y perejil",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pelá las papas y cortalas en cubitos o rodajas finas.",
+   "Rociá con el aceite y cocinálas 6 minutos a 180 °C.",
+   "Mezclalas con los huevos batidos, la cebolla y los condimentos.",
+   "Pasá todo a un molde redondo de silicona y cociná 12 minutos a 175 °C."
+  ],
+  "consejo": "Jamón en cubitos o espinaca la hacen más completa.",
+  "etiquetas": [
+   "clásico argentino",
+   "huevos",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-003",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "faina-de-garbanzo",
+  "titulo": "Fainá de garbanzo",
+  "descripcion": "Fainá crocante en el borde y suave en el centro, sin prender el horno.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina de garbanzo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": "y algo más para el molde",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y romero seco",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí la harina con el agua, el aceite y los condimentos hasta que no queden grumos.",
+   "Dejá reposar la mezcla 10 minutos.",
+   "Pasala a un molde aceitado y cociná 10 a 12 minutos a 185 °C."
+  ],
+  "consejo": "Encima de una porción de pizza o con salsa criolla.",
+  "etiquetas": [
+   "clásico argentino",
+   "sin gluten",
+   "legumbres"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-004",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pechugas-al-limon-con-hierbas",
+  "titulo": "Pechugas al limón con hierbas",
+  "descripcion": "Pechugas marinadas en limón y hierbas secas, jugosas y aromáticas.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": "chicas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "jugo y ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": "o romero seco",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá el limón, el aceite, el ajo y las hierbas, y dejá el pollo en esa marinada 15 minutos.",
+   "Pasá el pollo a la canasta, apoyado sobre papel manteca.",
+   "Cociná 10 a 11 minutos a 185 °C de cada lado."
+  ],
+  "consejo": "Rodajas de limón en la base de la canasta perfuman el pollo mientras se cocina.",
+  "etiquetas": [
+   "pollo",
+   "almuerzo",
+   "liviano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-005",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "milanesas-de-berenjena",
+  "titulo": "Milanesas de berenjena",
+  "descripcion": "Rodajas de berenjena empanadas y crocantes, una opción vegetariana y económica.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": "mediana",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "pan rallado",
+    "nota": "integral",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite en aerosol",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá la berenjena en rodajas de 1 cm, salalas y dejalas 15 minutos para que larguen el agua.",
+   "Secalas con papel y pasalas por el huevo condimentado y luego por el pan rallado.",
+   "Rociálas con aceite y cociná 10 minutos a 190 °C."
+  ],
+  "consejo": "Al final podés cubrirlas con tomate y queso y gratinarlas un par de minutos.",
+  "etiquetas": [
+   "vegetariano",
+   "verduras",
+   "económica"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-007",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "bunuelos-de-acelga-al-aire",
+  "titulo": "Buñuelos de acelga al aire",
+  "descripcion": "Buñuelos de acelga livianos, una forma fácil de sumar verdura.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 10,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "acelga",
+    "nota": "cocida y picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite en aerosol",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní todo hasta tener una pasta espesa.",
+   "Poné cucharadas de la mezcla sobre papel manteca y rociálas con aceite.",
+   "Cociná 9 a 10 minutos a 175 °C, girándolos a los 5 minutos."
+  ],
+  "consejo": "Escurrí bien la acelga para que no queden aguados.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "económica"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-008",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "milanesas-de-pollo-al-pimenton",
+  "titulo": "Milanesas de pollo al pimentón",
+  "descripcion": "Milanesas de pechuga con pimentón, doradas en 10 minutos.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "filete",
+    "nombre": "pechuga de pollo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "pan rallado",
+    "nota": "integral",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón dulce",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite en aerosol",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con el pimentón, sal, pimienta y orégano.",
+   "Pasá las pechugas por el huevo y por el pan rallado, y rociálas con aceite.",
+   "Cociná 10 minutos a 190 °C sobre papel manteca."
+  ],
+  "consejo": "Con gajos de limón o una ensalada fresca.",
+  "etiquetas": [
+   "pollo",
+   "almuerzo",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-009",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tiras-de-carne-con-mostaza-y-miel",
+  "titulo": "Tiras de carne con mostaza y miel",
+  "descripcion": "Carne en tiras con salsa agridulce, rápida y sin humo en la cocina.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 300,
+    "unidad": "g",
+    "nombre": "carne vacuna",
+    "nota": "bola de lomo o cuadril, en tiras",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "mostaza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "salsa de soja",
+    "nota": "o jugo de limón",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la miel, la mostaza y la soja, y dejá la carne marinando 15 minutos.",
+   "Distribuí las tiras sobre papel manteca en la canasta.",
+   "Cociná 8 a 9 minutos a 185 °C."
+  ],
+  "consejo": "Para que quede más jugosa, sacala un minuto antes.",
+  "etiquetas": [
+   "carne",
+   "agridulce",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-010",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "arroz-salteado-con-verduras-y-huevo",
+  "titulo": "Arroz salteado con verduras y huevo",
+  "descripcion": "Arroz con zanahoria, arvejas y morrón, terminado con huevos cuajados encima.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "arroz",
+    "nota": "cocido y frío",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "zanahoria",
+    "nota": "en cubitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "arvejas",
+    "nota": "cocidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón rojo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "salsa de soja",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite en aerosol",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá en un bol el arroz frío, la zanahoria, las arvejas, el morrón y la soja.",
+   "Pasalo a una fuente de silicona, hacé dos huecos y rompé un huevo en cada uno.",
+   "Rociá con aceite y cociná 8 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Sésamo o cebolla de verdeo picada por encima al servir.",
+  "etiquetas": [
+   "arroz",
+   "aprovechamiento",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-011",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pastel-de-papa-individual",
+  "titulo": "Pastel de papa individual",
+  "descripcion": "Carne picada cubierta con puré, gratinada en molde individual.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 300,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas, cocidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": "o yogur, para el puré",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Saltá la carne con la cebolla y el morrón hasta que tome color.",
+   "Hacé un puré con las papas y la leche.",
+   "En moldes individuales, poné la carne abajo y el puré arriba; alisá y espolvoreá pimentón.",
+   "Cociná 10 a 12 minutos a 180 °C."
+  ],
+  "consejo": "Con queso rallado arriba se gratina mejor.",
+  "etiquetas": [
+   "clásico argentino",
+   "carne",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-012",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "hamburguesas-caseras-de-carne-magra",
+  "titulo": "Hamburguesas caseras de carne magra",
+  "descripcion": "Hamburguesas jugosas hechas en casa, sin plancha ni grasa agregada.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "mostaza",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta, ajo en polvo y perejil",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la carne con el resto de los ingredientes y formá 4 hamburguesas.",
+   "Ponelas en la canasta sobre papel manteca.",
+   "Cociná 8 minutos a 190 °C de cada lado."
+  ],
+  "consejo": "Para freezarlas, separalas con papel así se despegan fácil.",
+  "etiquetas": [
+   "carne",
+   "hamburguesas",
+   "para freezar"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-013",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "revuelto-gramajo-liviano",
+  "titulo": "Revuelto gramajo liviano",
+  "descripcion": "Papas, jamón y huevo revuelto, el clásico porteño sin fritura.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 13,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "jamón cocido",
+    "nota": "en tiras",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada y rehogada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y perejil",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las papas en bastones finos, rociálas con el aceite y cociná 10 minutos a 180 °C.",
+   "Pasalas a un molde con el jamón y la cebolla.",
+   "Agregá los huevos batidos y condimentados, y cociná 3 minutos más."
+  ],
+  "consejo": "Arvejas o queso magro lo completan.",
+  "etiquetas": [
+   "clásico argentino",
+   "huevos",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-014",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pollo-al-curry-rapido",
+  "titulo": "Pollo al curry rápido",
+  "descripcion": "Cubos de pollo con curry y yogur, listos en menos de 15 minutos.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": "en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "curry",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "yogur natural",
+    "nota": "o leche de coco",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y aceite",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Condimentá el pollo con el curry, el yogur, sal y pimienta.",
+   "Ponelo en la canasta junto con la cebolla.",
+   "Cociná 9 a 10 minutos a 185 °C."
+  ],
+  "consejo": "Una cucharada más de yogur al servir lo hace más cremoso. Va con arroz.",
+  "etiquetas": [
+   "pollo",
+   "especias",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-015",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "tarta-sin-masa-de-zapallitos",
+  "titulo": "Tarta sin masa de zapallitos",
+  "descripcion": "Tarta de zapallitos sin masa ni harina, firme y liviana.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "zapallito",
+    "nota": "medianos, rallados",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Escurrí bien los zapallitos rallados apretándolos con las manos.",
+   "Mezclalos con los huevos, la avena, el queso y los condimentos.",
+   "Pasá todo a un molde de silicona y cociná 12 a 13 minutos a 175 °C."
+  ],
+  "consejo": "Cubitos de queso magro en la mezcla le dan un centro cremoso.",
+  "etiquetas": [
+   "verduras",
+   "sin harina",
+   "aprovechamiento"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-016",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "omelette-de-jamon-y-queso",
+  "titulo": "Omelette de jamón y queso",
+  "descripcion": "Omelette rápido y con proteína, relleno de jamón y queso.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 175,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "feta",
+    "nombre": "jamón cocido",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "feta",
+    "nombre": "queso magro",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la leche, sal y pimienta y volcalos en un molde redondo de silicona.",
+   "Cociná 5 minutos a 175 °C.",
+   "Poné el jamón y el queso, doblá por la mitad y cociná 4 minutos más."
+  ],
+  "consejo": "Espinaca o champiñones salteados le suman verdura.",
+  "etiquetas": [
+   "huevos",
+   "proteico",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-017",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "pizzetas-de-pan-arabe",
+  "titulo": "Pizzetas de pan árabe",
+  "descripcion": "Pan árabe con salsa y queso, convertido en pizza crocante en 8 minutos.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pan árabe",
+    "nota": "integral",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "mozzarella",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano y albahaca",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Untá los panes con salsa y cubrilos con queso, orégano y lo que quieras sumar.",
+   "Ponelos directo en la canasta.",
+   "Cociná 7 a 8 minutos a 190 °C."
+  ],
+  "consejo": "Funciona igual con base de pan de avena o de coliflor.",
+  "etiquetas": [
+   "pizza",
+   "rápida",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-018",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "croquetas-de-papa-con-avena",
+  "titulo": "Croquetas de papa con avena",
+  "descripcion": "Croquetas de papa y queso, sin pan rallado y sin fritura.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "medianas, cocidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "cucharada",
+    "nombre": "avena molida",
+    "nota": "y algo más para rebozar",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite en aerosol",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Hacé un puré con las papas y mezclalo con la avena, el huevo, el queso y los condimentos.",
+   "Formá croquetas, pasalas por un poco más de avena y rociálas con aceite.",
+   "Cociná 9 a 10 minutos a 185 °C sobre papel manteca."
+  ],
+  "consejo": "El rebozado extra de avena las hace más crocantes.",
+  "etiquetas": [
+   "guarnición",
+   "papa",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-019",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "polenta-gratinada-con-salsa",
+  "titulo": "Polenta gratinada con salsa",
+  "descripcion": "Polenta firme con salsa de tomate y queso gratinado, comida casera rápida.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "polenta",
+    "nota": "cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Extendé la polenta en un molde de silicona y dejala enfriar 10 minutos para que tome cuerpo.",
+   "Cubrila con la salsa, el queso y el orégano.",
+   "Gratiná 7 a 8 minutos a 190 °C."
+  ],
+  "consejo": "Rodajas de mozzarella o de berenjena encima la hacen más abundante.",
+  "etiquetas": [
+   "clásico argentino",
+   "vegetariano",
+   "económica"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-020",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "canelones-de-espinaca-y-ricota",
+  "titulo": "Canelones de espinaca y ricota",
+  "descripcion": "Panqueques rellenos de verdura y ricota, gratinados sin horno.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "panqueque",
+    "nota": "integrales o de avena",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "cocida y picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": "y algo más para gratinar",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la espinaca con la ricota, el queso y los condimentos.",
+   "Rellená los panqueques y enrollalos.",
+   "Poné un poco de salsa en el molde, acomodá los canelones y cubrilos con el resto.",
+   "Cociná 10 a 12 minutos a 180 °C."
+  ],
+  "consejo": "Unas fetas de mozzarella arriba para gratinar.",
+  "etiquetas": [
+   "pastas",
+   "clásico argentino",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-021",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "noquis-dorados",
+  "titulo": "Ñoquis dorados",
+  "descripcion": "Ñoquis frescos que se doran en la freidora: crocantes afuera y tiernos adentro.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 190,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 300,
+    "unidad": "g",
+    "nombre": "ñoquis",
+    "nota": "frescos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "salsa o pesto",
+    "nota": "a gusto",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní los ñoquis con el aceite y el ajo en polvo.",
+   "Distribuílos en la canasta sin encimarlos.",
+   "Cociná 8 a 9 minutos a 190 °C, moviéndolos a mitad de tiempo.",
+   "Serví con queso rallado y la salsa que prefieras."
+  ],
+  "consejo": "Con fileto o una crema liviana y perejil.",
+  "etiquetas": [
+   "pastas",
+   "rápida",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-022",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "ravioles-gratinados",
+  "titulo": "Ravioles gratinados",
+  "descripcion": "Ravioles ya hervidos con salsa y queso, gratinados en 10 minutos.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 185,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "ravioles",
+    "nota": "cocidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "mozzarella",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano, sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Poné los ravioles en un molde apto para la freidora.",
+   "Cubrilos con la salsa, el queso y el orégano.",
+   "Cociná 8 a 9 minutos a 185 °C."
+  ],
+  "consejo": "Si los querés más jugosos, sumá un chorrito de crema o yogur.",
+  "etiquetas": [
+   "pastas",
+   "aprovechamiento",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-023",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "sorrentinos-con-salsa-de-ricota",
+  "titulo": "Sorrentinos con salsa de ricota",
+  "descripcion": "Sorrentinos cubiertos con una crema de ricota y gratinados.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 8,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 10,
+    "unidad": "unidad",
+    "nombre": "sorrentinos",
+    "nota": "cocidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "ricota",
+    "nota": "magra",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": "o crema liviana",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "mostaza",
+    "nota": "suave",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta y nuez moscada",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí la ricota con la leche, la mostaza y los condimentos.",
+   "Poné los sorrentinos en un molde y cubrilos con esa crema.",
+   "Espolvoreá queso y cociná 7 a 8 minutos a 180 °C."
+  ],
+  "consejo": "Espinaca o jamón picado en la crema le suman sabor.",
+  "etiquetas": [
+   "pastas",
+   "ricota",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-024",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "lasana-individual",
+  "titulo": "Lasaña individual",
+  "descripcion": "Una lasaña chica en molde individual, para una porción justa.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 1,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 3,
+    "unidad": "lámina",
+    "nombre": "lasaña",
+    "nota": "cocidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "ricota",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "o calabaza cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal, pimienta y orégano",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "En un molde individual, alterná salsa, pasta, verdura con ricota y queso hasta llenarlo.",
+   "Terminá con queso rallado.",
+   "Cociná 10 minutos a 180 °C, tapada con papel aluminio los primeros 5 minutos."
+  ],
+  "consejo": "El papel aluminio al principio evita que se seque.",
+  "etiquetas": [
+   "pastas",
+   "porción individual",
+   "almuerzo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-025",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ },
+ {
+  "slug": "suprema-napolitana-en-freidora-de-aire",
+  "titulo": "Suprema napolitana en freidora de aire",
+  "descripcion": "Suprema de pollo con salsa, tomate y queso gratinado. Se termina en minutos si ya tenés la milanesa hecha.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 4,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "milanesa de pollo",
+    "nota": "ya cocida",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "feta",
+    "nombre": "queso port salut",
+    "nota": "o mozzarella",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "orégano",
+    "nota": "a gusto",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "albahaca",
+    "nota": "a gusto",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Cortá el tomate en rodajas finas.",
+   "Poné las milanesas en la canasta y cubrilas con la salsa, el queso y las rodajas de tomate.",
+   "Gratiná 3 a 4 minutos a 180 °C, hasta que el queso se derrita.",
+   "Terminá con orégano y albahaca."
+  ],
+  "consejo": "Con una salsa espesa el empanado no se humedece.",
+  "etiquetas": [
+   "pollo",
+   "rápida",
+   "clásico argentino"
+  ],
+  "origen": "recetario",
+  "origen_ref": "af-02-006",
+  "fuente_visible": "Adaptada de: 700 Recetas Argentinas para Freidora de Aire"
+ }
+]

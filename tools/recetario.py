@@ -106,6 +106,14 @@ def ngramas(texto, n=6):
     return {" ".join(w[i:i + n]) for i in range(len(w) - n + 1)}
 
 
+VACIAS = set("a al con de del el en la las lo los o para por que se si sin su sus un una unos unas y hasta como".split())
+
+
+def es_enumeracion(ngrama, vocab):
+    """Una secuencia que solo nombra ingredientes (más artículos y conectores) no es expresión copiada."""
+    return all(w in VACIAS or w in vocab for w in ngrama.split())
+
+
 def cmd_copia(crudo, carpeta, n=6):
     originales = {id_corto(r): r for r in json.loads(Path(crudo).read_text(encoding="utf-8"))}
     problemas = 0
@@ -115,7 +123,8 @@ def cmd_copia(crudo, carpeta, n=6):
             continue
         orig = ngramas(" ".join(o["pasos"] + [o.get("descripcion", ""), o.get("tip", ""), o.get("resultado", "")]), n)
         nuevo = " ".join(r["s"] + [r["d"], r.get("c") or ""])
-        repetidos = ngramas(nuevo, n) & orig
+        vocab = set(norm(" ".join(o["ingredientes"])).split())
+        repetidos = {g for g in ngramas(nuevo, n) & orig if not es_enumeracion(g, vocab)}
         if repetidos:
             problemas += 1
             print(f"{rid}: {sorted(repetidos)[:3]}")
