@@ -2434,5 +2434,58 @@
   "crustaceans|crab|blue|canned",
   null,
   null
+ ],
+ "apio": [
+  "verduras",
+  0,
+  [
+   "apio en rama"
+  ],
+  "celery|raw",
+  40,
+  101
+ ],
+ "pavo": [
+  "pollo",
+  0,
+  [
+   "pechuga de pavo",
+   "fiambre de pavo"
+  ],
+  "turkey|breast|meat only|roasted",
+  null,
+  140
+ ],
+ "bicarbonato de sodio": [
+  "almacén",
+  1,
+  [
+   "bicarbonato"
+  ],
+  "leavening agents|baking soda",
+  null,
+  null
+ ],
+ "porotos blancos": [
+  "legumbres",
+  0,
+  [
+   "alubias",
+   "frijoles blancos"
+  ],
+  "beans|white|mature seeds|canned",
+  null,
+  262
+ ],
+ "porotos colorados": [
+  "legumbres",
+  0,
+  [
+   "porotos rojos",
+   "frijoles rojos"
+  ],
+  "beans|kidney|red|mature seeds|canned|solids and liquids",
+  null,
+  256
  ]
 }

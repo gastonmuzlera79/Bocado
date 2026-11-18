@@ -2077,5 +2077,50 @@
   "grasas": 0.74,
   "carbohidratos": 0.0,
   "fibra": 0.0
+ },
+ "apio": {
+  "fdc_id": 169988,
+  "usda": "Celery, raw",
+  "kcal": 14.0,
+  "proteinas": 0.69,
+  "grasas": 0.17,
+  "carbohidratos": 2.97,
+  "fibra": 1.6
+ },
+ "pavo": {
+  "fdc_id": 171496,
+  "usda": "Turkey, whole, breast, meat only, cooked, roasted",
+  "kcal": 147.0,
+  "proteinas": 30.13,
+  "grasas": 2.08,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "bicarbonato de sodio": {
+  "fdc_id": 175040,
+  "usda": "Leavening agents, baking soda",
+  "kcal": 0.0,
+  "proteinas": 0.0,
+  "grasas": 0.0,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
+ },
+ "porotos blancos": {
+  "fdc_id": 175204,
+  "usda": "Beans, white, mature seeds, canned",
+  "kcal": 114.0,
+  "proteinas": 7.26,
+  "grasas": 0.29,
+  "carbohidratos": 21.2,
+  "fibra": 4.8
+ },
+ "porotos colorados": {
+  "fdc_id": 175195,
+  "usda": "Beans, kidney, red, mature seeds, canned, solids and liquids",
+  "kcal": 81.0,
+  "proteinas": 5.22,
+  "grasas": 0.36,
+  "carbohidratos": 14.83,
+  "fibra": 4.3
  }
 }
