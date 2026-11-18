@@ -2122,5 +2122,23 @@
   "grasas": 0.36,
   "carbohidratos": 14.83,
   "fibra": 4.3
+ },
+ "chorizo": {
+  "fdc_id": 173859,
+  "usda": "Sausage, pork, chorizo, link or ground, raw",
+  "kcal": 296.0,
+  "proteinas": 13.63,
+  "grasas": 25.1,
+  "carbohidratos": 3.78,
+  "fibra": 0.0
+ },
+ "bacalao": {
+  "fdc_id": 171955,
+  "usda": "Fish, cod, Atlantic, raw",
+  "kcal": 82.0,
+  "proteinas": 17.81,
+  "grasas": 0.67,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
  }
 }

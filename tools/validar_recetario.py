@@ -39,7 +39,7 @@ def validar(r, nombre):
 
 def main(carpeta):
     archivos = sorted(Path(carpeta).glob("*.json"))
-    total, errores, slugs = 0, [], {}
+    total, errores, slugs, titulos = 0, [], {}, {}
     for f in archivos:
         for r in json.loads(f.read_text(encoding="utf-8")):
             total += 1
@@ -47,6 +47,10 @@ def main(carpeta):
             if r.get("slug") in slugs:
                 errores.append(f"{f.name} · slug repetido: {r['slug']} (también en {slugs[r['slug']]})")
             slugs[r.get("slug")] = f.name
+            t = (r.get("titulo") or "").strip().lower()
+            if t in titulos:
+                errores.append(f"{f.name} · título repetido: {r['titulo']} (también en {titulos[t]})")
+            titulos[t] = f.name
     for e in errores[:200]:
         print(e)
     print(f"{total} recetas revisadas en {len(archivos)} archivos, {len(errores)} errores")

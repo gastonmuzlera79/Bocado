@@ -2487,5 +2487,26 @@
   "beans|kidney|red|mature seeds|canned|solids and liquids",
   null,
   256
+ ],
+ "chorizo": [
+  "carnes",
+  0,
+  [
+   "chorizo colorado",
+   "chorizo de cerdo"
+  ],
+  "sausage|pork|chorizo|raw",
+  null,
+  null
+ ],
+ "bacalao": [
+  "pescados y mariscos",
+  0,
+  [
+   "bacalao desalado"
+  ],
+  "fish|cod|atlantic|raw",
+  null,
+  null
  ]
 }
