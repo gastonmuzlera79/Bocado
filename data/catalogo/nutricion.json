@@ -1933,5 +1933,41 @@
   "grasas": 6.0,
   "carbohidratos": 52.6,
   "fibra": 1.9
+ },
+ "avellanas": {
+  "fdc_id": 170581,
+  "usda": "Nuts, hazelnuts or filberts",
+  "kcal": 628.0,
+  "proteinas": 14.95,
+  "grasas": 60.75,
+  "carbohidratos": 16.7,
+  "fibra": 9.7
+ },
+ "chocolate blanco": {
+  "fdc_id": 167571,
+  "usda": "Candies, white chocolate",
+  "kcal": 539.0,
+  "proteinas": 5.87,
+  "grasas": 32.09,
+  "carbohidratos": 59.24,
+  "fibra": 0.2
+ },
+ "licor": {
+  "fdc_id": 175097,
+  "usda": "Alcoholic beverage, liqueur, coffee, 53 proof",
+  "kcal": 336.0,
+  "proteinas": 0.1,
+  "grasas": 0.3,
+  "carbohidratos": 46.8,
+  "fibra": 0.0
+ },
+ "clavo de olor": {
+  "fdc_id": 171321,
+  "usda": "Spices, cloves, ground",
+  "kcal": 274.0,
+  "proteinas": 5.97,
+  "grasas": 13.0,
+  "carbohidratos": 65.53,
+  "fibra": 33.9
  }
 }

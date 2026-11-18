@@ -2040,7 +2040,8 @@
   0,
   [
    "frutas rojas",
-   "berries"
+   "berries",
+   "frambuesas"
   ],
   "blueberries|raw",
   null,
@@ -2268,6 +2269,45 @@
   ],
   "phyllo dough",
   19,
+  null
+ ],
+ "avellanas": [
+  "frutos secos y semillas",
+  0,
+  [
+   "avellana"
+  ],
+  "nuts|hazelnuts or filberts",
+  null,
+  135
+ ],
+ "chocolate blanco": [
+  "dulces",
+  0,
+  [],
+  "candies|white chocolate",
+  null,
+  170
+ ],
+ "licor": [
+  "bebidas",
+  0,
+  [
+   "coñac",
+   "licor de naranja"
+  ],
+  "alcoholic beverage|liqueur|coffee|53 proof",
+  null,
+  null
+ ],
+ "clavo de olor": [
+  "condimentos y especias",
+  1,
+  [
+   "clavos de olor"
+  ],
+  "spices|cloves|ground",
+  null,
   null
  ]
 }
