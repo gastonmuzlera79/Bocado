@@ -35,7 +35,7 @@ jobs:
           python-version: "3.12"
       - name: Los recetarios sin extracción cruda están al día con sus lotes
         run: |
-          python3 tools/recetario.py directo data/recetas/lotes_101/express.jsonl data/recetas/airfryer101_express.json a101 "Adaptada de: Air Fryer 101 · Sabores sin culpa (Recetas express)"
+          python3 tools/armar_directos.py
           git diff --exit-code data/recetas
       - name: Validar recetario
         run: python3 tools/validar_recetario.py data/recetas

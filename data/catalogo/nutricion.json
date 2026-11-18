@@ -2041,5 +2041,41 @@
   "grasas": 0.37,
   "carbohidratos": 6.5,
   "fibra": 2.8
+ },
+ "tofu": {
+  "fdc_id": 172475,
+  "usda": "Tofu, raw, firm, prepared with calcium sulfate",
+  "kcal": 144.0,
+  "proteinas": 17.27,
+  "grasas": 8.72,
+  "carbohidratos": 2.78,
+  "fibra": 2.3
+ },
+ "salame": {
+  "fdc_id": 172936,
+  "usda": "Salami, cooked, beef and pork",
+  "kcal": 336.0,
+  "proteinas": 21.85,
+  "grasas": 25.9,
+  "carbohidratos": 2.4,
+  "fibra": 0.0
+ },
+ "maíz pisingallo": {
+  "fdc_id": 167959,
+  "usda": "Snacks, popcorn, air-popped",
+  "kcal": 387.0,
+  "proteinas": 12.94,
+  "grasas": 4.54,
+  "carbohidratos": 77.78,
+  "fibra": 14.5
+ },
+ "cangrejo": {
+  "fdc_id": 171966,
+  "usda": "Crustaceans, crab, blue, canned",
+  "kcal": 83.0,
+  "proteinas": 17.88,
+  "grasas": 0.74,
+  "carbohidratos": 0.0,
+  "fibra": 0.0
  }
 }

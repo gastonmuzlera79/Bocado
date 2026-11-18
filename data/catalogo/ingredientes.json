@@ -2391,5 +2391,48 @@
   "peppers|jalapeno|raw",
   14,
   null
+ ],
+ "tofu": [
+  "legumbres",
+  0,
+  [
+   "tofu firme"
+  ],
+  "tofu|raw|firm|prepared with calcium sulfate",
+  null,
+  252
+ ],
+ "salame": [
+  "carnes",
+  0,
+  [
+   "salamín",
+   "pepperoni"
+  ],
+  "salami|cooked|beef and pork",
+  null,
+  null
+ ],
+ "maíz pisingallo": [
+  "harinas y cereales",
+  0,
+  [
+   "maíz para pochoclo",
+   "pochoclo"
+  ],
+  "snacks|popcorn|air-popped",
+  null,
+  8
+ ],
+ "cangrejo": [
+  "pescados y mariscos",
+  0,
+  [
+   "carne de cangrejo",
+   "kanikama"
+  ],
+  "crustaceans|crab|blue|canned",
+  null,
+  null
  ]
 }

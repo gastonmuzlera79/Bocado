@@ -578,4 +578,15 @@ insert into public.ingredientes (id, nombre, categoria, es_basico, gramos_por_un
 insert into public.sinonimos values ('jalapeno', '5979201f-c67b-5f9f-a03c-5592a4518502') on conflict do nothing;
 insert into public.sinonimos values ('aji jalapeno', '5979201f-c67b-5f9f-a03c-5592a4518502') on conflict do nothing;
 insert into public.sinonimos values ('chile', '5979201f-c67b-5f9f-a03c-5592a4518502') on conflict do nothing;
+insert into public.ingredientes (id, nombre, categoria, es_basico, gramos_por_unidad, gramos_por_taza, kcal_100g, proteinas_100g, grasas_100g, carbohidratos_100g, fibra_100g, fuente_nutricion) values ('5d8d1a32-2b8e-57a0-ba97-895fbafbcb80', 'tofu', 'legumbres', false, null, 252, 144.0, 17.27, 8.72, 2.78, 2.3, 'USDA FoodData Central SR Legacy #172475: Tofu, raw, firm, prepared with calcium sulfate') on conflict (nombre) do nothing;
+insert into public.sinonimos values ('tofu firme', '5d8d1a32-2b8e-57a0-ba97-895fbafbcb80') on conflict do nothing;
+insert into public.ingredientes (id, nombre, categoria, es_basico, gramos_por_unidad, gramos_por_taza, kcal_100g, proteinas_100g, grasas_100g, carbohidratos_100g, fibra_100g, fuente_nutricion) values ('b064a70e-c57e-5087-9944-db7329c27ae3', 'salame', 'carnes', false, null, null, 336.0, 21.85, 25.9, 2.4, 0.0, 'USDA FoodData Central SR Legacy #172936: Salami, cooked, beef and pork') on conflict (nombre) do nothing;
+insert into public.sinonimos values ('salamin', 'b064a70e-c57e-5087-9944-db7329c27ae3') on conflict do nothing;
+insert into public.sinonimos values ('pepperoni', 'b064a70e-c57e-5087-9944-db7329c27ae3') on conflict do nothing;
+insert into public.ingredientes (id, nombre, categoria, es_basico, gramos_por_unidad, gramos_por_taza, kcal_100g, proteinas_100g, grasas_100g, carbohidratos_100g, fibra_100g, fuente_nutricion) values ('38cf4fcb-022e-5170-bb31-0cdea1596e01', 'maíz pisingallo', 'harinas y cereales', false, null, 8, 387.0, 12.94, 4.54, 77.78, 14.5, 'USDA FoodData Central SR Legacy #167959: Snacks, popcorn, air-popped') on conflict (nombre) do nothing;
+insert into public.sinonimos values ('maiz para pochoclo', '38cf4fcb-022e-5170-bb31-0cdea1596e01') on conflict do nothing;
+insert into public.sinonimos values ('pochoclo', '38cf4fcb-022e-5170-bb31-0cdea1596e01') on conflict do nothing;
+insert into public.ingredientes (id, nombre, categoria, es_basico, gramos_por_unidad, gramos_por_taza, kcal_100g, proteinas_100g, grasas_100g, carbohidratos_100g, fibra_100g, fuente_nutricion) values ('2263d847-00b7-5b8f-80d3-417138413df6', 'cangrejo', 'pescados y mariscos', false, null, null, 83.0, 17.88, 0.74, 0.0, 0.0, 'USDA FoodData Central SR Legacy #171966: Crustaceans, crab, blue, canned') on conflict (nombre) do nothing;
+insert into public.sinonimos values ('carne de cangrejo', '2263d847-00b7-5b8f-80d3-417138413df6') on conflict do nothing;
+insert into public.sinonimos values ('kanikama', '2263d847-00b7-5b8f-80d3-417138413df6') on conflict do nothing;
 commit;
