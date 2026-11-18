@@ -816,7 +816,9 @@
   [
    "aceto",
    "aceto balsámico",
-   "vinagre de alcohol"
+   "vinagre de alcohol",
+   "vinagre de manzana",
+   "vinagre de arroz"
   ],
   "vinegar|distilled",
   null,
@@ -2506,6 +2508,69 @@
    "bacalao desalado"
   ],
   "fish|cod|atlantic|raw",
+  null,
+  null
+ ],
+ "queso vegano": [
+  "almacén",
+  0,
+  [
+   "queso vegetal"
+  ],
+  "imitation cheese|american or cheddar",
+  null,
+  113
+ ],
+ "repollo": [
+  "verduras",
+  0,
+  [
+   "col",
+   "repollo blanco",
+   "repollo colorado"
+  ],
+  "cabbage|raw",
+  null,
+  89
+ ],
+ "brotes de soja": [
+  "verduras",
+  0,
+  [
+   "brotes de poroto mung"
+  ],
+  "mung beans|mature seeds|sprouted|raw",
+  null,
+  104
+ ],
+ "fideos de arroz": [
+  "pastas",
+  0,
+  [
+   "fideos de arroz secos"
+  ],
+  "rice noodles|dry",
+  null,
+  null
+ ],
+ "hierbas frescas": [
+  "condimentos y especias",
+  1,
+  [
+   "hierbas"
+  ],
+  "parsley|fresh",
+  null,
+  null
+ ],
+ "alcauciles": [
+  "verduras",
+  0,
+  [
+   "alcachofas",
+   "corazones de alcaucil"
+  ],
+  "artichokes|cooked, boiled, drained, without salt",
   null,
   null
  ]

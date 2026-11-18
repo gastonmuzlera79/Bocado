@@ -2140,5 +2140,59 @@
   "grasas": 0.67,
   "carbohidratos": 0.0,
   "fibra": 0.0
+ },
+ "queso vegano": {
+  "fdc_id": 168089,
+  "usda": "Imitation cheese, american or cheddar, low cholesterol",
+  "kcal": 390.0,
+  "proteinas": 25.0,
+  "grasas": 32.0,
+  "carbohidratos": 1.0,
+  "fibra": 0.0
+ },
+ "repollo": {
+  "fdc_id": 169975,
+  "usda": "Cabbage, raw",
+  "kcal": 25.0,
+  "proteinas": 1.28,
+  "grasas": 0.1,
+  "carbohidratos": 5.8,
+  "fibra": 2.5
+ },
+ "brotes de soja": {
+  "fdc_id": 169957,
+  "usda": "Mung beans, mature seeds, sprouted, raw",
+  "kcal": 30.0,
+  "proteinas": 3.04,
+  "grasas": 0.18,
+  "carbohidratos": 5.94,
+  "fibra": 1.8
+ },
+ "fideos de arroz": {
+  "fdc_id": 169742,
+  "usda": "Rice noodles, dry",
+  "kcal": 364.0,
+  "proteinas": 5.95,
+  "grasas": 0.56,
+  "carbohidratos": 80.18,
+  "fibra": 1.6
+ },
+ "hierbas frescas": {
+  "fdc_id": 170416,
+  "usda": "Parsley, fresh",
+  "kcal": 36.0,
+  "proteinas": 2.97,
+  "grasas": 0.79,
+  "carbohidratos": 6.33,
+  "fibra": 3.3
+ },
+ "alcauciles": {
+  "fdc_id": 168386,
+  "usda": "Artichokes, (globe or french), cooked, boiled, drained, without salt",
+  "kcal": 53.0,
+  "proteinas": 2.89,
+  "grasas": 0.34,
+  "carbohidratos": 11.95,
+  "fibra": 5.7
  }
 }
