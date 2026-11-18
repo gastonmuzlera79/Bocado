@@ -107,11 +107,20 @@ def ngramas(texto, n=6):
 
 
 VACIAS = set("a al con de del el en la las lo los o para por que se si sin su sus un una unos unas y hasta como".split())
+# Vocabulario funcional de cocina: instrucciones que casi no admiten otra redacción.
+COCINA = set("""corta corte cortar cociná cocina cocinar coloca colocá ubica pone pon ponelos ponelas mezcla mezcla
+agrega suma sumá incorpora retira sirve servi servilo servila servilos servilas acompaña
+canasta freidora airfryer molde moldes fuente papel manteca aluminio rejilla base bol bowl tapa
+minutos minuto min grados c segundos mitad tiempo coccion antes despues final al
+cubos rodajas gajos tiras bastones aros mitades trozos picado picada picados picadas rallado rallada
+caliente tibio tibia frio fria crudo cocido cocida cocidos cocidas
+mas menos poco poca un dos tres cuatro 1 2 3 4 5 6 7 8 9 10 12 15 20 30
+""".split())
 
 
 def es_enumeracion(ngrama, vocab):
     """Una secuencia que solo nombra ingredientes (más artículos y conectores) no es expresión copiada."""
-    return all(w in VACIAS or w in vocab for w in ngrama.split())
+    return all(w in VACIAS or w in vocab or w in COCINA for w in ngrama.split())
 
 
 def cmd_copia(crudo, carpeta, n=6):
