@@ -122,8 +122,12 @@ def main():
                 elif canon in ("aceite", "aceite de oliva") and g:
                     peso_ok += 1
             porciones = r.get("porciones") or 1
-            if peso_total and peso_ok / peso_total >= 0.75:
-                nut = {k: round(v / porciones, 1) for k, v in suma.items()}
+            estimada = None
+            if r.get("nutricion"):  # valores que trae el libro: se respetan tal cual
+                nut, estimada = {k: r["nutricion"].get(k) for k in suma}, "false"
+                con_nutri += 1
+            elif peso_total and peso_ok / peso_total >= 0.75:
+                nut, estimada = {k: round(v / porciones, 1) for k, v in suma.items()}, "true"
                 con_nutri += 1
             else:
                 nut = {k: None for k in suma}
@@ -136,7 +140,7 @@ def main():
                              lit(r.get("temperatura_c")), lit(r["dificultad"]), lit(r.get("consejo")), arr(r.get("etiquetas", [])),
                              "'publicada'", "'recetario'", lit(r["origen_ref"]), lit(r.get("fuente_visible")),
                              lit(nut["kcal"]), lit(nut["proteinas"]), lit(nut["grasas"]), lit(nut["carbohidratos"]),
-                             "true" if nut["kcal"] is not None else "null"])
+                             estimada or "null"])
                 + ") on conflict (slug) do nothing;")
             for orden, iid, texto, cant, unidad, nota, opc in filas:
                 out.append("insert into public.receta_ingredientes values ("
@@ -146,7 +150,7 @@ def main():
                 out.append(f"insert into public.receta_pasos values ({lit(str(rid))}, {orden}, {lit(paso)}) on conflict do nothing;")
     out.append("commit;")
     (RAIZ / "db/seed/0002_recetario.sql").write_text("\n".join(out) + "\n", encoding="utf-8")
-    print(f"Catálogo: {len(cat)} ingredientes. Recetario: {total} recetas, {con_nutri} con nutrición estimada.")
+    print(f"Catálogo: {len(cat)} ingredientes. Recetario: {total} recetas, {con_nutri} con nutrición.")
 
 
 if __name__ == "__main__":

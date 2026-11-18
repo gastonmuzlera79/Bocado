@@ -1969,5 +1969,77 @@
   "grasas": 13.0,
   "carbohidratos": 65.53,
   "fibra": 33.9
+ },
+ "cilantro": {
+  "fdc_id": 169997,
+  "usda": "Coriander (cilantro) leaves, raw",
+  "kcal": 23.0,
+  "proteinas": 2.13,
+  "grasas": 0.52,
+  "carbohidratos": 3.67,
+  "fibra": 2.8
+ },
+ "masa de hojaldre": {
+  "fdc_id": 172790,
+  "usda": "Puff pastry, frozen, ready-to-bake",
+  "kcal": 551.0,
+  "proteinas": 7.3,
+  "grasas": 38.1,
+  "carbohidratos": 45.1,
+  "fibra": 1.5
+ },
+ "cebolla en polvo": {
+  "fdc_id": 171327,
+  "usda": "Spices, onion powder",
+  "kcal": 341.0,
+  "proteinas": 10.41,
+  "grasas": 1.04,
+  "carbohidratos": 79.12,
+  "fibra": 15.2
+ },
+ "garam masala": {
+  "fdc_id": 170924,
+  "usda": "Spices, curry powder",
+  "kcal": 325.0,
+  "proteinas": 14.29,
+  "grasas": 14.01,
+  "carbohidratos": 55.83,
+  "fibra": 53.2
+ },
+ "espárragos": {
+  "fdc_id": 168389,
+  "usda": "Asparagus, raw",
+  "kcal": 20.0,
+  "proteinas": 2.2,
+  "grasas": 0.12,
+  "carbohidratos": 3.88,
+  "fibra": 2.1
+ },
+ "pan de pancho": {
+  "fdc_id": 172796,
+  "usda": "Rolls, hamburger or hotdog, plain",
+  "kcal": 279.0,
+  "proteinas": 9.77,
+  "grasas": 3.91,
+  "carbohidratos": 50.12,
+  "fibra": 1.8
+ },
+ "chauchas": {
+  "fdc_id": 169961,
+  "usda": "Beans, snap, green, raw",
+  "kcal": 31.0,
+  "proteinas": 1.83,
+  "grasas": 0.22,
+  "carbohidratos": 6.97,
+  "fibra": 2.7
+ },
+ "ají picante": {
+  "fdc_id": 168576,
+  "usda": "Peppers, jalapeno, raw",
+  "kcal": 29.0,
+  "proteinas": 0.91,
+  "grasas": 0.37,
+  "carbohidratos": 6.5,
+  "fibra": 2.8
  }
 }

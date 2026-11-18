@@ -8,6 +8,10 @@ Comandos:
            (temperatura, tiempo, porciones, capítulo) y genera el recetario completo.
   copia    <crudo.json> <carpeta_lotes>
            Controla que ningún paso o descripción reescrita repita 6 palabras seguidas del original.
+  directo  <archivo.jsonl> <salida.json> <prefijo_slug> <fuente_visible>
+           Para libros sin extracción cruda: cada línea trae además "cat" (categoría), "min" (minutos),
+           "temp" (°C) y "nut" ([kcal, proteínas, grasas, carbohidratos] por porción, tal como los da el
+           libro, o null). La nutrición del libro se guarda como dato propio, no estimado.
 
 Formato de cada línea de un lote (una receta por línea, JSON):
   {"id": "af-02-006", "t": título, "d": descripción, "p": porciones o null, "dif": "fácil|media|difícil",
@@ -101,6 +105,54 @@ def cmd_armar(crudo, carpeta, salida, fuente):
     print(f"{len(recetas)} recetas escritas en {salida}")
 
 
+def receta_final(r, slug_, fuente, extra):
+    return {
+        "slug": slug_,
+        "titulo": r["t"],
+        "descripcion": r["d"],
+        "categoria": extra.get("categoria"),
+        "tecnica": "freidora de aire",
+        "porciones": r.get("p") or extra.get("porciones"),
+        "tiempo_coccion_min": extra.get("tiempo_coccion_min"),
+        "temperatura_c": extra.get("temperatura_c"),
+        "dificultad": r.get("dif", "fácil"),
+        "ingredientes": [
+            {"cantidad": i[0], "unidad": i[1], "nombre": i[2],
+             "nota": i[3] if len(i) > 3 else None,
+             "opcional": bool(i[4]) if len(i) > 4 else False}
+            for i in r["i"]
+        ],
+        "pasos": r["s"],
+        "consejo": r.get("c"),
+        "etiquetas": r.get("e", []),
+        "origen": "recetario",
+        "origen_ref": r["id"],
+        "fuente_visible": fuente,
+        **({"nutricion": dict(zip(("kcal", "proteinas", "grasas", "carbohidratos"), extra["nut"]))}
+           if extra.get("nut") else {}),
+    }
+
+
+def cmd_directo(archivo, salida, prefijo, fuente):
+    recetas, slugs = [], set()
+    for n, linea in enumerate(Path(archivo).read_text(encoding="utf-8").splitlines(), 1):
+        if not linea.strip():
+            continue
+        try:
+            r = json.loads(linea)
+        except json.JSONDecodeError as e:
+            raise SystemExit(f"{archivo}:{n}: JSON inválido: {e}")
+        s = f"{prefijo}-{slug(r['t'])}"[:90]
+        base, k = s, 2
+        while s in slugs:
+            s, k = f"{base}-{k}", k + 1
+        slugs.add(s)
+        recetas.append(receta_final(r, s, fuente, {"categoria": r.get("cat"), "tiempo_coccion_min": r.get("min"),
+                                                     "temperatura_c": r.get("temp"), "nut": r.get("nut")}))
+    Path(salida).write_text(json.dumps(recetas, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{len(recetas)} recetas escritas en {salida}")
+
+
 def ngramas(texto, n=6):
     w = norm(texto).split()
     return {" ".join(w[i:i + n]) for i in range(len(w) - n + 1)}
@@ -153,6 +205,8 @@ if __name__ == "__main__":
         cmd_lote(a[0], a[1], a[2], sal)
     elif c == "armar":
         cmd_armar(*a)
+    elif c == "directo":
+        cmd_directo(*a)
     elif c == "copia":
         sys.exit(1 if cmd_copia(*a) else 0)
     else:

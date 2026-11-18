@@ -2309,5 +2309,87 @@
   "spices|cloves|ground",
   null,
   null
+ ],
+ "cilantro": [
+  "verduras",
+  0,
+  [
+   "coriandro",
+   "perejil chino",
+   "cilantro en polvo"
+  ],
+  "coriander (cilantro) leaves|raw",
+  null,
+  16
+ ],
+ "masa de hojaldre": [
+  "panificados y masas",
+  0,
+  [
+   "hojaldre"
+  ],
+  "puff pastry|frozen|ready-to-bake",
+  null,
+  null
+ ],
+ "cebolla en polvo": [
+  "condimentos y especias",
+  1,
+  [],
+  "spices|onion powder",
+  null,
+  null
+ ],
+ "garam masala": [
+  "condimentos y especias",
+  1,
+  [],
+  "spices|curry powder",
+  null,
+  null
+ ],
+ "espárragos": [
+  "verduras",
+  0,
+  [
+   "espárrago"
+  ],
+  "asparagus|raw",
+  16,
+  134
+ ],
+ "pan de pancho": [
+  "panificados y masas",
+  0,
+  [
+   "pan para pancho",
+   "pan de hot dog"
+  ],
+  "rolls|hamburger or hotdog|plain",
+  44,
+  null
+ ],
+ "chauchas": [
+  "verduras",
+  0,
+  [
+   "judías verdes",
+   "porotos verdes"
+  ],
+  "beans|snap|green|raw",
+  null,
+  100
+ ],
+ "ají picante": [
+  "verduras",
+  0,
+  [
+   "jalapeño",
+   "ají jalapeño",
+   "chile"
+  ],
+  "peppers|jalapeno|raw",
+  14,
+  null
  ]
 }
