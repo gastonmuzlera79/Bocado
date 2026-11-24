@@ -21,6 +21,7 @@ const FONDO: Record<TipoPlato, string> = {
   pollo: "#fdeccd",
   pescado: "#dcebf4",
   mariscos: "#e2f0ea",
+  cerdo: "#f6e4dc",
   carne: "#f9e0d6",
   huevos: "#fff3c9",
   panqueques: "#fdefd2",
@@ -65,6 +66,32 @@ const DIBUJO: Record<TipoPlato, React.ReactNode> = {
       <ellipse cx="80" cy="92" rx="8" ry="4" fill="none" stroke="#f1cf86" strokeWidth="4" />
       <path d="M118 96a12 12 0 0 1 16-14z" fill="#f5d33c" />
       <path d="M121 94a8 8 0 0 1 10-9" fill="none" stroke="#fbe98b" strokeWidth="2" />
+    </g>
+  ),
+  cerdo: (
+    <g>
+      {plato}
+      <g fill="#f3e6cc" stroke="#d9c4a0" strokeWidth="1.5">
+        {[54, 68, 82, 96, 110].map((x) => (
+          <g key={x}>
+            <rect x={x - 3.5} y="44" width="7" height="30" rx="3.5" />
+            <circle cx={x - 2.5} cy="45" r="3.2" />
+            <circle cx={x + 2.5} cy="45" r="3.2" />
+          </g>
+        ))}
+      </g>
+      <path d="M40 66c0-4 4-7 9-7h66c5 0 9 3 9 7v14c0 5-4 8-9 8H49c-5 0-9-3-9-8z" fill="#a8482a" />
+      <path d="M44 66c1-3 4-4 8-4h60" fill="none" stroke="#c9663e" strokeWidth="4" strokeLinecap="round" />
+      <g stroke="#7d321c" strokeWidth="2.5" strokeLinecap="round">
+        <path d="M61 64v20M75 64v20M89 64v20M103 64v20" />
+      </g>
+      <g fill="#fff6df">
+        <ellipse cx="54" cy="76" rx="1.8" ry="1" />
+        <ellipse cx="68" cy="70" rx="1.8" ry="1" />
+        <ellipse cx="82" cy="78" rx="1.8" ry="1" />
+        <ellipse cx="96" cy="71" rx="1.8" ry="1" />
+        <ellipse cx="110" cy="77" rx="1.8" ry="1" />
+      </g>
     </g>
   ),
   carne: (
