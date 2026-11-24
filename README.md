@@ -16,6 +16,10 @@ Abrí http://localhost:3000. Escribí ingredientes separados por coma y mirá la
 npm test
 ```
 
+## Publicación
+
+Al mergear a `main`, el workflow `.github/workflows/pages.yml` corre los tests y publica la web en GitHub Pages (https://gastonmuzlera79.github.io/Bocado/). Requiere que en Settings > Pages la fuente sea "GitHub Actions". Para generar el sitio localmente: `bash scripts/build-site.sh`.
+
 ## Estructura
 
 | Ruta | Contenido |
@@ -24,6 +28,8 @@ npm test
 | `src/data/recipes.json` | Recetas de ejemplo |
 | `web/` | Interfaz web |
 | `server.js` | Servidor estático para desarrollo |
+| `scripts/build-site.sh` | Arma la carpeta publicable para Pages |
+| `.github/workflows/` | Tests y despliegue |
 | `test/` | Tests con el runner de Node |
 | `docs/competidores.md` | Análisis de competidores y qué sumar |
 | `docs/producto.md` | Alcance, límites y próximos pasos |
