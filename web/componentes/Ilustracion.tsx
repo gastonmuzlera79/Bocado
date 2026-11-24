@@ -13,6 +13,7 @@ const FONDO: Record<TipoPlato, string> = {
   pastas: "#fdf1cf",
   sopas: "#fbe4d2",
   arroz: "#e0eeee",
+  frios: "#e4ebfa",
   pollo: "#fdeccd",
   pescado: "#dcebf4",
   carne: "#f9e0d6",
@@ -219,6 +220,29 @@ const DIBUJO: Record<TipoPlato, React.ReactNode> = {
         <rect x="92" y="80" width="5" height="5" rx="1" />
         <rect x="84" y="64" width="4.5" height="4.5" rx="1" />
       </g>
+    </g>
+  ),
+  frios: (
+    <g transform="translate(80 104) scale(1.18) translate(-80 -102)">
+      <ellipse cx="80" cy="102" rx="30" ry="5" fill="#000" opacity=".07" />
+      <ellipse cx="80" cy="99" rx="22" ry="5" fill="#bfcbd8" />
+      <rect x="77" y="78" width="6" height="21" rx="2" fill="#bfcbd8" />
+      <path d="M58 66h44c-4 8-12 13-22 13s-18-5-22-13z" fill="#6b3a24" />
+      <path d="M53 50h54c0 6-1 11-4 16H57c-3-5-4-10-4-16z" fill="#fbe9c8" />
+      <path d="M55 60h50" stroke="#e05a6a" strokeWidth="4" />
+      <g fill="#c8324a">
+        <circle cx="62" cy="60" r="3" />
+        <circle cx="76" cy="61" r="3" />
+        <circle cx="90" cy="60" r="3" />
+        <circle cx="100" cy="61" r="2.6" />
+      </g>
+      <path d="M50 46c0-8 10-12 15-7 2-9 22-9 24 0 5-5 15-1 14 7 2 4-2 6-6 6H56c-4 0-8-2-6-6z" fill="#fff" stroke="#e6dccb" strokeWidth="1.5" />
+      <path d="M50 44h60c0 24-12 36-30 36S50 68 50 44z" fill="#ffffff" opacity=".18" stroke="#b9c6d4" strokeWidth="2.5" />
+      <path d="M56 50c0 10 4 18 10 22" fill="none" stroke="#fff" strokeWidth="3" strokeLinecap="round" opacity=".8" />
+      <circle cx="80" cy="34" r="6" fill="#d8323f" />
+      <circle cx="78" cy="32" r="1.8" fill="#f28a92" />
+      <path d="M80 28c0-5 3-8 6-9" fill="none" stroke="#3f8a37" strokeWidth="2" strokeLinecap="round" />
+      {hoja(84, 38, -30, "#57a345")}
     </g>
   ),
   hamburguesa: (
