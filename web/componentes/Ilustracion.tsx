@@ -23,6 +23,7 @@ const FONDO: Record<TipoPlato, string> = {
   pescado: "#dcebf4",
   mariscos: "#e2f0ea",
   cerdo: "#f6e4dc",
+  cordero: "#efe6e9",
   carne: "#f9e0d6",
   huevos: "#fff3c9",
   panqueques: "#fdefd2",
@@ -92,6 +93,28 @@ const DIBUJO: Record<TipoPlato, React.ReactNode> = {
         <ellipse cx="82" cy="78" rx="1.8" ry="1" />
         <ellipse cx="96" cy="71" rx="1.8" ry="1" />
         <ellipse cx="110" cy="77" rx="1.8" ry="1" />
+      </g>
+    </g>
+  ),
+  cordero: (
+    <g>
+      {plato}
+      {[
+        { x: 66, r: -18 },
+        { x: 96, r: 14 },
+      ].map(({ x, r }) => (
+        <g key={x} transform={`rotate(${r} ${x} 80)`}>
+          <rect x={x - 3} y="44" width="6" height="30" rx="3" fill="#f3e6cc" stroke="#d9c4a0" strokeWidth="1.5" />
+          <ellipse cx={x} cy="82" rx="17" ry="12" fill="#f1d3bd" />
+          <ellipse cx={x} cy="82" rx="14" ry="9.5" fill="#8f4a3a" />
+          <ellipse cx={x - 2} cy="80" rx="7" ry="4.5" fill="#c46a5c" />
+        </g>
+      ))}
+      <path d="M44 94c10-6 24-8 34-6" fill="none" stroke="#3f8a37" strokeWidth="2" strokeLinecap="round" />
+      <g fill="#4f9a3c">
+        {[48, 54, 60, 66, 72].map((x, i) => (
+          <ellipse key={x} cx={x} cy={92 - i * 0.8 + (i % 2 ? 3 : -2)} rx="3.2" ry="1.2" transform={`rotate(${i % 2 ? 30 : -30} ${x} 92)`} />
+        ))}
       </g>
     </g>
   ),
