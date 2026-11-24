@@ -48,6 +48,20 @@ Los nombres de varias palabras se buscaron en el INPI con y sin espacios: sin es
 | Despensa, Heladera, Sartén, Cucharita, Picoteo | Dominios .com.ar tomados o marcas parecidas en uso. |
 | Olla, Ñam | La palabra es tan común que el INPI devuelve el máximo de resultados y no se puede evaluar. |
 
+## Segunda consulta: Provecho y Rascando la olla
+
+| Nombre | .com.ar | .ar | .com | Marcas en el INPI | Lectura |
+|---|---|---|---|---|---|
+| Provecho | tomado | libre | tomado | 9 vigentes que lo contienen, todas de comida: "BUEN PROVECHO!" (29 y 30), "PROVECHO MAESTRO" (35), "SALVA BUEN PROVECHO" (43) y otras | Palabra común en el rubro, dos dominios clave tomados. Marca débil. |
+| Buen provecho | libre | libre | tomado | 7 vigentes, mismas que arriba | Frase de uso diario: muy difícil de proteger. |
+| **Rascando la olla** | libre | libre | libre | **Concedida en la clase 38** (telecomunicaciones y transmisión), a nombre de una persona física. Solicitada el 25/08/2026, vence el 04/11/2036. Acta 4772969 | No encontré un programa, podcast ni sitio en uso con ese nombre. |
+| Rascá la olla / Rasca la olla | libre (rascalaolla) | libre | libre | 0 | Más corto, pero muy parecido a la marca anterior. |
+| Rascaolla | libre | libre | libre | 0 | Más corto todavía; se pierde un poco el sentido. |
+| Fondo de olla | tomado | libre | tomado | Concedida en las clases 38 y 41 | Descartado. |
+| El fondo de la olla | libre | libre | libre | "FDO EL FONDO DE LA OLLA…" concedida en 25, 38 y 41 | Descartado. |
+
+**Lectura sobre "Rascando la olla":** la clase 38 cubre transmisión de contenidos (streaming, radio, plataformas en línea), que está cerca de lo que hace una app que publica recetas (clases 41 y 42). La titular podría oponerse a un registro igual o parecido en esas clases, y también ampliar el suyo. Las variantes "Rascá la olla" o "Rascaolla" están libres, pero se parecen lo suficiente como para que el riesgo siga ahí. Usarla solo como frase de presentación (por ejemplo, "Olleando · rascando la olla") reduce el riesgo pero no lo elimina. Es un punto para el agente de la propiedad industrial.
+
 ## Recomendación
 
 1. **Olleando.** Es el único finalista que es una palabra inventada: no está en ninguna marca, tiene los tres dominios libres y es fácil de proteger porque no describe un producto genérico. Se puede acompañar con una bajada que explique la idea: "Olleando · cociná con lo que tenés".
