@@ -20,6 +20,7 @@ const FONDO: Record<TipoPlato, string> = {
   milanesas: "#f4e8de",
   pollo: "#fdeccd",
   pescado: "#dcebf4",
+  mariscos: "#e2f0ea",
   carne: "#f9e0d6",
   huevos: "#fff3c9",
   panqueques: "#fdefd2",
@@ -46,6 +47,26 @@ const hoja = (x: number, y: number, r = 0, c = "#4f9a3c") => (
 );
 
 const DIBUJO: Record<TipoPlato, React.ReactNode> = {
+  mariscos: (
+    <g>
+      {plato}
+      {[
+        { x: 56, f: -1 },
+        { x: 104, f: 1 },
+      ].map(({ x, f }) => (
+        <g key={x} transform={`translate(${x} 90) scale(${f * 0.85} 0.85) translate(-60 -88)`}>
+          <path d="M54 88l-10 4 4-8-6-6 10 2z" fill="#e8693c" />
+          <path d="M54 86C36 80 38 54 58 52c14-1 22 10 18 20" fill="none" stroke="#f08457" strokeWidth="14" strokeLinecap="round" />
+          <path d="M54 86C36 80 38 54 58 52c14-1 22 10 18 20" fill="none" stroke="#f7a77c" strokeWidth="5" strokeLinecap="round" strokeDasharray="2 6" />
+          <circle cx="76" cy="70" r="2" fill="#3a2a22" />
+          <path d="M78 74c6 4 10 10 10 16M76 76c4 6 4 12 2 16" fill="none" stroke="#e8693c" strokeWidth="1.5" strokeLinecap="round" />
+        </g>
+      ))}
+      <ellipse cx="80" cy="92" rx="8" ry="4" fill="none" stroke="#f1cf86" strokeWidth="4" />
+      <path d="M118 96a12 12 0 0 1 16-14z" fill="#f5d33c" />
+      <path d="M121 94a8 8 0 0 1 10-9" fill="none" stroke="#fbe98b" strokeWidth="2" />
+    </g>
+  ),
   carne: (
     <g>
       {plato}
