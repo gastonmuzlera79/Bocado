@@ -7,6 +7,17 @@ import type { TipoPlato } from "@/lib/tipoPlato";
  */
 
 const FONDO: Record<TipoPlato, string> = {
+  wraps: "#f9ecd4",
+  brochetas: "#f7e3d8",
+  tostadas: "#eef1dc",
+  dips: "#f1eadf",
+  granola: "#f5ecdc",
+  chips: "#fdf3d2",
+  facturas: "#fbe9da",
+  rellenas: "#e6f1df",
+  legumbres: "#f3ead6",
+  sandwich: "#f9eedb",
+  croquetas: "#fbefd9",
   pizza: "#fde3cf",
   hamburguesa: "#fde8d6",
   empanadas: "#f8e9d3",
@@ -116,6 +127,228 @@ const DIBUJO: Record<TipoPlato, React.ReactNode> = {
           <ellipse key={x} cx={x} cy={92 - i * 0.8 + (i % 2 ? 3 : -2)} rx="3.2" ry="1.2" transform={`rotate(${i % 2 ? 30 : -30} ${x} 92)`} />
         ))}
       </g>
+    </g>
+  ),
+  wraps: (
+    <g>
+      {plato}
+      <g transform="rotate(-10 80 72)">
+        <rect x="40" y="52" width="64" height="26" rx="13" fill="#e6c487" />
+        <path d="M50 56l6 18M62 54l6 22M74 54l6 22M86 54l6 22" stroke="#d3a862" strokeWidth="2.5" strokeLinecap="round" />
+        <ellipse cx="104" cy="65" rx="9" ry="13" fill="#f3e2bd" />
+        <ellipse cx="104" cy="65" rx="6.5" ry="10" fill="#6dbb4c" />
+        <circle cx="102" cy="61" r="2.6" fill="#e04a3b" />
+        <circle cx="106" cy="68" r="2.4" fill="#9b4f30" />
+        <circle cx="103" cy="71" r="2" fill="#f6c445" />
+      </g>
+      <g transform="rotate(8 84 86)">
+        <rect x="46" y="74" width="60" height="22" rx="11" fill="#ecce93" />
+        <path d="M56 77l5 16M68 76l5 18M80 76l5 18" stroke="#d3a862" strokeWidth="2.5" strokeLinecap="round" />
+        <ellipse cx="106" cy="85" rx="8" ry="11" fill="#f3e2bd" />
+        <ellipse cx="106" cy="85" rx="5.5" ry="8.5" fill="#5daa3f" />
+        <circle cx="105" cy="82" r="2.2" fill="#e04a3b" />
+        <circle cx="107" cy="88" r="2" fill="#f6c445" />
+      </g>
+    </g>
+  ),
+  brochetas: (
+    <g>
+      {plato}
+      {[0, 16].map((d) => (
+        <g key={d} transform={`translate(0 ${d})`}>
+          <path d="M30 78L130 56" stroke="#c9a36b" strokeWidth="3" strokeLinecap="round" />
+          {[
+            [46, "#9b4f30"],
+            [60, "#e04a3b"],
+            [74, "#f1e3cf"],
+            [88, "#9b4f30"],
+            [102, "#5aa847"],
+            [116, "#9b4f30"],
+          ].map(([x, c]) => (
+            <rect key={String(x)} x={Number(x) - 6} y={74 - (Number(x) - 30) * 0.22 - 6} width="12" height="12" rx="3" fill={String(c)} transform={`rotate(-12 ${x} ${74 - (Number(x) - 30) * 0.22})`} />
+          ))}
+        </g>
+      ))}
+    </g>
+  ),
+  tostadas: (
+    <g>
+      {plato}
+      <g transform="rotate(-8 80 74)">
+        <path d="M46 92V62c0-12 8-18 16-18 4-6 12-8 18-8s14 2 18 8c8 0 16 6 16 18v30z" fill="#d9963f" />
+        <path d="M51 89V63c0-9 6-14 12-14 4-5 10-7 17-7s13 2 17 7c6 0 12 5 12 14v26z" fill="#f4d79b" />
+        <path d="M54 76c4-12 16-18 26-16 12-2 24 4 26 16 2 10-6 12-26 12s-28-2-26-12z" fill="#9ccc65" />
+        <path d="M62 68c6-6 20-8 32 0" fill="none" stroke="#7fb24a" strokeWidth="3" strokeLinecap="round" />
+        <path d="M66 74c-4-6 6-10 12-8 6-4 16 0 14 6 4 4-2 10-12 8-8 2-16 0-14-6z" fill="#fff" />
+        <ellipse cx="79" cy="72" rx="6" ry="5" fill="#f7b021" />
+        <g fill="#d6452f">
+          <circle cx="60" cy="80" r="1.2" />
+          <circle cx="98" cy="70" r="1.2" />
+          <circle cx="94" cy="82" r="1.2" />
+        </g>
+      </g>
+    </g>
+  ),
+  dips: (
+    <g>
+      {plato}
+      <rect x="86" y="44" width="7" height="34" rx="3" fill="#f08a24" transform="rotate(18 89 61)" />
+      <rect x="96" y="48" width="6" height="30" rx="3" fill="#8fc46a" transform="rotate(28 99 63)" />
+      <path d="M62 52l16 24-22 2z" fill="#f4c04e" stroke="#e3a632" strokeWidth="1.5" strokeLinejoin="round" />
+      <path d="M54 68h52c0 14-11 22-26 22s-26-8-26-22z" fill="#fff" stroke="#e3ddd1" strokeWidth="2" />
+      <ellipse cx="80" cy="68" rx="26" ry="6" fill="#f2ecdc" />
+      <path d="M68 68c6-4 18-4 24 0" fill="none" stroke="#e5dcc3" strokeWidth="2.5" strokeLinecap="round" />
+      <g fill="#d6452f">
+        <circle cx="76" cy="67" r="1.4" />
+        <circle cx="84" cy="69" r="1.2" />
+        <circle cx="88" cy="66" r="1.1" />
+      </g>
+      {hoja(80, 65, -30, "#3f8a37")}
+    </g>
+  ),
+  granola: (
+    <g>
+      <ellipse cx="74" cy="100" rx="44" ry="8" fill="#000" opacity=".07" />
+      <rect x="104" y="78" width="30" height="16" rx="4" fill="#c8924d" />
+      <g fill="#a8743a">
+        <circle cx="110" cy="84" r="2.5" />
+        <circle cx="120" cy="88" r="2.5" />
+        <circle cx="128" cy="83" r="2.2" />
+      </g>
+      <g fill="#d4a05a">
+        {[[52, 60], [62, 56], [72, 58], [82, 55], [92, 59], [58, 64], [70, 63], [86, 63], [96, 64]].map(([x, y]) => (
+          <circle key={`${x}-${y}`} cx={x} cy={y} r="5" />
+        ))}
+      </g>
+      <g fill="#a8743a">
+        <circle cx="66" cy="60" r="3" />
+        <circle cx="88" cy="59" r="3" />
+      </g>
+      <circle cx="76" cy="56" r="3.5" fill="#d8323f" />
+      <circle cx="94" cy="56" r="3" fill="#4b5fa6" />
+      <circle cx="58" cy="58" r="3" fill="#4b5fa6" />
+      <path d="M42 64h68c0 18-15 30-34 30S42 82 42 64z" fill="#5b8fb9" />
+      <ellipse cx="76" cy="64" rx="34" ry="5" fill="#fbf7ee" />
+      <path d="M50 74c5 10 14 15 24 16" fill="none" stroke="#7aa8cc" strokeWidth="3" strokeLinecap="round" />
+    </g>
+  ),
+  chips: (
+    <g>
+      {plato}
+      <g fill="#f4c04e" stroke="#e3a632" strokeWidth="1.5">
+        <ellipse cx="68" cy="44" rx="10" ry="7" transform="rotate(-25 68 44)" />
+        <ellipse cx="82" cy="40" rx="10" ry="7" transform="rotate(10 82 40)" />
+        <ellipse cx="94" cy="46" rx="9" ry="6.5" transform="rotate(30 94 46)" />
+        <ellipse cx="76" cy="50" rx="9" ry="6" />
+        <ellipse cx="112" cy="90" rx="9" ry="5.5" transform="rotate(15 112 90)" />
+        <ellipse cx="48" cy="92" rx="8" ry="5" transform="rotate(-10 48 92)" />
+      </g>
+      <path d="M58 52h44l-4 40H62z" fill="#e04a3b" />
+      <path d="M58 52l4 6 4-6 4 6 4-6 4 6 4-6 4 6 4-6 4 6 4-6 4 6" fill="none" stroke="#c8392b" strokeWidth="2" />
+      <rect x="60" y="66" width="40" height="12" fill="#fff" />
+      <circle cx="80" cy="72" r="4" fill="#f4c04e" />
+    </g>
+  ),
+  facturas: (
+    <g>
+      {plato}
+      <g transform="translate(-4 0)">
+        <ellipse cx="44" cy="86" rx="8" ry="5" fill="#c9832f" transform="rotate(30 44 86)" />
+        <ellipse cx="88" cy="86" rx="8" ry="5" fill="#c9832f" transform="rotate(-30 88 86)" />
+        <ellipse cx="52" cy="78" rx="11" ry="8" fill="#d99540" transform="rotate(35 52 78)" />
+        <ellipse cx="80" cy="78" rx="11" ry="8" fill="#d99540" transform="rotate(-35 80 78)" />
+        <ellipse cx="66" cy="74" rx="14" ry="11" fill="#e3a64e" />
+        <path d="M58 70c4-4 12-4 16 0" fill="none" stroke="#f1c47e" strokeWidth="3" strokeLinecap="round" />
+      </g>
+      <circle cx="106" cy="76" r="18" fill="#dfa04c" />
+      <path d="M90 74c2-10 10-14 16-14s16 4 16 14c0 4-4 4-6 8-2 4-6 2-10 4-4-2-8 0-10-4-2-4-6-4-6-8z" fill="#f4a9bb" />
+      <ellipse cx="106" cy="74" rx="5.5" ry="4.5" fill="#fff" />
+      <g strokeWidth="2" strokeLinecap="round">
+        <path d="M96 68l3 1" stroke="#4b5fa6" />
+        <path d="M112 66l2 2" stroke="#f6c445" />
+        <path d="M116 76l3-1" stroke="#5daa3f" />
+        <path d="M98 80l2-2" stroke="#fff" />
+        <path d="M108 82l3 0" stroke="#4b5fa6" />
+      </g>
+    </g>
+  ),
+  rellenas: (
+    <g>
+      {plato}
+      <path d="M38 80c0-6 4-9 10-9h46c6 0 10 3 10 9-4 9-15 12-33 12s-29-3-33-12z" fill="#4f8f3a" />
+      <path d="M42 80c4-4 12-6 29-6s25 2 29 6c-4 5-14 7-29 7s-25-2-29-7z" fill="#a6cf86" />
+      <path d="M44 78c4-6 14-8 27-8s23 2 27 8c-6 4-16 5-27 5s-21-1-27-5z" fill="#f3d27a" />
+      <g fill="#e04a3b">
+        <circle cx="56" cy="76" r="2" />
+        <circle cx="70" cy="74" r="2" />
+        <circle cx="84" cy="77" r="2" />
+      </g>
+      <g fill="#3f8a37">
+        <circle cx="62" cy="78" r="1.3" />
+        <circle cx="78" cy="75" r="1.3" />
+        <circle cx="90" cy="75" r="1.3" />
+      </g>
+      <circle cx="118" cy="80" r="14" fill="#e04a3b" />
+      <ellipse cx="118" cy="70" rx="11" ry="4.5" fill="#c8392b" />
+      <ellipse cx="118" cy="69" rx="9" ry="3.5" fill="#f3d27a" />
+      <circle cx="115" cy="68" r="1.3" fill="#3f8a37" />
+      <circle cx="112" cy="84" r="3" fill="#f08a7e" />
+    </g>
+  ),
+  legumbres: (
+    <g>
+      {plato}
+      <ellipse cx="80" cy="84" rx="40" ry="10" fill="#e2c48a" />
+      {[[54, 80], [62, 76], [70, 79], [78, 74], [86, 78], [94, 75], [102, 80], [66, 84], [82, 84], [98, 85], [74, 70], [88, 70], [58, 86], [108, 86], [80, 66]].map(([x, y]) => (
+        <circle key={`g${x}-${y}`} cx={x} cy={y} r="4.6" fill="#ebcd8e" stroke="#d1a95e" strokeWidth="1.2" />
+      ))}
+      {[[60, 70, -20], [96, 66, 25], [104, 74, 10], [50, 76, -10], [86, 88, 0]].map(([x, y, r]) => (
+        <ellipse key={`p${x}-${y}`} cx={x} cy={y} rx="5.5" ry="3.4" fill="#9b2f2a" transform={`rotate(${r} ${x} ${y})`} />
+      ))}
+      {[[72, 88], [90, 90], [64, 90], [100, 90], [76, 62]].map(([x, y]) => (
+        <ellipse key={`l${x}-${y}`} cx={x} cy={y} rx="2.4" ry="1.6" fill="#b9783a" />
+      ))}
+      {hoja(84, 60, -30, "#3f8a37")}
+    </g>
+  ),
+  sandwich: (
+    <g>
+      {plato}
+      {[
+        { x: 40, y: 62, r: -6 },
+        { x: 82, y: 66, r: 6 },
+      ].map(({ x, y, r }) => (
+        <g key={x} transform={`rotate(${r} ${x + 20} ${y + 14})`}>
+          <rect x={x} y={y + 20} width="40" height="9" rx="3" fill="#d9963f" />
+          <rect x={x + 1} y={y + 15} width="38" height="6" rx="2" fill="#e8a0a0" />
+          <path d={`M${x} ${y + 14}h40v4c-4 0-4 5-8 5s-4-4-8-4-4 6-8 6-4-5-8-5-4 3-8 3z`} fill="#f6c445" />
+          <path d={`M${x - 1} ${y + 12}c4-3 8 1 12-1s8 2 12 0 8 2 12 0 4 1 6 1v3h-42z`} fill="#6dbb4c" />
+          <rect x={x} y={y} width="40" height="12" rx="4" fill="#e3a957" />
+          <path d={`M${x + 8} ${y + 3}l6 7M${x + 18} ${y + 3}l6 7M${x + 28} ${y + 3}l6 7`} stroke="#c4843c" strokeWidth="2" strokeLinecap="round" />
+        </g>
+      ))}
+    </g>
+  ),
+  croquetas: (
+    <g>
+      {plato}
+      {[
+        [52, 84, -8],
+        [76, 86, 4],
+        [100, 84, -4],
+        [64, 72, 6],
+        [88, 72, -6],
+      ].map(([x, y, r]) => (
+        <g key={`${x}-${y}`} transform={`rotate(${r} ${x} ${y})`}>
+          <rect x={x - 13} y={y - 7} width="26" height="14" rx="7" fill="#cf8b36" />
+          <rect x={x - 11} y={y - 6} width="22" height="9" rx="4.5" fill="#e3a748" />
+          <circle cx={x - 5} cy={y - 2} r="1.2" fill="#f3cb78" />
+          <circle cx={x + 3} cy={y - 3} r="1.2" fill="#f3cb78" />
+          <circle cx={x + 6} cy={y} r="1" fill="#c4842e" />
+        </g>
+      ))}
+      <path d="M112 64h20c0 7-4 11-10 11s-10-4-10-11z" fill="#fff" stroke="#e3ddd1" strokeWidth="1.5" />
+      <ellipse cx="122" cy="64" rx="10" ry="2.5" fill="#d6452f" />
     </g>
   ),
   carne: (
@@ -538,22 +771,34 @@ const DIBUJO: Record<TipoPlato, React.ReactNode> = {
   ),
   snacks: (
     <g>
-      <ellipse cx="80" cy="100" rx="48" ry="9" fill="#000" opacity=".07" />
-      <g fill="#f6e3b0" stroke="#e8c97a" strokeWidth="1.5">
-        <circle cx="62" cy="58" r="9" />
-        <circle cx="76" cy="52" r="10" />
-        <circle cx="92" cy="54" r="9" />
-        <circle cx="104" cy="60" r="8" />
-        <circle cx="84" cy="62" r="8" />
-        <circle cx="68" cy="66" r="8" />
+      <ellipse cx="80" cy="100" rx="58" ry="9" fill="#000" opacity=".07" />
+      <path d="M28 82l14-22h86l-14 22z" fill="#c98a4b" />
+      <path d="M28 82h86v8H28z" fill="#a86d33" />
+      <path d="M114 82l14-22v8l-14 22z" fill="#b37638" />
+      <circle cx="122" cy="62" r="3" fill="none" stroke="#a86d33" strokeWidth="2" />
+      <g>
+        {[[50, 70], [62, 74], [56, 64]].map(([x, y]) => (
+          <g key={`q${x}-${y}`}>
+            <path d={`M${x} ${y}l7-3 7 3-7 3z`} fill="#fbe08a" />
+            <path d={`M${x} ${y}v7l7 3v-7z`} fill="#f6c445" />
+            <path d={`M${x + 14} ${y}v7l-7 3v-7z`} fill="#e9b432" />
+          </g>
+        ))}
       </g>
-      <g fill="#e9a24d">
-        <circle cx="96" cy="66" r="7" />
-        <circle cx="58" cy="68" r="6" />
-      </g>
-      <path d="M42 66h76c0 18-16 32-38 32S42 84 42 66z" fill="#0d631b" />
-      <ellipse cx="80" cy="66" rx="38" ry="5" fill="#147a26" />
-      <path d="M50 74c6 12 18 18 30 18" fill="none" stroke="#2a8d3b" strokeWidth="3" strokeLinecap="round" />
+      {[[84, 70], [96, 66], [90, 76]].map(([x, y]) => (
+        <g key={`s${x}-${y}`}>
+          <ellipse cx={x} cy={y} rx="7" ry="4.5" fill="#c8432f" />
+          <circle cx={x - 2} cy={y - 1} r="1" fill="#f3d6cf" />
+          <circle cx={x + 2} cy={y + 1} r="1" fill="#f3d6cf" />
+        </g>
+      ))}
+      {[[108, 70], [114, 74], [104, 76]].map(([x, y]) => (
+        <g key={`a${x}-${y}`}>
+          <ellipse cx={x} cy={y} rx="3.6" ry="3" fill="#6b8e23" />
+          <circle cx={x} cy={y - 0.5} r="1.1" fill="#d6452f" />
+        </g>
+      ))}
+      <path d="M66 62l-4-10M88 60l2-10" stroke="#e8d3a8" strokeWidth="1.5" strokeLinecap="round" />
     </g>
   ),
   general: (
