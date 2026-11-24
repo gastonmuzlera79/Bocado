@@ -1,4 +1,6 @@
-# Nombres alternativos para Bocado
+# Nombres alternativos
+
+> **Decisión (24/11/2026): el proyecto se llama Olleando**, con el lema "rascando la olla". Este documento queda como registro de cómo se eligió.
 
 Consulta del 24/11/2026. Para cada nombre verifiqué:
 

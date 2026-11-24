@@ -1,10 +1,10 @@
-# Política de privacidad de Bocado
+# Política de privacidad de Olleando
 
 > **Borrador para revisión profesional.** Antes de publicarla tiene que revisarla un abogado o abogada matriculado. Los datos entre llaves (`{{…}}`) se completan cuando estén definidos. Las notas ✎ son para el titular y se borran antes de publicar.
 
 Última actualización: {{FECHA_VIGENCIA}}
 
-Esta política explica qué datos personales trata Bocado, para qué, con quién los comparte y cómo podés ejercer tus derechos. Se rige por la Ley 25.326 de Protección de los Datos Personales y su reglamentación.
+Esta política explica qué datos personales trata Olleando, para qué, con quién los comparte y cómo podés ejercer tus derechos. Se rige por la Ley 25.326 de Protección de los Datos Personales y su reglamentación.
 
 ✎ La Resolución AAIP 14/2018 (art. 2) exige mostrar esta información en un lugar visible **antes** de recolectar los datos. En la pantalla de ingreso va un resumen con enlace a esta política.
 
@@ -12,7 +12,7 @@ Esta política explica qué datos personales trata Bocado, para qué, con quién
 
 El responsable de la base de datos es {{TITULAR_NOMBRE}}, CUIT/CUIL {{TITULAR_CUIT}}, con domicilio en {{TITULAR_DOMICILIO}}. Contacto para temas de datos personales: {{MAIL_PRIVACIDAD}}.
 
-La base de datos de usuarios de Bocado está inscripta en el Registro Nacional de Bases de Datos Personales con el número {{NUMERO_INSCRIPCION_AAIP}}.
+La base de datos de usuarios de Olleando está inscripta en el Registro Nacional de Bases de Datos Personales con el número {{NUMERO_INSCRIPCION_AAIP}}.
 
 ✎ Inscribir antes de abrir el registro de usuarios. Ver la [lista de cumplimiento](./lista-de-cumplimiento.md).
 
@@ -32,11 +32,11 @@ No pedimos datos sensibles. No subas fotos con personas ni documentos con inform
 
 Si no das un dato obligatorio, no vamos a poder darte esa función. Los datos que no son obligatorios los podés dejar de dar o borrar cuando quieras.
 
-No vendemos tus datos ni los usamos para publicidad de terceros. Bocado no muestra anuncios.
+No vendemos tus datos ni los usamos para publicidad de terceros. Olleando no muestra anuncios.
 
 ## 3. Con quién compartimos los datos
 
-Solo con los proveedores que necesitamos para que Bocado funcione, que los tratan por nuestra cuenta y con fines limitados:
+Solo con los proveedores que necesitamos para que Olleando funcione, que los tratan por nuestra cuenta y con fines limitados:
 
 | Proveedor | Para qué | Dónde están los datos |
 |---|---|---|
@@ -84,11 +84,11 @@ Usamos conexiones cifradas, permisos por persona y por rol en la base de datos, 
 
 ## 8. Cookies y almacenamiento local
 
-Bocado usa solo las cookies necesarias para mantener tu sesión iniciada. No usamos cookies de publicidad ni de seguimiento de terceros. Si no tenés cuenta, el sitio puede guardar tu despensa en tu propio navegador; esa información no nos llega.
+Olleando usa solo las cookies necesarias para mantener tu sesión iniciada. No usamos cookies de publicidad ni de seguimiento de terceros. Si no tenés cuenta, el sitio puede guardar tu despensa en tu propio navegador; esa información no nos llega.
 
 ## 9. Menores
 
-Bocado está pensado para personas de 16 años o más. Si sos madre, padre o tutor y creés que un menor de esa edad nos dio datos, escribinos y los borramos.
+Olleando está pensado para personas de 16 años o más. Si sos madre, padre o tutor y creés que un menor de esa edad nos dio datos, escribinos y los borramos.
 
 ## 10. Cambios en esta política
 

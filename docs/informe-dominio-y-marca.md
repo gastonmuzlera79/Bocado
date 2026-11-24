@@ -1,5 +1,7 @@
 # Informe de dominio y marca: "Bocado"
 
+> **Registro histórico.** Este informe evaluó el nombre de trabajo anterior del proyecto. Por lo que muestra, el nombre se cambió a **Olleando** (ver [nombres alternativos](./nombres-alternativos.md)).
+
 Consulta del 24/11/2026. Fuentes: registros RDAP de NIC Argentina, Verisign (.com) y Google Registry (.app); base pública de marcas del INPI; App Store de Argentina. Separo los datos (lo que dicen los registros) de la evaluación (mi lectura) y de lo que hace falta confirmar con un profesional.
 
 ## Resumen

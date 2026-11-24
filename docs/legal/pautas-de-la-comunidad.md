@@ -1,6 +1,6 @@
 # Pautas de la comunidad
 
-Bocado es para compartir recetas y ayudarnos a cocinar con lo que hay. Para que siga siendo útil:
+Olleando es para compartir recetas y ayudarnos a cocinar con lo que hay. Para que siga siendo útil:
 
 **Recetas**
 - Publicá recetas que hayas hecho o que tengas derecho a compartir. Si la sacaste de un libro, revista o sitio, poné la fuente.

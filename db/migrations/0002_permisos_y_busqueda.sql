@@ -1,4 +1,4 @@
--- Bocado · permisos por fila, límites diarios y búsqueda por despensa
+-- Olleando · permisos por fila, límites diarios y búsqueda por despensa
 
 create or replace function public.usuario_activo() returns boolean
 language sql stable security definer set search_path = public

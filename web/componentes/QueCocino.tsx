@@ -3,10 +3,12 @@
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState, useTransition } from "react";
 import { buscarConDespensa, guardarDespensa } from "@/app/acciones";
+import Cargando from "@/componentes/Cargando";
+import { FRASES_BUSQUEDA } from "@/lib/frases";
 import { minutosTexto, normalizar } from "@/lib/texto";
 import type { Coincidencia, Ingrediente } from "@/lib/tipos";
 
-const CLAVE_LOCAL = "bocado.despensa";
+const CLAVE_LOCAL = "olleando.despensa";
 const RAPIDOS = ["huevo", "papa", "cebolla", "tomate", "pollo", "queso rallado", "arroz", "zanahoria", "harina", "leche"];
 
 type Props = {
@@ -240,7 +242,9 @@ export default function QueCocino({ ingredientes, categorias, inicial, demo, con
         )}
       </section>
 
-      {resultados && (
+      {buscando && <Cargando frases={FRASES_BUSQUEDA} />}
+
+      {resultados && !buscando && (
         <section className="pila" aria-labelledby="titulo-resultados" aria-live="polite">
           <h2 id="titulo-resultados">
             {resultados.length

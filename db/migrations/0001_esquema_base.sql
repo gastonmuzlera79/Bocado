@@ -1,4 +1,4 @@
--- Bocado · esquema base
+-- Olleando · esquema base
 -- Compatible con Supabase: usa auth.users, auth.uid() y los roles anon / authenticated / service_role.
 
 create schema if not exists extensions;

@@ -1,4 +1,4 @@
-# Lista de cumplimiento antes de abrir Bocado
+# Lista de cumplimiento antes de abrir Olleando
 
 Lo que hay que tener resuelto, con la norma que lo pide. Verificado en fuentes oficiales el 24/11/2026, salvo donde se indica.
 
@@ -35,7 +35,7 @@ Lo que hay que tener resuelto, con la norma que lo pide. Verificado en fuentes o
   - Base: Disposición 954/2025, art. 6.
 - [ ] **Sin cláusulas abusivas**: nada que limite la responsabilidad por daños o restrinja derechos del consumidor.
   - Base: Ley 24.240, art. 37.
-- [ ] **Mercado Pago**: suscripciones (preapproval) en modo prueba primero; la baja en Bocado tiene que cancelar la suscripción en Mercado Pago en el mismo momento.
+- [ ] **Mercado Pago**: suscripciones (preapproval) en modo prueba primero; la baja en Olleando tiene que cancelar la suscripción en Mercado Pago en el mismo momento.
 
 ## Contenido
 

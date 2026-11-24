@@ -1,8 +1,8 @@
-# Bocado
+# Olleando
 
 App de recetas que parte de lo que tenés en casa: cargás tu despensa y te muestra qué podés cocinar, qué te falta y con qué reemplazarlo. Los usuarios suman recetas propias o traídas de PDFs, fotos, páginas y videos.
 
-La documentación del proyecto (README general, plan de lanzamiento y flujograma) está en la carpeta `BOCADO APP/00_Docs` del Google Drive del proyecto.
+La documentación del proyecto (README general, plan de lanzamiento y flujograma) está en la carpeta `00_Docs` del Google Drive del proyecto.
 
 ## Estructura
 

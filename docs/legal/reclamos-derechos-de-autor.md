@@ -2,7 +2,7 @@
 
 > **Borrador para revisión profesional.** Los datos entre llaves (`{{…}}`) se completan cuando estén definidos. Las notas ✎ son para el titular y se borran antes de publicar.
 
-Bocado respeta los derechos de autores y editoriales (Ley 11.723 de Propiedad Intelectual). Si sos titular de derechos sobre una obra, o la representás, y creés que algo publicado en Bocado los afecta, este es el procedimiento.
+Olleando respeta los derechos de autores y editoriales (Ley 11.723 de Propiedad Intelectual). Si sos titular de derechos sobre una obra, o la representás, y creés que algo publicado en Olleando los afecta, este es el procedimiento.
 
 ## Qué cubre
 
@@ -17,7 +17,7 @@ Escribí a {{MAIL_DERECHOS}} con el asunto "Reclamo de derechos de autor" e incl
 
 1. Tu nombre completo, documento o CUIT y un medio de contacto. Si actuás en representación de otra persona o de una empresa, acreditá esa representación.
 2. La obra sobre la que tenés derechos (título, autor, editorial, año; o el enlace si es una publicación en línea).
-3. El enlace a cada receta o contenido de Bocado que reclamás.
+3. El enlace a cada receta o contenido de Olleando que reclamás.
 4. Una explicación breve de por qué afecta tus derechos.
 5. Una declaración de que la información es verdadera y de que sos el titular de los derechos o estás autorizado a actuar por él.
 

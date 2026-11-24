@@ -2,12 +2,14 @@ import type { Metadata, Viewport } from "next";
 import Link from "next/link";
 import { salir } from "@/app/acciones";
 import { modoDemo } from "@/lib/config";
+import { LEMA } from "@/lib/frases";
 import { esEquipo, sesionActual } from "@/lib/sesion";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: { default: "Bocado", template: "%s · Bocado" },
-  description: "Recetas a partir de lo que tenés en tu cocina.",
+  title: { default: "Olleando", template: "%s · Olleando" },
+  description: "Olleando, rascando la olla: recetas a partir de lo que tenés en tu cocina.",
+  applicationName: "Olleando",
 };
 
 export const viewport: Viewport = { width: "device-width", initialScale: 1, viewportFit: "cover" };
@@ -19,8 +21,9 @@ export default async function Plantilla({ children }: { children: React.ReactNod
       <body>
         <header className="encabezado">
           <div className="contenedor">
-            <Link href="/" className="marca">
-              Bo<span>cado</span>
+            <Link href="/" className="marca" aria-label="Olleando, inicio">
+              Olle<span>ando</span>
+              <small className="lema">{LEMA}</small>
             </Link>
             <nav className="nav" aria-label="Principal">
               <Link href="/">¿Qué cocino?</Link>
@@ -47,7 +50,7 @@ export default async function Plantilla({ children }: { children: React.ReactNod
         <main className="contenedor">{children}</main>
         <footer className="pie">
           <div className="contenedor">
-            Bocado · Las recetas de recetarios se publican reescritas y con su fuente.
+            Olleando · {LEMA}. Las recetas de recetarios se publican reescritas y con su fuente.
           </div>
         </footer>
       </body>
