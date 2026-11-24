@@ -8,6 +8,8 @@ export const TIPOS_PLATO = [
   "hamburguesa",
   "empanadas",
   "pastas",
+  "sopas",
+  "arroz",
   "pollo",
   "pescado",
   "carne",
@@ -30,6 +32,8 @@ export const NOMBRE_TIPO: Record<TipoPlato, string> = {
   hamburguesa: "Hamburguesas y sándwiches",
   empanadas: "Empanadas y tartas",
   pastas: "Pastas",
+  sopas: "Sopas y guisos",
+  arroz: "Arroz",
   pollo: "Pollo",
   pescado: "Pescados y mariscos",
   carne: "Carnes",
@@ -59,6 +63,8 @@ const REGLAS: [TipoPlato, RegExp][] = [
   ["tortas", new RegExp(`(?<![\\p{L}])tart(?:as?|itas?) .*(?:${DULCE})`, "u")],
   ["empanadas", palabras("empanad(?:as?|itas?) (?:de|criollas?|salte[nñ]as?|tucumanas?|caseras?|al|fritas?|arabes|árabes)", "^empanad(?:as|itas)", "tartas?", "tartitas?", "pascualinas?", "quiches?", "quichecitas?", "canastitas?", "pastel(?:es|itos?)? de (?:papa|carne|choclo)")],
   ["pastas", palabras("fideos", "ravioles", "raviolones", "capeletis", "lasa[nñ]as?", "[nñ]oquis", "canelones", "sorrentinos", "tallarines", "macarrones", "spaghetti", "tirabuzones", "mo[nñ]os")],
+  ["sopas", new RegExp(`(?<![\\p{L}])(?:sopas?|caldos?|vel[oó]ut[eé]s?|guisos?|guisito|locros?|cazuelas?|minestrone|puchero|estofados?|carbonada|crema de (?:${VERDURA}|verduras|choclo|arvejas|puerros?|tomate|papa))(?![\\p{L}])`, "u")],
+  ["arroz", /^(?:arroz(?! con leche| de coliflor)|risotto|paella)|(?<![\p{L}])(?:risottos?|paellas?)(?![\p{L}])/u],
   ["pollo", palabras("pollo", "alitas?", "supremas?", "pechugas?", "patitas? de pollo", "muslos?", "pavo")],
   ["pescado", palabras("salm[oó]n", "at[uú]n", "pescados?", "merluza", "trucha", "camarones", "langostinos?", "calamar(?:es)?", "rabas", "mariscos", "abadejo", "bacalao", "sardinas?", "cangrejo", "mejillones", "pejerrey")],
   ["huevos", palabras("huevos?", "omelett?es?", "frittatas?", "frittatitas?", "tortillas? (?!de ma[ií]z|de trigo|mexicanas?)", "tortilla$", "revueltos?", "shakshuka")],
@@ -71,7 +77,7 @@ const REGLAS: [TipoPlato, RegExp][] = [
   ["frutas", palabras("manzanas?", "peras?", "bananas?", "frutillas?", "anan[aá]", "duraznos?", "frutas?", "crumble", "parfait", "ciruelas?", "higos?", "mango")],
   ["papas", palabras("papas?", "batatas?", "pur[eé]", "r[oö]sti")],
   ["snacks", palabras("pochoclos?", "bocad(?:os|itos)", "croquetas?", "bastones", "bastoncitos", "dips?", "aros de cebolla", "garbanzos", "nachos", "chips", "crocantes?", "palitos", "snacks?", "teque[nñ]os", "bu[nñ]uelos", "bolitas", "nuggets?", "provoletas?", "totopos")],
-  ["verduras", palabras("verduras?", "ensaladas?", "zapallitos?", "zucchinis?", "berenjenas?", "coliflor", "br[oó]coli", "calabaza", "zapallo", "choclos?", "esp[aá]rragos", "champi[nñ]ones", "portobellos?", "tofu", "lentejas", "sopas?", "arroz", "morrones?", "tomates?", "espinaca", "repollitos", "hongos", "zanahorias?", "vegetales", "chauchas", "polenta", "cebollas?", "paltas?", "avena", "porotos")],
+  ["verduras", palabras("verduras?", "ensaladas?", "zapallitos?", "zucchinis?", "berenjenas?", "coliflor", "br[oó]coli", "calabaza", "zapallo", "choclos?", "esp[aá]rragos", "champi[nñ]ones", "portobellos?", "tofu", "lentejas", "morrones?", "tomates?", "espinaca", "repollitos", "hongos", "zanahorias?", "vegetales", "chauchas", "polenta", "cebollas?", "paltas?", "avena", "porotos")],
 ];
 
 const POR_CATEGORIA: Record<string, TipoPlato> = {

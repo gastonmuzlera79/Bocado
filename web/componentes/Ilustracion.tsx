@@ -11,6 +11,8 @@ const FONDO: Record<TipoPlato, string> = {
   hamburguesa: "#fde8d6",
   empanadas: "#f8e9d3",
   pastas: "#fdf1cf",
+  sopas: "#fbe4d2",
+  arroz: "#e0eeee",
   pollo: "#fdeccd",
   pescado: "#dcebf4",
   carne: "#f9e0d6",
@@ -171,6 +173,52 @@ const DIBUJO: Record<TipoPlato, React.ReactNode> = {
       <circle cx="74" cy="72" r="2.5" fill="#f08a7e" />
       {hoja(84, 66, -20, "#3f8a37")}
       {hoja(88, 70, 40, "#57a345")}
+    </g>
+  ),
+  sopas: (
+    <g>
+      <ellipse cx="80" cy="100" rx="46" ry="8" fill="#000" opacity=".07" />
+      <g fill="none" stroke="#d29a7a" strokeWidth="3" strokeLinecap="round" opacity=".8">
+        <path d="M64 50c-6-6 6-10 0-18" />
+        <path d="M80 46c-6-6 6-10 0-18" />
+        <path d="M96 50c-6-6 6-10 0-18" />
+      </g>
+      <path d="M38 64h84c0 22-18 34-42 34S38 86 38 64z" fill="#d8693a" />
+      <path d="M46 74c4 12 16 18 30 19" fill="none" stroke="#e8875a" strokeWidth="3" strokeLinecap="round" />
+      <ellipse cx="80" cy="64" rx="42" ry="9" fill="#c55a2e" />
+      <ellipse cx="80" cy="64" rx="37" ry="7" fill="#f2b544" />
+      <ellipse cx="72" cy="63" rx="12" ry="2.5" fill="#f7cd6f" />
+      <g fill="#3f8a37">
+        <circle cx="62" cy="65" r="1.8" />
+        <circle cx="90" cy="62" r="1.8" />
+        <circle cx="98" cy="66" r="1.6" />
+        <circle cx="78" cy="67" r="1.6" />
+      </g>
+      <path d="M100 63l26-26" stroke="#b9b2a5" strokeWidth="5" strokeLinecap="round" />
+      <ellipse cx="98" cy="64" rx="8" ry="3.5" fill="#cfc8bb" />
+    </g>
+  ),
+  arroz: (
+    <g>
+      {plato}
+      <path d="M44 90c0-22 16-34 36-34s36 12 36 34c-20 6-52 6-72 0z" fill="#fbf8ef" stroke="#e6dcc5" strokeWidth="2" />
+      <g fill="#e9dfc6">
+        {[[60, 72, -30], [72, 64, 20], [88, 66, -10], [98, 76, 30], [70, 82, 10], [84, 78, -40], [56, 84, 40], [94, 86, -20], [78, 70, 60], [104, 84, 0]].map(([x, y, r]) => (
+          <ellipse key={`${x}-${y}`} cx={x} cy={y} rx="3.2" ry="1.4" transform={`rotate(${r} ${x} ${y})`} />
+        ))}
+      </g>
+      <g fill="#5aa847">
+        <circle cx="66" cy="76" r="3" />
+        <circle cx="90" cy="72" r="3" />
+        <circle cx="80" cy="84" r="3" />
+        <circle cx="100" cy="80" r="2.6" />
+      </g>
+      <g fill="#f08a24">
+        <rect x="74" y="74" width="5" height="5" rx="1" />
+        <rect x="58" y="80" width="5" height="5" rx="1" />
+        <rect x="92" y="80" width="5" height="5" rx="1" />
+        <rect x="84" y="64" width="4.5" height="4.5" rx="1" />
+      </g>
     </g>
   ),
   hamburguesa: (
