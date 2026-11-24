@@ -51,7 +51,7 @@ export default async function FichaReceta({ params }: { params: Params }) {
         </p>
         <figure className="ficha-img">
           <Ilustracion tipo={tipoPlato(r)} />
-          <figcaption>Ilustración de referencia: {NOMBRE_TIPO[tipoPlato(r)].toLowerCase()}</figcaption>
+          <figcaption>Imagen ilustrativa ({NOMBRE_TIPO[tipoPlato(r)].toLowerCase()}), no es una foto de esta receta</figcaption>
         </figure>
       </header>
 

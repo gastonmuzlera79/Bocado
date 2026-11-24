@@ -23,12 +23,16 @@ export default async function Inicio() {
   ]);
   return (
     <div className="pila-grande">
-      <section className="pila" style={{ gap: 8 }}>
-        <h1>¿Qué cocino con lo que tengo?</h1>
-        <p className="apagado" style={{ maxWidth: "60ch" }}>
-          Anotá lo que hay en tu heladera y en la alacena. Te mostramos las recetas que podés hacer, ordenadas por lo
-          que ya tenés, y qué te falta para cada una.
-        </p>
+      <section className="portada">
+        <div className="pila" style={{ gap: 10 }}>
+          <h1>¿Qué cocino con lo que tengo?</h1>
+          <p className="apagado" style={{ maxWidth: "52ch" }}>
+            Anotá lo que hay en tu heladera y en la alacena. Te mostramos las recetas que podés hacer, ordenadas por lo
+            que ya tenés, y qué te falta para cada una.
+          </p>
+        </div>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src="/platos/general.webp" alt="" width={960} height={640} fetchPriority="high" />
       </section>
       <QueCocino
         ingredientes={ingredientes}

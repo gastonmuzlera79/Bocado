@@ -1,4 +1,9 @@
-"""Genera el logo de Olleando en SVG, con el texto convertido a trazos."""
+"""Genera los archivos del logo de Olleando en SVG, con el texto convertido a trazos.
+
+Uso: python3 generar.py <carpeta de salida>
+Necesita fonttools y brotli, y en fuentes/ junto al script:
+Fraunces_opsz_wght_72_700.woff2 e Inter_wght_600.woff2 (Google Fonts, licencia OFL).
+"""
 import sys
 from pathlib import Path
 from fontTools.ttLib import TTFont
@@ -6,105 +11,69 @@ from fontTools.pens.svgPathPen import SVGPathPen
 from fontTools.pens.transformPen import TransformPen
 
 AQUI = Path(__file__).parent
-SALIDA = Path(sys.argv[1])
-SALIDA.mkdir(parents=True, exist_ok=True)
+SAL = Path(sys.argv[1])
+SAL.mkdir(parents=True, exist_ok=True)
 
-VERDE = "#0d631b"
-VERDE_CLARO = "#a3f69c"
-NARANJA = "#fc820c"
-TINTA_OSCURA = "#f3f6ef"
+VERDE, VERDE_CLARO, NARANJA, NARANJA_TEXTO = "#0d631b", "#a3f69c", "#fc820c", "#b85a08"
+OSCURO, TINTA_CLARA = "#131712", "#f3f6ef"
+TITULO, LEMA = "Fraunces_opsz_wght_72_700.woff2", "Inter_wght_600.woff2"
 
 
 def texto(fuente, cadena, tam, x, y, espaciado=0.0):
-    """Devuelve (path d, ancho) del texto en coordenadas SVG, con la línea de base en y."""
     f = TTFont(AQUI / "fuentes" / fuente)
-    glyphs = f.getGlyphSet()
-    cmap = f.getBestCmap()
-    hmtx = f["hmtx"]
-    escala = tam / f["head"].unitsPerEm
-    pen = SVGPathPen(glyphs)
-    cursor = 0.0
+    g, cmap, esc = f.getGlyphSet(), f.getBestCmap(), tam / f["head"].unitsPerEm
+    pen, cur = SVGPathPen(g), 0.0
     for ch in cadena:
-        nombre = cmap[ord(ch)]
-        tp = TransformPen(pen, (escala, 0, 0, -escala, x + cursor, y))
-        glyphs[nombre].draw(tp)
-        cursor += hmtx[nombre][0] * escala + espaciado
-    return pen.getCommands(), cursor - espaciado
+        n = cmap[ord(ch)]
+        g[n].draw(TransformPen(pen, (esc, 0, 0, -esc, x + cur, y)))
+        cur += f["hmtx"][n][0] * esc + espaciado
+    return pen.getCommands(), cur - espaciado
 
 
-def ancho(fuente, cadena, tam, espaciado=0.0):
-    return texto(fuente, cadena, tam, 0, 0, espaciado)[1]
+def simbolo(linea, cuchara=NARANJA):
+    return (f'<g fill="none" stroke-linecap="round" stroke-linejoin="round">'
+            f'<path d="M44 8 L33 27" stroke="{cuchara}" stroke-width="5"/>'
+            f'<path d="M22 19c-3-3 3-5 0-9" stroke="{linea}" stroke-width="3.5" opacity=".5"/>'
+            f'<path d="M6 28 H58 M11 28 V41 a13 13 0 0 0 13 13 H40 a13 13 0 0 0 13 -13 V28 M3 34 H9 M55 34 H61" '
+            f'stroke="{linea}" stroke-width="5"/></g>')
 
 
-def olla(cuerpo, cuchara, burbujas, brillo):
-    """Isotipo en una caja de 120 x 120: olla con cuchara de madera y burbujas."""
-    return f"""
-  <g stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="44" cy="34" r="6" fill="{burbujas}"/>
-    <circle cx="58" cy="24" r="4.2" fill="{burbujas}"/>
-    <circle cx="47" cy="14" r="2.8" fill="{burbujas}"/>
-    <path d="M101 9 L70 47" stroke="{cuchara}" stroke-width="8" fill="none"/>
-    <rect x="6" y="60" width="14" height="8" rx="4" fill="{cuerpo}"/>
-    <rect x="100" y="60" width="14" height="8" rx="4" fill="{cuerpo}"/>
-    <path d="M18 54 H102 V80 A24 24 0 0 1 78 104 H42 A24 24 0 0 1 18 80 Z" fill="{cuerpo}"/>
-    <rect x="12" y="45" width="96" height="11" rx="5.5" fill="{cuerpo}"/>
-    <path d="M30 70 V80 A12 12 0 0 0 42 92" stroke="{brillo}" stroke-width="5" fill="none"/>
-  </g>"""
+def svg(w, h, cuerpo, fondo=None):
+    f = f'<rect width="{w}" height="{h}" fill="{fondo}"/>' if fondo else ""
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="{w}" height="{h}" role="img" '
+            f'aria-label="Olleando"><title>Olleando</title>{f}{cuerpo}</svg>\n')
 
 
-def svg(ancho_px, alto_px, contenido, fondo=None, titulo="Olleando"):
-    rect = f'<rect width="{ancho_px}" height="{alto_px}" fill="{fondo}"/>' if fondo else ""
-    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {ancho_px} {alto_px}" '
-            f'width="{ancho_px}" height="{alto_px}" role="img" aria-label="{titulo}">'
-            f"<title>{titulo}</title>{rect}{contenido}\n</svg>\n")
+def guardar(n, c):
+    (SAL / n).write_text(c, encoding="utf-8")
 
 
-def guardar(nombre, contenido):
-    (SALIDA / nombre).write_text(contenido, encoding="utf-8")
-
-
-# Isotipo solo
-iso = olla(VERDE, NARANJA, NARANJA, VERDE_CLARO)
-guardar("olleando-isotipo.svg", svg(120, 120, iso))
-guardar("olleando-isotipo-oscuro.svg",
-        svg(120, 120, olla(VERDE_CLARO, NARANJA, NARANJA, VERDE), fondo="#131712"))
-
-# Ícono de app: fondo verde redondeado
-icono = (f'<rect width="120" height="120" rx="28" fill="{VERDE}"/>'
-         f'<g transform="translate(9 11) scale(0.85)">{olla("#ffffff", NARANJA, NARANJA, VERDE)}</g>')
-guardar("olleando-icono.svg", svg(120, 120, icono))
-
-
-def horizontal(c_texto, c_lema, oscuro=False):
-    tam, lema_tam = 64, 19
-    x_texto = 136
-    d_nombre, w_nombre = texto("fredoka.woff2", "Olleando", tam, x_texto, 72)
-    w_lema = ancho("nunito.woff2", "RASCANDO LA OLLA", lema_tam, 2.6)
-    d_lema, _ = texto("nunito.woff2", "RASCANDO LA OLLA", lema_tam, x_texto + 3, 102, 2.6)
-    w = int(x_texto + max(w_nombre, w_lema) + 12)
-    cuerpo = VERDE_CLARO if oscuro else VERDE
-    brillo = VERDE if oscuro else VERDE_CLARO
-    contenido = (f'<g transform="translate(0 0)">{olla(cuerpo, NARANJA, NARANJA, brillo)}</g>'
-                 f'<path d="{d_nombre}" fill="{c_texto}"/><path d="{d_lema}" fill="{c_lema}"/>')
-    return svg(w, 120, contenido, fondo="#131712" if oscuro else None)
-
-
-guardar("olleando-logo-horizontal.svg", horizontal(VERDE, NARANJA))
-guardar("olleando-logo-horizontal-oscuro.svg", horizontal(TINTA_OSCURA, NARANJA, oscuro=True))
+def horizontal(oscuro=False):
+    tinta, lema = (TINTA_CLARA, NARANJA) if oscuro else (VERDE, NARANJA_TEXTO)
+    d, w = texto(TITULO, "Olleando", 66, 150, 92)
+    d2, w2 = texto(LEMA, "RASCANDO LA OLLA", 14.5, 153, 122, 3.2)
+    ancho = int(150 + max(w, w2) + 40)
+    cuerpo = (f'<g transform="translate(40 28) scale(1.45)">{simbolo(VERDE_CLARO if oscuro else VERDE)}</g>'
+              f'<path d="{d}" fill="{tinta}"/><path d="{d2}" fill="{lema}"/>')
+    return svg(ancho, 160, cuerpo, OSCURO if oscuro else None)
 
 
 def vertical():
-    tam, lema_tam = 72, 20
-    w_nombre = ancho("fredoka.woff2", "Olleando", tam)
-    w_lema = ancho("nunito.woff2", "RASCANDO LA OLLA", lema_tam, 3)
-    w = int(max(w_nombre, w_lema) + 40)
-    d_nombre, _ = texto("fredoka.woff2", "Olleando", tam, (w - w_nombre) / 2, 222)
-    d_lema, _ = texto("nunito.woff2", "RASCANDO LA OLLA", lema_tam, (w - w_lema) / 2, 260, 3)
-    contenido = (f'<g transform="translate({(w - 150) / 2} 10) scale(1.25)">'
-                 f'{olla(VERDE, NARANJA, NARANJA, VERDE_CLARO)}</g>'
-                 f'<path d="{d_nombre}" fill="{VERDE}"/><path d="{d_lema}" fill="{NARANJA}"/>')
-    return svg(w, 280, contenido)
+    _, w = texto(TITULO, "Olleando", 76, 0, 0)
+    _, w2 = texto(LEMA, "RASCANDO LA OLLA", 16, 0, 0, 3.6)
+    ancho = int(max(w, w2) + 80)
+    d, _ = texto(TITULO, "Olleando", 76, (ancho - w) / 2, 232)
+    d2, _ = texto(LEMA, "RASCANDO LA OLLA", 16, (ancho - w2) / 2, 270, 3.6)
+    cuerpo = (f'<g transform="translate({ancho / 2 - 64} 20) scale(2)">{simbolo(VERDE)}</g>'
+              f'<path d="{d}" fill="{VERDE}"/><path d="{d2}" fill="{NARANJA_TEXTO}"/>')
+    return svg(ancho, 300, cuerpo)
 
 
+guardar("olleando-logo-horizontal.svg", horizontal())
+guardar("olleando-logo-horizontal-oscuro.svg", horizontal(oscuro=True))
 guardar("olleando-logo-vertical.svg", vertical())
-print("listo:", sorted(p.name for p in SALIDA.iterdir()))
+guardar("olleando-isotipo.svg", svg(64, 64, simbolo(VERDE)))
+guardar("olleando-isotipo-oscuro.svg", svg(64, 64, simbolo(VERDE_CLARO), OSCURO))
+guardar("olleando-icono.svg", svg(64, 64, f'<rect width="64" height="64" rx="14" fill="{VERDE}"/>'
+                                    f'<g transform="translate(9 8) scale(.72)">{simbolo("#ffffff")}</g>'))
+print("listo:", sorted(p.name for p in SAL.glob("*.svg")))

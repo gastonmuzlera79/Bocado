@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { Fraunces, Inter } from "next/font/google";
 import Link from "next/link";
 import { salir } from "@/app/acciones";
 import { modoDemo } from "@/lib/config";
@@ -6,6 +7,9 @@ import Isotipo from "@/componentes/Isotipo";
 import { LEMA } from "@/lib/frases";
 import { esEquipo, sesionActual } from "@/lib/sesion";
 import "./globals.css";
+
+const titulos = Fraunces({ subsets: ["latin"], weight: ["600", "700"], variable: "--fuente-titulos", display: "swap" });
+const texto = Inter({ subsets: ["latin"], variable: "--fuente-texto", display: "swap" });
 
 export const metadata: Metadata = {
   title: { default: "Olleando", template: "%s · Olleando" },
@@ -18,7 +22,7 @@ export const viewport: Viewport = { width: "device-width", initialScale: 1, view
 export default async function Plantilla({ children }: { children: React.ReactNode }) {
   const sesion = await sesionActual();
   return (
-    <html lang="es-AR">
+    <html lang="es-AR" className={`${titulos.variable} ${texto.variable}`}>
       <body>
         <header className="encabezado">
           <div className="contenedor">
