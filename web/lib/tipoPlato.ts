@@ -7,6 +7,7 @@ export const TIPOS_PLATO = [
   "pizza",
   "hamburguesa",
   "empanadas",
+  "tartas",
   "pastas",
   "sopas",
   "arroz",
@@ -34,7 +35,8 @@ export type TipoPlato = (typeof TIPOS_PLATO)[number];
 export const NOMBRE_TIPO: Record<TipoPlato, string> = {
   pizza: "Pizza",
   hamburguesa: "Hamburguesas y sándwiches",
-  empanadas: "Empanadas y tartas",
+  empanadas: "Empanadas",
+  tartas: "Tartas",
   pastas: "Pastas",
   sopas: "Sopas y guisos",
   arroz: "Arroz",
@@ -63,13 +65,12 @@ function palabras(...alternativas: string[]) {
 }
 
 const VERDURA = "berenjenas?|zucchinis?|lentejas|garbanzos?|calabaza|espinaca|br[oó]coli|soja|quinoa|coliflor|zapallo|porotos|acelga|arvejas|choclo|hongos";
-const DULCE = "peras?|manzanas?|frutillas?|lim[oó]n|coco|mandarina|naranja|miel|almendras?|dulce de leche|chocolate|frutos|frutas|durazno|ricota y miel|crema|cacao|banana|lima|brownie|nueces";
 
 const REGLAS: [TipoPlato, RegExp][] = [
   ["pizza", palabras("pizzas?", "pizzetas?", "pizzitas?", "a la pizza", "calzones?", "fugazzas?", "fugazzetas?")],
   ["hamburguesa", palabras("hamburguesas?", "s[aá]ndwich(?:es)?", "sanguches?", "tostados?", "tacos?", "wraps?", "burritos?", "quesadillas?", "lomitos?", "arrolladitos?", "choripanes?", "shawarma", "chimichangas?", "panchos?")],
-  ["tortas", new RegExp(`(?<![\\p{L}])tart(?:as?|itas?) .*(?:${DULCE})`, "u")],
-  ["empanadas", palabras("empanad(?:as?|itas?) (?:de|criollas?|salte[nñ]as?|tucumanas?|caseras?|al|fritas?|arabes|árabes)", "^empanad(?:as|itas)", "tartas?", "tartitas?", "pascualinas?", "quiches?", "quichecitas?", "canastitas?", "pastel(?:es|itos?)? de (?:papa|carne|choclo)")],
+  ["tartas", palabras("tart(?:as?|itas?)", "pascualinas?", "quiches?", "quichecitas?", "canastitas?", "pastel(?:es)? de (?:papa|carne|choclo|verduras)")],
+  ["empanadas", palabras("empanad(?:as?|itas?) (?:de|criollas?|salte[nñ]as?|tucumanas?|caseras?|al|fritas?|arabes|árabes)", "^empanad(?:as|itas)")],
   ["pastas", palabras("fideos", "ravioles", "raviolones", "capeletis", "lasa[nñ]as?", "[nñ]oquis", "canelones", "sorrentinos", "tallarines", "macarrones", "spaghetti", "tirabuzones", "mo[nñ]os")],
   ["sopas", new RegExp(`(?<![\\p{L}])(?:sopas?|caldos?|vel[oó]ut[eé]s?|guisos?|guisito|locros?|cazuelas?|minestrone|puchero|estofados?|carbonada|crema de (?:${VERDURA}|verduras|choclo|arvejas|puerros?|tomate|papa))(?![\\p{L}])`, "u")],
   ["arroz", /^(?:arroz(?! con leche| de coliflor)|risotto|paella)|(?<![\p{L}])(?:risottos?|paellas?)(?![\p{L}])/u],

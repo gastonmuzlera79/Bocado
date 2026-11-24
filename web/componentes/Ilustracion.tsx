@@ -10,6 +10,7 @@ const FONDO: Record<TipoPlato, string> = {
   pizza: "#fde3cf",
   hamburguesa: "#fde8d6",
   empanadas: "#f8e9d3",
+  tartas: "#f6efd8",
   pastas: "#fdf1cf",
   sopas: "#fbe4d2",
   arroz: "#e0eeee",
@@ -162,6 +163,24 @@ const DIBUJO: Record<TipoPlato, React.ReactNode> = {
       <path d="M30 90a32 28 0 0 1 64 0z" fill="#e6ab58" />
       <path d="M33 88a30 25 0 0 1 58 0" fill="none" stroke="#c98a3e" strokeWidth="5" strokeDasharray="4 5" strokeLinecap="round" />
       <ellipse cx="56" cy="74" rx="12" ry="5" fill="#f1c27e" />
+    </g>
+  ),
+  tartas: (
+    <g>
+      {plato}
+      <path d="M32 78c0 4 0 8 2 10 6 6 20 9 34 9s28-3 34-9c2-2 2-6 2-10z" fill="#c98a3e" />
+      <ellipse cx="68" cy="78" rx="39" ry="17" fill="#d99a48" />
+      <g fill="#e3a957"><circle cx="104.0" cy="78.0" r="3.6" /><circle cx="102.5" cy="81.9" r="3.6" /><circle cx="98.3" cy="85.6" r="3.6" /><circle cx="91.6" cy="88.6" r="3.6" /><circle cx="83.0" cy="90.7" r="3.6" /><circle cx="73.1" cy="91.9" r="3.6" /><circle cx="62.9" cy="91.9" r="3.6" /><circle cx="53.0" cy="90.7" r="3.6" /><circle cx="44.4" cy="88.6" r="3.6" /><circle cx="37.7" cy="85.6" r="3.6" /><circle cx="33.5" cy="81.9" r="3.6" /><circle cx="32.0" cy="78.0" r="3.6" /><circle cx="33.5" cy="74.1" r="3.6" /><circle cx="37.7" cy="70.4" r="3.6" /><circle cx="44.4" cy="67.4" r="3.6" /><circle cx="53.0" cy="65.3" r="3.6" /><circle cx="62.9" cy="64.1" r="3.6" /><circle cx="73.1" cy="64.1" r="3.6" /><circle cx="83.0" cy="65.3" r="3.6" /><circle cx="91.6" cy="67.4" r="3.6" /><circle cx="98.3" cy="70.4" r="3.6" /><circle cx="102.5" cy="74.1" r="3.6" /></g>
+      <ellipse cx="68" cy="78" rx="33" ry="11" fill="#f3d27a" />
+      <g fill="#e6b24e">
+        <ellipse cx="58" cy="76" rx="6" ry="2.4" />
+        <ellipse cx="76" cy="73" rx="5" ry="2" />
+        <ellipse cx="70" cy="83" rx="5" ry="2" />
+      </g>
+      <path d="M106 80l24 4-12 9z" fill="#f3d27a" />
+      <path d="M106 80l24 4" stroke="#d99a48" strokeWidth="4" strokeLinecap="round" />
+      <path d="M118 93l12-9v6l-12 9z" fill="#c98a3e" />
+      <path d="M106 80l12 13v6l-12-13z" fill="#e0b062" />
     </g>
   ),
   pastas: (
