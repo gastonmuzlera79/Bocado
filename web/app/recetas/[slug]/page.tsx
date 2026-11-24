@@ -2,7 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { obtenerReceta } from "@/lib/datos";
+import Ilustracion from "@/componentes/Ilustracion";
 import { minutosTexto } from "@/lib/texto";
+import { NOMBRE_TIPO, tipoPlato } from "@/lib/tipoPlato";
 
 export const dynamic = "force-dynamic";
 
@@ -47,6 +49,10 @@ export default async function FichaReceta({ params }: { params: Params }) {
             <span key={String(d)}>{d}</span>
           ))}
         </p>
+        <figure className="ficha-img">
+          <Ilustracion tipo={tipoPlato(r)} />
+          <figcaption>Ilustración de referencia: {NOMBRE_TIPO[tipoPlato(r)].toLowerCase()}</figcaption>
+        </figure>
       </header>
 
       <div className="ficha">

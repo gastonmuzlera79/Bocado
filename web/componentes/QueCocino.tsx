@@ -3,6 +3,8 @@
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState, useTransition } from "react";
 import { buscarConDespensa, guardarDespensa } from "@/app/acciones";
+import Ilustracion from "@/componentes/Ilustracion";
+import { tipoPlato } from "@/lib/tipoPlato";
 import Cargando from "@/componentes/Cargando";
 import { FRASES_BUSQUEDA } from "@/lib/frases";
 import { minutosTexto, normalizar } from "@/lib/texto";
@@ -257,6 +259,7 @@ export default function QueCocino({ ingredientes, categorias, inicial, demo, con
           <div className="grilla">
             {resultados.map((r) => (
               <Link key={r.slug} href={`/recetas/${r.slug}`} className="tarjeta">
+                <Ilustracion tipo={tipoPlato(r)} className="tarjeta-img" />
                 {r.categoria && <span className="etiqueta">{r.categoria}</span>}
                 <h2>{r.titulo}</h2>
                 <div className="barra" aria-hidden="true">

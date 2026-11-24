@@ -166,6 +166,13 @@ label { font-weight: 600; font-size: 0.9rem; }
 }
 a.tarjeta:hover { border-color: var(--accent); }
 .tarjeta h2 { font-size: 1.05rem; }
+.tarjeta { overflow: hidden; }
+.tarjeta-img { display: block; width: calc(100% + 32px); height: 132px; margin: -16px -16px 4px; }
+.ficha-img { margin: 4px 0 0; max-width: 360px; }
+.ficha-img .ilustracion { display: block; width: 100%; aspect-ratio: 16 / 9; border-radius: var(--radio); }
+.ficha-img figcaption { margin-top: 6px; font-size: 0.8rem; color: var(--muted); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .ilustracion { filter: brightness(0.88) saturate(0.9); } }
+:root[data-theme="dark"] .ilustracion { filter: brightness(0.88) saturate(0.9); }
 .etiqueta { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); }
 .meta { display: flex; flex-wrap: wrap; gap: 4px 12px; color: var(--muted); font-size: 0.875rem; }
 .barra { height: 6px; border-radius: 999px; background: var(--line); overflow: hidden; }
