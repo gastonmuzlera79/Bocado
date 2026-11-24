@@ -1,6 +1,9 @@
 /* Olleando: fondo claro apenas verdoso, verde de hierbas como acento y pimentón para lo que falta. */
 :root {
   --bg: #f6f7f2;
+  --marca-olla: #0d631b;
+  --marca-brillo: #a3f69c;
+  --marca-naranja: #fc820c;
   --surface: #ffffff;
   --fg: #1c221b;
   --muted: #5a6555;
@@ -18,6 +21,8 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #131712;
+    --marca-olla: #a3f69c;
+    --marca-brillo: #0d631b;
     --surface: #1b2019;
     --fg: #e6eae0;
     --muted: #a1ab99;
@@ -33,6 +38,8 @@
 }
 :root[data-theme="dark"] {
   --bg: #131712;
+  --marca-olla: #a3f69c;
+  --marca-brillo: #0d631b;
   --surface: #1b2019;
   --fg: #e6eae0;
   --muted: #a1ab99;
@@ -73,9 +80,12 @@ p { margin: 0; }
 /* Encabezado */
 .encabezado { border-bottom: 1px solid var(--line); background: var(--surface); }
 .encabezado .contenedor { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 24px; padding-block: 12px; }
-.marca { font-weight: 800; font-size: 1.3rem; color: var(--fg); text-decoration: none; letter-spacing: -0.02em; }
-.marca span { color: var(--accent); }
-.marca { display: inline-flex; align-items: baseline; gap: 0; }
+.marca { display: inline-flex; align-items: center; gap: 8px; font-weight: 800; font-size: 1.3rem; color: var(--marca-olla); text-decoration: none; letter-spacing: -0.01em; }
+.isotipo { flex: none; }
+.iso-olla { fill: var(--marca-olla); }
+.iso-brillo { stroke: var(--marca-brillo); }
+.iso-acento { fill: var(--marca-naranja); }
+.iso-cuchara { stroke: var(--marca-naranja); }
 .lema { margin-left: 10px; font-size: 0.8rem; font-weight: 500; color: var(--muted); letter-spacing: 0.02em; }
 @media (max-width: 480px) { .lema { display: none; } }
 

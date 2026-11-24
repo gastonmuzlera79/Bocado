@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import Link from "next/link";
 import { salir } from "@/app/acciones";
 import { modoDemo } from "@/lib/config";
+import Isotipo from "@/componentes/Isotipo";
 import { LEMA } from "@/lib/frases";
 import { esEquipo, sesionActual } from "@/lib/sesion";
 import "./globals.css";
@@ -22,7 +23,8 @@ export default async function Plantilla({ children }: { children: React.ReactNod
         <header className="encabezado">
           <div className="contenedor">
             <Link href="/" className="marca" aria-label="Olleando, inicio">
-              Olle<span>ando</span>
+              <Isotipo />
+              Olleando
               <small className="lema">{LEMA}</small>
             </Link>
             <nav className="nav" aria-label="Principal">
