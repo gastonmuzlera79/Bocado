@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import TarjetaReceta from "@/componentes/TarjetaReceta";
 import { buscarRecetas, categorias } from "@/lib/datos";
-import { POR_PAGINA } from "@/lib/texto";
+import { POR_PAGINA, slugCategoria } from "@/lib/texto";
 
 export const metadata: Metadata = { title: "Recetas" };
 export const dynamic = "force-dynamic";
@@ -40,11 +40,15 @@ export default async function Recetas({ searchParams }: { searchParams: Params }
         </form>
         <nav className="categorias" aria-label="Categorías">
           <Link href={enlace(q, null)} aria-current={!cat}>
-            Todas
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/platos/general.webp" alt="" width={720} height={480} loading="lazy" />
+            <span>Todas</span>
           </Link>
           {cats.map((c) => (
             <Link key={c} href={enlace(q, c)} aria-current={cat === c}>
-              {c}
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={`/categorias/${slugCategoria(c)}.webp`} alt="" width={720} height={480} loading="lazy" />
+              <span>{c}</span>
             </Link>
           ))}
         </nav>

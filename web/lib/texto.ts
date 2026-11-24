@@ -14,3 +14,13 @@ export function minutosTexto(m: number | null): string | null {
 }
 
 export const POR_PAGINA = 24;
+
+/** Nombre de archivo de la foto de una categoría: "Panes, pizzas y masas" → "panes-pizzas-y-masas". */
+export function slugCategoria(c: string) {
+  return c
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
