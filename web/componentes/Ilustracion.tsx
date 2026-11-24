@@ -15,6 +15,7 @@ const FONDO: Record<TipoPlato, string> = {
   arroz: "#e0eeee",
   frios: "#e4ebfa",
   salados: "#efecdf",
+  ensaladas: "#eef5d6",
   pollo: "#fdeccd",
   pescado: "#dcebf4",
   carne: "#f9e0d6",
@@ -270,6 +271,29 @@ const DIBUJO: Record<TipoPlato, React.ReactNode> = {
           </g>
         </g>
       ))}
+    </g>
+  ),
+  ensaladas: (
+    <g>
+      <ellipse cx="80" cy="101" rx="48" ry="8" fill="#000" opacity=".07" />
+      <ellipse cx="80" cy="64" rx="40" ry="6" fill="#a86d33" />
+      <g transform="translate(0 -6)">
+        <path d="M42 70c-4-16 8-24 16-18 2-14 18-16 22-5 6-11 22-9 22 4 10-4 20 6 16 19z" fill="#5daa3f" />
+        <path d="M50 68c0-9 8-13 14-9 4-7 14-5 14 2 6-4 15 0 13 7z" fill="#8fd16a" />
+        <path d="M84 66c2-9 12-11 16-5 6-2 13 4 9 9z" fill="#8fd16a" />
+        <path d="M60 64a10 10 0 0 1 18 0z" fill="#e04a3b" />
+        <path d="M92 62a9 9 0 0 1 16 2z" fill="#e04a3b" />
+        <circle cx="66" cy="61" r="1.3" fill="#f6b0a8" />
+        <circle cx="71" cy="61" r="1.3" fill="#f6b0a8" />
+        <circle cx="99" cy="60" r="1.2" fill="#f6b0a8" />
+        <ellipse cx="84" cy="59" rx="7.5" ry="4.5" fill="#3f8a37" />
+        <ellipse cx="84" cy="59" rx="6" ry="3.4" fill="#d8efb0" />
+        <ellipse cx="52" cy="63" rx="6.5" ry="4" fill="#3f8a37" />
+        <ellipse cx="52" cy="63" rx="5" ry="2.8" fill="#d8efb0" />
+        <path d="M72 55c4-5 11-5 13 0M100 67c3-4 9-4 11 0" fill="none" stroke="#9b4f8f" strokeWidth="2.5" strokeLinecap="round" />
+      </g>
+      <path d="M40 64c0 2 18 6 40 6s40-4 40-6c0 20-18 34-40 34S40 84 40 64z" fill="#c98a4b" />
+      <path d="M48 76c5 11 17 17 30 18" fill="none" stroke="#dba468" strokeWidth="3" strokeLinecap="round" />
     </g>
   ),
   hamburguesa: (
