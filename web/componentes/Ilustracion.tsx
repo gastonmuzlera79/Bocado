@@ -19,6 +19,7 @@ const FONDO: Record<TipoPlato, string> = {
   ensaladas: "#eef5d6",
   milanesas: "#f4e8de",
   pollo: "#fdeccd",
+  pavo: "#f1e6d4",
   pescado: "#dcebf4",
   mariscos: "#e2f0ea",
   cerdo: "#f6e4dc",
@@ -123,6 +124,31 @@ const DIBUJO: Record<TipoPlato, React.ReactNode> = {
         <circle cx="127" cy="79" r="5" fill="#f3e6cc" stroke="#d9c4a0" strokeWidth="1.5" />
         <circle cx="127" cy="88" r="5" fill="#f3e6cc" stroke="#d9c4a0" strokeWidth="1.5" />
       </g>
+    </g>
+  ),
+  pavo: (
+    <g>
+      {plato}
+      <g fill="#f3e6cc" stroke="#d9c4a0" strokeWidth="1.5">
+        <rect x="44" y="52" width="7" height="18" rx="3.5" transform="rotate(-35 47 61)" />
+        <circle cx="42" cy="53" r="3.6" />
+        <circle cx="47" cy="49" r="3.6" />
+        <rect x="109" y="52" width="7" height="18" rx="3.5" transform="rotate(35 112 61)" />
+        <circle cx="118" cy="53" r="3.6" />
+        <circle cx="113" cy="49" r="3.6" />
+      </g>
+      <ellipse cx="80" cy="76" rx="34" ry="20" fill="#bd6c2c" />
+      <ellipse cx="80" cy="72" rx="30" ry="16" fill="#d48a3c" />
+      <ellipse cx="72" cy="66" rx="14" ry="6" fill="#e7a95c" />
+      <ellipse cx="54" cy="72" rx="11" ry="9" fill="#c97a34" transform="rotate(-30 54 72)" />
+      <ellipse cx="106" cy="72" rx="11" ry="9" fill="#c97a34" transform="rotate(30 106 72)" />
+      <g fill="#d8323f">
+        <circle cx="46" cy="90" r="3" />
+        <circle cx="51" cy="92" r="3" />
+        <circle cx="112" cy="91" r="3" />
+      </g>
+      {hoja(58, 92, -10, "#3f8a37")}
+      {hoja(100, 93, 190, "#57a345")}
     </g>
   ),
   pescado: (
