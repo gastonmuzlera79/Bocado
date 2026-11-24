@@ -14,6 +14,7 @@ const FONDO: Record<TipoPlato, string> = {
   sopas: "#fbe4d2",
   arroz: "#e0eeee",
   frios: "#e4ebfa",
+  salados: "#efecdf",
   pollo: "#fdeccd",
   pescado: "#dcebf4",
   carne: "#f9e0d6",
@@ -243,6 +244,32 @@ const DIBUJO: Record<TipoPlato, React.ReactNode> = {
       <circle cx="78" cy="32" r="1.8" fill="#f28a92" />
       <path d="M80 28c0-5 3-8 6-9" fill="none" stroke="#3f8a37" strokeWidth="2" strokeLinecap="round" />
       {hoja(84, 38, -30, "#57a345")}
+    </g>
+  ),
+  salados: (
+    <g>
+      {plato}
+      {[
+        { x: 106, y: -2, e: 0.78 },
+        { x: 66, y: 0, e: 1 },
+      ].map(({ x, y, e }) => (
+        <g key={x} transform={`translate(${x} ${92 + y}) scale(${e}) translate(-80 -92)`}>
+          <path d="M60 70h40l-5 24H65z" fill="#3f8a37" />
+          <path d="M66 71l2 22M73 71l1 22M80 71v22M87 71l-1 22M94 71l-2 22" stroke="#2f6f2a" strokeWidth="1.5" />
+          <path d="M55 72c0-18 12-26 25-26s25 8 25 26c-16 4-34 4-50 0z" fill="#dc9a44" />
+          <path d="M60 64c4-10 12-14 20-14" fill="none" stroke="#eab66a" strokeWidth="4" strokeLinecap="round" />
+          <path d="M64 58c6-4 10 2 16-2s12 2 16 0c2 6-4 10-10 8-6 4-14 2-18-1-4 1-6-2-4-5z" fill="#f6c445" />
+          <g fill="#3f8a37">
+            <rect x="70" y="60" width="4" height="2" rx="1" transform="rotate(-20 72 61)" />
+            <rect x="86" y="56" width="4" height="2" rx="1" transform="rotate(30 88 57)" />
+            <rect x="78" y="66" width="4" height="2" rx="1" />
+          </g>
+          <g fill="#d6452f">
+            <rect x="82" y="62" width="4" height="3" rx="1" />
+            <rect x="66" y="66" width="3.5" height="3" rx="1" />
+          </g>
+        </g>
+      ))}
     </g>
   ),
   hamburguesa: (
