@@ -3,6 +3,8 @@
  * Se deduce del título (y si no alcanza, de la descripción y la categoría) con reglas en orden:
  * gana la primera que coincide, así "Pochoclos de pollo" es pollo y no snack.
  */
+import { huella } from "@/lib/texto";
+
 export const TIPOS_PLATO = [
   "bebidas",
   "wraps",
@@ -233,6 +235,7 @@ const VARIANTES: Partial<Record<TipoPlato, [string, RegExp][]>> = {
     ["bananas", /banana/],
   ],
   papas: [["batatas", /batata/]],
+  cerdo: [["bondiola", /bondiola/]],
   rellenas: [
     ["hongos", /champi|portobello|hongos/],
     ["papas", /^(?:papas|batatas)/],
@@ -243,10 +246,26 @@ const VARIANTES: Partial<Record<TipoPlato, [string, RegExp][]>> = {
   ],
 };
 
-/** Ruta de la foto de referencia de una receta: la del tipo de plato, o una variante si el título la pide. */
+/**
+ * Fotos de reemplazo para la foto base de los tipos más usados: las recetas cuyo título no pide una variante
+ * se reparten entre la base y estas, siempre igual para la misma receta (public/platos/<tipo>-<letra>.webp).
+ */
+const ALTERNATIVAS: Partial<Record<TipoPlato, string[]>> = {
+  tortas: ["b"],
+  pan: ["b"],
+  verduras: ["b"],
+  galletitas: ["b"],
+  huevos: ["b"],
+  carne: ["b"],
+  pollo: ["b"],
+  albondigas: ["b", "c"],
+};
+
+/** Ruta de la foto de referencia de una receta: una variante si el título la pide; si no, la base o una alternativa. */
 export function fotoPlato(r: { titulo: string; descripcion?: string | null; categoria?: string | null }): string {
   const tipo = tipoPlato(r);
   const t = normalizar(r.titulo);
   for (const [variante, re] of VARIANTES[tipo] ?? []) if (re.test(t)) return `/platos/${tipo}-${variante}.webp`;
-  return `/platos/${tipo}.webp`;
+  const opciones = ["", ...(ALTERNATIVAS[tipo] ?? []).map((a) => `-${a}`)];
+  return `/platos/${tipo}${opciones[(huella(r.titulo) >>> 7) % opciones.length]}.webp`;
 }

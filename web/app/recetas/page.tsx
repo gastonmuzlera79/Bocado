@@ -3,25 +3,34 @@ import Link from "next/link";
 import TarjetaReceta from "@/componentes/TarjetaReceta";
 import { buscarRecetas, categorias } from "@/lib/datos";
 import { POR_PAGINA, slugCategoria } from "@/lib/texto";
+import type { Orden } from "@/lib/tipos";
 
 export const metadata: Metadata = { title: "Recetas" };
 export const dynamic = "force-dynamic";
 
-type Params = Promise<{ q?: string; cat?: string; pagina?: string }>;
+type Params = Promise<{ q?: string; cat?: string; pagina?: string; orden?: string }>;
 
-function enlace(q: string, cat: string | null, pagina = 1) {
+const ORDENES: [Orden, string][] = [
+  ["mezcla", "Sugeridas"],
+  ["rapidas", "Más rápidas"],
+  ["az", "A–Z"],
+];
+
+function enlace(q: string, cat: string | null, pagina = 1, orden: Orden = "mezcla") {
   const p = new URLSearchParams();
   if (q) p.set("q", q);
   if (cat) p.set("cat", cat);
+  if (orden !== "mezcla") p.set("orden", orden);
   if (pagina > 1) p.set("pagina", String(pagina));
   const s = p.toString();
   return s ? `/recetas?${s}` : "/recetas";
 }
 
 export default async function Recetas({ searchParams }: { searchParams: Params }) {
-  const { q = "", cat = null, pagina: pag = "1" } = await searchParams;
+  const { q = "", cat = null, pagina: pag = "1", orden: ord } = await searchParams;
+  const orden: Orden = ord === "rapidas" || ord === "az" ? ord : "mezcla";
   const pagina = Math.max(1, Number(pag) || 1);
-  const [{ recetas, total }, cats] = await Promise.all([buscarRecetas(q, cat, pagina), categorias()]);
+  const [{ recetas, total }, cats] = await Promise.all([buscarRecetas(q, cat, pagina, orden), categorias()]);
   const paginas = Math.max(1, Math.ceil(total / POR_PAGINA));
 
   return (
@@ -39,13 +48,13 @@ export default async function Recetas({ searchParams }: { searchParams: Params }
           </button>
         </form>
         <nav className="categorias" aria-label="Categorías">
-          <Link href={enlace(q, null)} aria-current={!cat}>
+          <Link href={enlace(q, null, 1, orden)} aria-current={!cat}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src="/platos/general.webp" alt="" width={720} height={480} loading="lazy" />
             <span>Todas</span>
           </Link>
           {cats.map((c) => (
-            <Link key={c} href={enlace(q, c)} aria-current={cat === c}>
+            <Link key={c} href={enlace(q, c, 1, orden)} aria-current={cat === c}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={`/categorias/${slugCategoria(c)}.webp`} alt="" width={720} height={480} loading="lazy" />
               <span>{c}</span>
@@ -55,11 +64,23 @@ export default async function Recetas({ searchParams }: { searchParams: Params }
       </section>
 
       <section className="pila" aria-live="polite">
-        <p className="apagado numeros">
-          {total === 0
+        <div className="fila-orden">
+          <p className="apagado numeros">
+            {total === 0
             ? "No hay recetas que coincidan. Probá con otra palabra o sacá la categoría."
-            : `${total} recetas${q ? ` para “${q}”` : ""}${cat ? ` en ${cat}` : ""}`}
-        </p>
+              : `${total} recetas${q ? ` para “${q}”` : ""}${cat ? ` en ${cat}` : ""}`}
+          </p>
+          {total > 1 && (
+            <nav className="orden" aria-label="Ordenar">
+              <span className="apagado">Ordenar:</span>
+              {ORDENES.map(([o, nombre]) => (
+                <Link key={o} href={enlace(q, cat, 1, o)} aria-current={orden === o}>
+                  {nombre}
+                </Link>
+              ))}
+            </nav>
+          )}
+        </div>
         <div className="grilla">
           {recetas.map((r) => (
             <TarjetaReceta key={r.slug} receta={r} />
@@ -68,7 +89,7 @@ export default async function Recetas({ searchParams }: { searchParams: Params }
         {paginas > 1 && (
           <nav className="paginas" aria-label="Páginas">
             {pagina > 1 && (
-              <Link className="boton secundario chico" href={enlace(q, cat, pagina - 1)}>
+              <Link className="boton secundario chico" href={enlace(q, cat, pagina - 1, orden)}>
                 Anterior
               </Link>
             )}
@@ -76,7 +97,7 @@ export default async function Recetas({ searchParams }: { searchParams: Params }
               Página {pagina} de {paginas}
             </span>
             {pagina < paginas && (
-              <Link className="boton secundario chico" href={enlace(q, cat, pagina + 1)}>
+              <Link className="boton secundario chico" href={enlace(q, cat, pagina + 1, orden)}>
                 Siguiente
               </Link>
             )}

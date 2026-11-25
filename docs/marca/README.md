@@ -32,7 +32,7 @@ Cada tipo de plato tiene una foto en `web/public/platos/<tipo>.webp` (960 × 640
 
 Para sumar un tipo nuevo, generar la foto con la misma consigna y guardarla con el nombre del tipo.
 
-Los tipos con muchas recetas tienen además variantes (`<tipo>-<variante>.webp`): por ejemplo, `tortas-muffins` o `pollo-pechugas`. Cada receta usa la variante que coincide con su título (ver `fotoPlato` en `web/lib/tipoPlato.ts`), así el listado no repite siempre la misma foto. Las 9 fotos de las categorías están en `web/public/categorias/`.
+Los tipos con muchas recetas tienen además variantes (`<tipo>-<variante>.webp`): por ejemplo, `tortas-muffins` o `pollo-pechugas`. Cada receta usa la variante que coincide con su título (ver `fotoPlato` en `web/lib/tipoPlato.ts`), así el listado no repite siempre la misma foto. Además, los tipos más usados tienen fotos de reemplazo (`<tipo>-b.webp`, `<tipo>-c.webp`): las recetas cuyo título no pide una variante se reparten entre la base y esas, siempre igual para la misma receta. Las 9 fotos de las categorías están en `web/public/categorias/`.
 
 ## Regenerar
 

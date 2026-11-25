@@ -1,6 +1,6 @@
 import datos from "@/datos/demo.json";
-import { normalizar, POR_PAGINA } from "@/lib/texto";
-import type { Coincidencia, FiltrosCocina, Ingrediente, PaginaRecetas, Receta, RecetaResumen } from "@/lib/tipos";
+import { huella, normalizar, POR_PAGINA } from "@/lib/texto";
+import type { Coincidencia, FiltrosCocina, Ingrediente, Orden, PaginaRecetas, Receta, RecetaResumen } from "@/lib/tipos";
 
 type RecetaDemo = Omit<Receta, "ingredientes" | "temperatura"> & {
   temperatura: number | null;
@@ -40,7 +40,15 @@ export function categorias(): string[] {
   return [...new Set(recetas.map((r) => r.categoria).filter((c): c is string => !!c))].sort();
 }
 
-export function buscarRecetas(texto: string, categoria: string | null, pagina: number): PaginaRecetas {
+function comparar(orden: Orden) {
+  return (a: RecetaDemo, b: RecetaDemo) => {
+    if (orden === "rapidas") return (a.minutos ?? 999) - (b.minutos ?? 999) || a.titulo.localeCompare(b.titulo, "es");
+    if (orden === "az") return a.titulo.localeCompare(b.titulo, "es");
+    return huella(a.slug) - huella(b.slug);
+  };
+}
+
+export function buscarRecetas(texto: string, categoria: string | null, pagina: number, orden: Orden = "mezcla"): PaginaRecetas {
   const q = normalizar(texto);
   const palabras = q.split(" ").filter(Boolean);
   let lista = recetas.filter((r) => !categoria || r.categoria === categoria);
@@ -58,10 +66,10 @@ export function buscarRecetas(texto: string, categoria: string | null, pagina: n
         return { r, puntos };
       })
       .filter((x): x is { r: RecetaDemo; puntos: number } => x !== null)
-      .sort((a, b) => b.puntos - a.puntos || a.r.titulo.localeCompare(b.r.titulo, "es"))
+      .sort((a, b) => b.puntos - a.puntos || comparar(orden)(a.r, b.r))
       .map((x) => x.r);
   } else {
-    lista = [...lista].sort((a, b) => a.titulo.localeCompare(b.titulo, "es"));
+    lista = [...lista].sort(comparar(orden));
   }
   const desde = (pagina - 1) * POR_PAGINA;
   return { recetas: lista.slice(desde, desde + POR_PAGINA).map(resumen), total: lista.length };

@@ -50,3 +50,6 @@ export type FiltrosCocina = {
 };
 
 export type PaginaRecetas = { recetas: RecetaResumen[]; total: number };
+
+/** Orden del recetario: mezclado (fijo por receta, para que no queden juntas las parecidas), más rápidas o alfabético. */
+export type Orden = "mezcla" | "rapidas" | "az";

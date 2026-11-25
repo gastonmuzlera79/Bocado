@@ -234,3 +234,10 @@ td.num { text-align: right; font-variant-numeric: tabular-nums; }
 @media (prefers-reduced-motion: no-preference) {
   .barra span { transition: width 0.4s ease; }
 }
+
+/* Orden del recetario */
+.fila-orden { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 16px; }
+.orden { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 14px; font-size: 0.9rem; }
+.orden a { color: var(--fg); text-decoration: none; padding-bottom: 2px; border-bottom: 2px solid transparent; }
+.orden a:hover { color: var(--accent); }
+.orden a[aria-current="true"] { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }

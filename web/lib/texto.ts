@@ -24,3 +24,13 @@ export function slugCategoria(c: string) {
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "");
 }
+
+/** Número estable a partir de un texto (FNV-1a). Sirve para mezclar sin azar: el mismo texto da siempre el mismo valor. */
+export function huella(s: string) {
+  let h = 2166136261;
+  for (let i = 0; i < s.length; i++) {
+    h ^= s.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return h >>> 0;
+}

@@ -1,6 +1,6 @@
 import { supabaseServidor } from "@/lib/supabase/servidor";
 import { POR_PAGINA } from "@/lib/texto";
-import type { Coincidencia, FiltrosCocina, Ingrediente, PaginaRecetas, Receta, RecetaResumen } from "@/lib/tipos";
+import type { Coincidencia, FiltrosCocina, Ingrediente, PaginaRecetas, Receta, RecetaResumen, Orden } from "@/lib/tipos";
 
 const CAMPOS_RESUMEN = "slug,titulo,descripcion,categoria,tiempo_preparacion_min,tiempo_coccion_min,dificultad";
 
@@ -49,7 +49,12 @@ export async function categorias(): Promise<string[]> {
   return [...new Set((data ?? []).map((d) => d.categoria as string))].sort();
 }
 
-export async function buscarRecetas(texto: string, categoria: string | null, pagina: number): Promise<PaginaRecetas> {
+export async function buscarRecetas(
+  texto: string,
+  categoria: string | null,
+  pagina: number,
+  orden: Orden = "mezcla",
+): Promise<PaginaRecetas> {
   const sb = await supabaseServidor();
   const desde = (pagina - 1) * POR_PAGINA;
   if (texto.trim()) {
@@ -61,7 +66,11 @@ export async function buscarRecetas(texto: string, categoria: string | null, pag
   }
   let consulta = sb.from("recetas").select(CAMPOS_RESUMEN, { count: "exact" }).eq("estado", "publicada");
   if (categoria) consulta = consulta.eq("categoria", categoria);
-  const { data, count, error } = await consulta.order("titulo").range(desde, desde + POR_PAGINA - 1);
+  // "mezcla" ordena por id: es un uuid al azar, así que el orden queda mezclado pero fijo.
+  if (orden === "rapidas") consulta = consulta.order("minutos", { ascending: true, nullsFirst: false }).order("titulo");
+  else if (orden === "az") consulta = consulta.order("titulo");
+  else consulta = consulta.order("id");
+  const { data, count, error } = await consulta.range(desde, desde + POR_PAGINA - 1);
   if (error) throw error;
   return { recetas: ((data ?? []) as FilaReceta[]).map(resumen), total: count ?? 0 };
 }
