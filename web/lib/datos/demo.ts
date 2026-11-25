@@ -1,5 +1,6 @@
 import datos from "@/datos/demo.json";
-import { huella, normalizar, POR_PAGINA } from "@/lib/texto";
+import { huella, intercalar, normalizar, POR_PAGINA } from "@/lib/texto";
+import { fotoPlato } from "@/lib/tipoPlato";
 import type { Coincidencia, FiltrosCocina, Ingrediente, Orden, PaginaRecetas, Receta, RecetaResumen } from "@/lib/tipos";
 
 type RecetaDemo = Omit<Receta, "ingredientes" | "temperatura"> & {
@@ -103,9 +104,11 @@ export function queCocino(nombres: string[], filtros: FiltrosCocina = {}, limite
       faltantes: requeridos.filter((i) => !mios.has(i.ingrediente!)).map((i) => i.texto),
     });
   }
-  return salida
-    .sort((a, b) => b.tengo / b.necesito - a.tengo / a.necesito || b.tengo - a.tengo || a.titulo.localeCompare(b.titulo, "es"))
+  // A igual coincidencia, mezcla fija (no alfabética) y sin dos fotos iguales seguidas cuando se puede.
+  const ordenadas = salida
+    .sort((a, b) => b.tengo / b.necesito - a.tengo / a.necesito || b.tengo - a.tengo || huella(a.slug) - huella(b.slug))
     .slice(0, limite);
+  return intercalar(ordenadas, fotoPlato, (c) => `${c.coincidencia}-${c.tengo}`);
 }
 
 export function metricasDemo() {

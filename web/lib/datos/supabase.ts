@@ -1,5 +1,6 @@
 import { supabaseServidor } from "@/lib/supabase/servidor";
-import { POR_PAGINA } from "@/lib/texto";
+import { POR_PAGINA, huella, intercalar } from "@/lib/texto";
+import { fotoPlato } from "@/lib/tipoPlato";
 import type { Coincidencia, FiltrosCocina, Ingrediente, PaginaRecetas, Receta, RecetaResumen, Orden } from "@/lib/tipos";
 
 const CAMPOS_RESUMEN = "slug,titulo,descripcion,categoria,tiempo_preparacion_min,tiempo_coccion_min,dificultad";
@@ -154,6 +155,17 @@ export async function queCocino(nombres: string[], filtros: FiltrosCocina = {}):
     necesito: number;
     faltantes: { ingrediente: string; reemplazos: string[] }[];
   }[];
+  // La base ya ordena (ingrediente principal primero, después coincidencia). Sin tocar ese orden,
+  // dentro de cada grupo seguido de recetas empatadas mezclamos con un orden fijo y evitamos dos fotos iguales juntas.
+  const grupo = (f: (typeof filas)[number]) => `${f.coincidencia}-${f.tengo}`;
+  for (let ini = 0; ini < filas.length; ) {
+    let fin = ini + 1;
+    while (fin < filas.length && grupo(filas[fin]) === grupo(filas[ini])) fin++;
+    const mezclado = filas.slice(ini, fin).sort((a, b) => huella(a.slug) - huella(b.slug));
+    filas.splice(ini, mezclado.length, ...mezclado);
+    ini = fin;
+  }
+  filas.splice(0, filas.length, ...intercalar(filas, fotoPlato, grupo));
   // Registro para las métricas; si falla no afecta la búsqueda.
   await sb.from("eventos").insert({
     tipo: filas.length ? "busqueda" : "busqueda_sin_resultados",

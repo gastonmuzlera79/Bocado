@@ -34,3 +34,23 @@ export function huella(s: string) {
   }
   return h >>> 0;
 }
+
+/**
+ * Reordena dentro de cada grupo (elementos seguidos con el mismo `grupo`) para que no queden juntos dos con la
+ * misma `clave` cuando hay otra opción. No mueve nada entre grupos, así se respeta el orden principal.
+ */
+export function intercalar<T>(lista: T[], clave: (x: T) => string, grupo: (x: T) => string): T[] {
+  const salida: T[] = [];
+  for (let ini = 0; ini < lista.length; ) {
+    let fin = ini + 1;
+    while (fin < lista.length && grupo(lista[fin]) === grupo(lista[ini])) fin++;
+    const pendientes = lista.slice(ini, fin);
+    while (pendientes.length) {
+      const anterior = salida.length ? clave(salida[salida.length - 1]) : null;
+      const i = pendientes.findIndex((x) => clave(x) !== anterior);
+      salida.push(pendientes.splice(i === -1 ? 0 : i, 1)[0]);
+    }
+    ini = fin;
+  }
+  return salida;
+}
