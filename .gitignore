@@ -21,3 +21,4 @@ Thumbs.db
 
 # Sitio estático generado por tools/sitio_estatico.mjs
 _site/
+*.log
