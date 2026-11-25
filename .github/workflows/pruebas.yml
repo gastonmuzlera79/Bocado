@@ -1,0 +1,66 @@
+name: Pruebas
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  base-de-datos:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_PASSWORD: postgres
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Migraciones, pruebas de permisos y datos
+        env:
+          DATABASE_URL: postgresql://postgres:postgres@localhost:5432/postgres
+        run: tools/probar_db.sh
+
+  recetario:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Los recetarios sin extracción cruda están al día con sus lotes
+        run: |
+          python3 tools/armar_directos.py
+          git diff --exit-code data/recetas
+      - name: Validar recetario
+        run: python3 tools/validar_recetario.py data/recetas
+      - name: Todos los ingredientes están en el catálogo
+        run: python3 tools/catalogo.py cobertura
+      - name: Los datos iniciales están al día con el recetario
+        run: |
+          python3 tools/generar_seed.py
+          python3 tools/generar_demo.py
+          git diff --exit-code db/seed web/datos
+
+  web:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci
+      - run: npx tsc --noEmit
+      - run: npx next build
+        env:
+          NEXT_TELEMETRY_DISABLED: "1"

@@ -1,0 +1,3126 @@
+[
+ {
+  "slug": "a101-paltas-rellenas-de-huevo-y-panceta",
+  "titulo": "Paltas rellenas de huevo y panceta",
+  "descripcion": "Medias paltas con un huevo cocido adentro y panceta crocante encima.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "palta",
+    "nota": "maduras",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "tira",
+    "nombre": "panceta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Cortá las paltas al medio, sacales el carozo y agrandá un poco el hueco con una cuchara.",
+   "Dorá la panceta en una sartén hasta que esté crocante y picala.",
+   "Rompé un huevo en cada mitad, salpimentá y cociná 10 a 15 minutos, según cómo te guste la yema.",
+   "Terminá con la panceta y el perejil."
+  ],
+  "consejo": "Si el huevo es grande, separá un poco de clara para que no rebalse.",
+  "etiquetas": [
+   "desayuno",
+   "huevos",
+   "keto"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-01",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 10,
+   "grasas": 20,
+   "carbohidratos": 10
+  }
+ },
+ {
+  "slug": "a101-avena-horneada-de-calabaza",
+  "titulo": "Avena horneada de calabaza",
+  "descripcion": "Avena cocida con leche, puré de calabaza y especias dulces.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": "la que prefieras",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "en puré",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "cucharadita",
+    "nombre": "nuez moscada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "cucharadita",
+    "nombre": "jengibre",
+    "nota": "en polvo",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "nueces, almendras, chía o fruta",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Mezclá todo menos los toppings en una fuente apta.",
+   "Cociná 15 a 20 minutos a 180 °C, revolviendo a la mitad, hasta que la avena absorba casi todo el líquido.",
+   "Serví caliente con frutos secos, semillas o fruta."
+  ],
+  "consejo": "Se puede preparar el día anterior y recalentar con un chorrito de leche.",
+  "etiquetas": [
+   "desayuno",
+   "avena",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-02",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 7,
+   "grasas": 5,
+   "carbohidratos": 45
+  }
+ },
+ {
+  "slug": "a101-barritas-de-avena-frutos-secos-y-miel",
+  "titulo": "Barritas de avena, frutos secos y miel",
+  "descripcion": "Barritas firmes de avena, frutos secos y pasta de maní, doradas en la canasta.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "nueces",
+    "nota": "o almendras, picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "manteca de maní",
+    "nota": "o de almendras",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "chips de chocolate amargo",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Mezclá la avena, los frutos secos, la canela y la sal.",
+   "Calentá la miel con la manteca de maní hasta que esté fluida y uní todo; si querés, sumá los chips.",
+   "Apretá la mezcla sobre papel manteca en una capa de 1 cm y llevala 30 minutos al freezer.",
+   "Cortá las barritas y cocinalas 10 a 12 minutos a 180 °C."
+  ],
+  "consejo": "Guardadas en frasco duran una semana.",
+  "etiquetas": [
+   "desayuno",
+   "avena",
+   "frutos secos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-03",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 4,
+   "grasas": 8,
+   "carbohidratos": 15
+  }
+ },
+ {
+  "slug": "a101-barritas-de-banana-y-avena",
+  "titulo": "Barritas de banana y avena",
+  "descripcion": "Barritas blandas de banana pisada, avena, nueces y pasas.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "maduras",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": true
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "pasas de uva",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Pisá las bananas y mezclalas con la avena, las nueces, las pasas, la canela y, si querés, la miel.",
+   "Extendé la mezcla sobre papel manteca apretándola un poco.",
+   "Cociná 15 a 20 minutos, hasta que esté firme, y dejala enfriar antes de cortar."
+  ],
+  "consejo": "Sin la miel quedan dulces igual si las bananas están bien maduras.",
+  "etiquetas": [
+   "desayuno",
+   "avena",
+   "sin azúcar"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-04",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 100,
+   "proteinas": 2,
+   "grasas": 3,
+   "carbohidratos": 18
+  }
+ },
+ {
+  "slug": "a101-budin-de-maiz-con-choclo",
+  "titulo": "Budín de maíz con choclo",
+  "descripcion": "Pan dulce de harina de maíz con granos de choclo.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 27,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "polenta",
+    "nota": "harina de maíz",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "lata",
+    "nombre": "choclo",
+    "nota": "en granos, escurrido",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Mezclá la harina de maíz, la harina, el azúcar, el polvo de hornear y la sal.",
+   "Batí la leche con los huevos y la manteca y unilo a los secos; sumá el choclo.",
+   "Volcalo en un molde enmantecado y cociná 25 a 30 minutos.",
+   "Dejalo enfriar antes de cortar."
+  ],
+  "consejo": "Tostado con manteca, para el desayuno o con un guiso.",
+  "etiquetas": [
+   "budines",
+   "maíz",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-05",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 4,
+   "grasas": 6,
+   "carbohidratos": 32
+  }
+ },
+ {
+  "slug": "a101-bunuelos-de-champinones",
+  "titulo": "Buñuelos de champiñones",
+  "descripcion": "Bolitas de champiñones salteados con parmesano, rebozadas en pan rallado.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "champiñones",
+    "nota": "bien picados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "chica, picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "pan rallado",
+    "nota": "y más para rebozar",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "queso rallado",
+    "nota": "parmesano",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Saltá los champiñones con la cebolla y el ajo hasta que se doren y dejalos enfriar.",
+   "Mezclalos con el huevo, el pan rallado, el queso, el perejil, sal y pimienta.",
+   "Armá bolitas y pasalas por pan rallado.",
+   "Cocinalas separadas 10 a 12 minutos a 180 °C."
+  ],
+  "consejo": "Escurrí bien los champiñones después de saltearlos para que la mezcla no quede aguada.",
+  "etiquetas": [
+   "verduras",
+   "picadas",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-06",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 70,
+   "proteinas": 4,
+   "grasas": 3,
+   "carbohidratos": 8
+  }
+ },
+ {
+  "slug": "a101-burritos-de-desayuno",
+  "titulo": "Burritos de desayuno",
+  "descripcion": "Tortillas con huevo revuelto, morrón, cebolla, jamón y cheddar, doradas por fuera.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "tortillas de trigo",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "morrón",
+    "nota": "rojo, picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "jamón cocido",
+    "nota": "o panceta, en trocitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso cheddar",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "En una sartén aceitada, cociná el morrón y la cebolla hasta que estén tiernos y sumá el jamón.",
+   "Agregá los huevos batidos con sal y pimienta y revolvé hasta que estén cocidos pero húmedos.",
+   "Repartí el relleno en las tortillas, poné el queso y enrollalas cerrando las puntas.",
+   "Cocinalos con el cierre abajo 5 a 7 minutos a 180 °C."
+  ],
+  "consejo": "Envueltos en film se freezan y se recalientan en 8 minutos.",
+  "etiquetas": [
+   "desayuno",
+   "huevos",
+   "mexicana"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-07",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 300,
+   "proteinas": 15,
+   "grasas": 15,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-crepes-de-avena-con-miel-y-frutas",
+  "titulo": "Crepes de avena con miel y frutas",
+  "descripcion": "Crepes finas de avena licuada, servidas con fruta fresca.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 4,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": "o bebida vegetal",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "frutas",
+    "nota": "frutillas, banana o arándanos",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá la avena hasta que sea harina.",
+   "Batí el huevo con la harina de avena, la leche, la vainilla, la canela y la miel y dejá reposar 10 a 15 minutos.",
+   "Precalentá la freidora a 180 °C y engrasá un molde plano.",
+   "Extendé una capa fina de mezcla y cociná 3 a 4 minutos; repetí con el resto.",
+   "Serví con fruta y un hilo de miel."
+  ],
+  "consejo": "Si la mezcla espesa al reposar, aflojala con un poco de leche.",
+  "etiquetas": [
+   "desayuno",
+   "avena",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-08",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 8,
+   "grasas": 4,
+   "carbohidratos": 35
+  }
+ },
+ {
+  "slug": "a101-empanadas-de-manzana-y-canela",
+  "titulo": "Empanadas de manzana y canela",
+  "descripcion": "Empanadas dulces de manzana con mascabo y canela.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "grandes, peladas, en trocitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "jugo de limón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "fécula de maíz",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "paquete",
+    "nombre": "tapas de empanada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "batido",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la manzana con el azúcar, la canela, el limón y la fécula.",
+   "Precalentá la freidora a 180 °C.",
+   "Poné una cucharada de relleno en cada tapa, cerralas y sellá el borde con un tenedor.",
+   "Pintalas con huevo y cocinalas separadas 10 a 12 minutos."
+  ],
+  "consejo": "Espolvoreadas con azúcar impalpable apenas salen.",
+  "etiquetas": [
+   "postres",
+   "empanadas",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-09",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 2,
+   "grasas": 7,
+   "carbohidratos": 20
+  }
+ },
+ {
+  "slug": "a101-frittata-de-cebolla-caramelizada",
+  "titulo": "Frittata de cebolla caramelizada",
+  "descripcion": "Frittata de huevos con cebolla dorada lentamente y queso.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "grande, en juliana",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": "cheddar o parmesano",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Cociná la cebolla en el aceite a fuego medio 10 a 15 minutos, hasta que se caramelice.",
+   "Batí los huevos con el queso, la cebolla, sal, pimienta y perejil.",
+   "Volcá la mezcla en un molde engrasado y cociná 10 a 12 minutos a 180 °C, hasta que el centro esté firme."
+  ],
+  "consejo": "Fría, cortada en cuadrados, sirve para una picada.",
+  "etiquetas": [
+   "huevos",
+   "vegetariano",
+   "desayuno"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-10",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 10,
+   "grasas": 10,
+   "carbohidratos": 5
+  }
+ },
+ {
+  "slug": "a101-granola-de-chocolate-y-frutos-rojos",
+  "titulo": "Granola de chocolate y frutos rojos",
+  "descripcion": "Granola de avena, almendras, nueces y chía con chocolate y frutos rojos secos.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 17,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "almendras",
+    "nota": "fileteadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "semillas de chía",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite de coco",
+    "nota": "derretido",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "chips de chocolate amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "frutos rojos",
+    "nota": "deshidratados",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la avena, los frutos secos y la chía.",
+   "Uní la miel con el aceite de coco y la vainilla y bañá la mezcla.",
+   "Extendela en la canasta engrasada y cociná 10 minutos a 160 °C; revolvé y seguí 5 a 10 minutos más.",
+   "Cuando esté fría, sumá el chocolate y los frutos rojos y guardala en frasco."
+  ],
+  "consejo": "Si agregás el chocolate en caliente, se derrite y se pega todo.",
+  "etiquetas": [
+   "desayuno",
+   "avena",
+   "frutos secos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-11",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 180,
+   "proteinas": 4,
+   "grasas": 10,
+   "carbohidratos": 20
+  }
+ },
+ {
+  "slug": "a101-tortitas-de-papa-rallada",
+  "titulo": "Tortitas de papa rallada",
+  "descripcion": "Papa rallada y especiada en tortitas crocantes, como los hash browns.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 200,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": "grandes, peladas y ralladas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "cebolla en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Enjuagá la papa rallada con agua fría y escurrila muy bien.",
+   "Mezclala con el aceite y las especias.",
+   "Formá tortitas y cocinalas sin encimar 15 a 20 minutos a 200 °C, girándolas a la mitad."
+  ],
+  "consejo": "Con un huevo frito arriba son un desayuno completo.",
+  "etiquetas": [
+   "papas",
+   "desayuno",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-12",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 2,
+   "grasas": 7,
+   "carbohidratos": 20
+  }
+ },
+ {
+  "slug": "a101-huevos-revueltos-con-espinaca",
+  "titulo": "Huevos revueltos con espinaca",
+  "descripcion": "Huevos batidos con leche, espinaca y queso, revueltos en la freidora.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "fresca, picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la leche, sal y pimienta y sumá la espinaca y el queso.",
+   "Volcalo en un molde y cociná 5 a 7 minutos a 180 °C, revolviendo un par de veces con espátula."
+  ],
+  "consejo": "Sacalos un poco antes de que estén secos: terminan de cocinarse en el plato.",
+  "etiquetas": [
+   "huevos",
+   "desayuno",
+   "proteico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-13",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 12,
+   "grasas": 10,
+   "carbohidratos": 3
+  }
+ },
+ {
+  "slug": "a101-frittatitas-de-verduras",
+  "titulo": "Frittatitas de verduras",
+  "descripcion": "Frittatas individuales de espinaca, tomate, champiñones y queso.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "tomate",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "champiñones",
+    "nota": "picados",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la leche y sumá las verduras, el queso, sal y pimienta.",
+   "Repartilo en moldes de muffin engrasados.",
+   "Cociná 10 a 12 minutos a 180 °C, hasta que estén firmes."
+  ],
+  "consejo": "Se guardan cuatro días en la heladera y se recalientan en 2 minutos.",
+  "etiquetas": [
+   "huevos",
+   "desayuno",
+   "para congelar"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-14",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 70,
+   "proteinas": 6,
+   "grasas": 4,
+   "carbohidratos": 1
+  }
+ },
+ {
+  "slug": "a101-quichecitas-de-jamon-y-espinaca",
+  "titulo": "Quichecitas de jamón y espinaca",
+  "descripcion": "Tartaletas chicas rellenas de huevo, queso, espinaca, champiñones y jamón.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "champiñones",
+    "nota": "picados",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "jamón cocido",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "masa de tarta",
+    "nota": "comprada o casera",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la leche y sumá el queso, las verduras, el jamón, sal y pimienta.",
+   "Cortá círculos de masa y forrá moldes de muffin.",
+   "Llenalos hasta tres cuartos y cociná 10 a 12 minutos a 180 °C."
+  ],
+  "consejo": "Para una picada o para la vianda.",
+  "etiquetas": [
+   "tartas",
+   "huevos",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-15",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 70,
+   "proteinas": 5,
+   "grasas": 4,
+   "carbohidratos": 3
+  }
+ },
+ {
+  "slug": "a101-muffins-de-huevo-espinaca-y-cherry",
+  "titulo": "Muffins de huevo, espinaca y cherry",
+  "descripcion": "Huevos batidos con espinaca, tomates cherry y queso, cocidos en moldes.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 6,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "fresca, picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "tomate",
+    "nota": "cherry, en mitades",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": "cheddar o mozzarella",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Batí los huevos con la leche, sumá el resto y salpimentá.",
+   "Llená moldes de muffin aceitados hasta dos tercios.",
+   "Cociná 10 a 12 minutos, hasta que estén firmes."
+  ],
+  "consejo": "Desayuno armado para toda la semana.",
+  "etiquetas": [
+   "huevos",
+   "desayuno",
+   "keto"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-16",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 70,
+   "proteinas": 6,
+   "grasas": 4,
+   "carbohidratos": 1
+  }
+ },
+ {
+  "slug": "a101-muffins-de-cheddar-verdeo-y-morron",
+  "titulo": "Muffins de cheddar, verdeo y morrón",
+  "descripcion": "Muffins salados de queso con cebolla de verdeo y morrón.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 16,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "queso cheddar",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "cebolla de verdeo",
+    "nota": "picada",
+    "opcional": true
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "morrón",
+    "nota": "rojo, picado",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Mezclá la harina con el polvo de hornear y la sal.",
+   "Batí el huevo con la leche y el aceite y unilo a los secos sin batir de más.",
+   "Sumá el queso y las verduras, repartí en moldes y cociná 15 a 18 minutos."
+  ],
+  "consejo": "Para acompañar una sopa o un café con leche.",
+  "etiquetas": [
+   "muffins",
+   "quesos",
+   "desayuno"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-17",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 5,
+   "grasas": 10,
+   "carbohidratos": 10
+  }
+ },
+ {
+  "slug": "a101-omelette-de-chorizo-colorado",
+  "titulo": "Omelette de chorizo colorado",
+  "descripcion": "Huevos al horno con chorizo, cebolla, morrón, tomate y espinaca.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "chorizo",
+    "nota": "colorado, en rodajas finas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "morrón",
+    "nota": "rojo, picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "tomate",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "fresca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Batí los huevos con sal y pimienta y volcalos en un molde aceitado.",
+   "Repartí el chorizo y las verduras por encima.",
+   "Cociná 8 a 10 minutos; sumá el queso y seguí 1 a 2 minutos más."
+  ],
+  "consejo": "El chorizo ya es salado: poné poca sal.",
+  "etiquetas": [
+   "huevos",
+   "cerdo",
+   "desayuno"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-18",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 270,
+   "proteinas": 17,
+   "grasas": 19,
+   "carbohidratos": 5
+  }
+ },
+ {
+  "slug": "a101-pan-de-ajo-entero",
+  "titulo": "Pan de ajo entero",
+  "descripcion": "Baguette con cortes rellenos de manteca, ajo y perejil.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "pan",
+    "nota": "baguette",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picados",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "queso rallado",
+    "nota": "parmesano",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Hacé cortes en diagonal en el pan sin llegar a la base.",
+   "Mezclá la manteca con el ajo, el perejil y la sal y pincelá entre los cortes y por arriba.",
+   "Si querés, espolvoreá queso, y cociná 5 a 7 minutos."
+  ],
+  "consejo": "Si la baguette no entra entera, cortala en dos.",
+  "etiquetas": [
+   "panes",
+   "picadas",
+   "ajo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-19",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 4,
+   "grasas": 16,
+   "carbohidratos": 23
+  }
+ },
+ {
+  "slug": "a101-pan-salado-de-zucchini-y-parmesano",
+  "titulo": "Pan salado de zucchini y parmesano",
+  "descripcion": "Budín salado de zucchini rallado con queso y especias.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 27,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "zucchini",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": "parmesano",
+    "opcional": false
+   },
+   {
+    "cantidad": 1.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "cebolla en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Mezclá el zucchini con los huevos, el aceite y el queso.",
+   "Aparte, uní la harina con el polvo de hornear y las especias, y sumalo a lo anterior.",
+   "Volcalo en un molde engrasado y cociná 25 a 30 minutos, hasta que un palillo salga limpio."
+  ],
+  "consejo": "Apretá el zucchini en un repasador antes de usarlo para que el pan no quede húmedo.",
+  "etiquetas": [
+   "panes",
+   "verduras",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-20",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 180,
+   "proteinas": 5,
+   "grasas": 10,
+   "carbohidratos": 18
+  }
+ },
+ {
+  "slug": "a101-budin-integral-de-banana-y-nueces",
+  "titulo": "Budín integral de banana y nueces",
+  "descripcion": "Budín húmedo de banana con harina integral y nueces.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 27,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "maduras",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite de coco",
+    "nota": "o aceite",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Pisá las bananas y sumá los huevos, el aceite, el azúcar y la vainilla.",
+   "Incorporá la harina tamizada con el bicarbonato y la sal, y después las nueces.",
+   "Volcalo en un molde engrasado y cociná 25 a 30 minutos, hasta que un palillo salga limpio."
+  ],
+  "consejo": "Cuanto más negras estén las bananas, más dulce y húmedo sale.",
+  "etiquetas": [
+   "budines",
+   "frutas",
+   "integral"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-21",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 4,
+   "grasas": 10,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-budin-de-zanahoria-y-nueces",
+  "titulo": "Budín de zanahoria y nueces",
+  "descripcion": "Budín integral de zanahoria rallada con canela.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 27,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Mezclá la zanahoria con el azúcar, el aceite, los huevos y la vainilla.",
+   "Sumá la harina con el bicarbonato, el polvo de hornear, la canela y la sal; agregá las nueces si las usás.",
+   "Volcalo en un molde engrasado y cociná 25 a 30 minutos."
+  ],
+  "consejo": "Con un glasé de queso crema y limón se parece a una carrot cake.",
+  "etiquetas": [
+   "budines",
+   "verduras",
+   "integral"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-22",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 180,
+   "proteinas": 3,
+   "grasas": 8,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-pancitos-gratinados-con-huevo-y-cheddar",
+  "titulo": "Pancitos gratinados con huevo y cheddar",
+  "descripcion": "Mitades de pan cubiertas con huevo, cheddar, verdeo y morrón.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "queso cheddar",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "cebolla de verdeo",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "morrón",
+    "nota": "rojo, picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "jamón cocido",
+    "nota": "picado",
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pan",
+    "nota": "tipo inglés o de hamburguesa, abiertos",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la leche y sumá el queso, las verduras, el jamón, sal y pimienta.",
+   "Acomodá las mitades de pan en la canasta y cubrilas con la mezcla.",
+   "Cociná 8 a 10 minutos a 160 °C, hasta que el huevo esté cocido."
+  ],
+  "consejo": "Ahuecá apenas la miga para que entre más relleno.",
+  "etiquetas": [
+   "desayuno",
+   "huevos",
+   "quesos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-23",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 10,
+   "grasas": 8,
+   "carbohidratos": 10
+  }
+ },
+ {
+  "slug": "a101-panqueques-esponjosos",
+  "titulo": "Panqueques esponjosos",
+  "descripcion": "Panqueques gruesos al estilo americano, dorados de los dos lados.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá los secos en un bol.",
+   "Batí el huevo con la leche, la manteca y la vainilla y unilo hasta tener una mezcla espesa y lisa.",
+   "Precalentá la freidora a 180 °C y volcá ¼ taza por panqueque sobre un molde plano engrasado.",
+   "Cociná 3 a 4 minutos, dalos vuelta y seguí 2 a 3 minutos."
+  ],
+  "consejo": "Con miel, fruta o crema batida.",
+  "etiquetas": [
+   "desayuno",
+   "merienda",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-24",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 7,
+   "grasas": 8,
+   "carbohidratos": 38
+  }
+ },
+ {
+  "slug": "a101-panqueques-de-avena-licuada",
+  "titulo": "Panqueques de avena licuada",
+  "descripcion": "Panqueques de avena, leche y huevo, hechos en la licuadora.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": "la que prefieras",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Licuá todos los ingredientes hasta que quede liso.",
+   "Precalentá la freidora a 180 °C y volcá círculos de mezcla sobre un molde engrasado.",
+   "Cociná 3 a 4 minutos, dalos vuelta y seguí 2 a 3 minutos."
+  ],
+  "consejo": "Con yogur y fruta.",
+  "etiquetas": [
+   "desayuno",
+   "avena",
+   "fit"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-25",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 80,
+   "proteinas": 3,
+   "grasas": 2,
+   "carbohidratos": 10
+  }
+ },
+ {
+  "slug": "a101-arroz-con-leche-horneado",
+  "titulo": "Arroz con leche horneado",
+  "descripcion": "Arroz cocido en leche con vainilla y terminado con huevo, para un postre cremoso.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 33,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "arroz",
+    "nota": "blanco",
+    "opcional": false
+   },
+   {
+    "cantidad": 480,
+    "unidad": "ml",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 50,
+    "unidad": "g",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 25,
+    "unidad": "g",
+    "nombre": "pasas de uva",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela",
+    "nota": "para espolvorear",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Enjuagá el arroz hasta que el agua salga clara.",
+   "Mezclalo con la leche, el azúcar, la vainilla y la sal en una fuente apta.",
+   "Cociná 25 a 30 minutos a 180 °C, revolviendo de vez en cuando.",
+   "Sumá los huevos batidos de a poco sin dejar de revolver y cociná 5 minutos más.",
+   "Agregá las pasas y espolvoreá canela."
+  ],
+  "consejo": "Si se seca antes de que el arroz esté tierno, sumá un chorrito de leche caliente.",
+  "etiquetas": [
+   "postres",
+   "clásico",
+   "arroz"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-26",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 220,
+   "proteinas": 7,
+   "grasas": 5,
+   "carbohidratos": 38
+  }
+ },
+ {
+  "slug": "a101-salchichas-envueltas-en-hojaldre",
+  "titulo": "Salchichas envueltas en hojaldre",
+  "descripcion": "Salchichas en tiras de hojaldre, doradas y crocantes.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 13,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 8,
+    "unidad": "unidad",
+    "nombre": "salchicha",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "lámina",
+    "nombre": "masa de hojaldre",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "batido",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "mostaza y kétchup",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Cortá la masa en tiras y enrollá cada salchicha hasta cubrirla.",
+   "Acomodalas con el cierre abajo y pintalas con huevo.",
+   "Cociná 12 a 15 minutos."
+  ],
+  "consejo": "Para cumpleaños infantiles, cortalas en tres antes de servir.",
+  "etiquetas": [
+   "chicos",
+   "masas",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-27",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 8,
+   "grasas": 18,
+   "carbohidratos": 15
+  }
+ },
+ {
+  "slug": "a101-sandwich-de-palta-y-huevo",
+  "titulo": "Sándwich de palta y huevo",
+  "descripcion": "Pan integral tostado con palta pisada y huevo con la yema blanda.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "palta",
+    "nota": "madura",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tomate, espinaca o queso",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Pisá la palta con sal y pimienta.",
+   "Tostá el pan unos minutos a 180 °C.",
+   "Bajá la freidora a 160 °C y cociná los huevos en moldecitos 5 a 6 minutos, con la clara firme y la yema líquida.",
+   "Untá el pan con la palta, poné los huevos y lo que quieras sumar, y cerrá."
+  ],
+  "consejo": "Unas gotas de limón en la palta evitan que se oscurezca.",
+  "etiquetas": [
+   "desayuno",
+   "huevos",
+   "sándwiches"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-28",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 300,
+   "proteinas": 15,
+   "grasas": 15,
+   "carbohidratos": 30
+  }
+ },
+ {
+  "slug": "a101-tacos-de-desayuno",
+  "titulo": "Tacos de desayuno",
+  "descripcion": "Tortillas con porotos negros, huevo revuelto, panceta, palta y queso.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "tortillas de maíz",
+    "nota": "o de trigo",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "tira",
+    "nombre": "panceta",
+    "nota": "o salchicha, en trocitos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "porotos negros",
+    "nota": "cocidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "palta",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "cebolla, tomate o cilantro",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C y cociná la panceta 5 a 7 minutos.",
+   "Volcá los huevos batidos con sal y pimienta en un molde y cocinalos 4 a 5 minutos, revolviendo.",
+   "Calentá las tortillas unos segundos.",
+   "Armá los tacos con porotos, huevo, panceta, palta y queso."
+  ],
+  "consejo": "Una salsa criolla picante les queda muy bien.",
+  "etiquetas": [
+   "desayuno",
+   "mexicana",
+   "huevos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-29",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 10,
+   "grasas": 10,
+   "carbohidratos": 20
+  }
+ },
+ {
+  "slug": "a101-tortilla-de-bacalao",
+  "titulo": "Tortilla de bacalao",
+  "descripcion": "Tortilla de papas con bacalao desmigado, cebolla y morrón.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "bacalao",
+    "nota": "desalado",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "papa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Pelá las papas y cortalas en rodajas finas; picá la cebolla y el morrón.",
+   "Saltá todo en una sartén con aceite hasta que esté tierno y sumá el bacalao desmigado unos minutos.",
+   "Volcá los huevos batidos con sal y pimienta y cociná a fuego bajo hasta que cuajen los bordes.",
+   "Pasala a un molde y terminala 10 a 12 minutos a 180 °C."
+  ],
+  "consejo": "Se puede hacer con merluza cocida si no conseguís bacalao.",
+  "etiquetas": [
+   "pescados",
+   "huevos",
+   "española"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-30",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 190,
+   "proteinas": 13,
+   "grasas": 8,
+   "carbohidratos": 15
+  }
+ },
+ {
+  "slug": "a101-tortilla-de-zucchini",
+  "titulo": "Tortilla de zucchini",
+  "descripcion": "Tortilla de huevos con zucchini rallado y cebolla, cocida entera en la freidora.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": "medianos, rallados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "chica, picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "queso rallado o hierbas",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Mezclá el zucchini con la cebolla y apretalos para sacar el agua.",
+   "Sumá los huevos batidos con sal y pimienta.",
+   "Aceitá un molde, volcá la mezcla y cociná 15 a 20 minutos, hasta que el centro esté firme.",
+   "Dejala reposar unos minutos y decorala con queso o hierbas."
+  ],
+  "consejo": "Fría, en cuadraditos, es una buena picada.",
+  "etiquetas": [
+   "huevos",
+   "verduras",
+   "vegetariano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-31",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 8,
+   "grasas": 10,
+   "carbohidratos": 7
+  }
+ },
+ {
+  "slug": "a101-tortitas-de-banana-y-avena",
+  "titulo": "Tortitas de banana y avena",
+  "descripcion": "Tortitas de tres ingredientes principales: banana, avena y huevo.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "madura",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pisá la banana y mezclala con el resto.",
+   "Precalentá la freidora a 180 °C y engrasá la bandeja.",
+   "Armá tortitas con cucharadas de mezcla, separadas.",
+   "Cociná 5 a 6 minutos, dándolas vuelta a la mitad."
+  ],
+  "consejo": "Con miel, yogur o nueces.",
+  "etiquetas": [
+   "desayuno",
+   "avena",
+   "sin azúcar"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-32",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 70,
+   "proteinas": 3,
+   "grasas": 2,
+   "carbohidratos": 10
+  }
+ },
+ {
+  "slug": "a101-cuadrados-de-polenta-con-parmesano",
+  "titulo": "Cuadrados de polenta con parmesano",
+  "descripcion": "Polenta firme con queso y huevo, cortada y rebozada en harina de maíz.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 200,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "polenta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": "parmesano",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "polenta",
+    "nota": "extra, para rebozar",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Herví el agua con la sal, sumá la polenta en lluvia y cociná a fuego bajo, revolviendo, hasta que espese.",
+   "Fuera del fuego, mezclá con el queso, la manteca, el huevo, el ajo y la pimienta.",
+   "Extendela sobre papel manteca y enfriala al menos 1 hora.",
+   "Cortala en cuadrados, pasalos por polenta seca y cocinalos en una capa 10 a 15 minutos a 200 °C, girándolos a la mitad."
+  ],
+  "consejo": "Con un tuco o un guiso arriba.",
+  "etiquetas": [
+   "guarniciones",
+   "sin gluten",
+   "italiana"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-33",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 180,
+   "proteinas": 5,
+   "grasas": 7,
+   "carbohidratos": 26
+  }
+ },
+ {
+  "slug": "a101-tostadas-con-palta-y-huevo",
+  "titulo": "Tostadas con palta y huevo",
+  "descripcion": "Pan integral con un huevo cocido en el centro y palta pisada.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 10,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "palta",
+    "nota": "madura",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "tomate cherry, cilantro o queso feta",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Pisá la palta con sal y pimienta.",
+   "Tostá el pan 3 a 5 minutos, hacele un hueco en el centro y rompé un huevo en cada uno.",
+   "Cocinalas 5 a 7 minutos más y untá la palta alrededor del huevo."
+  ],
+  "consejo": "Con cherry en mitades y feta desmenuzado.",
+  "etiquetas": [
+   "desayuno",
+   "huevos",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-34",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 10,
+   "grasas": 15,
+   "carbohidratos": 20
+  }
+ },
+ {
+  "slug": "a101-tostadas-francesas",
+  "titulo": "Tostadas francesas",
+  "descripcion": "Pan remojado en huevo, leche, vainilla y canela, dorado de los dos lados.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan",
+    "nota": "de molde o brioche",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "manteca",
+    "nota": "o aceite en aerosol",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "miel y frutas",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Batí los huevos con la leche, la vainilla y la canela.",
+   "Precalentá la freidora a 180 °C y engrasá la bandeja.",
+   "Pasá cada rodaja por la mezcla de los dos lados y acomodalas separadas.",
+   "Cociná 8 a 10 minutos, dándolas vuelta a la mitad."
+  ],
+  "consejo": "Con pan del día anterior absorben mejor sin romperse.",
+  "etiquetas": [
+   "desayuno",
+   "aprovechamiento",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-35",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 8,
+   "grasas": 8,
+   "carbohidratos": 20
+  }
+ },
+ {
+  "slug": "a101-waffles-clasicos",
+  "titulo": "Waffles clásicos",
+  "descripcion": "Waffles de harina, huevo y leche, en molde de silicona.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá los secos.",
+   "Batí el huevo con la leche, el aceite y la vainilla y unilo; puede quedar algún grumo.",
+   "Precalentá la freidora a 180 °C, aceitá el molde de waffles y llenalo sin pasarte del borde.",
+   "Cociná 5 a 7 minutos y repetí con el resto."
+  ],
+  "consejo": "Con miel, fruta o yogur.",
+  "etiquetas": [
+   "desayuno",
+   "merienda",
+   "chicos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-de-36",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Desayunos)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 5,
+   "grasas": 5,
+   "carbohidratos": 20
+  }
+ }
+]

@@ -1,0 +1,3639 @@
+[
+ {
+  "slug": "a101-banana-split-con-bananas-doradas",
+  "titulo": "Banana split con bananas doradas",
+  "descripcion": "Bananas caramelizadas en la freidora con helado, salsas y nueces.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "maduras",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "bola",
+    "nombre": "helado",
+    "nota": "de distintos gustos",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "salsa de chocolate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "mermelada",
+    "nota": "de frutilla, aflojada",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "dulce de leche",
+    "nota": "o salsa de caramelo",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "crema de leche",
+    "nota": "batida",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Pelá las bananas, cortalas al medio a lo largo y cocinalas 5 minutos, hasta que se doren.",
+   "Serví el helado en cuatro platos y acomodá dos mitades de banana junto a cada porción.",
+   "Cubrí con las tres salsas, las nueces y, si querés, crema batida."
+  ],
+  "consejo": "Serví enseguida: el calor de la banana derrite rápido el helado.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "helados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-01",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 400,
+   "proteinas": 5,
+   "grasas": 15,
+   "carbohidratos": 60
+  }
+ },
+ {
+  "slug": "a101-bizcochuelo-de-calabaza-especiado",
+  "titulo": "Bizcochuelo de calabaza especiado",
+  "descripcion": "Bizcochuelo húmedo de puré de calabaza con canela, nuez moscada y clavo.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 47,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "en puré",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "nuez moscada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "cucharadita",
+    "nombre": "clavo de olor",
+    "nota": "molido",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 160 °C.",
+   "Batí el puré con el azúcar, el aceite y los huevos.",
+   "Aparte, mezclá la harina con el bicarbonato, el polvo de hornear, la sal y las especias, y unilo de a poco.",
+   "Volcalo en un molde enmantecado y enharinado y cociná 45 a 50 minutos, hasta que un palillo salga limpio.",
+   "Dejalo 10 minutos en el molde y terminá de enfriarlo sobre una rejilla."
+  ],
+  "consejo": "Si se dora mucho arriba antes de estar cocido, tapalo con papel aluminio.",
+  "etiquetas": [
+   "postres",
+   "tortas",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-02",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 280,
+   "proteinas": 3,
+   "grasas": 16,
+   "carbohidratos": 32
+  }
+ },
+ {
+  "slug": "a101-bizcochuelo-de-chocolate",
+  "titulo": "Bizcochuelo de chocolate",
+  "descripcion": "Bizcochuelo de cacao con agua caliente, húmedo y liviano.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 27,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "caliente",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 160 °C.",
+   "Mezclá la harina, el cacao, el polvo de hornear, el bicarbonato y la sal.",
+   "Batí el huevo con el azúcar, sumá el aceite, la vainilla y la leche, y uní con los secos.",
+   "Agregá el agua caliente al final: la mezcla queda líquida.",
+   "Volcala en un molde enmantecado y cociná 25 a 30 minutos."
+  ],
+  "consejo": "El agua caliente intensifica el cacao y deja la miga muy húmeda.",
+  "etiquetas": [
+   "postres",
+   "chocolate",
+   "tortas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-03",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 4,
+   "grasas": 10,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-bizcochuelo-de-naranja",
+  "titulo": "Bizcochuelo de naranja",
+  "descripcion": "Bizcochuelo con jugo y ralladura de naranja, esponjoso.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 27,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.33,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "jugo de naranja",
+    "nota": "recién exprimido",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "naranja",
+    "nota": "ralladura",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 160 °C.",
+   "Batí los huevos con el azúcar hasta que espumen; sumá el aceite, el jugo y la ralladura.",
+   "Tamizá la harina con el polvo de hornear y la sal e incorporala de a poco.",
+   "Volcalo en un molde enmantecado y cociná 25 a 30 minutos.",
+   "Dejalo enfriar antes de desmoldar."
+  ],
+  "consejo": "Bañado con un almíbar de jugo de naranja y azúcar queda más húmedo.",
+  "etiquetas": [
+   "postres",
+   "cítricos",
+   "tortas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-04",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 3,
+   "grasas": 10,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-bizcochuelo-de-zanahoria",
+  "titulo": "Bizcochuelo de zanahoria",
+  "descripcion": "Bizcochuelo de zanahoria con mascabo, canela y nueces.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 27,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "grande",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 160 °C.",
+   "Mezclá los secos.",
+   "Batí el huevo con el aceite y la vainilla y uní con los secos.",
+   "Sumá la zanahoria y las nueces, volcalo en un molde enmantecado y cociná 25 a 30 minutos."
+  ],
+  "consejo": "Con una cobertura de queso crema y azúcar impalpable.",
+  "etiquetas": [
+   "postres",
+   "verduras",
+   "tortas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-05",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 3,
+   "grasas": 15,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-brownies-con-nueces",
+  "titulo": "Brownies con nueces",
+  "descripcion": "Brownies de chocolate y manteca, con nueces opcionales.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 9,
+  "tiempo_coccion_min": 22,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "chips de chocolate amargo",
+    "nota": "o chocolate negro",
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 160 °C.",
+   "Fundí el chocolate con la manteca y dejalo entibiar.",
+   "Batí los huevos con el azúcar y la vainilla y sumá el chocolate.",
+   "Tamizá encima la harina, el cacao y la sal, mezclá y agregá las nueces.",
+   "Cociná en un molde enmantecado 20 a 25 minutos y dejalo enfriar antes de cortar."
+  ],
+  "consejo": "Si lo querés más húmedo en el centro, sacalo a los 20 minutos.",
+  "etiquetas": [
+   "postres",
+   "chocolate",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-06",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 3,
+   "grasas": 12,
+   "carbohidratos": 20
+  }
+ },
+ {
+  "slug": "a101-budin-de-vainilla-y-limon",
+  "titulo": "Budín de vainilla y limón",
+  "descripcion": "Budín simple de vainilla perfumado con ralladura de limón.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 27,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "la ralladura",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 160 °C.",
+   "Mezclá los secos.",
+   "Batí el huevo con la leche, el aceite, la vainilla y la ralladura y unilo a los secos.",
+   "Volcalo en un molde enmantecado y cociná 25 a 30 minutos."
+  ],
+  "consejo": "Para el mate de la tarde.",
+  "etiquetas": [
+   "budines",
+   "cítricos",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-07",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 3,
+   "grasas": 8,
+   "carbohidratos": 30
+  }
+ },
+ {
+  "slug": "a101-aros-de-manzana-rebozados",
+  "titulo": "Aros de manzana rebozados",
+  "descripcion": "Rodajas de manzana con agujero, bañadas en una masa dulce con canela.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Pelá las manzanas, cortalas en rodajas y sacales el centro para formar aros.",
+   "Mezclá los secos; aparte, batí el huevo con la leche y la vainilla y uní todo.",
+   "Pasá cada aro por la masa y acomodalos separados en la canasta aceitada.",
+   "Cociná 8 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Espolvoreados con azúcar y canela apenas salen.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-08",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 3,
+   "grasas": 2,
+   "carbohidratos": 30
+  }
+ },
+ {
+  "slug": "a101-cannoli-de-ricota-y-chocolate",
+  "titulo": "Cannoli de ricota y chocolate",
+  "descripcion": "Tubos de masa crocante rellenos de ricota dulce con chips de chocolate.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "difícil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "vino blanco",
+    "nota": "o marsala, o agua",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "vinagre",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "ricota",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar impalpable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "chips de chocolate amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Uní la harina, el azúcar, la manteca, el vino, el huevo, el vinagre y la sal en una masa; envolvela y dejala 30 minutos en la heladera.",
+   "Mezclá la ricota con el impalpable, la vainilla y los chips y guardala en frío.",
+   "Dividí la masa en cuatro, estirala fina y enrollá cada disco en un tubo de metal, pegando el borde.",
+   "Rocialos con aceite y cociná 10 a 12 minutos a 180 °C.",
+   "Fríos, sacá los tubos y rellenalos."
+  ],
+  "consejo": "Rellenalos justo antes de servir para que la masa siga crocante.",
+  "etiquetas": [
+   "postres",
+   "italiana",
+   "quesos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-09",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 10,
+   "grasas": 15,
+   "carbohidratos": 45
+  }
+ },
+ {
+  "slug": "a101-cheesecake-clasico",
+  "titulo": "Cheesecake clásico",
+  "descripcion": "Cheesecake cremoso con base de galletitas y manteca.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 32,
+  "temperatura_c": 160,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "galletitas de vainilla",
+    "nota": "o tipo María",
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 200,
+    "unidad": "ml",
+    "nombre": "crema de leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá las galletitas, mezclalas con la manteca y apretalas en el fondo del molde; guardalo en la heladera.",
+   "Batí el queso con el azúcar, sumá la crema y después los huevos de a uno; terminá con la vainilla.",
+   "Volcalo sobre la base y cociná 30 a 35 minutos a 160 °C, hasta que el centro tiemble apenas.",
+   "Dejalo enfriar y llevalo al menos 4 horas a la heladera."
+  ],
+  "consejo": "Con frutos rojos o una salsa de frutas encima.",
+  "etiquetas": [
+   "postres",
+   "quesos",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-10",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 5,
+   "grasas": 25,
+   "carbohidratos": 28
+  }
+ },
+ {
+  "slug": "a101-cheesecake-de-cafe",
+  "titulo": "Cheesecake de café",
+  "descripcion": "Cheesecake con café instantáneo sobre base de galletitas María.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 32,
+  "temperatura_c": 160,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "galletitas de vainilla",
+    "nota": "tipo María",
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 150,
+    "unidad": "g",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "café",
+    "nota": "instantáneo, en 2 cucharadas de agua caliente",
+    "opcional": false
+   },
+   {
+    "cantidad": 200,
+    "unidad": "ml",
+    "nombre": "crema de leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá las galletitas con la manteca y apretalas en el molde; enfrialo.",
+   "Batí el queso con el azúcar y el café disuelto; sumá la crema, los huevos de a uno, la vainilla y la harina.",
+   "Volcalo sobre la base y cociná 30 a 35 minutos a 160 °C.",
+   "Enfrialo al menos 4 horas antes de servir."
+  ],
+  "consejo": "Con crema batida y una pizca de café espolvoreado.",
+  "etiquetas": [
+   "postres",
+   "quesos",
+   "café"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-11",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 6,
+   "grasas": 25,
+   "carbohidratos": 28
+  }
+ },
+ {
+  "slug": "a101-churros-con-azucar-y-canela",
+  "titulo": "Churros con azúcar y canela",
+  "descripcion": "Masa de churros cocida en olla, formada con manga y dorada al aire.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "azúcar y canela",
+    "nota": "para rebozar",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Herví el agua con el azúcar, la sal y el aceite.",
+   "Fuera del fuego, echá la harina de golpe y revolvé rápido hasta que se despegue de la olla.",
+   "Con manga y pico rizado, formá los churros sobre papel manteca aceitado.",
+   "Cocinalos 10 a 12 minutos a 180 °C y pasalos por azúcar con canela."
+  ],
+  "consejo": "Rellenos de dulce de leche con una manga fina, como en la costa.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-12",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 2,
+   "grasas": 5,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-cookies-con-chips-de-chocolate",
+  "titulo": "Cookies con chips de chocolate",
+  "descripcion": "Galletitas de manteca y mascabo con chips de chocolate.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "chips de chocolate amargo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la harina, el bicarbonato y la sal.",
+   "Uní la manteca con los dos azúcares, el huevo y la vainilla, y sumá los secos.",
+   "Agregá los chips, armá bolitas y aplastalas un poco en la canasta.",
+   "Cociná 8 a 10 minutos a 160 °C y dejalas enfriar: se afirman al enfriarse."
+  ],
+  "consejo": "Sacalas con el centro todavía blando para que queden tiernas.",
+  "etiquetas": [
+   "galletitas",
+   "chocolate",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-13",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 2,
+   "grasas": 8,
+   "carbohidratos": 18
+  }
+ },
+ {
+  "slug": "a101-cafe-con-leche-espumoso-especiado",
+  "titulo": "Café con leche espumoso especiado",
+  "descripcion": "Leche con café instantáneo, vainilla y canela, batida y calentada.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "café",
+    "nota": "instantáneo",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Batí todo hasta que haga espuma.",
+   "Volcalo en un recipiente apto y calentalo 10 a 15 minutos a 180 °C.",
+   "Servilo caliente."
+  ],
+  "consejo": "Media taza de café instantáneo es mucho: empezá con la mitad y probá.",
+  "etiquetas": [
+   "bebidas",
+   "café",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-14",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 3,
+   "grasas": 2,
+   "carbohidratos": 30
+  }
+ },
+ {
+  "slug": "a101-crema-de-frutillas-asadas",
+  "titulo": "Crema de frutillas asadas",
+  "descripcion": "Frutillas asadas con azúcar y limón, mezcladas con crema batida.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "frutillas",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "jugo de limón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "crema de leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Cortá las frutillas y mezclalas con el azúcar y el limón; dejalas 15 a 20 minutos.",
+   "Asalas en una fuente 10 a 15 minutos a 180 °C y dejalas entibiar.",
+   "Batí la crema con la vainilla a punto suave y mezclala con las frutillas.",
+   "Enfriala al menos 1 hora."
+  ],
+  "consejo": "Con merenguitos rotos arriba se parece a un Eton mess.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "crema"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-15",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 1,
+   "grasas": 9,
+   "carbohidratos": 18
+  }
+ },
+ {
+  "slug": "a101-creme-brulee-clasica",
+  "titulo": "Crème brûlée clásica",
+  "descripcion": "Crema de yemas y crema de leche, cocida en moldes y con costra de azúcar.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 160,
+  "dificultad": "difícil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "crema de leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "yema de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": "y más para la costra",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Batí las yemas con el azúcar hasta que estén claras.",
+   "Calentá la crema sin que hierva y volcala de a poco sobre las yemas, sin dejar de revolver; sumá la vainilla.",
+   "Repartila en moldes y cociná 15 a 20 minutos a 160 °C, hasta que el borde cuaje y el medio todavía se mueva.",
+   "Enfriala al menos 2 horas.",
+   "Cubrí con una capa fina de azúcar y caramelizá con soplete o unos minutos a máxima temperatura."
+  ],
+  "consejo": "Caramelizá justo antes de servir: la costra se ablanda en la heladera.",
+  "etiquetas": [
+   "postres",
+   "francesa",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-16",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 300,
+   "proteinas": 4,
+   "grasas": 25,
+   "carbohidratos": 18
+  }
+ },
+ {
+  "slug": "a101-crumble-de-manzana-con-manteca",
+  "titulo": "Crumble de manzana con manteca",
+  "descripcion": "Cubos de manzana con canela bajo una costra de harina, avena y manteca fría.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 22,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "peladas, en cubos",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "fría, en cubitos",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la manzana con el azúcar y la canela y pasala a una fuente apta.",
+   "Uní la harina, la avena, el mascabo y la sal, y sumá la manteca fría desarmándola con los dedos hasta tener un arenado.",
+   "Cubrí la fruta y cociná 20 a 25 minutos a 180 °C."
+  ],
+  "consejo": "Tibio, con helado de crema.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-17",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 2,
+   "grasas": 8,
+   "carbohidratos": 35
+  }
+ },
+ {
+  "slug": "a101-donas-glaseadas",
+  "titulo": "Donas glaseadas",
+  "descripcion": "Donas de masa con polvo de hornear, cortadas con molde y bañadas en glasé.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "azúcar impalpable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "leche",
+    "nota": "para el glasé",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá los secos; aparte, la leche, los huevos, la manteca y la vainilla, y uní todo.",
+   "Estirá la masa sobre la mesada enharinada y cortá las donas.",
+   "Cocinalas 5 a 7 minutos a 180 °C.",
+   "Mezclá el impalpable con la leche y bañá las donas todavía tibias."
+  ],
+  "consejo": "Con cacao en el glasé salen de chocolate.",
+  "etiquetas": [
+   "postres",
+   "merienda",
+   "chicos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-18",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 4,
+   "grasas": 5,
+   "carbohidratos": 35
+  }
+ },
+ {
+  "slug": "a101-flan-de-leche-condensada",
+  "titulo": "Flan de leche condensada",
+  "descripcion": "Flan denso de leche condensada y evaporada, cocido tapado en la freidora.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 35,
+  "temperatura_c": 160,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "lata",
+    "nombre": "leche condensada",
+    "nota": "395 g",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "lata",
+    "nombre": "leche evaporada",
+    "nota": "375 ml",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": "para el caramelo",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 160 °C.",
+   "Derretí el azúcar a fuego bajo hasta que se haga caramelo y cubrí el fondo de los moldes.",
+   "Batí las leches con los huevos y la vainilla y volcalo sobre el caramelo.",
+   "Tapá los moldes con papel aluminio y cociná 30 a 40 minutos, hasta que el centro tiemble apenas.",
+   "Enfrialos al menos 4 horas y desmoldalos pasando un cuchillo por el borde."
+  ],
+  "consejo": "Con dulce de leche o crema, como en la parrilla.",
+  "etiquetas": [
+   "postres",
+   "clásico argentino",
+   "flan"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-19",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 7,
+   "grasas": 8,
+   "carbohidratos": 38
+  }
+ },
+ {
+  "slug": "a101-galletitas-de-avena-pasas-y-canela",
+  "titulo": "Galletitas de avena, pasas y canela",
+  "descripcion": "Galletitas de avena entera con pasas, manteca y canela.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "manteca",
+    "nota": "blanda",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "pasas de uva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la harina, la avena, el bicarbonato, la canela y la sal.",
+   "Batí la manteca con los azúcares hasta que esté cremosa y sumá el huevo y la vainilla.",
+   "Uní con los secos y agregá las pasas.",
+   "Armá bolitas, aplastalas sobre papel manteca y cociná 8 a 10 minutos a 180 °C."
+  ],
+  "consejo": "Remojá las pasas 10 minutos en agua tibia para que no se sequen.",
+  "etiquetas": [
+   "galletitas",
+   "avena",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-20",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 2,
+   "grasas": 7,
+   "carbohidratos": 20
+  }
+ },
+ {
+  "slug": "a101-galletitas-blandas-de-calabaza",
+  "titulo": "Galletitas blandas de calabaza",
+  "descripcion": "Galletitas tiernas de puré de calabaza con especias y chips opcionales.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 24,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "en puré",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "nuez moscada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "chips de chocolate amargo",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Mezclá el puré con el azúcar, el huevo y la vainilla.",
+   "Sumá de a poco la harina con el bicarbonato, la sal y las especias; si querés, agregá los chips.",
+   "Armá bolitas separadas en la bandeja y cociná 10 a 12 minutos a 180 °C."
+  ],
+  "consejo": "Salen blandas, tipo bizcochito.",
+  "etiquetas": [
+   "galletitas",
+   "verduras",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-21",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 70,
+   "proteinas": 1,
+   "grasas": 1,
+   "carbohidratos": 15
+  }
+ },
+ {
+  "slug": "a101-galletitas-de-jengibre",
+  "titulo": "Galletitas de jengibre",
+  "descripcion": "Galletitas especiadas con melaza, jengibre, canela y clavo.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 24,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 175,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "jengibre",
+    "nota": "en polvo",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "clavo de olor",
+    "nota": "molido",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "manteca",
+    "nota": "blanda",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "miel",
+    "nota": "o melaza",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Tamizá la harina con el bicarbonato, las especias y la sal.",
+   "Batí la manteca con el mascabo, sumá la miel y el huevo, y uní con los secos.",
+   "Envolvé la masa y dejala al menos 1 hora en la heladera.",
+   "Armá bolitas del tamaño de una nuez, separadas, y cociná 8 a 10 minutos a 175 °C."
+  ],
+  "consejo": "Para Navidad, estiralas y cortalas con forma de muñequito.",
+  "etiquetas": [
+   "galletitas",
+   "especiado",
+   "fiestas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-22",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 90,
+   "proteinas": 1,
+   "grasas": 4,
+   "carbohidratos": 13
+  }
+ },
+ {
+  "slug": "a101-magdalenas-de-limon",
+  "titulo": "Magdalenas de limón",
+  "descripcion": "Magdalenas esponjosas de vainilla con ralladura de limón.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "limón",
+    "nota": "la ralladura",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Batí el huevo con el azúcar y sumá la leche, el aceite, la vainilla y la ralladura.",
+   "Incorporá la harina con el polvo de hornear y la sal.",
+   "Llená los moldes hasta dos tercios y cociná 10 a 12 minutos a 180 °C."
+  ],
+  "consejo": "Para el desayuno con café con leche.",
+  "etiquetas": [
+   "muffins",
+   "merienda",
+   "cítricos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-23",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 120,
+   "proteinas": 2,
+   "grasas": 5,
+   "carbohidratos": 17
+  }
+ },
+ {
+  "slug": "a101-rodajas-de-manzana-asadas-con-miel",
+  "titulo": "Rodajas de manzana asadas con miel",
+  "descripcion": "Manzana en rodajas con manteca, miel, mascabo y especias.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "grandes, peladas y sin centro",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "cucharadita",
+    "nombre": "nuez moscada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Rebaná las manzanas de 1 cm de espesor.",
+   "Mezclá la manteca con la miel, el azúcar y las especias y bañá las rodajas.",
+   "Cocinalas en una capa 10 a 15 minutos, dándolas vuelta a la mitad."
+  ],
+  "consejo": "Sobre panqueques o con yogur.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-24",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 140,
+   "proteinas": 0,
+   "grasas": 4,
+   "carbohidratos": 28
+  }
+ },
+ {
+  "slug": "a101-mousse-de-chocolate-y-crema",
+  "titulo": "Mousse de chocolate y crema",
+  "descripcion": "Chocolate al 70 % con crema batida, firmado apenas en la freidora y servido frío.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 17,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "chips de chocolate amargo",
+    "nota": "70 % de cacao",
+    "opcional": false
+   },
+   {
+    "cantidad": 240,
+    "unidad": "ml",
+    "nombre": "crema de leche",
+    "nota": "bien fría",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar impalpable",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "frutos rojos o menta",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Fundí el chocolate y dejalo entibiar.",
+   "Batí la crema con el azúcar y la vainilla a punto firme, sin pasarte.",
+   "Incorporala al chocolate con movimientos envolventes, hasta que no queden vetas blancas.",
+   "Repartila en moldes y llevala 15 a 20 minutos a 180 °C, hasta que esté firme.",
+   "Dejala enfriar y después al menos 1 hora en la heladera."
+  ],
+  "consejo": "Si preferís una mousse aireada clásica, salteá el paso de la freidora y llevala directo a la heladera.",
+  "etiquetas": [
+   "postres",
+   "chocolate",
+   "crema"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-25",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 300,
+   "proteinas": 3,
+   "grasas": 22,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-muffins-de-arandanos",
+  "titulo": "Muffins de arándanos",
+  "descripcion": "Muffins de vainilla con arándanos frescos o congelados.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "frutos rojos",
+    "nota": "arándanos",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá los secos.",
+   "Batí el huevo con el aceite, la leche y la vainilla y unilo sin batir de más.",
+   "Sumá los arándanos con cuidado.",
+   "Llená moldes hasta dos tercios y cociná 10 a 12 minutos a 180 °C."
+  ],
+  "consejo": "Si los arándanos son congelados, no los descongeles: así no tiñen la masa.",
+  "etiquetas": [
+   "muffins",
+   "frutas",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-26",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 2,
+   "grasas": 6,
+   "carbohidratos": 22
+  }
+ },
+ {
+  "slug": "a101-budin-integral-de-pera",
+  "titulo": "Budín integral de pera",
+  "descripcion": "Budín de harina integral con pera rallada, canela y nuez moscada.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 10,
+  "tiempo_coccion_min": 37,
+  "temperatura_c": 160,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pera",
+    "nota": "maduras, ralladas",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite de coco",
+    "nota": "o aceite",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "nuez moscada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 160 °C.",
+   "Mezclá la harina, el azúcar, las especias, el bicarbonato y la sal.",
+   "Batí los huevos con el aceite y la vainilla y sumá la pera.",
+   "Uní todo, volcalo en un molde enmantecado y cociná 35 a 40 minutos."
+  ],
+  "consejo": "Tostado con manteca o queso crema.",
+  "etiquetas": [
+   "budines",
+   "frutas",
+   "integral"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-27",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 180,
+   "proteinas": 3,
+   "grasas": 8,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-tarta-de-palta-y-lima-sin-harina",
+  "titulo": "Tarta de palta y lima sin harina",
+  "descripcion": "Base de coco, nueces y dátiles con un relleno cremoso de palta, lima y miel.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 42,
+  "temperatura_c": 160,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 60,
+    "unidad": "g",
+    "nombre": "coco rallado",
+    "nota": "y algo más para decorar",
+    "opcional": false
+   },
+   {
+    "cantidad": 160,
+    "unidad": "g",
+    "nombre": "nueces",
+    "nota": "pecanas o comunes",
+    "opcional": false
+   },
+   {
+    "cantidad": 30,
+    "unidad": "unidad",
+    "nombre": "dátiles",
+    "nota": "descarozados",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 5,
+    "unidad": "unidad",
+    "nombre": "palta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 150,
+    "unidad": "ml",
+    "nombre": "jugo de limón",
+    "nota": "o de lima",
+    "opcional": false
+   },
+   {
+    "cantidad": 210,
+    "unidad": "g",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite de coco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharadita",
+    "nombre": "ralladura de limón",
+    "nota": "de lima",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 160 °C.",
+   "Procesá el coco, las nueces, los dátiles y la sal hasta tener una pasta pegajosa y apretala en un molde forrado.",
+   "Procesá la pulpa de las paltas con el jugo, la miel, el aceite de coco y la ralladura hasta que esté liso.",
+   "Volcalo sobre la base y cociná 40 a 45 minutos, hasta que al tocarla no se hunda.",
+   "Dejala enfriar antes de desmoldar y decorala con coco."
+  ],
+  "consejo": "Muchas versiones de esta tarta no se cocinan: si la preferís cruda, llevala 4 horas al freezer.",
+  "etiquetas": [
+   "postres",
+   "sin harina",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-28",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 300,
+   "proteinas": 3,
+   "grasas": 22,
+   "carbohidratos": 27
+  }
+ },
+ {
+  "slug": "a101-torta-de-calabaza-con-mascabo",
+  "titulo": "Torta de calabaza con mascabo",
+  "descripcion": "Torta húmeda de calabaza con canela y nuez moscada.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 27,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "calabaza",
+    "nota": "en puré",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceite",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "nuez moscada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Batí el puré con el azúcar, el aceite y los huevos.",
+   "Sumá la harina con el polvo de hornear, el bicarbonato, las especias y la sal.",
+   "Volcalo en un molde enmantecado y cociná 25 a 30 minutos."
+  ],
+  "consejo": "Más compacta que el bizcochuelo de calabaza: se corta mejor para la vianda.",
+  "etiquetas": [
+   "postres",
+   "verduras",
+   "tortas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-29",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 200,
+   "proteinas": 3,
+   "grasas": 8,
+   "carbohidratos": 30
+  }
+ },
+ {
+  "slug": "a101-volcancitos-de-limon",
+  "titulo": "Volcancitos de limón",
+  "descripcion": "Bizcochitos de limón con el centro apenas cremoso.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "azúcar impalpable",
+    "nota": "y más para decorar",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "ralladura de limón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "jugo de limón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Batí el impalpable con la manteca, sumá los huevos, la ralladura y el jugo.",
+   "Incorporá la harina y la sal.",
+   "Llená moldes individuales enmantecados hasta la mitad y cociná 10 a 12 minutos.",
+   "Dejalos reposar unos minutos y espolvoreá impalpable."
+  ],
+  "consejo": "Servilos tibios, con rodajas de limón.",
+  "etiquetas": [
+   "postres",
+   "cítricos",
+   "porción individual"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-30",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 3,
+   "grasas": 12,
+   "carbohidratos": 35
+  }
+ },
+ {
+  "slug": "a101-pavlova-grande-con-frutas",
+  "titulo": "Pavlova grande con frutas",
+  "descripcion": "Merengue grande con vinagre y fécula, seco por fuera y tierno adentro, con crema y frutas.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 60,
+  "temperatura_c": 120,
+  "dificultad": "difícil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "clara de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "vinagre",
+    "nota": "de vino blanco",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "fécula de maíz",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "cremor tártaro",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "crema de leche",
+    "nota": "batida",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "frutas",
+    "nota": "frutillas, kiwi o mango",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 120 °C.",
+   "Batí las claras hasta que espumen, sumá el cremor y seguí hasta picos suaves.",
+   "Agregá el azúcar de a una cucharada hasta tener un merengue firme y brillante; incorporá el vinagre, la fécula y la vainilla.",
+   "Armá un disco con un hueco en el centro sobre papel manteca y cociná 1 hora.",
+   "Apagá y dejala enfriar adentro; al servir, rellenala con crema y frutas."
+  ],
+  "consejo": "Rellenala justo antes de comer: la crema ablanda el merengue.",
+  "etiquetas": [
+   "postres",
+   "merengue",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-31",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 3,
+   "grasas": 11,
+   "carbohidratos": 36
+  }
+ },
+ {
+  "slug": "a101-peras-asadas-con-nueces-y-helado",
+  "titulo": "Peras asadas con nueces y helado",
+  "descripcion": "Mitades de pera con miel y canela, con nueces y una bocha de helado.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "pera",
+    "nota": "maduras",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "miel",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "nueces",
+    "nota": "picadas",
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "helado",
+    "nota": "de vainilla",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Cortá las peras al medio, sacales el centro y bañalas con la miel y la canela.",
+   "Acomodalas con el corte hacia arriba, sumá las nueces y cociná 10 a 15 minutos.",
+   "Servilas calientes con helado."
+  ],
+  "consejo": "Calientes con helado frío es el contraste que buscás.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "helados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-32",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 100,
+   "proteinas": 1,
+   "grasas": 0.5,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-rodajas-de-banana-doradas",
+  "titulo": "Rodajas de banana doradas",
+  "descripcion": "Banana en rodajas gruesas con aceite de coco, sal y canela.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "banana",
+    "nota": "maduras",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de coco",
+    "nota": "o de oliva",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "canela",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Cortá las bananas en rodajas de 1 cm y mezclalas con el aceite.",
+   "Cocinalas en una capa 8 a 10 minutos, dándolas vuelta a la mitad.",
+   "Espolvoreá sal y canela."
+  ],
+  "consejo": "Como postre o al lado de un arroz con porotos, al estilo caribeño.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-33",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 100,
+   "proteinas": 1,
+   "grasas": 4,
+   "carbohidratos": 20
+  }
+ },
+ {
+  "slug": "a101-crema-tibia-de-chocolate",
+  "titulo": "Crema tibia de chocolate",
+  "descripcion": "Crema de cacao espesada en olla y entibiada en moldes.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": "de vaca o vegetal",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "cacao amargo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": "o edulcorante",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "fécula de maíz",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "chips de chocolate o crema batida",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "En una olla, mezclá el cacao, el azúcar, la fécula y la sal y sumá la leche de a poco.",
+   "Cociná a fuego medio, revolviendo, 5 a 7 minutos, hasta que espese; fuera del fuego, agregá la vainilla.",
+   "Repartila en tazas y dejala entibiar.",
+   "Calentala 5 a 7 minutos a 180 °C antes de servir, con chips o crema."
+  ],
+  "consejo": "También se come fría, directamente de la heladera.",
+  "etiquetas": [
+   "postres",
+   "chocolate",
+   "clásico"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-34",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 3,
+   "grasas": 3,
+   "carbohidratos": 30
+  }
+ },
+ {
+  "slug": "a101-postre-frio-de-maracuya",
+  "titulo": "Postre frío de maracuyá",
+  "descripcion": "Crema de maracuyá con leche condensada y crema, firmada con gelatina.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "maracuyá",
+    "nota": "pulpa colada, unas 6 frutas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "lata",
+    "nombre": "leche condensada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "crema de leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "sobre",
+    "nombre": "gelatina sin sabor",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "agua",
+    "nota": "caliente",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Colá la pulpa de maracuyá para sacar las semillas y mezclala con la leche condensada y la crema.",
+   "Disolvé la gelatina en el agua caliente, dejala entibiar y sumala.",
+   "Repartilo en moldes y llevalos 10 a 15 minutos a 180 °C.",
+   "Dejalo enfriar y después al menos 2 horas en la heladera."
+  ],
+  "consejo": "Unas semillas de maracuyá arriba le dan crocancia y color.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "sin harina"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-35",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 5,
+   "grasas": 15,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-tarta-de-limon-y-leche-condensada-con-merengue",
+  "titulo": "Tarta de limón y leche condensada con merengue",
+  "descripcion": "Base de galletitas, crema de limón con leche condensada y merengue dorado.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 160,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1.5,
+    "unidad": "taza",
+    "nombre": "galletitas de vainilla",
+    "nota": "molidas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.33,
+    "unidad": "taza",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "lata",
+    "nombre": "leche condensada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "yema de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "jugo de limón",
+    "nota": "recién exprimido",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ralladura de limón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 3,
+    "unidad": "unidad",
+    "nombre": "clara de huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 160 °C.",
+   "Mezclá las galletitas con la manteca y apretalas en el molde.",
+   "Batí las yemas con la leche condensada, el jugo y la ralladura y volcalo sobre la base.",
+   "Batí las claras hasta que espumen, sumá el azúcar y la vainilla y seguí hasta picos suaves; cubrí la tarta.",
+   "Cociná 15 a 20 minutos, hasta que el merengue dore, y dejala enfriar del todo."
+  ],
+  "consejo": "El jugo de limón cuaja la leche condensada: por eso el relleno se afirma con poca cocción.",
+  "etiquetas": [
+   "postres",
+   "cítricos",
+   "tartas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-36",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 320,
+   "proteinas": 6,
+   "grasas": 14,
+   "carbohidratos": 42
+  }
+ },
+ {
+  "slug": "a101-cheesecake-de-galletitas-de-chocolate",
+  "titulo": "Cheesecake de galletitas de chocolate",
+  "descripcion": "Base de galletitas de chocolate rellenas y un relleno de queso crema.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 32,
+  "temperatura_c": 160,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 24,
+    "unidad": "unidad",
+    "nombre": "galletitas de chocolate",
+    "nota": "rellenas",
+    "opcional": false
+   },
+   {
+    "cantidad": 50,
+    "unidad": "g",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 200,
+    "unidad": "ml",
+    "nombre": "crema de leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá las galletitas, mezclalas con la manteca y apretalas en el molde; enfrialo.",
+   "Batí el queso con el azúcar, sumá la crema, los huevos de a uno y la vainilla.",
+   "Volcalo sobre la base y cociná 30 a 35 minutos a 160 °C.",
+   "Enfrialo al menos 4 horas; servilo con más galletita molida arriba."
+  ],
+  "consejo": "Reservá dos galletitas para decorar.",
+  "etiquetas": [
+   "postres",
+   "quesos",
+   "chocolate"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-37",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 400,
+   "proteinas": 6,
+   "grasas": 30,
+   "carbohidratos": 30
+  }
+ },
+ {
+  "slug": "a101-tarta-de-pera-y-almendras",
+  "titulo": "Tarta de pera y almendras",
+  "descripcion": "Masa batida de vainilla cubierta con láminas de pera y almendras fileteadas.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 27,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pera",
+    "nota": "maduras, en láminas finas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "almendras",
+    "nota": "fileteadas",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Batí los huevos con el azúcar, sumá la manteca y la vainilla y después la harina con el polvo de hornear y la sal.",
+   "Volcalo en un molde enmantecado, acomodá las peras en abanico y espolvoreá las almendras.",
+   "Cociná 25 a 30 minutos, hasta que un palillo salga limpio."
+  ],
+  "consejo": "Pintada con un poco de mermelada de damasco al salir, brilla como de pastelería.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "tartas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-38",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 230,
+   "proteinas": 4,
+   "grasas": 9,
+   "carbohidratos": 34
+  }
+ },
+ {
+  "slug": "a101-cheesecake-de-frambuesas-y-yogur",
+  "titulo": "Cheesecake de frambuesas y yogur",
+  "descripcion": "Relleno de queso crema y yogur griego con frambuesas hundidas, sobre base de galletitas.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 32,
+  "temperatura_c": 160,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "galletitas de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "manteca",
+    "nota": "derretida",
+    "opcional": false
+   },
+   {
+    "cantidad": 400,
+    "unidad": "g",
+    "nombre": "queso untable",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "yogur griego",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "frutos rojos",
+    "nota": "frambuesas",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Procesá las galletitas con la manteca y apretalas en el molde; enfrialo.",
+   "Batí el queso con el yogur, el azúcar, los huevos y la vainilla y volcalo sobre la base.",
+   "Repartí las frambuesas encima, hundiéndolas apenas.",
+   "Cociná 30 a 35 minutos a 160 °C y enfrialo al menos 2 horas antes de desmoldar."
+  ],
+  "consejo": "El yogur lo hace más liviano y ácido que el cheesecake clásico.",
+  "etiquetas": [
+   "postres",
+   "quesos",
+   "frutas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-39",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 8,
+   "grasas": 25,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-volcanes-de-chocolate-negro",
+  "titulo": "Volcanes de chocolate negro",
+  "descripcion": "Volcanes de chocolate y manteca con el centro líquido, para dos.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "chips de chocolate amargo",
+    "nota": "o chocolate negro",
+    "opcional": false
+   },
+   {
+    "cantidad": 50,
+    "unidad": "g",
+    "nombre": "manteca",
+    "nota": "y algo más para los moldes",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 50,
+    "unidad": "g",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 30,
+    "unidad": "g",
+    "nombre": "harina",
+    "nota": "y algo más para los moldes",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Fundí el chocolate con la manteca.",
+   "Batí los huevos con el azúcar, sumá el chocolate y después la harina y la sal.",
+   "Enmantecá y enhariná dos moldes, llenalos hasta tres cuartos y cociná 10 a 12 minutos.",
+   "Dejalos reposar 1 a 2 minutos y desmoldalos."
+  ],
+  "consejo": "Con helado de crema al lado.",
+  "etiquetas": [
+   "postres",
+   "chocolate",
+   "porción individual"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-po-40",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Postres)",
+  "nutricion": {
+   "kcal": 400,
+   "proteinas": 7,
+   "grasas": 28,
+   "carbohidratos": 33
+  }
+ }
+]

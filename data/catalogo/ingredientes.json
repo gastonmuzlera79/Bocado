@@ -1,0 +1,2655 @@
+{
+ "_formato": "nombre: [categoría, es_básico (1/0), [sinónimos], palabras clave USDA SR Legacy (todas deben aparecer), gramos por unidad, gramos por taza]",
+ "huevo": [
+  "huevos y lácteos",
+  0,
+  [
+   "huevos",
+   "huevo entero"
+  ],
+  "egg|whole|raw|fresh",
+  50,
+  243
+ ],
+ "yema": [
+  "huevos y lácteos",
+  0,
+  [
+   "yemas"
+  ],
+  "egg|yolk|raw|fresh",
+  17,
+  null
+ ],
+ "clara de huevo": [
+  "huevos y lácteos",
+  0,
+  [
+   "claras",
+   "clara"
+  ],
+  "egg|white|raw|fresh",
+  33,
+  243
+ ],
+ "huevo duro": [
+  "huevos y lácteos",
+  0,
+  [
+   "huevos duros"
+  ],
+  "egg|whole|cooked|hard-boiled",
+  50,
+  null
+ ],
+ "leche": [
+  "huevos y lácteos",
+  0,
+  [
+   "leche entera",
+   "leche descremada",
+   "leche semidescremada"
+  ],
+  "milk|reduced fat|fluid|2%|vitamin a",
+  null,
+  244
+ ],
+ "yogur": [
+  "huevos y lácteos",
+  0,
+  [
+   "yogur natural",
+   "yogurt",
+   "yogur griego"
+  ],
+  "yogurt|plain|whole milk",
+  null,
+  245
+ ],
+ "ricota": [
+  "huevos y lácteos",
+  0,
+  [
+   "ricotta",
+   "ricota magra"
+  ],
+  "cheese|ricotta|part skim",
+  null,
+  246
+ ],
+ "queso rallado": [
+  "huevos y lácteos",
+  0,
+  [
+   "parmesano",
+   "queso parmesano",
+   "reggianito"
+  ],
+  "cheese|parmesan|grated",
+  null,
+  100
+ ],
+ "queso magro": [
+  "huevos y lácteos",
+  0,
+  [
+   "queso light",
+   "queso cremoso",
+   "queso en fetas"
+  ],
+  "cheese|mozzarella|low moisture|part-skim",
+  null,
+  113
+ ],
+ "queso port salut": [
+  "huevos y lácteos",
+  0,
+  [
+   "port salut"
+  ],
+  "cheese|port de salut",
+  null,
+  null
+ ],
+ "mozzarella": [
+  "huevos y lácteos",
+  0,
+  [
+   "muzzarella",
+   "mozarella"
+  ],
+  "cheese|mozzarella|whole milk",
+  null,
+  113
+ ],
+ "queso untable": [
+  "huevos y lácteos",
+  0,
+  [
+   "queso crema",
+   "queso blanco"
+  ],
+  "cheese|cream",
+  null,
+  232
+ ],
+ "manteca": [
+  "huevos y lácteos",
+  0,
+  [
+   "mantequilla"
+  ],
+  "butter|salted",
+  null,
+  227
+ ],
+ "crema de leche": [
+  "huevos y lácteos",
+  0,
+  [
+   "crema",
+   "crema liviana"
+  ],
+  "cream|fluid|heavy whipping",
+  null,
+  238
+ ],
+ "dulce de leche": [
+  "dulces",
+  0,
+  [],
+  "dulce de leche",
+  null,
+  306
+ ],
+ "harina": [
+  "harinas y cereales",
+  0,
+  [
+   "harina 0000",
+   "harina común",
+   "harina de trigo"
+  ],
+  "wheat flour|white|all-purpose|enriched|bleached",
+  null,
+  125
+ ],
+ "harina integral": [
+  "harinas y cereales",
+  0,
+  [],
+  "wheat flour|whole-grain",
+  null,
+  120
+ ],
+ "harina de garbanzo": [
+  "harinas y cereales",
+  0,
+  [
+   "harina de garbanzos"
+  ],
+  "chickpea flour",
+  null,
+  92
+ ],
+ "harina de almendras": [
+  "harinas y cereales",
+  0,
+  [
+   "almendra molida",
+   "almendras molidas"
+  ],
+  "nuts|almonds",
+  null,
+  95
+ ],
+ "harina de algarroba": [
+  "harinas y cereales",
+  0,
+  [],
+  "carob flour",
+  null,
+  103
+ ],
+ "fécula de maíz": [
+  "harinas y cereales",
+  0,
+  [
+   "maicena",
+   "almidón de maíz"
+  ],
+  "cornstarch",
+  null,
+  128
+ ],
+ "fécula de mandioca": [
+  "harinas y cereales",
+  0,
+  [
+   "almidón de mandioca",
+   "harina de mandioca"
+  ],
+  "tapioca|pearl|dry",
+  null,
+  152
+ ],
+ "avena": [
+  "harinas y cereales",
+  0,
+  [
+   "avena arrollada",
+   "avena molida",
+   "avena instantánea",
+   "copos de avena"
+  ],
+  "cereals|oats|regular and quick|not fortified|dry",
+  null,
+  81
+ ],
+ "arroz": [
+  "harinas y cereales",
+  0,
+  [
+   "arroz blanco",
+   "arroz integral"
+  ],
+  "rice|white|long-grain|regular|enriched|cooked",
+  null,
+  158
+ ],
+ "polenta": [
+  "harinas y cereales",
+  0,
+  [
+   "harina de maíz"
+  ],
+  "cornmeal|degermed|enriched|yellow",
+  null,
+  157
+ ],
+ "pan rallado": [
+  "panificados y masas",
+  0,
+  [
+   "rebozador"
+  ],
+  "bread|crumbs|dry|grated|plain",
+  null,
+  108
+ ],
+ "pan integral": [
+  "panificados y masas",
+  0,
+  [
+   "pan lactal integral"
+  ],
+  "bread|whole-wheat|commercially prepared",
+  28,
+  null
+ ],
+ "pan": [
+  "panificados y masas",
+  0,
+  [
+   "pan lactal",
+   "pan francés",
+   "pan de miga"
+  ],
+  "bread|white|commercially prepared",
+  28,
+  null
+ ],
+ "pan árabe": [
+  "panificados y masas",
+  0,
+  [
+   "pan pita"
+  ],
+  "bread|pita|white|enriched",
+  60,
+  null
+ ],
+ "tortillas de trigo": [
+  "panificados y masas",
+  0,
+  [
+   "tortillas",
+   "rapiditas"
+  ],
+  "tortillas|ready-to-bake|flour",
+  45,
+  null
+ ],
+ "tapas de empanada": [
+  "panificados y masas",
+  0,
+  [
+   "tapa de empanada"
+  ],
+  "wheat flour|white|all-purpose|enriched|bleached",
+  25,
+  null
+ ],
+ "tapa de tarta": [
+  "panificados y masas",
+  0,
+  [
+   "masa de tarta",
+   "masa hojaldrada"
+  ],
+  "pie crust|refrigerated|regular|baked",
+  300,
+  null
+ ],
+ "masa de pizza": [
+  "panificados y masas",
+  0,
+  [
+   "prepizza"
+  ],
+  "pizza|cheese topping|regular crust",
+  null,
+  null
+ ],
+ "lasaña": [
+  "pastas",
+  0,
+  [
+   "láminas de lasaña",
+   "lámina de lasaña"
+  ],
+  "pasta|cooked|enriched|without added salt",
+  30,
+  null
+ ],
+ "ñoquis": [
+  "pastas",
+  0,
+  [
+   "ñoquis de papa"
+  ],
+  "potatoes|boiled|cooked without skin",
+  null,
+  null
+ ],
+ "ravioles": [
+  "pastas",
+  0,
+  [],
+  "pasta|cooked|enriched|without added salt",
+  null,
+  null
+ ],
+ "sorrentinos": [
+  "pastas",
+  0,
+  [],
+  "pasta|cooked|enriched|without added salt",
+  25,
+  null
+ ],
+ "fideos": [
+  "pastas",
+  0,
+  [
+   "pasta",
+   "fideos secos",
+   "spaghetti"
+  ],
+  "pasta|cooked|enriched|without added salt",
+  null,
+  140
+ ],
+ "panqueque": [
+  "panificados y masas",
+  0,
+  [
+   "panqueques",
+   "crepes"
+  ],
+  "pancakes|plain|prepared from recipe",
+  40,
+  null
+ ],
+ "polvo de hornear": [
+  "almacén",
+  1,
+  [
+   "polvo leudante"
+  ],
+  "leavening agents|baking powder|double-acting|sodium aluminum sulfate",
+  null,
+  null
+ ],
+ "levadura seca": [
+  "almacén",
+  0,
+  [
+   "levadura"
+  ],
+  "leavening agents|yeast|baker's|active dry",
+  null,
+  null
+ ],
+ "proteína en polvo": [
+  "almacén",
+  0,
+  [
+   "proteina whey"
+  ],
+  "beverages|whey protein powder isolate",
+  null,
+  null
+ ],
+ "azúcar": [
+  "endulzantes",
+  0,
+  [
+   "azúcar blanca",
+   "azúcar común"
+  ],
+  "sugars|granulated",
+  null,
+  200
+ ],
+ "azúcar mascabo": [
+  "endulzantes",
+  0,
+  [
+   "azúcar morena",
+   "azúcar rubia"
+  ],
+  "sugars|brown",
+  null,
+  220
+ ],
+ "miel": [
+  "endulzantes",
+  0,
+  [],
+  "honey",
+  null,
+  339
+ ],
+ "edulcorante": [
+  "endulzantes",
+  0,
+  [
+   "stevia",
+   "eritritol"
+  ],
+  null,
+  null,
+  null
+ ],
+ "cacao amargo": [
+  "almacén",
+  0,
+  [
+   "cacao en polvo"
+  ],
+  "cocoa|dry powder|unsweetened",
+  null,
+  86
+ ],
+ "chips de chocolate amargo": [
+  "dulces",
+  0,
+  [
+   "chips de chocolate",
+   "chocolate amargo"
+  ],
+  "chocolate|dark|70-85% cacao solids",
+  null,
+  170
+ ],
+ "coco rallado": [
+  "frutos secos y semillas",
+  0,
+  [
+   "coco"
+  ],
+  "nuts|coconut meat|dried|not sweetened",
+  null,
+  80
+ ],
+ "esencia de vainilla": [
+  "almacén",
+  1,
+  [
+   "vainilla",
+   "extracto de vainilla"
+  ],
+  "vanilla extract",
+  null,
+  null
+ ],
+ "fruta fresca": [
+  "frutas",
+  0,
+  [
+   "frutas frescas"
+  ],
+  null,
+  null,
+  null
+ ],
+ "aceite": [
+  "aceites",
+  1,
+  [
+   "aceite neutro",
+   "aceite de girasol",
+   "aceite vegetal",
+   "aceite de maíz",
+   "grasa vegetal"
+  ],
+  "oil|sunflow",
+  null,
+  218
+ ],
+ "aceite de oliva": [
+  "aceites",
+  1,
+  [
+   "oliva"
+  ],
+  "oil|olive|salad or cooking",
+  null,
+  216
+ ],
+ "aceite de coco": [
+  "aceites",
+  0,
+  [],
+  "oil|coconut",
+  null,
+  218
+ ],
+ "aceite en aerosol": [
+  "aceites",
+  1,
+  [
+   "rocío vegetal",
+   "spray de aceite"
+  ],
+  "oil|sunflow",
+  null,
+  null
+ ],
+ "sal": [
+  "condimentos y especias",
+  1,
+  [
+   "sal gruesa",
+   "sal fina",
+   "sal marina"
+  ],
+  "salt|table",
+  null,
+  292
+ ],
+ "pimienta": [
+  "condimentos y especias",
+  1,
+  [
+   "pimienta negra"
+  ],
+  "spices|pepper|black",
+  null,
+  null
+ ],
+ "agua": [
+  "almacén",
+  1,
+  [],
+  null,
+  null,
+  237
+ ],
+ "orégano": [
+  "condimentos y especias",
+  1,
+  [
+   "oregano"
+  ],
+  "spices|oregano|dried",
+  null,
+  null
+ ],
+ "pimentón": [
+  "condimentos y especias",
+  1,
+  [
+   "pimentón dulce",
+   "paprika",
+   "pimentón ahumado"
+  ],
+  "spices|paprika",
+  null,
+  null
+ ],
+ "comino": [
+  "condimentos y especias",
+  1,
+  [],
+  "spices|cumin seed",
+  null,
+  null
+ ],
+ "nuez moscada": [
+  "condimentos y especias",
+  1,
+  [],
+  "spices|nutmeg|ground",
+  null,
+  null
+ ],
+ "ajo en polvo": [
+  "condimentos y especias",
+  1,
+  [],
+  "spices|garlic powder",
+  null,
+  null
+ ],
+ "canela": [
+  "condimentos y especias",
+  1,
+  [
+   "canela molida"
+  ],
+  "spices|cinnamon|ground",
+  null,
+  null
+ ],
+ "curry": [
+  "condimentos y especias",
+  0,
+  [
+   "curry en polvo"
+  ],
+  "spices|curry powder",
+  null,
+  null
+ ],
+ "cúrcuma": [
+  "condimentos y especias",
+  0,
+  [],
+  "spices|turmeric|ground",
+  null,
+  null
+ ],
+ "jengibre": [
+  "condimentos y especias",
+  0,
+  [
+   "jengibre fresco"
+  ],
+  "ginger root|raw",
+  null,
+  null
+ ],
+ "romero": [
+  "condimentos y especias",
+  1,
+  [
+   "romero seco"
+  ],
+  "spices|rosemary|dried",
+  null,
+  null
+ ],
+ "tomillo": [
+  "condimentos y especias",
+  1,
+  [
+   "tomillo seco"
+  ],
+  "spices|thyme|dried",
+  null,
+  null
+ ],
+ "hierbas secas": [
+  "condimentos y especias",
+  1,
+  [
+   "hierbas provenzales",
+   "finas hierbas"
+  ],
+  "spices|basil|dried",
+  null,
+  null
+ ],
+ "perejil seco": [
+  "condimentos y especias",
+  1,
+  [],
+  "spices|parsley|dried",
+  null,
+  null
+ ],
+ "chimichurri seco": [
+  "condimentos y especias",
+  1,
+  [
+   "chimichurri"
+  ],
+  "spices|oregano|dried",
+  null,
+  null
+ ],
+ "eneldo": [
+  "condimentos y especias",
+  0,
+  [],
+  "dill weed|fresh",
+  null,
+  null
+ ],
+ "semillas de amapola": [
+  "frutos secos y semillas",
+  0,
+  [
+   "amapola"
+  ],
+  "spices|poppy seed",
+  null,
+  null
+ ],
+ "mostaza": [
+  "salsas y aderezos",
+  0,
+  [
+   "mostaza dijon"
+  ],
+  "mustard|prepared|yellow",
+  null,
+  null
+ ],
+ "mayonesa": [
+  "salsas y aderezos",
+  0,
+  [],
+  "salad dressing|mayonnaise|regular",
+  null,
+  220
+ ],
+ "salsa de soja": [
+  "salsas y aderezos",
+  0,
+  [
+   "soja",
+   "salsa de soya"
+  ],
+  "soy sauce made from soy and wheat (shoyu)",
+  null,
+  null
+ ],
+ "salsa de tomate": [
+  "salsas y aderezos",
+  0,
+  [
+   "puré de tomate",
+   "tomate triturado",
+   "salsa fileto",
+   "fileto"
+  ],
+  "tomato products|canned|sauce",
+  null,
+  245
+ ],
+ "salsa barbacoa": [
+  "salsas y aderezos",
+  0,
+  [
+   "barbacoa"
+  ],
+  "sauce|barbecue",
+  null,
+  null
+ ],
+ "vinagre": [
+  "salsas y aderezos",
+  0,
+  [
+   "aceto",
+   "aceto balsámico",
+   "vinagre de alcohol",
+   "vinagre de manzana",
+   "vinagre de arroz"
+  ],
+  "vinegar|distilled",
+  null,
+  null
+ ],
+ "hummus": [
+  "salsas y aderezos",
+  0,
+  [],
+  "hummus|commercial",
+  null,
+  246
+ ],
+ "pesto": [
+  "salsas y aderezos",
+  0,
+  [],
+  "sauce|pesto|ready-to-serve|refrigerated",
+  null,
+  null
+ ],
+ "pasta de maní": [
+  "frutos secos y semillas",
+  0,
+  [
+   "mantequilla de maní",
+   "manteca de maní"
+  ],
+  "peanut butter|smooth style|without salt",
+  null,
+  258
+ ],
+ "nueces": [
+  "frutos secos y semillas",
+  0,
+  [
+   "nuez"
+  ],
+  "nuts|walnuts|english",
+  null,
+  117
+ ],
+ "almendras": [
+  "frutos secos y semillas",
+  0,
+  [
+   "almendra",
+   "almendras fileteadas"
+  ],
+  "nuts|almonds",
+  null,
+  143
+ ],
+ "maní": [
+  "frutos secos y semillas",
+  0,
+  [
+   "maníes"
+  ],
+  "peanuts|all types|raw",
+  null,
+  146
+ ],
+ "frutos secos": [
+  "frutos secos y semillas",
+  0,
+  [
+   "mix de frutos secos"
+  ],
+  "nuts|mixed nuts|dry roasted|with peanuts|without salt",
+  null,
+  137
+ ],
+ "pasas": [
+  "frutas",
+  0,
+  [
+   "pasas de uva",
+   "uvas pasas"
+  ],
+  "raisins|seedless",
+  null,
+  145
+ ],
+ "semillas": [
+  "frutos secos y semillas",
+  0,
+  [
+   "mix de semillas"
+  ],
+  "seeds|sesame seeds|whole|dried",
+  null,
+  144
+ ],
+ "semillas de chía": [
+  "frutos secos y semillas",
+  0,
+  [
+   "chía"
+  ],
+  "seeds|chia seeds|dried",
+  null,
+  160
+ ],
+ "semillas de lino": [
+  "frutos secos y semillas",
+  0,
+  [
+   "lino",
+   "linaza",
+   "lino molido"
+  ],
+  "seeds|flaxseed",
+  null,
+  168
+ ],
+ "semillas de sésamo": [
+  "frutos secos y semillas",
+  0,
+  [
+   "sésamo"
+  ],
+  "seeds|sesame seeds|whole|dried",
+  null,
+  144
+ ],
+ "banana": [
+  "frutas",
+  0,
+  [
+   "bananas",
+   "plátano"
+  ],
+  "bananas|raw",
+  118,
+  225
+ ],
+ "manzana": [
+  "frutas",
+  0,
+  [
+   "manzanas"
+  ],
+  "apples|raw|with skin",
+  180,
+  125
+ ],
+ "pera": [
+  "frutas",
+  0,
+  [
+   "peras"
+  ],
+  "pears|raw",
+  178,
+  140
+ ],
+ "durazno": [
+  "frutas",
+  0,
+  [
+   "duraznos",
+   "melocotón"
+  ],
+  "peaches|yellow|raw",
+  150,
+  154
+ ],
+ "frutilla": [
+  "frutas",
+  0,
+  [
+   "frutillas",
+   "fresa",
+   "fresas"
+  ],
+  "strawberries|raw",
+  12,
+  152
+ ],
+ "arándanos": [
+  "frutas",
+  0,
+  [
+   "arándano"
+  ],
+  "blueberries|raw",
+  null,
+  148
+ ],
+ "uvas": [
+  "frutas",
+  0,
+  [
+   "uva"
+  ],
+  "grapes|red or green|raw",
+  5,
+  151
+ ],
+ "limón": [
+  "frutas",
+  0,
+  [
+   "limones"
+  ],
+  "lemons|raw|without peel",
+  58,
+  null
+ ],
+ "jugo de limón": [
+  "frutas",
+  0,
+  [
+   "zumo de limón"
+  ],
+  "lemon juice|raw",
+  null,
+  244
+ ],
+ "ralladura de limón": [
+  "frutas",
+  0,
+  [
+   "cáscara de limón"
+  ],
+  "lemon peel|raw",
+  null,
+  null
+ ],
+ "naranja": [
+  "frutas",
+  0,
+  [
+   "naranjas",
+   "mandarina"
+  ],
+  "oranges|raw|all commercial varieties",
+  140,
+  null
+ ],
+ "jugo de naranja": [
+  "frutas",
+  0,
+  [
+   "zumo de naranja"
+  ],
+  "orange juice|raw",
+  null,
+  248
+ ],
+ "kiwi": [
+  "frutas",
+  0,
+  [],
+  "kiwifruit|green|raw",
+  75,
+  180
+ ],
+ "ananá": [
+  "frutas",
+  0,
+  [
+   "piña"
+  ],
+  "pineapple|raw|all varieties",
+  null,
+  165
+ ],
+ "palta": [
+  "frutas",
+  0,
+  [
+   "aguacate"
+  ],
+  "avocados|raw|all commercial varieties",
+  200,
+  150
+ ],
+ "papa": [
+  "verduras",
+  0,
+  [
+   "papas",
+   "patata",
+   "papines",
+   "papín"
+  ],
+  "potatoes|flesh and skin|raw",
+  170,
+  150
+ ],
+ "batata": [
+  "verduras",
+  0,
+  [
+   "batatas",
+   "boniato",
+   "camote"
+  ],
+  "sweet potato|raw|unprepared",
+  130,
+  133
+ ],
+ "cebolla": [
+  "verduras",
+  0,
+  [
+   "cebollas"
+  ],
+  "onions|raw",
+  110,
+  160
+ ],
+ "cebolla de verdeo": [
+  "verduras",
+  0,
+  [
+   "verdeo",
+   "cebollín"
+  ],
+  "onions|spring or scallions|raw",
+  15,
+  100
+ ],
+ "ajo": [
+  "verduras",
+  0,
+  [
+   "diente de ajo",
+   "ajos"
+  ],
+  "garlic|raw",
+  3,
+  null
+ ],
+ "morrón": [
+  "verduras",
+  0,
+  [
+   "morrón rojo",
+   "morrón verde",
+   "pimiento",
+   "pimiento rojo",
+   "ají morrón"
+  ],
+  "peppers|sweet|red|raw",
+  120,
+  149
+ ],
+ "tomate": [
+  "verduras",
+  0,
+  [
+   "tomates",
+   "tomate perita",
+   "tomates cherry",
+   "tomate cherry",
+   "tomates secos"
+  ],
+  "tomatoes|red|ripe|raw|year round average",
+  123,
+  180
+ ],
+ "zanahoria": [
+  "verduras",
+  0,
+  [
+   "zanahorias"
+  ],
+  "carrots|raw",
+  61,
+  128
+ ],
+ "zapallito": [
+  "verduras",
+  0,
+  [
+   "zapallitos",
+   "zapallito redondo",
+   "zapallito verde"
+  ],
+  "squash|summer|all varieties|raw",
+  200,
+  113
+ ],
+ "zucchini": [
+  "verduras",
+  0,
+  [
+   "zuchini",
+   "calabacín"
+  ],
+  "squash|summer|zucchini|includes skin|raw",
+  200,
+  124
+ ],
+ "calabaza": [
+  "verduras",
+  0,
+  [
+   "calabaza cabutia",
+   "anco",
+   "zapallo anco"
+  ],
+  "squash|winter|butternut|raw",
+  null,
+  140
+ ],
+ "zapallo": [
+  "verduras",
+  0,
+  [
+   "zapallo cabutia"
+  ],
+  "pumpkin|raw",
+  null,
+  116
+ ],
+ "berenjena": [
+  "verduras",
+  0,
+  [
+   "berenjenas"
+  ],
+  "eggplant|raw",
+  450,
+  82
+ ],
+ "espinaca": [
+  "verduras",
+  0,
+  [
+   "espinacas"
+  ],
+  "spinach|raw",
+  null,
+  30
+ ],
+ "acelga": [
+  "verduras",
+  0,
+  [],
+  "chard|swiss|raw",
+  null,
+  36
+ ],
+ "brócoli": [
+  "verduras",
+  0,
+  [
+   "brocoli"
+  ],
+  "broccoli|raw",
+  null,
+  91
+ ],
+ "coliflor": [
+  "verduras",
+  0,
+  [],
+  "cauliflower|raw",
+  null,
+  107
+ ],
+ "lechuga": [
+  "verduras",
+  0,
+  [],
+  "lettuce|green leaf|raw",
+  null,
+  36
+ ],
+ "rúcula": [
+  "verduras",
+  0,
+  [
+   "rucula"
+  ],
+  "arugula|raw",
+  null,
+  20
+ ],
+ "pepino": [
+  "verduras",
+  0,
+  [],
+  "cucumber|with peel|raw",
+  300,
+  104
+ ],
+ "choclo": [
+  "verduras",
+  0,
+  [
+   "maíz dulce",
+   "granos de choclo",
+   "choclo en granos"
+  ],
+  "corn|sweet|yellow|raw",
+  null,
+  145
+ ],
+ "arvejas": [
+  "verduras",
+  0,
+  [
+   "arveja",
+   "guisantes"
+  ],
+  "peas|green|raw",
+  null,
+  145
+ ],
+ "champiñones": [
+  "verduras",
+  0,
+  [
+   "hongos",
+   "champiñón"
+  ],
+  "mushrooms|white|raw",
+  null,
+  70
+ ],
+ "perejil": [
+  "verduras",
+  0,
+  [
+   "perejil fresco"
+  ],
+  "parsley|fresh",
+  null,
+  60
+ ],
+ "albahaca": [
+  "verduras",
+  0,
+  [
+   "albahaca fresca"
+  ],
+  "basil|fresh",
+  null,
+  24
+ ],
+ "verduras cocidas": [
+  "verduras",
+  0,
+  [],
+  null,
+  null,
+  null
+ ],
+ "garbanzos": [
+  "legumbres",
+  0,
+  [
+   "garbanzo"
+  ],
+  "chickpeas (garbanzo beans, bengal gram)|mature seeds|cooked|boiled|without salt",
+  null,
+  164
+ ],
+ "lentejas": [
+  "legumbres",
+  0,
+  [
+   "lenteja"
+  ],
+  "lentils|mature seeds|cooked|boiled|without salt",
+  null,
+  198
+ ],
+ "porotos negros": [
+  "legumbres",
+  0,
+  [
+   "porotos",
+   "frijoles negros"
+  ],
+  "beans|black|mature seeds|cooked|boiled|without salt",
+  null,
+  172
+ ],
+ "soja texturizada": [
+  "legumbres",
+  0,
+  [
+   "proteína de soja texturizada"
+  ],
+  "soy protein concentrate|produced by alcohol extraction",
+  null,
+  null
+ ],
+ "carne vacuna": [
+  "carnes",
+  0,
+  [
+   "carne",
+   "cuadril",
+   "nalga",
+   "bola de lomo",
+   "cuadrada",
+   "bife",
+   "bifes",
+   "peceto",
+   "roast beef",
+   "paleta",
+   "carnaza"
+  ],
+  "beef|round|top round|separable lean only|trimmed to 0\" fat|select|raw",
+  null,
+  null
+ ],
+ "lomo": [
+  "carnes",
+  0,
+  [
+   "lomo vacuno"
+  ],
+  "beef|tenderloin|steak|separable lean only|trimmed to 1/8\" fat|all grades|raw",
+  null,
+  null
+ ],
+ "carne picada": [
+  "carnes",
+  0,
+  [
+   "carne molida",
+   "picada"
+  ],
+  "beef|ground|90% lean meat / 10% fat|raw",
+  null,
+  null
+ ],
+ "tira de asado": [
+  "carnes",
+  0,
+  [
+   "asado",
+   "costillas"
+  ],
+  "beef|short loin|t-bone steak|separable lean and fat|trimmed to 1/8\" fat|all grades|raw",
+  null,
+  null
+ ],
+ "matambre vacuno": [
+  "carnes",
+  0,
+  [
+   "matambre"
+  ],
+  "beef|flank|steak|separable lean and fat|trimmed to 0\" fat|choice|raw",
+  null,
+  null
+ ],
+ "bondiola de cerdo": [
+  "carnes",
+  0,
+  [
+   "bondiola"
+  ],
+  "pork|fresh|shoulder|blade|boston|separable lean and fat|raw",
+  null,
+  null
+ ],
+ "carne de cerdo": [
+  "carnes",
+  0,
+  [
+   "cerdo",
+   "solomillo de cerdo"
+  ],
+  "pork|fresh|loin|tenderloin|separable lean only|raw",
+  null,
+  null
+ ],
+ "jamón cocido": [
+  "carnes",
+  0,
+  [
+   "jamón",
+   "jamón natural"
+  ],
+  "ham|sliced|regular (approximately 11% fat)",
+  20,
+  null
+ ],
+ "salchicha": [
+  "carnes",
+  0,
+  [
+   "salchichas",
+   "panchos"
+  ],
+  "frankfurter|beef|unheated",
+  45,
+  null
+ ],
+ "pollo": [
+  "pollo",
+  0,
+  [
+   "muslo de pollo",
+   "muslos de pollo",
+   "pata muslo"
+  ],
+  "chicken|broilers or fryers|meat only|raw",
+  null,
+  null
+ ],
+ "pechuga de pollo": [
+  "pollo",
+  0,
+  [
+   "pechugas",
+   "suprema de pollo",
+   "supremas",
+   "filet de pollo",
+   "pollo molido",
+   "pollo picado"
+  ],
+  "chicken|broilers or fryers|breast|skinless|boneless|meat only|raw",
+  170,
+  null
+ ],
+ "milanesa de pollo": [
+  "pollo",
+  0,
+  [
+   "milanesas de pollo"
+  ],
+  "chicken|broilers or fryers|breast|meat only|fried",
+  150,
+  null
+ ],
+ "merluza": [
+  "pescados y mariscos",
+  0,
+  [
+   "filet de merluza"
+  ],
+  "fish|cod|atlantic|raw",
+  150,
+  null
+ ],
+ "pescado": [
+  "pescados y mariscos",
+  0,
+  [
+   "pescado blanco",
+   "brótola",
+   "lenguado",
+   "filet de pescado"
+  ],
+  "fish|cod|atlantic|raw",
+  150,
+  null
+ ],
+ "salmón": [
+  "pescados y mariscos",
+  0,
+  [
+   "salmon"
+  ],
+  "fish|salmon|atlantic|farmed|raw",
+  150,
+  null
+ ],
+ "atún al natural": [
+  "pescados y mariscos",
+  0,
+  [
+   "atún",
+   "atún en agua",
+   "lata de atún"
+  ],
+  "fish|tuna|light|canned in water|drained solids",
+  120,
+  null
+ ],
+ "calamar": [
+  "pescados y mariscos",
+  0,
+  [
+   "calamares",
+   "rabas"
+  ],
+  "mollusks|squid|mixed species|raw",
+  null,
+  null
+ ],
+ "mariscos": [
+  "pescados y mariscos",
+  0,
+  [
+   "langostinos",
+   "camarones",
+   "mejillones"
+  ],
+  "crustaceans|shrimp|raw",
+  null,
+  null
+ ],
+ "mate cocido": [
+  "almacén",
+  0,
+  [
+   "yerba mate"
+  ],
+  "beverages|tea|brewed|prepared with tap water",
+  null,
+  237
+ ],
+ "panceta": [
+  "carnes",
+  0,
+  [
+   "panceta ahumada",
+   "bacon"
+  ],
+  "pork|cured|bacon|unprepared",
+  15,
+  null
+ ],
+ "entraña": [
+  "carnes",
+  0,
+  [],
+  "beef|plate steak|boneless|inside skirt|separable lean only|trimmed to 0\" fat|all grades|raw",
+  null,
+  null
+ ],
+ "bife ancho": [
+  "carnes",
+  0,
+  [
+   "ojo de bife"
+  ],
+  "beef|rib eye steak|boneless|lip off|separable lean and fat|trimmed to 0\" fat|all grades|raw",
+  250,
+  null
+ ],
+ "bife de chorizo": [
+  "carnes",
+  0,
+  [],
+  "beef|short loin|top loin|separable lean and fat|raw",
+  250,
+  null
+ ],
+ "costillitas de cerdo": [
+  "carnes",
+  0,
+  [
+   "costillas de cerdo",
+   "costilla de cerdo"
+  ],
+  "pork|fresh|spareribs|separable lean and fat|raw",
+  null,
+  null
+ ],
+ "carré de cerdo": [
+  "carnes",
+  0,
+  [
+   "carré"
+  ],
+  "pork|fresh|loin|center rib (chops or roasts)|boneless|separable lean only|raw",
+  150,
+  null
+ ],
+ "alitas de pollo": [
+  "pollo",
+  0,
+  [
+   "alitas",
+   "alas de pollo"
+  ],
+  "chicken|broilers or fryers|wing|meat and skin|raw",
+  45,
+  null
+ ],
+ "milanesa de carne": [
+  "carnes",
+  0,
+  [
+   "milanesas de carne"
+  ],
+  "beef|round|top round|separable lean only|cooked",
+  150,
+  null
+ ],
+ "vino blanco": [
+  "almacén",
+  0,
+  [],
+  "alcoholic beverage|wine|table|white",
+  null,
+  236
+ ],
+ "vino tinto": [
+  "almacén",
+  0,
+  [
+   "malbec",
+   "vino malbec"
+  ],
+  "alcoholic beverage|wine|table|red",
+  null,
+  236
+ ],
+ "cerveza negra": [
+  "almacén",
+  0,
+  [
+   "cerveza",
+   "cerveza rubia"
+  ],
+  "alcoholic beverage|beer|regular|all",
+  null,
+  237
+ ],
+ "salsa inglesa": [
+  "salsas y aderezos",
+  0,
+  [
+   "worcestershire"
+  ],
+  "sauce|worcestershire",
+  null,
+  null
+ ],
+ "salsa picante": [
+  "salsas y aderezos",
+  0,
+  [
+   "tabasco",
+   "picante"
+  ],
+  "sauce|hot chile|sriracha",
+  null,
+  null
+ ],
+ "salsa criolla": [
+  "salsas y aderezos",
+  0,
+  [],
+  "tomatoes|red|ripe|raw|year round average",
+  null,
+  null
+ ],
+ "copos de maíz": [
+  "harinas y cereales",
+  0,
+  [
+   "corn flakes",
+   "copos de maíz sin azúcar"
+  ],
+  "cereals ready-to-eat|corn flakes",
+  null,
+  28
+ ],
+ "vacío": [
+  "carnes",
+  0,
+  [
+   "vacio"
+  ],
+  "beef|flank|steak|separable lean and fat|trimmed to 0\" fat|choice|raw",
+  null,
+  null
+ ],
+ "quinoa": [
+  "harinas y cereales",
+  0,
+  [
+   "quínoa"
+  ],
+  "quinoa|cooked",
+  null,
+  185
+ ],
+ "ajo negro": [
+  "verduras",
+  0,
+  [],
+  "garlic|raw",
+  3,
+  null
+ ],
+ "aceite de sésamo": [
+  "aceites",
+  0,
+  [],
+  "oil|sesame|salad or cooking",
+  null,
+  218
+ ],
+ "caldo": [
+  "almacén",
+  0,
+  [
+   "caldo de verduras",
+   "caldo de carne"
+  ],
+  "soup|stock|beef|home-prepared",
+  null,
+  240
+ ],
+ "ciboulette": [
+  "verduras",
+  0,
+  [
+   "cebollín"
+  ],
+  "chives|raw",
+  null,
+  null
+ ],
+ "laurel": [
+  "condimentos y especias",
+  1,
+  [
+   "hojas de laurel"
+  ],
+  "spices|bay leaf",
+  null,
+  null
+ ],
+ "portobello": [
+  "verduras",
+  0,
+  [
+   "portobellos",
+   "hongos portobello"
+  ],
+  "mushrooms|portabella|raw",
+  85,
+  null
+ ],
+ "remolacha": [
+  "verduras",
+  0,
+  [
+   "remolachas"
+  ],
+  "beets|raw",
+  80,
+  136
+ ],
+ "queso feta": [
+  "huevos y lácteos",
+  0,
+  [
+   "feta"
+  ],
+  "cheese|feta",
+  null,
+  150
+ ],
+ "queso azul": [
+  "huevos y lácteos",
+  0,
+  [
+   "roquefort"
+  ],
+  "cheese|blue",
+  null,
+  135
+ ],
+ "ají molido": [
+  "condimentos y especias",
+  1,
+  [
+   "aji molido",
+   "pimiento rojo molido"
+  ],
+  "spices|pepper|red or cayenne",
+  null,
+  null
+ ],
+ "harina de arroz": [
+  "harinas y cereales",
+  0,
+  [],
+  "rice flour|white|unenriched",
+  null,
+  158
+ ],
+ "harina leudante": [
+  "harinas y cereales",
+  0,
+  [
+   "harina autoleudante",
+   "harina leudante 0000"
+  ],
+  "wheat flour|white|all-purpose|self-rising|enriched",
+  null,
+  125
+ ],
+ "leche vegetal": [
+  "huevos y lácteos",
+  0,
+  [
+   "bebida vegetal",
+   "leche de almendras",
+   "leche de avena"
+  ],
+  "beverages|almond milk|unsweetened|shelf stable",
+  null,
+  240
+ ],
+ "jamón crudo": [
+  "carnes",
+  0,
+  [
+   "prosciutto"
+  ],
+  "ham|cured|boneless|extra lean|unheated",
+  15,
+  null
+ ],
+ "azúcar impalpable": [
+  "endulzantes",
+  0,
+  [
+   "azúcar glas",
+   "azúcar en polvo"
+  ],
+  "sugars|powdered",
+  null,
+  120
+ ],
+ "mermelada": [
+  "dulces",
+  0,
+  [
+   "mermelada sin azúcar"
+  ],
+  "jams and preserves",
+  null,
+  null
+ ],
+ "aceitunas": [
+  "almacén",
+  0,
+  [
+   "aceitunas verdes",
+   "aceitunas negras"
+  ],
+  "olives|ripe|canned (small-extra large)",
+  4,
+  null
+ ],
+ "queso fresco": [
+  "huevos y lácteos",
+  0,
+  [
+   "queso cremoso",
+   "queso de campo"
+  ],
+  "cheese|queso fresco",
+  null,
+  null
+ ],
+ "queso brie": [
+  "huevos y lácteos",
+  0,
+  [
+   "brie"
+  ],
+  "cheese|brie",
+  null,
+  null
+ ],
+ "galletitas integrales": [
+  "almacén",
+  0,
+  [
+   "galletitas",
+   "galletas integrales"
+  ],
+  "crackers|whole-wheat",
+  8,
+  null
+ ],
+ "especias": [
+  "condimentos y especias",
+  1,
+  [
+   "especias a gusto",
+   "condimentos"
+  ],
+  "spices|paprika",
+  null,
+  null
+ ],
+ "caramelo líquido": [
+  "dulces",
+  0,
+  [
+   "caramelo"
+  ],
+  "toppings|caramel",
+  null,
+  320
+ ],
+ "gelatina sin sabor": [
+  "almacén",
+  0,
+  [
+   "gelatina"
+  ],
+  "gelatins|dry powder|unsweetened",
+  null,
+  null
+ ],
+ "frutos rojos": [
+  "frutas",
+  0,
+  [
+   "frutas rojas",
+   "berries",
+   "frambuesas"
+  ],
+  "blueberries|raw",
+  null,
+  148
+ ],
+ "galletitas de chocolate": [
+  "almacén",
+  0,
+  [
+   "galletitas chocolinas"
+  ],
+  "cookies|chocolate wafers",
+  6,
+  null
+ ],
+ "dulce de membrillo": [
+  "dulces",
+  0,
+  [
+   "membrillo"
+  ],
+  "jams and preserves",
+  null,
+  null
+ ],
+ "bizcochuelo": [
+  "almacén",
+  0,
+  [
+   "pionono"
+  ],
+  "cake|sponge|commercially prepared",
+  60,
+  null
+ ],
+ "durazno en almíbar": [
+  "frutas",
+  0,
+  [
+   "duraznos en almíbar"
+  ],
+  "peaches|canned|heavy syrup|solids and liquids",
+  100,
+  null
+ ],
+ "café": [
+  "bebidas",
+  0,
+  [
+   "café fuerte"
+  ],
+  "coffee|brewed|tap water",
+  null,
+  237
+ ],
+ "frutas": [
+  "frutas",
+  0,
+  [
+   "frutas variadas",
+   "fruta fresca"
+  ],
+  "fruit cocktail|canned|juice pack",
+  null,
+  240
+ ],
+ "melón": [
+  "frutas",
+  0,
+  [
+   "melones"
+  ],
+  "melons|cantaloupe|raw",
+  null,
+  160
+ ],
+ "yema de huevo": [
+  "huevos y lácteos",
+  0,
+  [
+   "yemas",
+   "yema"
+  ],
+  "egg|yolk|raw|fresh",
+  17,
+  null
+ ],
+ "vainillas": [
+  "almacén",
+  0,
+  [
+   "vainillas integrales",
+   "bizcochos de vainilla"
+  ],
+  "ladyfingers",
+  11,
+  null
+ ],
+ "mango": [
+  "frutas",
+  0,
+  [
+   "mangos"
+  ],
+  "mangos|raw",
+  200,
+  165
+ ],
+ "dulce de batata": [
+  "dulces",
+  0,
+  [
+   "batata en dulce"
+  ],
+  "jams and preserves",
+  null,
+  null
+ ],
+ "provoleta": [
+  "huevos y lácteos",
+  0,
+  [
+   "provolone"
+  ],
+  "cheese|provolone",
+  null,
+  null
+ ],
+ "queso cheddar": [
+  "huevos y lácteos",
+  0,
+  [
+   "cheddar"
+  ],
+  "cheese|cheddar",
+  null,
+  113
+ ],
+ "trucha": [
+  "pescados y mariscos",
+  0,
+  [
+   "trucha arcoíris"
+  ],
+  "fish|trout|rainbow|farmed|raw",
+  null,
+  null
+ ],
+ "cordero": [
+  "carnes",
+  0,
+  [
+   "carne de cordero",
+   "cordero picado"
+  ],
+  "lamb|ground|raw",
+  null,
+  null
+ ],
+ "tortillas de maíz": [
+  "almacén",
+  0,
+  [
+   "tortillas de maiz"
+  ],
+  "tortillas|ready-to-bake|corn",
+  26,
+  null
+ ],
+ "leche de coco": [
+  "bebidas",
+  0,
+  [],
+  "nuts|coconut milk|canned",
+  null,
+  240
+ ],
+ "queso de cabra": [
+  "huevos y lácteos",
+  0,
+  [
+   "chèvre"
+  ],
+  "cheese|goat|soft",
+  null,
+  null
+ ],
+ "aceite de trufa": [
+  "aceites",
+  0,
+  [
+   "aceite trufado",
+   "esencia trufada"
+  ],
+  "oil|olive|salad or cooking",
+  null,
+  null
+ ],
+ "pistachos": [
+  "frutos secos y semillas",
+  0,
+  [
+   "pistacho"
+  ],
+  "nuts|pistachio|raw",
+  null,
+  123
+ ],
+ "hongos secos": [
+  "verduras",
+  0,
+  [
+   "hongos de pino",
+   "boletus"
+  ],
+  "mushrooms|shiitake|dried",
+  null,
+  null
+ ],
+ "masa filo": [
+  "almacén",
+  0,
+  [
+   "masa phyllo"
+  ],
+  "phyllo dough",
+  19,
+  null
+ ],
+ "avellanas": [
+  "frutos secos y semillas",
+  0,
+  [
+   "avellana"
+  ],
+  "nuts|hazelnuts or filberts",
+  null,
+  135
+ ],
+ "chocolate blanco": [
+  "dulces",
+  0,
+  [],
+  "candies|white chocolate",
+  null,
+  170
+ ],
+ "licor": [
+  "bebidas",
+  0,
+  [
+   "coñac",
+   "licor de naranja"
+  ],
+  "alcoholic beverage|liqueur|coffee|53 proof",
+  null,
+  null
+ ],
+ "clavo de olor": [
+  "condimentos y especias",
+  1,
+  [
+   "clavos de olor"
+  ],
+  "spices|cloves|ground",
+  null,
+  null
+ ],
+ "cilantro": [
+  "verduras",
+  0,
+  [
+   "coriandro",
+   "perejil chino",
+   "cilantro en polvo"
+  ],
+  "coriander (cilantro) leaves|raw",
+  null,
+  16
+ ],
+ "masa de hojaldre": [
+  "panificados y masas",
+  0,
+  [
+   "hojaldre"
+  ],
+  "puff pastry|frozen|ready-to-bake",
+  null,
+  null
+ ],
+ "cebolla en polvo": [
+  "condimentos y especias",
+  1,
+  [],
+  "spices|onion powder",
+  null,
+  null
+ ],
+ "garam masala": [
+  "condimentos y especias",
+  1,
+  [],
+  "spices|curry powder",
+  null,
+  null
+ ],
+ "espárragos": [
+  "verduras",
+  0,
+  [
+   "espárrago"
+  ],
+  "asparagus|raw",
+  16,
+  134
+ ],
+ "pan de pancho": [
+  "panificados y masas",
+  0,
+  [
+   "pan para pancho",
+   "pan de hot dog"
+  ],
+  "rolls|hamburger or hotdog|plain",
+  44,
+  null
+ ],
+ "chauchas": [
+  "verduras",
+  0,
+  [
+   "judías verdes",
+   "porotos verdes"
+  ],
+  "beans|snap|green|raw",
+  null,
+  100
+ ],
+ "ají picante": [
+  "verduras",
+  0,
+  [
+   "jalapeño",
+   "ají jalapeño",
+   "chile"
+  ],
+  "peppers|jalapeno|raw",
+  14,
+  null
+ ],
+ "tofu": [
+  "legumbres",
+  0,
+  [
+   "tofu firme"
+  ],
+  "tofu|raw|firm|prepared with calcium sulfate",
+  null,
+  252
+ ],
+ "salame": [
+  "carnes",
+  0,
+  [
+   "salamín",
+   "pepperoni"
+  ],
+  "salami|cooked|beef and pork",
+  null,
+  null
+ ],
+ "maíz pisingallo": [
+  "harinas y cereales",
+  0,
+  [
+   "maíz para pochoclo",
+   "pochoclo"
+  ],
+  "snacks|popcorn|air-popped",
+  null,
+  8
+ ],
+ "cangrejo": [
+  "pescados y mariscos",
+  0,
+  [
+   "carne de cangrejo",
+   "kanikama"
+  ],
+  "crustaceans|crab|blue|canned",
+  null,
+  null
+ ],
+ "apio": [
+  "verduras",
+  0,
+  [
+   "apio en rama"
+  ],
+  "celery|raw",
+  40,
+  101
+ ],
+ "pavo": [
+  "pollo",
+  0,
+  [
+   "pechuga de pavo",
+   "fiambre de pavo"
+  ],
+  "turkey|breast|meat only|roasted",
+  null,
+  140
+ ],
+ "bicarbonato de sodio": [
+  "almacén",
+  1,
+  [
+   "bicarbonato"
+  ],
+  "leavening agents|baking soda",
+  null,
+  null
+ ],
+ "porotos blancos": [
+  "legumbres",
+  0,
+  [
+   "alubias",
+   "frijoles blancos"
+  ],
+  "beans|white|mature seeds|canned",
+  null,
+  262
+ ],
+ "porotos colorados": [
+  "legumbres",
+  0,
+  [
+   "porotos rojos",
+   "frijoles rojos"
+  ],
+  "beans|kidney|red|mature seeds|canned|solids and liquids",
+  null,
+  256
+ ],
+ "chorizo": [
+  "carnes",
+  0,
+  [
+   "chorizo colorado",
+   "chorizo de cerdo"
+  ],
+  "sausage|pork|chorizo|raw",
+  null,
+  null
+ ],
+ "bacalao": [
+  "pescados y mariscos",
+  0,
+  [
+   "bacalao desalado"
+  ],
+  "fish|cod|atlantic|raw",
+  null,
+  null
+ ],
+ "queso vegano": [
+  "almacén",
+  0,
+  [
+   "queso vegetal"
+  ],
+  "imitation cheese|american or cheddar",
+  null,
+  113
+ ],
+ "repollo": [
+  "verduras",
+  0,
+  [
+   "col",
+   "repollo blanco",
+   "repollo colorado"
+  ],
+  "cabbage|raw",
+  null,
+  89
+ ],
+ "brotes de soja": [
+  "verduras",
+  0,
+  [
+   "brotes de poroto mung"
+  ],
+  "mung beans|mature seeds|sprouted|raw",
+  null,
+  104
+ ],
+ "fideos de arroz": [
+  "pastas",
+  0,
+  [
+   "fideos de arroz secos"
+  ],
+  "rice noodles|dry",
+  null,
+  null
+ ],
+ "hierbas frescas": [
+  "condimentos y especias",
+  1,
+  [
+   "hierbas"
+  ],
+  "parsley|fresh",
+  null,
+  null
+ ],
+ "alcauciles": [
+  "verduras",
+  0,
+  [
+   "alcachofas",
+   "corazones de alcaucil"
+  ],
+  "artichokes|cooked, boiled, drained, without salt",
+  null,
+  null
+ ],
+ "galletitas de vainilla": [
+  "almacén",
+  0,
+  [
+   "galletitas María",
+   "galletitas dulces",
+   "galletas digestive"
+  ],
+  "cookies|vanilla wafers|lower fat",
+  4,
+  null
+ ],
+ "leche condensada": [
+  "huevos y lácteos",
+  0,
+  [],
+  "milk|canned|condensed|sweetened",
+  null,
+  306
+ ],
+ "helado": [
+  "dulces",
+  0,
+  [
+   "helado de crema",
+   "helado de vainilla"
+  ],
+  "ice creams|vanilla",
+  null,
+  132
+ ],
+ "salsa de chocolate": [
+  "dulces",
+  0,
+  [
+   "salsa de caramelo"
+  ],
+  "syrups|chocolate|fudge-type",
+  null,
+  null
+ ],
+ "leche evaporada": [
+  "huevos y lácteos",
+  0,
+  [],
+  "milk|canned|evaporated|without added vitamin a",
+  null,
+  252
+ ],
+ "dátiles": [
+  "frutas",
+  0,
+  [
+   "dátil"
+  ],
+  "dates|medjool",
+  24,
+  null
+ ],
+ "cremor tártaro": [
+  "almacén",
+  1,
+  [],
+  "leavening agents|cream of tartar",
+  null,
+  null
+ ],
+ "maracuyá": [
+  "frutas",
+  0,
+  [
+   "fruta de la pasión",
+   "pulpa de maracuyá"
+  ],
+  "passion-fruit|(granadilla)|purple|raw",
+  18,
+  236
+ ]
+}

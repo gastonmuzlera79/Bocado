@@ -1,4 +1,24 @@
+# Secretos: nunca se suben
+.env
+.env.*
+!.env.example
+
+# Dependencias y compilados
 node_modules/
+.next/
+dist/
+__pycache__/
+*.pyc
+.venv/
+
+# Material fuente con derechos de autor: no se sube al repositorio
+fuentes/
+*.pdf
+
+# Sistema
 .DS_Store
-*.log
+Thumbs.db
+
+# Sitio estático generado por tools/sitio_estatico.mjs
 _site/
+*.log

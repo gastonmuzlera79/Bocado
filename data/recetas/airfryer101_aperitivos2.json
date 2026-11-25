@@ -1,0 +1,2704 @@
+[
+ {
+  "slug": "a101-bastones-de-manzana-con-dip-de-caramelo",
+  "titulo": "Bastones de manzana con dip de caramelo",
+  "descripcion": "Manzana cortada como papas fritas, con azúcar y canela, para mojar en crema con caramelo.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "grandes, peladas, en bastones",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "jugo de limón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "crema de leche",
+    "nota": "batida",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "dulce de leche",
+    "nota": "o salsa de caramelo",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Mezclá los bastones con el limón para que no se oscurezcan y después con el azúcar y la canela.",
+   "Acomodalos en una capa sobre la canasta aceitada y cociná 8 a 10 minutos, moviéndolos a la mitad.",
+   "Mientras, mezclá la crema batida con el caramelo y servilo al lado."
+  ],
+  "consejo": "Con manzanas verdes el contraste con el dulce es mejor.",
+  "etiquetas": [
+   "postres",
+   "frutas",
+   "chicos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-01",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 150,
+   "proteinas": 1,
+   "grasas": 7,
+   "carbohidratos": 22
+  }
+ },
+ {
+  "slug": "a101-aros-de-cebolla-rellenos-de-hamburguesa",
+  "titulo": "Aros de cebolla rellenos de hamburguesa",
+  "descripcion": "Dos aros de cebolla con carne y cheddar en el medio, empanados y crocantes.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "queso cheddar",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "pan rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "batidos",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Cortá las cebollas en aros gruesos y separá los más grandes.",
+   "Mezclá la carne con el cheddar, sal y pimienta.",
+   "Poné un poco de carne entre dos aros del mismo tamaño y apretá para cerrar.",
+   "Pasalos por harina, huevo y pan rallado, rocialos con aceite y cociná en una capa 10 a 12 minutos, girándolos a la mitad."
+  ],
+  "consejo": "Con kétchup y mostaza, como una hamburguesa en bocado.",
+  "etiquetas": [
+   "carnes",
+   "picadas",
+   "empanados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-02",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 220,
+   "proteinas": 12,
+   "grasas": 10,
+   "carbohidratos": 18
+  }
+ },
+ {
+  "slug": "a101-paquetitos-de-hojaldre-con-carne-hongos-y-queso",
+  "titulo": "Paquetitos de hojaldre con carne, hongos y queso",
+  "descripcion": "Cuadrados de hojaldre rellenos de carne salteada con champiñones y queso.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "carne picada",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "chica, picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "champiñones",
+    "nota": "picados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": "gruyere o pategrás",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "perejil",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "lámina",
+    "nombre": "masa de hojaldre",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "batido",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Dorá la carne en una sartén y escurrí la grasa; sumá la cebolla, el ajo y los champiñones y cociná hasta que estén tiernos. Salpimentá.",
+   "Fuera del fuego, dejalo entibiar y agregá el queso y el perejil.",
+   "Cortá el hojaldre en cuadrados de 15 cm, poné relleno en el centro y cerralos llevando las puntas al medio.",
+   "Pintalos con huevo y cociná en una capa 10 a 12 minutos a 180 °C."
+  ],
+  "consejo": "Se pueden armar el día anterior y cocinar en el momento.",
+  "etiquetas": [
+   "carnes",
+   "masas",
+   "para compartir"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-03",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 400,
+   "proteinas": 20,
+   "grasas": 28,
+   "carbohidratos": 20
+  }
+ },
+ {
+  "slug": "a101-berenjenas-abiertas-con-quesos",
+  "titulo": "Berenjenas abiertas con quesos",
+  "descripcion": "Medias berenjenas con cortes en rombo, rellenas de mozzarella y parmesano.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 22,
+  "temperatura_c": 200,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": "medianas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "mozzarella",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": "parmesano",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "orégano",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 200 °C.",
+   "Cortá las berenjenas a lo largo y marcá la pulpa en diagonal sin llegar a la piel.",
+   "Mezclá los quesos con el ajo, el orégano, sal y pimienta y repartilos sobre la pulpa.",
+   "Rocialas con aceite y cociná 20 a 25 minutos, con la pulpa hacia arriba.",
+   "En los últimos 5 minutos, cubrilas con la salsa."
+  ],
+  "consejo": "Con una ensalada verde es una cena completa.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "quesos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-04",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 14,
+   "grasas": 14,
+   "carbohidratos": 20
+  }
+ },
+ {
+  "slug": "a101-sandwich-de-tomate-verde-empanado-y-panceta",
+  "titulo": "Sándwich de tomate verde empanado y panceta",
+  "descripcion": "Rodajas de tomate verde crocantes con panceta, lechuga y mayonesa, en pan integral.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "verdes, grandes, en rodajas gruesas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": "con unas gotas de limón",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "polenta",
+    "nota": "harina de maíz",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "pan rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "tira",
+    "nombre": "panceta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "hoja",
+    "nombre": "lechuga",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "mayonesa",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C y salpimentá las rodajas de tomate.",
+   "Pasalas por harina, después por la leche y por la mezcla de polenta y pan rallado.",
+   "Cocinalas en una capa 8 a 10 minutos, girándolas a la mitad.",
+   "Cociná la panceta 5 a 7 minutos y escurrila en papel; si querés, tostá el pan 2 a 3 minutos.",
+   "Untá el pan con mayonesa y armá los sándwiches con lechuga, tomate y panceta."
+  ],
+  "consejo": "Los tomates verdes son firmes y ácidos; si no conseguís, usá tomate redondo bien duro.",
+  "etiquetas": [
+   "sándwiches",
+   "cerdo",
+   "empanados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-05",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 420,
+   "proteinas": 12,
+   "grasas": 24,
+   "carbohidratos": 38
+  }
+ },
+ {
+  "slug": "a101-calzones-de-salame-y-champinones",
+  "titulo": "Calzones de salame y champiñones",
+  "descripcion": "Masa de pizza doblada con salsa, mozzarella, salame, hongos y morrón.",
+  "categoria": "Panes, pizzas y masas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "masa de pizza",
+    "nota": "comprada o casera",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "mozzarella",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salame",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "champiñones",
+    "nota": "en láminas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "morrón",
+    "nota": "verde, en tiras",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "batido",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "harina",
+    "nota": "para estirar",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Dividí la masa en cuatro y estirá discos sobre la mesada enharinada.",
+   "Poné en el centro de cada uno salsa, mozzarella, salame, champiñones y morrón.",
+   "Doblalos al medio, sellá el borde con un tenedor y pintalos con huevo.",
+   "Cocinalos en tandas 8 a 10 minutos."
+  ],
+  "consejo": "Hacele un corte chico arriba para que salga el vapor.",
+  "etiquetas": [
+   "pizza",
+   "italiana",
+   "para compartir"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-06",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 15,
+   "grasas": 15,
+   "carbohidratos": 40
+  }
+ },
+ {
+  "slug": "a101-croquetas-de-pavo",
+  "titulo": "Croquetas de pavo",
+  "descripcion": "Croquetas cremosas de pavo cocido con cebolla y apio, empanadas.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 200,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "pavo",
+    "nota": "cocido y desmenuzado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "cebolla",
+    "nota": "bien picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "apio",
+    "nota": "bien picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picados",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "caldo",
+    "nota": "de pollo",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "pan rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "batido",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Rehogá la cebolla, el apio y el ajo en el aceite.",
+   "Sumá la harina, revolvé 1 a 2 minutos y agregá la leche y el caldo de a poco, hasta que espese.",
+   "Incorporá el pavo, salpimentá y dejá enfriar la mezcla.",
+   "Armá croquetas, pasalas por huevo y pan rallado y rocialas con aceite.",
+   "Cocinalas 10 a 12 minutos a 200 °C, girándolas a la mitad."
+  ],
+  "consejo": "Salen igual de bien con pollo que sobró del día anterior.",
+  "etiquetas": [
+   "aprovechamiento",
+   "picadas",
+   "empanados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-07",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 180,
+   "proteinas": 15,
+   "grasas": 8,
+   "carbohidratos": 12
+  }
+ },
+ {
+  "slug": "a101-esparragos-con-costra-de-parmesano",
+  "titulo": "Espárragos con costra de parmesano",
+  "descripcion": "Espárragos rebozados en pan rallado con parmesano y ajo.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 200,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "atado",
+    "nombre": "espárragos",
+    "nota": "sin la parte dura",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "pan rallado",
+    "nota": "mejor si es panko",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": "parmesano",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite de oliva",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 200 °C.",
+   "Mezclá el pan rallado con el queso y los condimentos.",
+   "Rociá los espárragos con aceite y hacelos rodar por la mezcla.",
+   "Cocinalos en una capa 8 a 10 minutos, sacudiendo a la mitad."
+  ],
+  "consejo": "Con un huevo poché arriba son un plato.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "guarniciones"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-08",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 120,
+   "proteinas": 6,
+   "grasas": 5,
+   "carbohidratos": 14
+  }
+ },
+ {
+  "slug": "a101-arroz-con-porotos-blancos-especiados",
+  "titulo": "Arroz con porotos blancos especiados",
+  "descripcion": "Arroz cocido y porotos blancos con comino, ajo y cebolla, dorados en la canasta.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "arroz",
+    "nota": "cocido",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "lata",
+    "nombre": "porotos blancos",
+    "nota": "escurridos y enjuagados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "cebolla en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "comino",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "caldo",
+    "nota": "de verduras, opcional",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Mezclá el arroz con los porotos, el aceite y las especias; si lo querés más húmedo, sumá el caldo.",
+   "Pasalo a una fuente apta y cociná 10 a 12 minutos, revolviendo a la mitad."
+  ],
+  "consejo": "Plato económico y completo: legumbre más cereal.",
+  "etiquetas": [
+   "legumbres",
+   "vegano",
+   "económica"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-09",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 12,
+   "grasas": 6,
+   "carbohidratos": 60
+  }
+ },
+ {
+  "slug": "a101-porotos-colorados-crocantes",
+  "titulo": "Porotos colorados crocantes",
+  "descripcion": "Porotos de lata secados y tostados con pimentón ahumado, para picar.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 12,
+  "temperatura_c": 200,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "lata",
+    "nombre": "porotos colorados",
+    "nota": "escurridos y enjuagados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": "ahumado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "cebolla en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "comino",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 200 °C.",
+   "Secá bien los porotos y mezclalos con el aceite y las especias.",
+   "Cocinalos en una capa 10 a 12 minutos, sacudiendo a la mitad; si no están crocantes, seguí 2 a 3 minutos más.",
+   "Dejalos entibiar antes de servir."
+  ],
+  "consejo": "Sobre ensaladas reemplazan a los crutones.",
+  "etiquetas": [
+   "legumbres",
+   "snacks",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-10",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 120,
+   "proteinas": 6,
+   "grasas": 3,
+   "carbohidratos": 18
+  }
+ },
+ {
+  "slug": "a101-galletitas-de-avena-y-pasas",
+  "titulo": "Galletitas de avena y pasas",
+  "descripcion": "Galletitas de avena molida y harina integral, con pasas opcionales.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "avena molida",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "manteca",
+    "nota": "blanda",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "azúcar mascabo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "pasas de uva",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Mezclá la avena, la harina, el polvo de hornear, el bicarbonato y la sal.",
+   "Batí la manteca con el azúcar hasta que esté cremosa y sumá el huevo y la vainilla.",
+   "Uní con los secos y, si querés, agregá las pasas.",
+   "Armá bolitas de una cucharada y cocinalas separadas 8 a 10 minutos a 180 °C.",
+   "Dejalas enfriar sobre una rejilla."
+  ],
+  "consejo": "Salen blandas y se afirman al enfriar.",
+  "etiquetas": [
+   "galletitas",
+   "avena",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-11",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 100,
+   "proteinas": 2,
+   "grasas": 5,
+   "carbohidratos": 12
+  }
+ },
+ {
+  "slug": "a101-galletitas-saladas-de-verduras",
+  "titulo": "Galletitas saladas de verduras",
+  "descripcion": "Bocados de harina integral con zanahoria, zucchini, morrón y mozzarella.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "zucchini",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "cebolla",
+    "nota": "bien picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "morrón",
+    "nota": "rojo, bien picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "mozzarella",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la harina con el polvo de hornear, sal y pimienta, y sumá las verduras y el queso.",
+   "Batí el huevo con la leche y el aceite y unilo todo.",
+   "Armá bolitas de una cucharada y cocinalas separadas 10 a 12 minutos a 180 °C."
+  ],
+  "consejo": "Para la vianda de los chicos o una picada liviana.",
+  "etiquetas": [
+   "snacks",
+   "verduras",
+   "integral"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-12",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 100,
+   "proteinas": 3,
+   "grasas": 5,
+   "carbohidratos": 11
+  }
+ },
+ {
+  "slug": "a101-tostado-de-cheddar-y-manzana-verde",
+  "titulo": "Tostado de cheddar y manzana verde",
+  "descripcion": "Sándwich de queso fundido con láminas finas de manzana verde.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 8,
+    "unidad": "rodaja",
+    "nombre": "pan",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "queso cheddar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "manzana",
+    "nota": "verde, en láminas finas",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "manteca",
+    "nota": "blanda",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Untá con manteca una cara de cada rodaja de pan.",
+   "Del lado sin manteca, armá capas de queso, manzana y otra vez queso, y cerrá con la manteca hacia afuera.",
+   "Cociná 5 a 6 minutos, dando vuelta a la mitad."
+  ],
+  "consejo": "El dulce ácido de la manzana corta la grasa del queso.",
+  "etiquetas": [
+   "sándwiches",
+   "quesos",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-13",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 15,
+   "grasas": 20,
+   "carbohidratos": 30
+  }
+ },
+ {
+  "slug": "a101-palmeritas-de-hojaldre",
+  "titulo": "Palmeritas de hojaldre",
+  "descripcion": "Palmeritas de azúcar y canela, crocantes y caramelizadas.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 12,
+  "tiempo_coccion_min": 9,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "lámina",
+    "nombre": "masa de hojaldre",
+    "nota": "230 g",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "manteca",
+    "nota": "derretida, para pintar",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Pintá la masa con manteca y cubrila con el azúcar mezclado con la canela.",
+   "Doblá los dos lados largos hacia el centro y repetí una vez más, para que se encuentren en el medio.",
+   "Cortá rodajas de 1 cm y cocinalas separadas 8 a 10 minutos."
+  ],
+  "consejo": "Para el mate o el café.",
+  "etiquetas": [
+   "postres",
+   "masas",
+   "merienda"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-14",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 120,
+   "proteinas": 1,
+   "grasas": 7,
+   "carbohidratos": 14
+  }
+ },
+ {
+  "slug": "a101-panqueques-de-yogur",
+  "titulo": "Panqueques de yogur",
+  "descripcion": "Panqueques gruesos y esponjosos de yogur, sin dar vuelta.",
+  "categoria": "Desayunos y meriendas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "harina",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "polvo de hornear",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "bicarbonato de sodio",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal",
+    "nota": "una pizca",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "yogur natural",
+    "nota": "o griego",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "manteca",
+    "nota": "o aceite en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá la harina con el polvo de hornear, el bicarbonato y la sal.",
+   "Batí el huevo con el yogur, el azúcar y la vainilla y unilo a los secos sin batir de más.",
+   "Precalentá la freidora a 180 °C y engrasá un molde plano.",
+   "Volcá ¼ taza de mezcla por panqueque y cociná 4 a 5 minutos, sin darlos vuelta."
+  ],
+  "consejo": "Con miel, fruta o dulce de leche.",
+  "etiquetas": [
+   "desayuno",
+   "merienda",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-15",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 120,
+   "proteinas": 4,
+   "grasas": 3,
+   "carbohidratos": 19
+  }
+ },
+ {
+  "slug": "a101-bastones-de-calabaza-especiados",
+  "titulo": "Bastones de calabaza especiados",
+  "descripcion": "Calabaza en bastones con pimentón ahumado, ajo, comino y un toque de canela.",
+  "categoria": "Verduras y guarniciones",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 13,
+  "temperatura_c": 200,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 500,
+    "unidad": "g",
+    "nombre": "calabaza",
+    "nota": "en bastones finos",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "sal",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": "ahumado",
+    "opcional": true
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "comino",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Mezclá los bastones con el aceite y todas las especias.",
+   "Precalentá la freidora a 200 °C.",
+   "Cocinalos en una capa 12 a 15 minutos, girándolos a la mitad."
+  ],
+  "consejo": "Con un dip de yogur.",
+  "etiquetas": [
+   "verduras",
+   "guarniciones",
+   "vegano"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-16",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 120,
+   "proteinas": 5,
+   "grasas": 12,
+   "carbohidratos": 14
+  }
+ },
+ {
+  "slug": "a101-budin-de-coco",
+  "titulo": "Budín de coco",
+  "descripcion": "Crema de leche de coco con fécula, cocida en moldes y servida fría.",
+  "categoria": "Postres",
+  "tecnica": "freidora de aire",
+  "porciones": 6,
+  "tiempo_coccion_min": 18,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 400,
+    "unidad": "ml",
+    "nombre": "leche de coco",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 400,
+    "unidad": "ml",
+    "nombre": "leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "azúcar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "cucharada",
+    "nombre": "fécula de maíz",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "esencia de vainilla",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "coco rallado",
+    "nota": "para decorar",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Mezclá las dos leches con el azúcar hasta disolverlo.",
+   "Sumá la fécula y la vainilla y batí hasta que no queden grumos.",
+   "Repartilo en moldes aptos y cociná 15 a 20 minutos a 180 °C, hasta que esté firme.",
+   "Dejalo enfriar y después al menos 2 horas en la heladera; decorá con coco."
+  ],
+  "consejo": "Si lo espesás antes en una olla, queda más liso.",
+  "etiquetas": [
+   "postres",
+   "coco",
+   "sin huevo"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-17",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 250,
+   "proteinas": 3,
+   "grasas": 14,
+   "carbohidratos": 27
+  }
+ },
+ {
+  "slug": "a101-medialunitas-de-hojaldre-con-panceta",
+  "titulo": "Medialunitas de hojaldre con panceta",
+  "descripcion": "Triángulos de masa enrollados con una tira de panceta y cheddar opcional.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 8,
+  "tiempo_coccion_min": 11,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "lámina",
+    "nombre": "masa de hojaldre",
+    "nota": "cortada en 8 triángulos",
+    "opcional": false
+   },
+   {
+    "cantidad": 8,
+    "unidad": "tira",
+    "nombre": "panceta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "queso cheddar",
+    "nota": "rallado",
+    "opcional": true
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Poné una tira de panceta, y queso si querés, en la base ancha de cada triángulo.",
+   "Enrollalos hacia la punta.",
+   "Acomodalos separados, rocialos con aceite y cociná 10 a 12 minutos."
+  ],
+  "consejo": "Para un desayuno salado o una picada.",
+  "etiquetas": [
+   "masas",
+   "cerdo",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-18",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 180,
+   "proteinas": 5,
+   "grasas": 12,
+   "carbohidratos": 14
+  }
+ },
+ {
+  "slug": "a101-sandwich-de-berenjena-a-la-parmesana",
+  "titulo": "Sándwich de berenjena a la parmesana",
+  "descripcion": "Rodajas de berenjena empanadas, gratinadas con salsa y quesos.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 3,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 200,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": "grande",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "batido",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "pan rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "mozzarella",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": "parmesano",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 200 °C.",
+   "Cortá la berenjena en rodajas de 1 cm y salpimentala.",
+   "Pasalas por huevo y pan rallado y cocinalas en una capa 10 a 12 minutos, girándolas a la mitad.",
+   "Cubrilas con la salsa caliente y los quesos y gratiná 3 a 5 minutos más.",
+   "Armá sándwiches de a dos rodajas, o servilas así."
+  ],
+  "consejo": "Una forma de comer milanesa a la napolitana sin carne.",
+  "etiquetas": [
+   "verduras",
+   "vegetariano",
+   "italiana"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-19",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 320,
+   "proteinas": 15,
+   "grasas": 14,
+   "carbohidratos": 32
+  }
+ },
+ {
+  "slug": "a101-tostado-de-pavo-cheddar-y-espinaca",
+  "titulo": "Tostado de pavo, cheddar y espinaca",
+  "descripcion": "Sándwich integral de pavo con cheddar, tomate y espinaca.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 200,
+    "unidad": "g",
+    "nombre": "pavo",
+    "nota": "cocido, en fetas",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "feta",
+    "nombre": "queso cheddar",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "mayonesa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "mostaza",
+    "nota": null,
+    "opcional": true
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "fresca",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Untá el pan con mayonesa (y mostaza si querés) y poné una feta de queso en cada rodaja.",
+   "Sobre dos rodajas, sumá el pavo, el tomate y la espinaca, y cerrá con las otras.",
+   "Rocialos con aceite y cociná 5 a 7 minutos, dando vuelta a la mitad."
+  ],
+  "consejo": "Cortado en triángulos, para la vianda.",
+  "etiquetas": [
+   "sándwiches",
+   "proteico",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-20",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 25,
+   "grasas": 15,
+   "carbohidratos": 30
+  }
+ },
+ {
+  "slug": "a101-sandwich-de-verduras-grilladas-y-hummus",
+  "titulo": "Sándwich de verduras grilladas y hummus",
+  "descripcion": "Morrón, zucchini y berenjena asados, con hummus, tomate y lechuga.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 15,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "morrón",
+    "nota": "rojo, en tiras",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "zucchini",
+    "nota": "chico, en rodajas finas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "berenjena",
+    "nota": "chica, en rodajas finas",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "hoja",
+    "nombre": "lechuga",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "hummus",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Condimentá las verduras con el aceite, sal y pimienta y cocinalas 8 a 10 minutos, girándolas a la mitad.",
+   "Untá el pan con hummus y armá los sándwiches con las verduras, el tomate y la lechuga.",
+   "Doralos 5 a 7 minutos, dando vuelta a la mitad."
+  ],
+  "consejo": "Las verduras asadas se pueden hacer en cantidad y guardar en la heladera.",
+  "etiquetas": [
+   "sándwiches",
+   "vegano",
+   "verduras"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-21",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 280,
+   "proteinas": 8,
+   "grasas": 12,
+   "carbohidratos": 34
+  }
+ },
+ {
+  "slug": "a101-shawarma-de-pollo",
+  "titulo": "Shawarma de pollo",
+  "descripcion": "Tiras de pollo marinadas en yogur y especias, en pan pita con verduras.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 14,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": "en tiras",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "yogur griego",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picados",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "comino",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "cúrcuma",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "canela",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "pan árabe",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "unidad",
+    "nombre": "tomate",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "unidad",
+    "nombre": "cebolla",
+    "nota": "morada, en aros finos",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "lechuga",
+    "nota": "picada",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Mezclá el yogur con el aceite, el ajo y las especias, sumá el pollo y dejalo al menos 30 minutos en la heladera.",
+   "Cocinalo en una capa 12 a 15 minutos a 180 °C, girándolo a la mitad.",
+   "Calentá los panes 1 a 2 minutos.",
+   "Rellenalos con el pollo, el tomate, la cebolla y la lechuga."
+  ],
+  "consejo": "Con una salsa de tahini o de yogur con ajo.",
+  "etiquetas": [
+   "pollo",
+   "árabe",
+   "sándwiches"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-22",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 25,
+   "grasas": 12,
+   "carbohidratos": 35
+  }
+ },
+ {
+  "slug": "a101-capeletis-gratinados-con-jamon-crudo",
+  "titulo": "Capeletis gratinados con jamón crudo",
+  "descripcion": "Capeletis en salsa de crema y parmesano con jamón crudo, dorados en la canasta.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 250,
+    "unidad": "g",
+    "nombre": "fideos",
+    "nota": "capeletis o tortellini frescos",
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "jamón crudo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": "parmesano",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "crema de leche",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "manteca",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picados",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "aceite",
+    "nota": "en aerosol",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Herví la pasta según el paquete y escurrila.",
+   "En una sartén, derretí la manteca con el ajo, sumá la crema y, cuando espese, el queso.",
+   "Mezclá la pasta con la salsa y el jamón crudo en tiras.",
+   "Pasala a una fuente aceitada y dorala 5 a 7 minutos a 180 °C."
+  ],
+  "consejo": "La parte de arriba queda crocante y abajo sigue cremosa.",
+  "etiquetas": [
+   "pastas",
+   "italiana",
+   "quesos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-23",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 18,
+   "grasas": 22,
+   "carbohidratos": 22
+  }
+ },
+ {
+  "slug": "a101-triangulos-de-pan-arabe-tostados",
+  "titulo": "Triángulos de pan árabe tostados",
+  "descripcion": "Pan pita en triángulos con aceite, ajo y pimentón, para dips.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 5,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pan árabe",
+    "nota": "mejor integral",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": "ahumado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Mezclá el aceite con las especias.",
+   "Cortá cada pan en 8 triángulos y pincelalos de los dos lados.",
+   "Cocinalos en una capa 4 a 5 minutos, girándolos a la mitad."
+  ],
+  "consejo": "Con hummus, babaganoush o el dip de choclo.",
+  "etiquetas": [
+   "snacks",
+   "árabe",
+   "picadas"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-24",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 120,
+   "proteinas": 3,
+   "grasas": 6,
+   "carbohidratos": 15
+  }
+ },
+ {
+  "slug": "a101-tostado-de-atun-gratinado",
+  "titulo": "Tostado de atún gratinado",
+  "descripcion": "Sándwich de ensalada de atún con apio y cheddar fundido.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "rodaja",
+    "nombre": "pan integral",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "lata",
+    "nombre": "atún al natural",
+    "nota": "escurrido",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "mayonesa",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "cebolla",
+    "nota": "morada, bien picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "apio",
+    "nota": "bien picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "cucharadita",
+    "nombre": "mostaza",
+    "nota": "de Dijon",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "queso cheddar",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "manteca",
+    "nota": "blanda",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Mezclá el atún con la mayonesa, la cebolla, el apio, la mostaza, sal y pimienta.",
+   "Untá el pan con manteca de un lado; del otro, repartí el atún y el queso y cerrá con la manteca hacia afuera.",
+   "Cociná 5 a 6 minutos, dando vuelta a la mitad."
+  ],
+  "consejo": "Un clásico de bar estadounidense, con ingredientes que hay en cualquier almacén.",
+  "etiquetas": [
+   "sándwiches",
+   "pescados",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-25",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 380,
+   "proteinas": 25,
+   "grasas": 20,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-wraps-de-pollo-crocante-estilo-cesar",
+  "titulo": "Wraps de pollo crocante estilo César",
+  "descripcion": "Tiras de pollo empanadas con parmesano, envueltas con lechuga y aderezo César.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 13,
+  "temperatura_c": 200,
+  "dificultad": "media",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "pechuga de pollo",
+    "nota": "en tiras",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "pan rallado",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.75,
+    "unidad": "taza",
+    "nombre": "queso rallado",
+    "nota": "parmesano",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "ajo en polvo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharadita",
+    "nombre": "pimentón",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "huevo",
+    "nota": "batidos",
+    "opcional": false
+   },
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "tortillas de trigo",
+    "nota": "integrales, grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "taza",
+    "nombre": "lechuga",
+    "nota": "romana, picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "mayonesa",
+    "nota": "o aderezo César",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 200 °C.",
+   "Mezclá el pan rallado con la mitad del queso y las especias.",
+   "Pasá el pollo por huevo y por la mezcla y cocinalo en una capa 12 a 15 minutos, girándolo a la mitad.",
+   "Calentá las tortillas, poné lechuga, pollo, aderezo y el resto del queso, y enrollalas."
+  ],
+  "consejo": "Cortados al medio en diagonal se ven mejor.",
+  "etiquetas": [
+   "pollo",
+   "sándwiches",
+   "empanados"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-26",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 450,
+   "proteinas": 30,
+   "grasas": 20,
+   "carbohidratos": 35
+  }
+ },
+ {
+  "slug": "a101-wraps-de-carne-y-cheddar",
+  "titulo": "Wraps de carne y cheddar",
+  "descripcion": "Tortillas con carne desmenuzada, cheddar y verduras frescas, apenas doradas.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 4,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tortillas de trigo",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "carne vacuna",
+    "nota": "cocida y desmenuzada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso cheddar",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "lechuga",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "tomate",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "cebolla",
+    "nota": "morada, en aros",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "mayonesa",
+    "nota": "o salsa ranch",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Condimentá la carne con el aceite, sal y pimienta.",
+   "Repartí la carne, el queso, las verduras y la salsa en el centro de las tortillas y enrollalas cerrando las puntas.",
+   "Doralas 3 a 5 minutos."
+  ],
+  "consejo": "Buen destino para la carne del puchero o del asado.",
+  "etiquetas": [
+   "carnes",
+   "aprovechamiento",
+   "sándwiches"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-27",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 400,
+   "proteinas": 28,
+   "grasas": 22,
+   "carbohidratos": 25
+  }
+ },
+ {
+  "slug": "a101-wraps-de-espinaca-y-mozzarella",
+  "titulo": "Wraps de espinaca y mozzarella",
+  "descripcion": "Espinaca salteada con cebolla y ajo, mozzarella y crema, en tortilla crocante.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tortillas de trigo",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "espinaca",
+    "nota": "fresca",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "mozzarella",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "cebolla",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "diente",
+    "nombre": "ajo",
+    "nota": "picado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "crema de leche",
+    "nota": "o crema agria",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "cucharada",
+    "nombre": "aceite de oliva",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": null,
+    "unidad": null,
+    "nombre": "sal y pimienta",
+    "nota": null,
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Dorá la cebolla y el ajo en el aceite, sumá la espinaca hasta que se achique y salpimentá.",
+   "Repartila en las tortillas con la mozzarella y la crema y enrollalas.",
+   "Cocinalas 5 a 7 minutos a 180 °C."
+  ],
+  "consejo": "Con un huevo revuelto adentro sirven de desayuno.",
+  "etiquetas": [
+   "vegetariano",
+   "sándwiches",
+   "rápida"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-28",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 15,
+   "grasas": 18,
+   "carbohidratos": 30
+  }
+ },
+ {
+  "slug": "a101-wraps-de-salame-a-la-pizza",
+  "titulo": "Wraps de salame a la pizza",
+  "descripcion": "Tortillas dobladas con salsa de pizza, salame y mozzarella.",
+  "categoria": "Snacks y picadas",
+  "tecnica": "freidora de aire",
+  "porciones": 4,
+  "tiempo_coccion_min": 6,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 4,
+    "unidad": "unidad",
+    "nombre": "tortillas de trigo",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 100,
+    "unidad": "g",
+    "nombre": "salame",
+    "nota": "en rodajas",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "mozzarella",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "salsa de tomate",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "aceitunas",
+    "nota": "negras, en rodajas",
+    "opcional": true
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "champiñones",
+    "nota": "en láminas",
+    "opcional": true
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Untá cada tortilla con salsa y, en una mitad, poné el salame, el queso y lo que quieras sumar.",
+   "Doblala al medio y cociná 5 a 7 minutos, hasta que estén crocantes."
+  ],
+  "consejo": "Cortados en triángulos son una picada rápida.",
+  "etiquetas": [
+   "pizza",
+   "picadas",
+   "chicos"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-29",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 320,
+   "proteinas": 14,
+   "grasas": 18,
+   "carbohidratos": 24
+  }
+ },
+ {
+  "slug": "a101-wraps-de-pollo-picante-con-queso-azul",
+  "titulo": "Wraps de pollo picante con queso azul",
+  "descripcion": "Pollo desmenuzado con salsa picante, queso azul y verduras crocantes.",
+  "categoria": "Almuerzos rápidos",
+  "tecnica": "freidora de aire",
+  "porciones": 2,
+  "tiempo_coccion_min": 4,
+  "temperatura_c": 180,
+  "dificultad": "fácil",
+  "ingredientes": [
+   {
+    "cantidad": 2,
+    "unidad": "unidad",
+    "nombre": "tortillas de trigo",
+    "nota": "grandes",
+    "opcional": false
+   },
+   {
+    "cantidad": 1,
+    "unidad": "taza",
+    "nombre": "pollo",
+    "nota": "cocido y desmenuzado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "salsa picante",
+    "nota": null,
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "queso azul",
+    "nota": "desmenuzado",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.5,
+    "unidad": "taza",
+    "nombre": "lechuga",
+    "nota": "picada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "zanahoria",
+    "nota": "rallada",
+    "opcional": false
+   },
+   {
+    "cantidad": 0.25,
+    "unidad": "taza",
+    "nombre": "apio",
+    "nota": "rallado",
+    "opcional": false
+   },
+   {
+    "cantidad": 2,
+    "unidad": "cucharada",
+    "nombre": "yogur griego",
+    "nota": "o crema agria",
+    "opcional": false
+   }
+  ],
+  "pasos": [
+   "Precalentá la freidora a 180 °C.",
+   "Mezclá el pollo con la salsa picante.",
+   "Repartilo en las tortillas con el queso, las verduras y el yogur y enrollalas cerrando las puntas.",
+   "Doralas 3 a 5 minutos."
+  ],
+  "consejo": "El yogur y el queso azul calman el picante.",
+  "etiquetas": [
+   "pollo",
+   "picante",
+   "sándwiches"
+  ],
+  "origen": "recetario",
+  "origen_ref": "a101-ap2-30",
+  "fuente_visible": "Adaptada de: Air Fryer 101 · Sabores sin culpa (Aperitivos #2)",
+  "nutricion": {
+   "kcal": 350,
+   "proteinas": 25,
+   "grasas": 18,
+   "carbohidratos": 22
+  }
+ }
+]
