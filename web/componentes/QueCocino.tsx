@@ -7,7 +7,7 @@ import Ilustracion from "@/componentes/Ilustracion";
 import { tipoPlato } from "@/lib/tipoPlato";
 import Cargando from "@/componentes/Cargando";
 import { FRASES_BUSQUEDA } from "@/lib/frases";
-import { minutosTexto, normalizar } from "@/lib/texto";
+import { minutosTexto, normalizar, slugCategoria } from "@/lib/texto";
 import type { Coincidencia, Ingrediente } from "@/lib/tipos";
 
 const CLAVE_LOCAL = "olleando.despensa";
@@ -58,9 +58,20 @@ export default function QueCocino({ ingredientes, categorias, inicial, demo, con
     const q = normalizar(texto);
     if (!q) return [];
     const ya = new Set(elegidos);
+    // Primero lo que coincide exacto con el nombre, después el nombre que empieza igual,
+    // después un sinónimo que empieza igual y al final lo que solo lo contiene.
+    // Así "harina" sugiere harina antes que "fécula de mandioca" (sinónimo: harina de mandioca).
+    const puntaje = (i: (typeof indice)[number]) => {
+      const nombre = normalizar(i.nombre);
+      if (nombre === q) return 0;
+      if (i.claves.includes(q)) return 1;
+      if (nombre.startsWith(q)) return 2;
+      if (i.claves.some((c) => c.startsWith(q))) return 3;
+      return 4;
+    };
     return indice
       .filter((i) => !ya.has(i.nombre) && i.claves.some((c) => c.includes(q)))
-      .sort((a, b) => Number(!a.claves.some((c) => c.startsWith(q))) - Number(!b.claves.some((c) => c.startsWith(q))) || a.nombre.localeCompare(b.nombre, "es"))
+      .sort((a, b) => puntaje(a) - puntaje(b) || a.nombre.length - b.nombre.length || a.nombre.localeCompare(b.nombre, "es"))
       .slice(0, 8);
   }, [texto, indice, elegidos]);
 
@@ -212,18 +223,25 @@ export default function QueCocino({ ingredientes, categorias, inicial, demo, con
               <option value="45">Hasta 45 min</option>
             </select>
           </div>
-          <div style={{ flex: "1 1 200px" }}>
-            <label htmlFor="categoria">Tipo de receta</label>
-            <select id="categoria" className="campo" value={categoria} onChange={(e) => setCategoria(e.target.value)}>
-              <option value="">Todas</option>
-              {categorias.map((c) => (
-                <option key={c} value={c}>
-                  {c}
-                </option>
-              ))}
-            </select>
-          </div>
         </div>
+        <fieldset className="selector-categorias">
+          <legend>Tipo de receta</legend>
+          <div className="categorias" role="radiogroup" aria-label="Tipo de receta">
+            {[{ valor: "", nombre: "Todas", foto: "/platos/general.webp" }, ...categorias.map((c) => ({ valor: c, nombre: c, foto: `/categorias/${slugCategoria(c)}.webp` }))].map((o) => (
+              <button
+                key={o.nombre}
+                type="button"
+                role="radio"
+                aria-checked={categoria === o.valor}
+                onClick={() => setCategoria(o.valor)}
+              >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={o.foto} alt="" width={720} height={480} loading="lazy" />
+                <span>{o.nombre}</span>
+              </button>
+            ))}
+          </div>
+        </fieldset>
         <div className="fila">
           <button type="button" className="boton" onClick={buscar} disabled={sinElegidos || buscando}>
             {buscando ? "Buscando…" : "Ver qué puedo cocinar"}
