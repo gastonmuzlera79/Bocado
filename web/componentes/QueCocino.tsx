@@ -5,6 +5,7 @@ import { useEffect, useMemo, useRef, useState, useTransition } from "react";
 import { buscarConDespensa, guardarDespensa } from "@/app/acciones";
 import Ilustracion from "@/componentes/Ilustracion";
 import { fotoPlato } from "@/lib/tipoPlato";
+import { conBase } from "@/lib/rutas";
 import Cargando from "@/componentes/Cargando";
 import { FRASES_BUSQUEDA } from "@/lib/frases";
 import { minutosTexto, normalizar, slugCategoria } from "@/lib/texto";
@@ -235,7 +236,7 @@ export default function QueCocino({ ingredientes, categorias, inicial, demo, con
         <fieldset className="selector-categorias">
           <legend>Tipo de receta</legend>
           <div className="categorias" role="radiogroup" aria-label="Tipo de receta">
-            {[{ valor: "", nombre: "Todas", foto: "/platos/general.webp" }, ...categorias.map((c) => ({ valor: c, nombre: c, foto: `/categorias/${slugCategoria(c)}.webp` }))].map((o) => (
+            {[{ valor: "", nombre: "Todas", foto: conBase("/platos/general.webp") }, ...categorias.map((c) => ({ valor: c, nombre: c, foto: conBase(`/categorias/${slugCategoria(c)}.webp`) }))].map((o) => (
               <button
                 key={o.nombre}
                 type="button"

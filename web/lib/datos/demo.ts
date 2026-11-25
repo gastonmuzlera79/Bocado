@@ -76,6 +76,11 @@ export function buscarRecetas(texto: string, categoria: string | null, pagina: n
   return { recetas: lista.slice(desde, desde + POR_PAGINA).map(resumen), total: lista.length };
 }
 
+/** Slugs de todas las recetas (para generar las fichas en la versión estática). */
+export function slugs(): string[] {
+  return recetas.map((r) => r.slug);
+}
+
 export function obtenerReceta(slug: string): Receta | null {
   const r = recetas.find((x) => x.slug === slug);
   if (!r) return null;

@@ -1,3 +1,4 @@
+import { conBase } from "@/lib/rutas";
 import QueCocino from "@/componentes/QueCocino";
 import { modoDemo } from "@/lib/config";
 import { categorias, listarIngredientes } from "@/lib/datos";
@@ -32,7 +33,7 @@ export default async function Inicio() {
           </p>
         </div>
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/platos/general.webp" alt="" width={960} height={640} fetchPriority="high" />
+        <img src={conBase("/platos/general.webp")} alt="" width={960} height={640} fetchPriority="high" />
       </section>
       <QueCocino
         ingredientes={ingredientes}

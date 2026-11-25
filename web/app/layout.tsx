@@ -5,6 +5,7 @@ import { salir } from "@/app/acciones";
 import { modoDemo } from "@/lib/config";
 import Isotipo from "@/componentes/Isotipo";
 import { LEMA } from "@/lib/frases";
+import { estatico } from "@/lib/rutas";
 import { esEquipo, sesionActual } from "@/lib/sesion";
 import "./globals.css";
 
@@ -34,13 +35,13 @@ export default async function Plantilla({ children }: { children: React.ReactNod
             <nav className="nav" aria-label="Principal">
               <Link href="/">¿Qué cocino?</Link>
               <Link href="/recetas">Recetas</Link>
-              {(modoDemo || esEquipo(sesion)) && <Link href="/admin">Panel</Link>}
+              {((modoDemo && !estatico) || esEquipo(sesion)) && <Link href="/admin">Panel</Link>}
               {sesion ? (
                 <form action={salir}>
                   <button type="submit">Salir ({sesion.nombre})</button>
                 </form>
               ) : (
-                !modoDemo && <Link href="/ingresar">Ingresar</Link>
+                !modoDemo && !estatico && <Link href="/ingresar">Ingresar</Link>
               )}
             </nav>
           </div>
@@ -48,8 +49,9 @@ export default async function Plantilla({ children }: { children: React.ReactNod
         {modoDemo && (
           <div className="aviso-demo">
             <p className="contenedor">
-              Versión de prueba: muestra el recetario base y guarda tu despensa solo en este navegador. Las cuentas,
-              comentarios y el panel real se activan al conectar la base.
+              {estatico
+                ? "Versión de prueba: muestra el recetario base y guarda tu despensa solo en este navegador."
+                : "Versión de prueba: muestra el recetario base y guarda tu despensa solo en este navegador. Las cuentas, comentarios y el panel real se activan al conectar la base."}
             </p>
           </div>
         )}
