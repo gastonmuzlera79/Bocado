@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { obtenerReceta } from "@/lib/datos";
 import Ilustracion from "@/componentes/Ilustracion";
 import { minutosTexto } from "@/lib/texto";
-import { NOMBRE_TIPO, tipoPlato } from "@/lib/tipoPlato";
+import { fotoPlato, NOMBRE_TIPO, tipoPlato } from "@/lib/tipoPlato";
 
 export const dynamic = "force-dynamic";
 
@@ -50,7 +50,7 @@ export default async function FichaReceta({ params }: { params: Params }) {
           ))}
         </p>
         <figure className="ficha-img">
-          <Ilustracion tipo={tipoPlato(r)} />
+          <Ilustracion src={fotoPlato(r)} />
           <figcaption>Imagen ilustrativa ({NOMBRE_TIPO[tipoPlato(r)].toLowerCase()}), no es una foto de esta receta</figcaption>
         </figure>
       </header>

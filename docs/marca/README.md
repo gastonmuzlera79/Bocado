@@ -32,6 +32,8 @@ Cada tipo de plato tiene una foto en `web/public/platos/<tipo>.webp` (960 × 640
 
 Para sumar un tipo nuevo, generar la foto con la misma consigna y guardarla con el nombre del tipo.
 
+Los tipos con muchas recetas tienen además variantes (`<tipo>-<variante>.webp`): por ejemplo, `tortas-muffins` o `pollo-pechugas`. Cada receta usa la variante que coincide con su título (ver `fotoPlato` en `web/lib/tipoPlato.ts`), así el listado no repite siempre la misma foto. Las 9 fotos de las categorías están en `web/public/categorias/`.
+
 ## Regenerar
 
 `generar.py` arma los SVG. Necesita `pip install fonttools brotli` y los archivos `Fraunces_opsz_wght_72_700.woff2` e `Inter_wght_600.woff2` (Google Fonts) en una carpeta `fuentes/` junto al script:
