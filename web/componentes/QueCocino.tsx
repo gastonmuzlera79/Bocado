@@ -12,6 +12,7 @@ import type { Coincidencia, Ingrediente } from "@/lib/tipos";
 
 const CLAVE_LOCAL = "olleando.despensa";
 const RAPIDOS = ["huevo", "papa", "cebolla", "tomate", "pollo", "queso rallado", "arroz", "zanahoria", "harina", "leche"];
+const COMUNES = new Set(RAPIDOS);
 
 type Props = {
   ingredientes: Ingrediente[];
@@ -71,7 +72,14 @@ export default function QueCocino({ ingredientes, categorias, inicial, demo, con
     };
     return indice
       .filter((i) => !ya.has(i.nombre) && i.claves.some((c) => c.includes(q)))
-      .sort((a, b) => puntaje(a) - puntaje(b) || a.nombre.length - b.nombre.length || a.nombre.localeCompare(b.nombre, "es"))
+      // A igual puntaje, van primero los ingredientes de todos los días (por ejemplo, "queso" sugiere "queso rallado").
+      .sort(
+        (a, b) =>
+          puntaje(a) - puntaje(b) ||
+          Number(!COMUNES.has(a.nombre)) - Number(!COMUNES.has(b.nombre)) ||
+          a.nombre.length - b.nombre.length ||
+          a.nombre.localeCompare(b.nombre, "es"),
+      )
       .slice(0, 8);
   }, [texto, indice, elegidos]);
 
